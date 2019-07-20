@@ -1,0 +1,1 @@
+catan author-ross-anderson python think game supports license usage files file-format

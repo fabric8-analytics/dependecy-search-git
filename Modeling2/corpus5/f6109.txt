@@ -1,0 +1,1 @@
+django-transaction-sign django transact signal commit committed-django function defer-funct kwarg handler non gist py digit call func post rollback exampl follow

@@ -1,0 +1,1 @@
+tashaphyn affix word stem arabic-light-stemm featur affixes-list dot test doc code set sentiment usag document sourceforg

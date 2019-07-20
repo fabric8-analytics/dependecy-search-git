@@ -1,0 +1,1 @@
+pinax-docu document manag app django document-manag documentation-instal folder managers-templ view pr user hookset-methods-settings-templ class supported-django url add project hookset support contribut bootstrap method creat compat fix remov free human requir delet success licens set avail return bytes-display source-platform instal remain python form refer

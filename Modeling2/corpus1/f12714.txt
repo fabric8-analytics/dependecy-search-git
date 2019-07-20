@@ -1,0 +1,1 @@
+flask-social-blueprint flask social oauth authentication provided providers provider providing examples example create flask-social-blueprint login models model url urls requires required requirements google code oauth-based client setup frame limitations image-demo app apps new demos gae like need needed needs

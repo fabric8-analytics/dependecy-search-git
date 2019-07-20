@@ -1,0 +1,1 @@
+rtmidi-python way binaries make pythonic cross-platform mac-os tuple parameter cython-source-make license licensed usage-examples mit

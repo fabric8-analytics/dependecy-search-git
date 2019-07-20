@@ -1,0 +1,1 @@
+django-dbtempl templat django admin alt target

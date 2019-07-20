@@ -1,0 +1,1 @@
+pgwrap cursor sql psycopg connect python db queri method basic provid pgwrap-simple-postgresql module-provid object version v

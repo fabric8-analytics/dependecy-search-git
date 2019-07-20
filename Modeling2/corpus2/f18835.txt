@@ -1,0 +1,1 @@
+rpi-ws281x spi leds led pi controlling controlled controllable control gpio gpios use uses pcm-controller-channel wsx pwm-independent-channels support supporting limited limitations limits output-pin rgb dma audio frequency colors color strip-type new fix line program generally general filesystem config driver warning requirements requires

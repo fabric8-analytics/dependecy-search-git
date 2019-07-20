@@ -1,0 +1,1 @@
+nxpy tool tools python related version file files utilities management managers packages objects object build option-sets visual-studio scons

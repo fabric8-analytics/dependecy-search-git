@@ -1,0 +1,1 @@
+django-webpack django compressor tool bundl css js file singl webpack updat html respect path pip packag instal compress follow run-npm entri py depend micropyramid git separ

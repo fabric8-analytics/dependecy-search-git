@@ -1,0 +1,1 @@
+django-tastypie-swagger adapter use swagger ui django tastypie swagger documentation v version installation install instal license concentric-sky adapter technology concentricsky oregon application resource resource contributors-license md swagger

@@ -1,0 +1,1 @@
+psycopg2-managed-connect code-python transact transact test postgresql development-test psycopg-managed-connect open open underli develop manag

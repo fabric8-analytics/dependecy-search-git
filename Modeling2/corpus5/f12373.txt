@@ -1,0 +1,1 @@
+pgi test tests-cairocffi pygobject doc support cffi bind gobject search-path

@@ -1,0 +1,1 @@
+flask-peewee models provides provide installing image rest restful admin recommend

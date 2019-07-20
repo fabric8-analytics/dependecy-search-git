@@ -1,0 +1,1 @@
+django-role-permissions django app role based permissions roles python license contact-vinta-com open-source supports support supported c

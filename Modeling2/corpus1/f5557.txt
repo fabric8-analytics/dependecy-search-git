@@ -1,0 +1,1 @@
+jsanimation jsanimation-note implements package entirely-self-contained animations animation html embedded data browser browsers

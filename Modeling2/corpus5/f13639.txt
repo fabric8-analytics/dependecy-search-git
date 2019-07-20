@@ -1,0 +1,1 @@
+django-graphiql django graphiql graphql graphen core instal insid code py

@@ -1,0 +1,1 @@
+vsgen visual studio project generation fixes-fixed python files file features projects project generates generate generation pattern patterns scale commands command vsgen studio dev use module plugin image-alt added

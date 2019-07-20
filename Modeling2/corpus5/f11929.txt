@@ -1,0 +1,1 @@
+pyrsist collect python field collection-typ type code invari fixed-field function invariant-check invariance-check updat structur new class immut git tupl check record common version issues-tox serial precord contain current master return checkedpvector liter add pvector-similar pset str pvector pr pmap multipl

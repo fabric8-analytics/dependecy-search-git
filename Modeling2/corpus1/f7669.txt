@@ -1,0 +1,1 @@
+pelican-alias pelican blog pelican-alias url urls post html pages page date path meta example file license-mit-installation-simply-run-usage-add pelican-alias post

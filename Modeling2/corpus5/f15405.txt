@@ -1,0 +1,1 @@
+django-object-tool django app enabl painless creation addit admin object tool permiss user exampl compat delet images-exampl python imag set class correct correctli behav details-lik code directory-nam url png method creat deprec templatetag label add praekelt templat

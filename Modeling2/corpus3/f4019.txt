@@ -1,0 +1,1 @@
+pql locate pql foo type type location-geowithin query b-c python-query schema operator validates add syntax example parser polygon geometry follow

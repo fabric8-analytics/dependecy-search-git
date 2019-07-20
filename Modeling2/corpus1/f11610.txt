@@ -1,0 +1,1 @@
+django-suit-locale translations translation translate translated localize django-suit-locale translators-es localization-process code-block-bash duplicates files

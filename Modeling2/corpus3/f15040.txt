@@ -1,0 +1,1 @@
+cmsplugin-zinnia django blog weblog zinnia cm plugins apphook plugin entry cmsplugin-zinnia compatibility provides-plugins fix-better settings-entry menu django-cms default url url template template custom-html set render provide provide model model v initialize initial

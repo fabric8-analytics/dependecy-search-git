@@ -1,0 +1,1 @@
+django-flashpolicies application-provides-management following-url

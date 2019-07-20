@@ -1,0 +1,1 @@
+pyexif exif imag metadata photo keyword-manipul tag date keywords-compression-flash standard-tag function python-modul

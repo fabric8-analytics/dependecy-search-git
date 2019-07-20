@@ -1,0 +1,1 @@
+pysam pysam python module reading manipulate sam bam vcf bcf file lightweight wrapper htslib c api one power samtools bcftools tabix conda python pysam-build-status-docs bam channel install installation samtools efficiently-large non option level genomic module htslib access line file file provide support

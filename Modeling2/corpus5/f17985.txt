@@ -1,0 +1,1 @@
+htmresearch-cor numenta experiment c research code pleas see htmresearch detail nupic build core

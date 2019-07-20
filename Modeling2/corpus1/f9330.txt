@@ -1,0 +1,1 @@
+pyuca collators license collator-version level python-unicode-collation-algorithm versions non letters letter example contraction weighting strings sorting sort sorted

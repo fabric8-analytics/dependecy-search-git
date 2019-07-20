@@ -1,0 +1,1 @@
+flask-sphinx-themes sphinx themes pallets projects theme documentation flask default pygments-style logo icon sidebar make

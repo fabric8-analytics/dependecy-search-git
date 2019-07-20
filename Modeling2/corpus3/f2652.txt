@@ -1,0 +1,1 @@
+pytest-allure-adaptor test test allure-pytest def code alt step step severity severity environment class report country host assert story story case case status bar automatically target

@@ -1,0 +1,1 @@
+pygal-maps-fr svg chart graph maps french

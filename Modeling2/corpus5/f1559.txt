@@ -1,0 +1,1 @@
+django-url-method provid variou method work url use django trust html model django-url

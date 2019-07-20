@@ -1,0 +1,1 @@
+django-admin-bootstrapped django admin theme using twitter bootstrap need kind modification side add installed apps message messages bootstrapped bootstrap image installed installation add custom settings

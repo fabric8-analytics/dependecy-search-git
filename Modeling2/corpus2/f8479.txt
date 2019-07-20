@@ -1,0 +1,1 @@
+compare-locales locales localizations local strings project like use commandline positives configuration configure errors

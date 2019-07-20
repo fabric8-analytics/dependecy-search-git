@@ -1,0 +1,1 @@
+apns-clerk apns push notification apple messaging ios v certificates certificate apns python pythonic support handshaking ssl-handshake library-openssl pushes push thanks different differs standard deprecation long worker enhanced decisions decision non-ascii simplifies-deployment

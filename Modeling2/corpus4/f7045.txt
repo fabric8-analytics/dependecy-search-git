@@ -1,0 +1,1 @@
+python-qt-bind classifier-develop license-bsd develop provides-python dirk maintain provid gener

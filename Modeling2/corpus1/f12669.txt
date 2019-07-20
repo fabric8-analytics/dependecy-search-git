@@ -1,0 +1,1 @@
+docrepr generate rich representations docstrings renders docstrings docstring ipython developed carlos renders-python-docstrings

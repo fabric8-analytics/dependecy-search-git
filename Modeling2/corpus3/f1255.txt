@@ -1,0 +1,1 @@
+bless terminal sequence tty curse ncurses format style color console keyboard ansi xterm terminal like target support support bless alt provide provide code python-coding file file curses-providing safely safe license upstream linux suggestion j act wrapper bug bug tparm ansi string string build position piped pipe avoids key

@@ -1,0 +1,1 @@
+django-fsu accepts function functions url urls formats-codes code-block prompt format

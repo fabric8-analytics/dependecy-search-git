@@ -1,0 +1,1 @@
+nlpnet c network network fonseca mingw language code script script hlt tokenizer tokenized token tokenization joint refer reference alt numpy cython tag model dependencies-requires-nltk training-new trained-models dependency setuptools text

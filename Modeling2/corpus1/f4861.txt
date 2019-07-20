@@ -1,0 +1,1 @@
+pyhs2 issues handling new client implementation including pyhs new requests tab

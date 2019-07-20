@@ -1,0 +1,1 @@
+django-tinymce4-lite django wysiwyg editor widget tinymce django-tinymce-lite forms form python install installed image images available file add license django-tinymce fixes fixed upgraded widgets editor-widget configure configuration initialization initial admin code codes language languages support compatibility-python inline adds text added implemented-correct

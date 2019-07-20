@@ -1,0 +1,1 @@
+django-instapush devic model model set ye device-data-document send-gcm apn send valu django-instapush-push-notif notif object document method method com feedback api mongoengin django-instapush devic devic

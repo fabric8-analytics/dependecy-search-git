@@ -1,0 +1,1 @@
+vyper pythonic smart contract language evm ethereum vyper inline forbidding forbid use compiler compiling compile e function security secure code add limit-attacks things issues issue fixed-point limits marked prior auditability called calling calls class requires required overloading language contract contracts goals goal maximally-human-readable conditions syntax

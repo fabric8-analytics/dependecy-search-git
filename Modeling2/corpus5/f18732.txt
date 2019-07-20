@@ -1,0 +1,1 @@
+pyfftw python wrapper around fftw instal build python-packag fft-librari read librari work variabl export doubl environmental-vari interfac pypi c issu code unittest amd pretti use window cython place scipi dyld multithread test multithreaded-mod test-driven encourage-potenti page path version doc fft libfftw-dll file arbitrari dft real

@@ -1,0 +1,1 @@
+kinto-elasticsearch index query kinto record via elasticsearch kinto elasticsearch index elasticsearch code-block instal indexed-data-install index json querystring search run run bug-fixes-fix indexation elasticsearch index-mapping indexed-data-install instal ref code-block add record record json search index mapping create create collection collection return return run run

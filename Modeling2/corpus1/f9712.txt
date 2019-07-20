@@ -1,0 +1,1 @@
+marshmallow-jsonapi json api https jsonapi org formatting marshmallow json api serialization validation deserialization marshmallow rest api flask marshmallow jsonapi marshmallow marshalling serialization jsonapi deserialization validation python marshmallow-jsonapi-alt-pypi json-api

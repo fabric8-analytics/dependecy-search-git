@@ -1,0 +1,1 @@
+flask-dbmigr flask schema manag command simpl

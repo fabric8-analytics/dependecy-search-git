@@ -1,0 +1,1 @@
+srp protocol-srp common-challenge-response-autentication-protocol authent authent authent connect

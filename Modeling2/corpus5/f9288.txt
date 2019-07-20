@@ -1,0 +1,1 @@
+pybind11 seamless oper c python pybind function bind lambda-funct function-object type compil refer featur custom-data librari templat core compile-tim like-internal-refer arcane-templ gcc instance-method extens e k depend base situat project header object newer licens implement agnost main versa-mainli binari extra self-contained-vers captur c-type larg self-contain code

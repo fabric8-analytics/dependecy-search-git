@@ -1,0 +1,1 @@
+djangocms-inherit deprecated project longer maintained see readme information run divio installation installed plugin plugins inherit requires

@@ -1,0 +1,1 @@
+django-pagseguro para o os capturando em global signal pagamento exemplo log que com py-configur cada projeto

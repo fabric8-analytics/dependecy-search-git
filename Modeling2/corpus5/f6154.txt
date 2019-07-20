@@ -1,0 +1,1 @@
+azure-mgmt-cosmosdb manag add microsoft-azur features-added-oper bugfix list enum model db-management-cli packag support-bugfix-fix databas chang paramet argument breaking-chang complet updat delet vnet servic code mgmt new

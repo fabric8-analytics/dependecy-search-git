@@ -1,0 +1,1 @@
+django-database-email-backend emails django-database-email-backend simple

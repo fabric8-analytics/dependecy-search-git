@@ -1,0 +1,1 @@
+attrdict key key-value access attrdict attrdicts attributes-attribute-access sequence sequence object mapping-objects creating-accessing mapping recursively recursive class class version version string globally value dictionary dictionary license license create basic

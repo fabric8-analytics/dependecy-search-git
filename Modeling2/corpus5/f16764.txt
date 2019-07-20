@@ -1,0 +1,1 @@
+qrtool qr code qrtools-introduct default-way

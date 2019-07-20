@@ -1,0 +1,1 @@
+uwsgidecorators-fallback uwsgi api python decor fallback run outsid uwsgi uwsgi outsid uwsgi synchron import-error error

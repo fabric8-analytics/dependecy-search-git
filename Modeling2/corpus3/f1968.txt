@@ -1,0 +1,1 @@
+sphinxcontrib-paverutils sphinx documentation default default file cog cog task task line py-file include include include include html-output option option python command-line interpreter call false template template release builder use us virtualenvwrapper sphinx supports-calling external doctrees multiple-configurations configuration command module support

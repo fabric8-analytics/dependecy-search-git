@@ -1,0 +1,1 @@
+attrs-sqlalchemy add dunder method sqlalchemy model attrs sqlalchemy mymodel assert code-block installation install class legacy status mymodel sqlalchemy assert class text

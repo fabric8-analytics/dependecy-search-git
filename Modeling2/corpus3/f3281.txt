@@ -1,0 +1,1 @@
+fortiosapi python library aim use configuration management system use fortigate fortios device rest api fortinet fortigate fortios rest api api fortiosapi file vdom configure configuration method test test license license action config virsh login check checked including-multiple plugins-maintained fortinet-ansible

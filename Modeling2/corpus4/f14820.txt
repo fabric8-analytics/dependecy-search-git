@@ -1,0 +1,1 @@
+porter2stemm porterstemm shown-docu document-index english-stemming-algorithm-free-software-bsd-license-document stem stem stem stemmer stemmer

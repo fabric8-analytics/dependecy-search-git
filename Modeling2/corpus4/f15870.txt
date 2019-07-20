@@ -1,0 +1,1 @@
+sqlalchemy-postgres-autocommit librari use sqlalchemi postgresql autocommit mode transact transact test test test test fixtur fixtur transactional-connect session exampl exampl sqlalchemi configur configur configur databas autocommit usage-configur statement run run run code sql-statement function like dirti

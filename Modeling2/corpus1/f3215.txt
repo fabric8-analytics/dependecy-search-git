@@ -1,0 +1,1 @@
+sphinxcontrib-spelling permission spelling copyright-doug use uses-pyenchant action notice whatsoever damages based-documentation

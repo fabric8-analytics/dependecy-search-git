@@ -1,0 +1,1 @@
+django-rest-apikey class add user user

@@ -1,0 +1,1 @@
+pytest-randomly game die pytest plugin randomly order tests control random seed pytest pytest random randomize randomise randomly tests test testing tested randomness random pytest-randomly python fixed fix fuzzy release uses repeatable-use repeat code-block hidden dependencies dependency inter data reset resetting like-doctests-resets example values value flags flag

@@ -1,0 +1,1 @@
+pluggage factory class class plugins plugin someclass load func dictionary instance kwargs loader

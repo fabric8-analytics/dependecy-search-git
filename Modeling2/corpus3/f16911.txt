@@ -1,0 +1,1 @@
+picklable-itertools pickle serialize pickle itertools iterable iteration iterators iterator-objects object picklable python implementation implementation implement dill handle handle block run behaviour pull library pretty-self-explanatory

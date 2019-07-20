@@ -1,0 +1,1 @@
+pycollocation function functionality boundary class class code jacobian build-status value-problems future parameter valuation residual solve solve application latest-version hermite identified-systems

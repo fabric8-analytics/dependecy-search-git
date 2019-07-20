@@ -1,0 +1,1 @@
+django-hermes hermes create app installed-apps ala installation add

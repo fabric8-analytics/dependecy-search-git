@@ -1,0 +1,1 @@
+structominer data scraping web scraper pythonic struct structured-data code structures structure structural python-library block blocks access fields field type types declarative declare lxml provides provide miner web-crawling scrapy alternatives example cruft inspired world css pycon operation html documents document markup

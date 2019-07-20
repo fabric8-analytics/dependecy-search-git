@@ -1,0 +1,1 @@
+pytest-mpl pytest plugin facili imag comparison matplotlib figur test directori code baselin differ coord file expected-actual-differ specified-toler python function integr specifi pytest-matplotlib style defined-rc real separ

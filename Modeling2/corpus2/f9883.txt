@@ -1,0 +1,1 @@
+pybids python tools querying manipulating bids datasets api related installation installed install installing discussion discuss bug request requests usage official pip officially-supported supports support operating including-mac requires require license licensed paper terms conforming

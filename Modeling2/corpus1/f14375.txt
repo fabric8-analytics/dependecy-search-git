@@ -1,0 +1,1 @@
+xstatic-d32 d xstatic packaged package packaging easy-install

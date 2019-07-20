@@ -1,0 +1,1 @@
+pingo fork main repo io organization board boards python remote-level driver arduino drivers-table target status intel-iot code pin remotely pi-beaglebone speaking gpio-pins api pwm-support supported supporting firmata image-alt classes class set type types ti level remote-arduino running run fake pins experim pwm pcduino rpi pi testing-solidrun

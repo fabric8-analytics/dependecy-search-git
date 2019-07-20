@@ -1,0 +1,1 @@
+alphabet-detector alphabet charset detect islatin alphabet-detector consistent language boolean

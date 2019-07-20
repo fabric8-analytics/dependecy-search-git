@@ -1,0 +1,1 @@
+django-webpacker django compressor tool bundles css js files single file webpack updates html respective path pip package installation install installed compressed compressing compress following run-npm entry py dependencies micropyramid git update separate

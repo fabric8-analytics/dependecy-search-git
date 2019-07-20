@@ -1,0 +1,1 @@
+customizable-django-profiler django middleware cprofile profile profile profile specify django-profiler output output default file-specified parameter parameter set setting trigger trigger example example key key get

@@ -1,0 +1,1 @@
+sphinx-scruffi sphinx scruffi diagram document orders-ord instal intern patron packag code-block-python graphviz dependencies-instal node exampl deliverymethod bug-report sequenc depend

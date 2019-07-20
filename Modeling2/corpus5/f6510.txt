@@ -1,0 +1,1 @@
+sphinxcontrib-texfigur default tex imag tikz sphinx document licens css-class direct use-direct follow extens

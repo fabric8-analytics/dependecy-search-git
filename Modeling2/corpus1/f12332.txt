@@ -1,0 +1,1 @@
+structlog logging structured structure log logging logged log-entries useful use uses key-value code alt-structlog dictionary dictionaries bind-user coming comes like data-binding works work writing begin end gets getting entry python true development-dependencies developers event flexible-formatting timestamper timestamp formatted format formats powerful way

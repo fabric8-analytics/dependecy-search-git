@@ -1,0 +1,1 @@
+ptpython python-repl-imag support key mode command code featur line option works-autocomplet features-syntax work like ll prompt edit import-si default make press width-chinese-charact alt

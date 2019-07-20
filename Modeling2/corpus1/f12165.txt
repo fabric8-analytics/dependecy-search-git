@@ -1,0 +1,1 @@
+django-polymorphic improved django model inheritance automatic downcasting django django orm django admin django formsets django polymorphic onetoonefields-features models model foreignkeys-manytomanyfields foreignkey-manytomanyfield-onetoonefield-descriptors-filtering-ordering code-block django

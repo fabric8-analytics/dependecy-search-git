@@ -1,0 +1,1 @@
+pyjq like python jq-json data licens automak bootstrap compil download build list-tak transform way-api api object translate-j example-instal supported-instal circleci releas compat

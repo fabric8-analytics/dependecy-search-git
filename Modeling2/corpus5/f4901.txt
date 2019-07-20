@@ -1,0 +1,1 @@
+django-rosetta rosetta file translat django default translation-process process interfac use request user image-select select backend set instal catalogs-po catalog cooki requir wsgi storag applic tl azur make new away session url instruct reload auto-reload account key base simpli e languag databas independ featur

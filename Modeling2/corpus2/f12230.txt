@@ -1,0 +1,1 @@
+prometheus-flask-exporter prometheus flask monitoring exporter metric requests provides-http-request-metrics argument prometheus-flask labels label application applications example app apps function reloaded object-examples convenient-functions needs needed need path paths gc writable e wrapper method provide-convenience-wrappers allows allow objects wsgi default defaults sample

@@ -1,0 +1,1 @@
+cib bear-instal installing-bear run instal

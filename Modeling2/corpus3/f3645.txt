@@ -1,0 +1,1 @@
+django-app-namespace-template-loader django template loader version base previous-versions inheritance-shorter note note originally instead namespaces override namespace-template template

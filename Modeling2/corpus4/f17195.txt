@@ -1,0 +1,1 @@
+django-bootstrap-ui aim power django app eas integr popular bootstrap ui framework http getbootstrap com python django bootstrap templat templat django-bootstrap-ui theme support support default-theme-cod continu continuously-integr framework-python integr exampl tag tag document bootswatch valid version

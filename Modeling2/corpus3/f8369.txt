@@ -1,0 +1,1 @@
+nose-html-report nose plugin generate good look html report test html figure

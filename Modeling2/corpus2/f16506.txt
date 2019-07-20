@@ -1,0 +1,1 @@
+varcode library manipulating genomic variants predicting effects mutations codon start causes annotated annotation coding-mutation protein-sequences genomic-variant insertion insertions splicing genome code coordinate coordinates counted acids acid deletion occurs simple-use sequence mrna frame uses likely

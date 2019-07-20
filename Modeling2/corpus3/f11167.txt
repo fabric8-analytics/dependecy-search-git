@@ -1,0 +1,1 @@
+pa-pylibs general setuptools configuration

@@ -1,0 +1,1 @@
+matplotlib-venn matplotlib plotting charts venn diagrams patches sets sizes-e venn-diagram-plotting circle circles text set-objects example package region-areas version area-weighted object alternatively alternative weighting

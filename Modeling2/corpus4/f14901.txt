@@ -1,0 +1,1 @@
+django-sendmail-backend django python sendmail email backend command line mta instal instal sendmail-backend path command

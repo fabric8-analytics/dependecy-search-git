@@ -1,0 +1,1 @@
+textx domain specific languages parsers python made easy http github io parser language meta model dsl project editors-projects editor interpreter interpret implemented implementing implementation code issues issue peg unmaintained quick based syntax machine type-video-tutorials grammar grammars pypi license-build-status-docs-textx versions version building alt protocol

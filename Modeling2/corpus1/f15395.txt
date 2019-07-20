@@ -1,0 +1,1 @@
+pluginmgr lightweight python plugin system supporting config inheritance plugins lightweight-python-plugin

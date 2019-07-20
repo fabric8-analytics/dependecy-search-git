@@ -1,0 +1,1 @@
+django-vote django-vote run-migrate

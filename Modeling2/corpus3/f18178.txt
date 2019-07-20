@@ -1,0 +1,1 @@
+django-mongoengine django mongoengine integration django-mongoengine field work ok-sessions defaults-field based-session things-working status mongo backend like need warn add needs-testing support support default test test require project project remove base

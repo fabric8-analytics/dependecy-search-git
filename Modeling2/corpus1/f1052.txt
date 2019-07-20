@@ -1,0 +1,1 @@
+brightside command dispatcher processor distributed task queue brightside messaging command dispatcher invoker cqrs microservices test stores script run-tests docker runs running use messaging-message-store messages like work polyglot endpoint net c

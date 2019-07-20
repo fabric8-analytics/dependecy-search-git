@@ -1,0 +1,1 @@
+control installation install installed python-control-systems test-license response linear testing tests simply software platforms basic conda stability py estimator design requires-numpy frequency code-repository slycot home

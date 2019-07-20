@@ -1,0 +1,1 @@
+pypsa python power system analysi loadflow optimis pyomo energi optim flow softwar linear-network-equ doi time gener calcul direct-current-network interact generation-storage-unit spars version electr unit-commit follow plots-gener badg heat use year library-imag librari schlachtberg fia losses-simpl multiply-connect brown-j-hrsch number alt current specif basic snapshot plot

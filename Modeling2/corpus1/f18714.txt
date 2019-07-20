@@ -1,0 +1,1 @@
+django-bootstrap-datetimepicker bootstrap-datetimepicker project template

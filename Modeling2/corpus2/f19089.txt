@@ -1,0 +1,1 @@
+django-jingo-offline-compressor django-jingo bengtsson compressor-c peterbe-com regular mit

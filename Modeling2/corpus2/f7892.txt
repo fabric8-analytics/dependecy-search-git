@@ -1,0 +1,1 @@
+campbx provided library-provides-python-bindings documentation following-conditions copyright claim-damages quick-usage notice including included installation-documentation kind-express require-authentication merchantability-fitness purpose

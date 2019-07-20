@@ -1,0 +1,1 @@
+django-floppyform floppyform develop requir test instal authors-gregor creator-bruno-reni widget ad widget-rend templat thank gregor context fix custom support form-rend render statu default

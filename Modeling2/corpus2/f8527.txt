@@ -1,0 +1,1 @@
+bobo wsgi microframework resource resources request requests applications application support supported added objects object handle handling fixed makes making http weight matching integration decorators decorator handlers bugs provided provide python open subroutes

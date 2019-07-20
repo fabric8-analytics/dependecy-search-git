@@ -1,0 +1,1 @@
+django-testrecord tool automat test creation django applic

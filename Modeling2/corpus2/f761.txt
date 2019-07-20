@@ -1,0 +1,1 @@
+python-escpos python library manipulate esc pos printers escpos printer driver thermoprinter voucher printing receipt esc-pos-printers-alt functions functionalities code codes documentation commands image text-images text

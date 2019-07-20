@@ -1,0 +1,1 @@
+cram automatic functional test framework test testing tests cram lines command-line like output file actual commands development close closing closed set shell matched match matching unprintable new bitbucket characters download environment-variable variables git directory diff

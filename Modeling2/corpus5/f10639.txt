@@ -1,0 +1,1 @@
+bongo api blog-post

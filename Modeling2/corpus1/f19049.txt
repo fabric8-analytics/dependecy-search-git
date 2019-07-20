@@ -1,0 +1,1 @@
+django-bootstrap-tags django bootstrap tags tagging form widget typeahead

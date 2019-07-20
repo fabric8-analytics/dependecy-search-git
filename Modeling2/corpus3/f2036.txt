@@ -1,0 +1,1 @@
+cfn-pyplates setup distutils template python cfn-pyplates cloudformation-templates pyplate sphinx image resource base base install dev allows allow

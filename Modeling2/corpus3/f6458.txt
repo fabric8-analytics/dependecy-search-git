@@ -1,0 +1,1 @@
+urllib-kerberos urllib kerberos http negotiate spnego kerberos

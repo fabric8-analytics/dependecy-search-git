@@ -1,0 +1,1 @@
+jack-client jack audio low latenc multi channel client port python jack-audio-connect numpi midi pip instal use mygreatcli output function connect cpython releas want librari packag outport c input regist true

@@ -1,0 +1,1 @@
+dependency-injector depend inject python code exampl contain provid status-pypi-alt github demonstr applic structure-extens object increas version support featur extens pattern developer-friendli document advantages-control main high implement initi

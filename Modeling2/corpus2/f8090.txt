@@ -1,0 +1,1 @@
+sphinx-py3doc-enhanced-theme styling python-docs different alt enhanced enhancements file code target status-travis fixed fix removed remove removes css sidebar added enhanced-sphinx-theme use mode p different-fonts customization customizing contributed paragraphs paragraph custom-favicon status-travis-image

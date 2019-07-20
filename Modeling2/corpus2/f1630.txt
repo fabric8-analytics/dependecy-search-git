@@ -1,0 +1,1 @@
+scrapyelasticsearch scrapy elastic search elasticsearch-servers key option server optional-field jay support examples log logging format changed changes licensed license software datetime files-example username michael-malocha duponchelle ca authentification index language-governing custom file items item fields added

@@ -1,0 +1,1 @@
+django-inspectional-registr django app registr inspect django-inspectional-registration-alt code compat step messag password support south-compat permiss string activ follow requir

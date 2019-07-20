@@ -1,0 +1,1 @@
+deplint requir depend linter pip depend deplint-depend examin examin test test test packag project project chang chang licens virtualenv-packag contributor-licens run run contributor code version version requir requir requir requir virtualenv instal instal instal work work way fix complet ownership way-mak make line-tool integr request atlassian

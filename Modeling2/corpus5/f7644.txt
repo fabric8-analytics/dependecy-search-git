@@ -1,0 +1,1 @@
+djoser rest implement django authent system api develop tool python django-cod test test-project requir project djoser-rest follow librari instal basic

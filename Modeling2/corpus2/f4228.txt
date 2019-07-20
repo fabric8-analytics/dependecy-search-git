@@ -1,0 +1,1 @@
+infoblox-netmri simple client netmri restful api infoblox network automation format devices device-details print infobloxnetmri usage d admin documentation documented device fix-issue method methods python pythonic index keys address enables available passing

@@ -1,0 +1,1 @@
+django-inline-wrestler lists django-list sort sorting ordering order-field tree-folder collapse collapsing including-add buttons button grappelli make text image adminlistcollapsible examples example django list admin-lists table

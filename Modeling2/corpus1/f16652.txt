@@ -1,0 +1,1 @@
+atlasclient atlasclient features entity-todo allow-multiprocessing rest rest basic-search-fixes features inflate alt resource resources entity bug cookiecutter

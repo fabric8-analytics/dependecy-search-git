@@ -1,0 +1,1 @@
+modeldict dict dict read read dictionary-classes-back modeldict method method cach cach store store persistent-data-stor object persist persist like-object valu valu like class provid provid insert insert django use good actual actual sync sync requir requir

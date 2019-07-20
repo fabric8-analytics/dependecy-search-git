@@ -1,0 +1,1 @@
+pynfft supported-platform linux-support installation instal enable-openmp-flag file file build building optional cythonized requires-cython requirement pip c documentation platform nfft c-subroutine core discrete transform

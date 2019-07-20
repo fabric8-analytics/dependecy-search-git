@@ -1,0 +1,1 @@
+blockstack-zon dn zone file zonefil pars creat

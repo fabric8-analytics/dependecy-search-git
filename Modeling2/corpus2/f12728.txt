@@ -1,0 +1,1 @@
+pyopencv like opencv python approach approaches c numpy functions functionality fast x seamless swig-based package packages ctypes management countless

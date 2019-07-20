@@ -1,0 +1,1 @@
+django-sequences sequence database database transaction transaction transactional django-sequences value value multiple sequential run-migrations add passing isn compliance migration performance initialize patches-welcome initial-stable provide provide provide

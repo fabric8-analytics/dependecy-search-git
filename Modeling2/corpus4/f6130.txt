@@ -1,0 +1,1 @@
+flask-click-migr sqlalchemi databas migrat flask applic use alemb click sqlalchemi alemb flask click click wrapper

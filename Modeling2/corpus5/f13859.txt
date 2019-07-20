@@ -1,0 +1,1 @@
+django-livinglots-generictag set helper creat django templat tag model gener relat

@@ -1,0 +1,1 @@
+data-import django data import xl xlsx csv xml model file django-data-import default set accept-custom excel settings-custom text use custom exampl integr auto object field declar test accept-custom-clean statu

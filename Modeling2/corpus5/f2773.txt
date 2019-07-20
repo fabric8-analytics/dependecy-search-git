@@ -1,0 +1,1 @@
+hansel code add crumb version function fix file file-path python use ad path cli argument chang test command argument-default readme-exampl improv directori existing-fold option tree folder-trees-pypi replac identif type stabl logic paramet dictionari base png exampl creat intro remov renam

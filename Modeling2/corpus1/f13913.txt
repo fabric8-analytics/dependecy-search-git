@@ -1,0 +1,1 @@
+authomatic authorization authentication oauth openid makes-provider python providers-like-facebook oauth openid replace-google-app authentication flask support pyopenid contribute contributions xero windowslive future coupled

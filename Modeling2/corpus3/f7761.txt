@@ -1,0 +1,1 @@
+guiqwt support support python library image-plotting base base modules-numpy platform license license optional option application copyright pyqt gui image-plotting library base base python pythonqwt numpy license license application copyright pyqt curve

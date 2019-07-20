@@ -1,0 +1,1 @@
+sentinel usage-sentinels terminating terminate python class classes extra example documenting values value tuple order ordering search singleton singletons valid-values extra-methods-consider example-setting-default method usage self-documenting

@@ -1,0 +1,1 @@
+python-ironicclient cli python api openstack line driver repository-tags metal-plugin development-takes version

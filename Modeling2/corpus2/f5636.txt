@@ -1,0 +1,1 @@
+nwdiag diagram generator add-options interface-fix-bugs networks support-blockdiag node nodes drop-supports text racks features feature color optional option rackdiag attribute attributes generate-network-diagram allow-multiple alt cf-rack default syntax change license simple generated generating height directive directly like easy version packetdiag

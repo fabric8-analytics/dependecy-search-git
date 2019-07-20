@@ -1,0 +1,1 @@
+ledcontrol applight applamp dekolight easybulb ilight limitlessl led ledm milight wifi bulb group led-control easybulb-milight-bulb white light-group set-color bright disco command adjust gateway multipl rgbw light control v set mode avail app new-lightcontrol

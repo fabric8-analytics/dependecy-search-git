@@ -1,0 +1,1 @@
+pymstransl translat basic-transl method python-cli key-microsoft api goal set repeat issu implement e cach object

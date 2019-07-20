@@ -1,0 +1,1 @@
+popit-django deprecate please consider use django popolo instead django data database database environment future anonymous stand locally local note note api apis popit warning-alpha feel incompatible api apis bash popit reuse-warning-alpha-code http setup build-status locally-store local default

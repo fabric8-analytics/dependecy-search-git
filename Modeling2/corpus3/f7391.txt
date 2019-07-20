@@ -1,0 +1,1 @@
+pyteamcity use teamcity rest api python api new code py variable modify pyteamcity setting set-getting test test-legacy code new-api build-status modify python latest-version

@@ -1,0 +1,1 @@
+django-badbrowser browser browser h-django-badbrowser set setting installation install instal example version version base tag middleware

@@ -1,0 +1,1 @@
+latlon23 latitud longitud decim degre degre minut distanc latlon objects-str formatted-str coordin project project method method object longitud distanc format format geographic-coordinates-latitud altern head head charact charact sphere function instal usag follow follow geograph

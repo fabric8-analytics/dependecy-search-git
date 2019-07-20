@@ -1,0 +1,1 @@
+type type function annotation type hint hint check checker typehints typehinting typechecking backport typing-type standard-library analyzer static

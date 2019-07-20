@@ -1,0 +1,1 @@
+pyqg quasigeostroph model python alt-pyqg document fourier dynam fluid spectral kernel code binder doi-pypi doc pyqg document dynam fluid fourier-transform spectral kernel sourc link

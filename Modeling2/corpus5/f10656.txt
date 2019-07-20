@@ -1,0 +1,1 @@
+natural-key model key django-natural-key useful-model-method support class creat serializer-class create-inst serial rest-framework method nest instanc field form complex name valu gener use automat

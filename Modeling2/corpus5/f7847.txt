@@ -1,0 +1,1 @@
+django-db-log error except django errors-en log-log dblog databas logging-en use messag simpli ad use-south tabl chang admin model instead site inform enables-show integr show automat checksum

@@ -1,0 +1,1 @@
+curtsies curses like terminal wrapper display based compositing arrays text objects object like strings string curtsies screen escape styles styled statement complex compatible history documentation

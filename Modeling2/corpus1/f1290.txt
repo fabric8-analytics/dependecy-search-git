@@ -1,0 +1,1 @@
+basicstruct struct bean basic struct record slots simple-struct-like-object objects

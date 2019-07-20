@@ -1,0 +1,1 @@
+ssg-reloader force-browser-reloads ajax-requests-root-directory

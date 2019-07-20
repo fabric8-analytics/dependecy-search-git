@@ -1,0 +1,1 @@
+wagtail-schema-org entity template template entities-site site code wagtail-schema-org make

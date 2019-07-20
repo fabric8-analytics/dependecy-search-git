@@ -1,0 +1,1 @@
+pychimera use ucsf chimera python api standard interpreter conda recipe pychimera-alt use-ucsf-chimera useful coding public publications documentation funding-code notebooks largely scripts grants grant status funded citation-doi project

@@ -1,0 +1,1 @@
+django-taggit-templatetags2 django taggit tags tagcloud taglist tagging tag tagged default test tests lists list templatetags django-app tagcanvas installation install installing testing-clone model models tagclouds include html urls-py item items templates template static url application import px

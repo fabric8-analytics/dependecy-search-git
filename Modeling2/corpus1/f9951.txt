@@ -1,0 +1,1 @@
+django-crum django crum current request user middleware captures current request user thread local storage django django middleware django user python-versions-django version captures capture authentication local

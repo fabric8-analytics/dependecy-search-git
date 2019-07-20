@@ -1,0 +1,1 @@
+pyhostapdconf passphrase mode-maximum-client-limit-hidden supported-ssid-country-code-channel-wpa configuration configuring supports

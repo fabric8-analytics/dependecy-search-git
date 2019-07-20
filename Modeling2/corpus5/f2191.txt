@@ -1,0 +1,1 @@
+django-money money field django form model python py code currenc code-bash django-money-alt use versions-supported-python support like add-support manag instal format version-adds-test rate automatically-instal set default backend requir convers framework test custom data valu valid directli direct sourc automat task method statu

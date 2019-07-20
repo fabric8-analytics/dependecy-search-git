@@ -1,0 +1,1 @@
+django-pyodbc-azure azure django django-pyodbc string-database setting settings set supports odbc path limit user ms-sql-server license text-field default module ss database-features setting settings set feature sql-server django connection-pooling project path backend

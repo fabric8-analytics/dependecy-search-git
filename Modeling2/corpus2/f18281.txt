@@ -1,0 +1,1 @@
+hyperspectral simple python wrapper around cube fits files frugal-python-package install installation-instructions setup-script build-atop illegal

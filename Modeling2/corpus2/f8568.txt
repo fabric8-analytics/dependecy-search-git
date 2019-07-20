@@ -1,0 +1,1 @@
+invenio-oauthclient invenio module provides oauth web authorization support authentication cern supported authorization-support authorized authorizes released release github extra applications login pin-oauthlib

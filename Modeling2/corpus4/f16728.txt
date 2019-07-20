@@ -1,0 +1,1 @@
+compressinja jinja html compress

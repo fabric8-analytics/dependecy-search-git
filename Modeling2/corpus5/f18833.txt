@@ -1,0 +1,1 @@
+django-turbolink turbolinks-build templat

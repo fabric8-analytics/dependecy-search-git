@@ -1,0 +1,1 @@
+slumber-fork fix fix fix slumber url support urls-seri backwards-incompat api api request request default-seri default slash option option instal public alt paramet kwarg kwarg python new-paramet object-ori remov remov irc allow allow allowing-pass pass doc

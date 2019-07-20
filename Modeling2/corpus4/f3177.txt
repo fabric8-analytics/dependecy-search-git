@@ -1,0 +1,1 @@
+flask-restful-url-gener flask rest instal instal api resourc resourc import flask

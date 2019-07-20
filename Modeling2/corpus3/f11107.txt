@@ -1,0 +1,1 @@
+roscreate template style wizard shortcut create ro package stack ro roscreate stack cpp pkg creating-ros-packages-stacks catkin catkinized install installer create build build building version set shortcut edit tfoo package test

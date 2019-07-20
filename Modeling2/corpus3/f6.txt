@@ -1,0 +1,1 @@
+pyexcel-handsontable pyexcel plugin render data handsontable html page html handsontable python test test test test pyexcel-handsontable handsontables develop developer development code license update update excel installation install coding-documentation data rst file pip support support requirement require like moban acceptance ci generate clone add html changes-git change

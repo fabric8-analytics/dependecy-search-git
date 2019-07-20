@@ -1,0 +1,1 @@
+ftptool file host subdirs-fil directori directori foo connect f return return mirror subdir object object connect-ftp download download renam renam renam delete-mirror proxi proxi recurs instanc work delet higher-level like

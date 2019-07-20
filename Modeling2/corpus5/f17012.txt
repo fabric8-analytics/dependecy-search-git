@@ -1,0 +1,1 @@
+birdhousebuilder-recipe-nginx buildout recip birdhous nginx conda option buildout-opt fix ad updat recipe-nginx default user certif folder myapp client ssl enabl instal prefix fail gener anaconda exampl valu travi server start disabl creat proxi

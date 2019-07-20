@@ -1,0 +1,1 @@
+django-statictemplate alt django file settings-files version version license license set set error parameter use-template language type middlewares middleware status command static alt django set set settings-files file license license language template error parameter middlewares middleware type status command static process format

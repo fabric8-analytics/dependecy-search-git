@@ -1,0 +1,1 @@
+django-extended-flatpag ckeditor format flatpages-instal instal default middlewar django py selectall-bold-ital pastetext-pastefromword-undo maxim

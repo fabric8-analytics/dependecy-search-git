@@ -1,0 +1,1 @@
+pdfminer-six pdf parser converter layout analysis text mining texts pdfminer compatibility related

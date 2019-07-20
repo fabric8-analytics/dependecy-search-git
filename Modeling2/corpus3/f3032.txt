@@ -1,0 +1,1 @@
+flask-gzip gzip flask response installation

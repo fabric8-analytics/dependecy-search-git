@@ -1,0 +1,1 @@
+pyfailsaf simpl failur handl failsaf implement python circuit breaker retri fallback call aiohttp asyncio exampl use retries-circuit immediate-failur handling-failur except servic execut md safe executed-immedi oper set operation-fail fail make inter unit

@@ -1,0 +1,1 @@
+ardu-report-lib arduino sensor json json schema schema sensor sensor-data object python exampl exampl objects-contain requir g usag basic creation request input output contain

@@ -1,0 +1,1 @@
+yargy tiny package information extraction morphology information extraction russian specific earley parser n a t u r a l l a n g u a g e p r o c e s s i n g r u s s i a n m o r p h o l o g y documentation yargy allows-modification source-code

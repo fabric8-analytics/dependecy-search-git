@@ -1,0 +1,1 @@
+pylint linter annoys static analysis linter static code analysis code quality pep distribute distribution pylint python code cod configurable configuration alt package package tool tool command command information install instal installation status-target simple-refactoring errors-helps

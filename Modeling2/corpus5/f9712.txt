@@ -1,0 +1,1 @@
+marshmallow-jsonapi json api http jsonapi org format marshmallow serial valid deseri rest flask marshal python marshmallow-jsonapi-alt-pypi json-api

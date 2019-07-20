@@ -1,0 +1,1 @@
+django-nested-admin django admin class allow nest inlin python test run grappelli directori webdriv way inlinemodeladmin instal build option options-avail build-badg

@@ -1,0 +1,1 @@
+tkcolorpick tkinter color colorchoos image-alt color python windows-linux-mac release-travis-appveyor color linux ttk documentation-syntax dialog

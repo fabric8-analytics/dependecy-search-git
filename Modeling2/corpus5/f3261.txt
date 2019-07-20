@@ -1,0 +1,1 @@
+nvidia-docker-compos gpu run docker-contain use running-gener contain gener target config-fil automat new configur python jinja control make follow depend line altern need properli

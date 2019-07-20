@@ -1,0 +1,1 @@
+mkdocs-material mkdocs documentation theme design design search documentation copyright install installation copy copy license person person include include friendly analytics follow notice straight-forward color-fonts customizable readability

@@ -1,0 +1,1 @@
+xmpp-backends backend ejabberd ejabberds version versions new fix fixes use uses useful django djangos api apis interface interfaces documentation documented status testing test tests development developing python-library update-requirements running run runs returns returned command commands raise raises raised supported support add adds instance instances release libraries

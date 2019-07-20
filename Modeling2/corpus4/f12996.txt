@@ -1,0 +1,1 @@
+django-spaghetti-and-meatbal django entiti relationship diagram erd uml model model auth imag app django-spaghetti installed-app field field sauc live set set set color color relat relat instal case make meatbal meatbal alt

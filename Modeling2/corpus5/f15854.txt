@@ -1,0 +1,1 @@
+pkginfo distribut sdist instal metadata fix add-support packag test-support test python modules-support distribution- info wheel module-b sdists-thank version pep line sdist-lp pypi pep-remov trail licens homepag marker output new file pars attribute-preserv attribut trove setuptool egg

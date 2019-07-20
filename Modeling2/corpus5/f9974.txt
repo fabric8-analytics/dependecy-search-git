@@ -1,0 +1,1 @@
+os-networksv2-python-novaclient-ext add rackspac network support python novacli networksv

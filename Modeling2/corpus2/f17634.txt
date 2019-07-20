@@ -1,0 +1,1 @@
+sphinxjp-themes-solarized sphinx restructuredtext solarized setup requirements ba provide install html schoonover terms

@@ -1,0 +1,1 @@
+django-performance-test perform test django autom limit set templat chang releas report template-tag add support data backward method reporting-introduce-manag manag develop contribut better-e-g point queri time incompat bugfix anymor setup proxi queries-execut introduc uniqu debug code class tag argument request

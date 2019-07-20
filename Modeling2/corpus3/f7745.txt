@@ -1,0 +1,1 @@
+mozilla-cloud-services-logger tool produce common application log format define mozilla cloud service mozilla log django log log python application format service django

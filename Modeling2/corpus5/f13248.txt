@@ -1,0 +1,1 @@
+springcloudstream messag messages-encod grpc argument stream receive-messaging-tcp-implement argument-contain support-streaming-data option encod applic header contain-addit exampl buffer support socket use module-us type defin modul debug

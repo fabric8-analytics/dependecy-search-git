@@ -1,0 +1,1 @@
+tableschema-sql frictionless data versioning version version api sql table-schema table implementation features-implements us recommend update update package-use keyed-rows python provide provide environment package envionments example examples-code storage cod configure key change breaking-changes add

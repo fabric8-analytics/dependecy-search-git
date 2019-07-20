@@ -1,0 +1,1 @@
+simplegeneric function method method type type define-simple-single-dispatch-generic-functions argument argument default default define define python dispatch multiple standard-library probably documentation speedup code class base base lookup class-instances use us

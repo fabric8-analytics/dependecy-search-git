@@ -1,0 +1,1 @@
+cypy useful-utilities license

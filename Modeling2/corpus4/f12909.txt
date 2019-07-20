@@ -1,0 +1,1 @@
+ansible-cmdb host host html custom fact cmdb format ansibl fact-gath separated-format multipl templat templat instal instal separ inform markdown variabl gather output

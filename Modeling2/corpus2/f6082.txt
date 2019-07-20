@@ -1,0 +1,1 @@
+flask-peewee-swagger generates swagger documentation flask peewee projects

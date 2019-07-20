@@ -1,0 +1,1 @@
+django-generic-scaffold v add templat django url code class use configur name python view api model-nam follow creat model scaffold version create-crud explicitli explicit usag exampl fix function form defin

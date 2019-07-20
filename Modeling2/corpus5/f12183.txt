@@ -1,0 +1,1 @@
+libpq-dev python packag version postgresql instal server static simpl dev differ applic requri process forward

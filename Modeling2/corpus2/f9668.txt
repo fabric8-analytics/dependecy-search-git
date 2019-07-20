@@ -1,0 +1,1 @@
+django-geoprisma gis django geoprisma context-processors gettext documentation py installation-install installed python contrib

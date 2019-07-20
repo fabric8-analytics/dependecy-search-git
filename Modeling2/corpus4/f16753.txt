@@ -1,0 +1,1 @@
+adarnauth-esi token token version version version set set client-set specifying-resource-vers instead resourc avail adarnauth-esi client access access specifi specifi swaggercli model model swagger-interfac authent add requires-scop spec develop requir requir rout delimit additional-argu initi initi argument datasourc datasourc cleanup

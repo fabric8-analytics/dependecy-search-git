@@ -1,0 +1,1 @@
+django-amber commands command django instances model-instance classes class models subclasses pages page static-sites site-generator development filesystem generated generate additionally files file-serialization serialized serializes example probably article articles easier positional

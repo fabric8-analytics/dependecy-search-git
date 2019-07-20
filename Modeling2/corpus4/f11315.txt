@@ -1,0 +1,1 @@
+rackspace-novacli metapackag instal python novacli rackspac extens install-python rackspace-novacli os instal

@@ -1,0 +1,1 @@
+django-typed-models type types typed-models model class python subclassing subclasses subclass code field fields table queries query object objects

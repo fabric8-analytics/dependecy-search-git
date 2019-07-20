@@ -1,0 +1,1 @@
+flake8-deprecated pep flake deprecations flake-deprecations-plugin plugins best changed python project projects gforcada fix utf-flake-deprecations-plugin false added requirements require add alexmuller file-self new

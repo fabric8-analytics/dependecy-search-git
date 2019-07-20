@@ -1,0 +1,1 @@
+apertium-streampars apertium pars linguist input use e

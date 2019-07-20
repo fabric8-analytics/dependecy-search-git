@@ -1,0 +1,1 @@
+django-staticbuild add build step static asset flow javascript build-step building-stat command code django respons staticbuild develop collect simple-way way want ll probabl

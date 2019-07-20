@@ -1,0 +1,1 @@
+django-boolean-switch admin boolean-switch urls url adminbooleanmixin app apps click

@@ -1,0 +1,1 @@
+aubio file use acceler files-detect comput spectral audio-analysi detect frequenc track instal including-read read format line notes-instal sound modul librari note

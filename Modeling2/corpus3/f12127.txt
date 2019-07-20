@@ -1,0 +1,1 @@
+google-assistant-grpc google assistant api grpc assist google-assistant license license grpc generate generate generator license-copyright message message audio software json initialize stream stream language-governing request request python pb display metadata instal install credential

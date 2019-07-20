@@ -1,0 +1,1 @@
+modbus-tk modbu serial tcp modbus-tk simul simul simul log hmi web applic applic micropython licens interfac depend depend slave slave block block app need need need purpos featur featur test test

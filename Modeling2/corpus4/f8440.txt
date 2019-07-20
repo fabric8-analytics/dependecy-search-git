@@ -1,0 +1,1 @@
+django-synctool sync sync sync data code python django-synctool requir requir app basic

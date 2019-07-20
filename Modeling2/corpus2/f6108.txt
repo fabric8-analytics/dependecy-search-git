@@ -1,0 +1,1 @@
+elasticache-auto-discovery discovery classifier language licensed unknown apache-license software

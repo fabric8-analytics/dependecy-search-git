@@ -1,0 +1,1 @@
+marshmallow-oneofschema marshmallow library extension allows schema de multiplexing typing schema schemas object-type code marshmallow alt installing library serialization serializing serializes obj classifier copy copies person persons including included documentation copyright-notice implementation license shall python distribute description

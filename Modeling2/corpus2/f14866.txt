@@ -1,0 +1,1 @@
+django-favit simple reusable app django makes easy deal favorites faving unfaving object application favorite favorited-objects make template count add favit

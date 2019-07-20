@@ -1,0 +1,1 @@
+pykrige pykrige-kriging drift regression grid linear grid-points code-supports-d python support point spatial dependency functional function function specify specify learn

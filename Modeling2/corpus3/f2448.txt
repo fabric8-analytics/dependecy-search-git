@@ -1,0 +1,1 @@
+bquery query aggregation framework bcolz w bcolz bquery memory groupby-columns ctable data-aggregations aggregation perform performance perform column-usage panda result result operation operation list list benchmark nan weight vbench require require provide provide time time handle-reporting install instal factorization factor factorization specific-new

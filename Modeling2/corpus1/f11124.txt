@@ -1,0 +1,1 @@
+aiven-client service avn-user projects project list managed-cloud-services users clouds aiven-client token tokens plans plan license logs log db create mydb c specific manage management command commands bug price view versions version h linux python os-x osx ip includes including customer custom rpm

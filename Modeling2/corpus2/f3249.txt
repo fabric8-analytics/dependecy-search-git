@@ -1,0 +1,1 @@
+python-ripcordclient python-bindings license licensed

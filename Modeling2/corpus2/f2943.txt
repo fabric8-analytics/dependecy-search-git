@@ -1,0 +1,1 @@
+django-static-compiler files file compiling compilers compiled-distributions output input inputs distributed distributing d bundle bundles staticfiles finders distribution-e-g js pre debug following attributes attribute path applications application py configuration-root filename simply django-static

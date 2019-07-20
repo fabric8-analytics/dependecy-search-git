@@ -1,0 +1,1 @@
+pychroot python library cli tool simplify chroot handling chroots chrooting supports support supported kernel running run namespaces namespace pythonic bind-mount mounts-previously mounting-process user context contexts manually conf processes specifically specific requirements require required environment environments currently current chown resolution

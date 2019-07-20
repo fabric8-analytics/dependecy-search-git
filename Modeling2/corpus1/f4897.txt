@@ -1,0 +1,1 @@
+bottlechest fast numpy array functions written cython licenses project-license scipy bottlechest bsd moving-window-functions

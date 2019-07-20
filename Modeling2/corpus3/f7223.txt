@@ -1,0 +1,1 @@
+thriftpy thrift python thriftpy pythonic code thrift python-implementation server cython server-client protocol thriftpy implemented-protocols pingpong make transport transport features-currently feature client easy

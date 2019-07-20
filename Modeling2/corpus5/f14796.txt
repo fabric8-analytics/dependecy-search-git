@@ -1,0 +1,1 @@
+rtmidi-python way binari make python cross-platform mac-o tupl paramet cython-source-mak licens usage-exampl mit

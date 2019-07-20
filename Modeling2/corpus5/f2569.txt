@@ -1,0 +1,1 @@
+zhon chines mandarin segment token punctuat hanzi unicod radic han cjk cedict cc tradit simplifi charact pinyin zhuyin pinyin-syl code sentenc l syllabl constant started-read pattern

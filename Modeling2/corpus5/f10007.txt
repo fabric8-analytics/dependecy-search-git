@@ -1,0 +1,1 @@
+pyescpo support epson esc po printer command system python escpo print retail autom point of sale sourcecod model file exampl file-print alt common integ version implement supported-python-vers document copi copy-esc-pos-reg data configur retri bluetooth parallel bit sourc connect sign digit c manufactur note standard h unicod disclaim use

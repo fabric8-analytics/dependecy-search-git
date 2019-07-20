@@ -1,0 +1,1 @@
+bible encoding in xml

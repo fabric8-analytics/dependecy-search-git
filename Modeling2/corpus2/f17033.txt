@@ -1,0 +1,1 @@
+piexif exif jpeg piexif-build-status remove filename zip license python pillow

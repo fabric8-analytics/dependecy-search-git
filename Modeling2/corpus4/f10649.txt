@@ -1,0 +1,1 @@
+latex2mathml math-mrow-mi latex version mathml supported-vers output pure-python support begin identifi n statu

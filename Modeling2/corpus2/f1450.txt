@@ -1,0 +1,1 @@
+flask-appbuilder flask automatic-permissions target image support database list lists fields field selectable charts chart user multiple validation base-validators application-development based examples example custom login select-datepicker detailed-security role models model bugs new change changed deprecated author crud-generation db group data details

@@ -1,0 +1,1 @@
+prospector pylint pyflak pep mccabe frost static code analysi prospector-alt option document run output use complet strict pre django automat licens section tool starting-point point python possibl

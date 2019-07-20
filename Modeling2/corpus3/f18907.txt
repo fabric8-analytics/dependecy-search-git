@@ -1,0 +1,1 @@
+morph morph transform string list tuple dict flatten unflatten tolist tobool pick omit dict dicts list list morph morph like object prefix function functionality function object-types return return return foo-zig value type d python x optionally optional dimensional specifies specify shell trip self recursively val

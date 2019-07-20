@@ -1,0 +1,1 @@
+cymem cython memori pool raii style memori manag cython python c cython-memori function function collect class use use cymem python-object object nested-struct struct custom fast spars c function-cod function python-object cython-memori collected-alt cymem use use class nested-struct struct spars custom fast object

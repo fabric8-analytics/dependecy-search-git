@@ -1,0 +1,1 @@
+codebug-tether control codebug serial usb codebug tether raspberrypi openlx tether tethered-mode v added fixed fixes updating update updated support checking check change changed dev channel serial-usb timing times set setting error packet packets pwm docs tether-control bulk tethered

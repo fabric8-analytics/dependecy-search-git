@@ -1,0 +1,1 @@
+django-heroku-postgresify django heroku cloud postgresql postgres db database awesome epic install django-heroku installed-automatically automatic environment-variables

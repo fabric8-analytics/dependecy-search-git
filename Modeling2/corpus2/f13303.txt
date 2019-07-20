@@ -1,0 +1,1 @@
+aldryn-reversion deprecated project longer maintained see readme information django requires requirements run status reversion alt fields

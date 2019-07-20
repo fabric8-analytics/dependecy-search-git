@@ -1,0 +1,1 @@
+cmsplugin-gallery-fil galleri gallery-fil templat instal installation-featur featur plugin uses-django set bug use method configuration-cr imag adds-simpl add

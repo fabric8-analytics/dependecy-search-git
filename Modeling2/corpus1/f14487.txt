@@ -1,0 +1,1 @@
+intervaltree interval tree data structure intervals tree intervals balancing-interval-tree ranges range-overlap queries query difference objects object overlapping fields field optionally konstantin tagging present python licensed license version envelopment enveloped envelop github method bound o iterable insertions-deletions methods-like avl slice slicing estonia

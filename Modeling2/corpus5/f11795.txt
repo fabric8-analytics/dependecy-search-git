@@ -1,0 +1,1 @@
+django-rest-fuzzysearch fuzzi search django rest python requir requirements-python import-migr py rest-fuzzy-search viewset migrat extens exact class postgr

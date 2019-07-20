@@ -1,0 +1,1 @@
+django-admin-utils admin alt target image support status example supported-versions mixins requirement expand inner travis-appveyor version package packages-django

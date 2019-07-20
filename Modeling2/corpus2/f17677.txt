@@ -1,0 +1,1 @@
+pulp python linear programming api problem variables variable linear-problems model modelling lp-modeler exported solver solvers form cbc examples value create use com classifier copyright description copy copies documentation including included person persons notice research language license publish-distribute text modify

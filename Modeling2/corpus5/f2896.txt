@@ -1,0 +1,1 @@
+jac code compress supports-compress python support flask class run fix jinja-assets-compressor app compressor configur static variabl import

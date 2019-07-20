@@ -1,0 +1,1 @@
+sense-emu raspberrypi sense hat documentation-pypi-lgpl-version sense-hat-emulator emulates emulated

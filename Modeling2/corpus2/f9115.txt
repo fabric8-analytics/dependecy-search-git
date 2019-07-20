@@ -1,0 +1,1 @@
+repoze-sphinx-autointerface web wsgi zope fix fixed interface interfaces package packaging directives member-order members values directive-includes pypi add pypy-compatibility unicode-path extension extensions added include allows allow

@@ -1,0 +1,1 @@
+mcpartool set tool parallel mc tool cluster mcpartool program basic slurm softwar necessary-directori line-appl fluka

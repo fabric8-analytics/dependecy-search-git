@@ -1,0 +1,1 @@
+django-haystack- django haystack es python elasticsearch addit django-haystack queri exampl use boost operations-lik

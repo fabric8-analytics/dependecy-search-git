@@ -1,0 +1,1 @@
+scikit-spars spars matrix tool extend scipi incompat licens code includ cholmod librari gpl-ed activ sparse-matrix

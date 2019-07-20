@@ -1,0 +1,1 @@
+whoosh index search text spell include-pythonic pure-python whoosh search source searching-library software including licensed license bug online text-indexing libraries packages-needed needs scoring animation fast

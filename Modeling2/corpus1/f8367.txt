@@ -1,0 +1,1 @@
+django-social-auth-trello general-public type-license-copyright django general-public django version

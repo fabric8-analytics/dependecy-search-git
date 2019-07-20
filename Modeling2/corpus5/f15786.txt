@@ -1,0 +1,1 @@
+django-dingo django app provid gener framework manag structur inform way dingo document build misp-platform structured-inform manti ad user new displaying-object displayed-object filter infoobject fix slow-import imported-data modified-views-view display command search queri built layout line long bugfix function configurations-saved-search fact edit configur

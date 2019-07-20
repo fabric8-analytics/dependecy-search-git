@@ -1,0 +1,1 @@
+edc-registr add master patient record registr servic app edc clinic trial manag system data django model subject python attribut

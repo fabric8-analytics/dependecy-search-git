@@ -1,0 +1,1 @@
+pytest-variables plugin provide variable pytest test fixture pytest plugin variable yaml json hjson py test pytest json variable pytest-variables code alt file foo dictionary file-specified human-json-yaml installation install instal version specify specify follow

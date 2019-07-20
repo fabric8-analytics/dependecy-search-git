@@ -1,0 +1,1 @@
+django-rq-dashboard queue queue django-rq default-values-configure-redi licenc

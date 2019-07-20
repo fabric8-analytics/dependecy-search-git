@@ -1,0 +1,1 @@
+libkeepass keepass library support support merge merge entry entry merging-synchronizing file v-files database database read-keepass code encryption encrypt level-python-x synchronize key password decrypt protect protection protect test test password-elements decrypted-xml currently chacha filename element kdb reading attribute require requirement

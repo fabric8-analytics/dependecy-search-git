@@ -1,0 +1,1 @@
+django-pyscss make easier use pyscss django css scss sass compressor scss-file code-block line statu alt file like import fix code support ad app staticfil

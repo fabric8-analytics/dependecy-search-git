@@ -1,0 +1,1 @@
+openbaton-cli python vnfm nfvo open baton openbaton sdk cli rest agent agent project project request requesting-network-servic mano-specif specific-inform manag mechan licens licens licens openbaton services-vdu code open-baton object object object different-mechan vnfm sourc vnfpackag vnfpackag python support support support support vim compliant issu issu

@@ -1,0 +1,1 @@
+drf-compound-field rest framework api servic field compound type key individu test-coverag allow project licens test valu valid object collect error loosen serial

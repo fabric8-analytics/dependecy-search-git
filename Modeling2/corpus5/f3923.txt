@@ -1,0 +1,1 @@
+deluge-cli delug python stable-usage-idiom

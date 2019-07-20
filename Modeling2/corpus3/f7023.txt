@@ -1,0 +1,1 @@
+sqlcmd sqlcmd maintain install sqlcmd database database support support support tool sql-command api history tools-like connection type python

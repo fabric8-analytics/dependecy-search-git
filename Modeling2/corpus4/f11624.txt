@@ -1,0 +1,1 @@
+heat-tempest-plugin setup heat-tempest cloud

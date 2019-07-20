@@ -1,0 +1,1 @@
+django-sphinxdoc change new v-fix fixed indexes index indexing django-sphinxdoc documentation files supported support supports-strings projects project command updated update updates sphinx-docs search searched base based string setting settings romain-beylerian-bosco allows

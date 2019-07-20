@@ -1,0 +1,1 @@
+django-admin-generator generator generate source run image-alt-test-status tests

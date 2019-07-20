@@ -1,0 +1,1 @@
+singletonify singleton singletonify-install-usage

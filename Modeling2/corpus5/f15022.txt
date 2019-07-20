@@ -1,0 +1,1 @@
+pyramid-jwt pyramid jwt authent secur token jwt-authent code config request add header exampl role creat http-header use extra-claim user admin python author algorithms-algorithm paramet claim backen timedelta def view allow code-block-python permiss login applic authenticated-userid json creating-valid fix expir configur follow basic return report set valid post decod

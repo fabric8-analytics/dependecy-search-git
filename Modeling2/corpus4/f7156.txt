@@ -1,0 +1,1 @@
+django-cors-middlewar django app handl server header requir cross origin resourc share cor django cor middlewar rest api django-cors-middlewar request request header header respons cross-origin support origin site exampl default python run

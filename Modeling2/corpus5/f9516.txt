@@ -1,0 +1,1 @@
+cloudstorag storag amazon aw s azur rackspac cloudfil googl gc minio cloud-storag python file support servic code-block add files-googl driver test local-fil python-packag fix travi code except set api featur

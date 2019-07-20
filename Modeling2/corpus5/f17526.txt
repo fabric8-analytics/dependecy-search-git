@@ -1,0 +1,1 @@
+command licens command-lin general-public-licens inform copyright

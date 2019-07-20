@@ -1,0 +1,1 @@
+abifpy files file sequencing extracts-sequence abifpy-python based base class seq copyright license licensed qual use personal person persons biopython e including included abi quality metadata modified-version ambig ambigous extract extracted modify key keys object copy copies data notice

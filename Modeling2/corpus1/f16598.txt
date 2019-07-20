@@ -1,0 +1,1 @@
+django-reusableapps reusable-django-apps app eggs setup-py installation installed egg-based install-reusableapps setting settings e setuptools site dirs uses use

@@ -1,0 +1,1 @@
+pymorphi sqlite inflect django-lazi speedups-cython aot-dictionari setup

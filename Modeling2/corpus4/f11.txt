@@ -1,0 +1,1 @@
+pysmt solver solver pysmt real lib theori theori lira formula way smt-formula python wan na vector

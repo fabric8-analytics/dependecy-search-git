@@ -1,0 +1,1 @@
+python-simple-hipchat-v2 simple python client send notification hipchat via v api hipchat-v library shortcut v x-added-shortcut

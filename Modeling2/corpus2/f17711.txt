@@ -1,0 +1,1 @@
+django-js-asset django code-block script media compatibility attributes compatible-data thing

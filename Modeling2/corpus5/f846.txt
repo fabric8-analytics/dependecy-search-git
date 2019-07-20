@@ -1,0 +1,1 @@
+dj-database-url use databas url django applic supported-databas database-url support connect file environ path sqlite open-sourc gi unix usag connection-dictionari current enabl

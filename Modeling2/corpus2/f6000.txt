@@ -1,0 +1,1 @@
+pelican-minify pelican blog static minify html minification file files generate generated site-generator minifying containing source

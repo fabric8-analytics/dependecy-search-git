@@ -1,0 +1,1 @@
+jupyter-tensorboard jupyter notebook tensorboard tensorflow jupyter-tensorboard installation installed install manage notebook tensorflow version versions-docker instance-managing server servers command commands code package making make bugs directory environment navigating extra log image view instances

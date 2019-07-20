@@ -1,0 +1,1 @@
+django-mptt util implement modifi pre order travers tree django tree tree model model-inst django-mptt automat updat updat requir requir retriev retriev provid provid hierarch modifi modifi instanc field field discuss simpl

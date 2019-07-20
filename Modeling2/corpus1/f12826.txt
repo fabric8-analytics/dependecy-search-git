@@ -1,0 +1,1 @@
+charlatan python library efficiently manage install database fixtures tests fixtures database license charlatan-fixtures database copyright-uber fixtures uber-charles latest license

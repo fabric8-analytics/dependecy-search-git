@@ -1,0 +1,1 @@
+pbs command commands pbs argument code codes like keyword-arguments usage special functions function environment environ returns return baking bake baked commandline callable class output easily way standard weird weirdly subprocess-wrapper file exceptions exception ok existing exist argparse-optparse-friendly long-form examples example directly

@@ -1,0 +1,1 @@
+pycosat python bind picosat sat solver integ integ claus claus sol pycosat python picosat solver solut solut cnf valu c make make level x-sub list variabl variabl string itersolv

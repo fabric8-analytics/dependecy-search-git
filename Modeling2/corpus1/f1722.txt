@@ -1,0 +1,1 @@
+gitpass passwords password standard encoding base files file optional getpass-designed

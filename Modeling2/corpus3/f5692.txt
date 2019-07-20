@@ -1,0 +1,1 @@
+pytest-pep8 longer-lines command-line-arguments-warning pep pepignore-configuring warning configure file file py like ignore doc violate error error

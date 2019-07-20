@@ -1,0 +1,1 @@
+httpsig http authorization api web signature signature signing multiple code python sign-http-requests limitation limitation test test test support support optional vocal real rsa pyenv header header signature signature sign-http-requests python signing request version version versioneer optional remove requirement require compatability key key fails code stop pyenv spec method

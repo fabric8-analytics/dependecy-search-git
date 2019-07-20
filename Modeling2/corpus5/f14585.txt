@@ -1,0 +1,1 @@
+pytest-watch run test running-tests-continu pytest altern runner cli code md e-g file develop issu new option continu deadline-instal script running-test ptw py pdb output ignor configur bash event readm allow custom config-cli python exit use allowed-ext watch onpass onfail instal beforerun verbos default

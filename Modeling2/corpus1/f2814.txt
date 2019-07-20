@@ -1,0 +1,1 @@
+django-stackato stackato django activestate admin py django commands command release-date management manage password

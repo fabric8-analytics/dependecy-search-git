@@ -1,0 +1,1 @@
+h5netcdf version netcdf-fil hdf-file dimension-scales-vers hnetcdf write python scale fix type hpi creat variabl issu perform dimens instal support automat issue-invalid api add automatically-trigg xarray-instal librari sep new-api existing-object aug trigger seen-occasion current includ true test valu

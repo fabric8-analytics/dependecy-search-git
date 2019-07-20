@@ -1,0 +1,1 @@
+marisa-tri licens like trie-pyvers method python lookup current file appveyor trie support thank license-wrapp rebuild-cython improv fix string small benchmark bundl update-benchmark faster-fix inttri arbitrari updat remov issu work files-pickling-work version

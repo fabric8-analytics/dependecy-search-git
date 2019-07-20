@@ -1,0 +1,1 @@
+dbqueri easi databas access sqlite postgresql wrap sql connect queri make-database-queri code python-db paramet direct directli specifies-connect specifi class exampl connect-funct select function context behavior make row

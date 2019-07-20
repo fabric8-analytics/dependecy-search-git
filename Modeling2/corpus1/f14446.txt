@@ -1,0 +1,1 @@
+django-datamaps requirements requires django-datamaps utility utilize easiest bundled

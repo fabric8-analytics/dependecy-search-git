@@ -1,0 +1,1 @@
+django-pagin pagin django page page pagin pagin set set set set default instal instal pagination-allow context-processor tag processor autopaginate-tag allow

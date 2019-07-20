@@ -1,0 +1,1 @@
+django-fsm-admin mixin templat tag integr django fsm transit django admin django django admin add set state-transit method event transit px exampl processor

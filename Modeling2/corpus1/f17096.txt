@@ -1,0 +1,1 @@
+sbp sbp installed-install py setup testing tests test examples example cov sudo-pip swift virtualenv

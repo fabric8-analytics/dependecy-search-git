@@ -1,0 +1,1 @@
+django-bulk-upd licens django-bulk-upd helper-funct vs-simpli raw instal

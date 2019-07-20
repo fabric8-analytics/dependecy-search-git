@@ -1,0 +1,1 @@
+djangocms-style django cms style plugin allows create html container containing classes styles ids attributes addon python installation install-run running plugins style-pypi tags tag additional source-project projects

@@ -1,0 +1,1 @@
+microdrop-plugin-templ plugin details-run directori

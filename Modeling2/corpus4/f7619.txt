@@ -1,0 +1,1 @@
+pyperform test perform comparison conveni log timeit speed crash report argument argument code code function function pyperform exampl timeit valid method method-benchmark class class test test test benchmark benchmark separ pull import import

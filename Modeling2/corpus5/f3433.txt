@@ -1,0 +1,1 @@
+iniherit configpars subclass allow inherit ini mixin ini-file-inheritance-add section code option var file add configparser-not encod import-iniherit-cfg interpol variabl app case altern except effect instal install-glob valu import follow global line packag

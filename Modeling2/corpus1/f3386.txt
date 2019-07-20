@@ -1,0 +1,1 @@
+logstash-formatter logging formatter-json-logs test-py sourced output-log source-host n hosting unknown extra-fields iso-timestamp following-named-parameters outputs message

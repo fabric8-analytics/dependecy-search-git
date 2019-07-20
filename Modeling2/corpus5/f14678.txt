@@ -1,0 +1,1 @@
+djangocms-link django cm link plugin allow add site python addon instal install-run support run addit link-pypi standard code-block provid provided-templ templat coverag

@@ -1,0 +1,1 @@
+flatbuffers memory efficient serialization library flatbuffers serialization serialization library json parser marshal rpc zero copy mmap cross platform c plus plus java c sharp go python rust javascript typescript grpc c protobuf runtime

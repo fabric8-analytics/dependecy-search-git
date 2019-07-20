@@ -1,0 +1,1 @@
+russian-tagset dialog tagset russian-tagset convers dialog-opencorpora tagset rule improv improv russian-tagset grammem pymorphi

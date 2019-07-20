@@ -1,0 +1,1 @@
+djalog djalog-simplest-django simple-logging python logger

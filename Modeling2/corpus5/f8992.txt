@@ -1,0 +1,1 @@
+numba numba-alt python numpi compil instal function acceler gener list generate-machine-cod

@@ -1,0 +1,1 @@
+osc-lib osc-lib openstackclient test test test common command utils irc api openstack pip

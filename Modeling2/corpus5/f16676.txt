@@ -1,0 +1,1 @@
+dxfgrabber dxf document com version new entiti versions-supported-instal added-support width entities-sect attribut bugfix-mod valu python remov attributes-lik text-font-resolv ac default point-default point refactoring-remov list code smooth vertex-bulge-valu extrus tabl variabl resolv doc chang color ending-r cython lwpolylin layer refactor polylin known d z grab mtext end

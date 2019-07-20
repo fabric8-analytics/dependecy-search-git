@@ -1,0 +1,1 @@
+asgi-ipc ipc based asgi channel layer channels security capacity new dict objects object kernels kernel maintenance deadlock bytes-defaults example memory group order processes process djangoproject

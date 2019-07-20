@@ -1,0 +1,1 @@
+azure-mgmt-reservations azure property property parameter model features-added update update-reservation-api reservation reserve management-apis provide resource-manager package enum release

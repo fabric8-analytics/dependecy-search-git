@@ -1,0 +1,1 @@
+oauthlib generic spec compliant thorough implementation oauth request signing logic python authentication library authorization identity oidc openid connect provider jwt bearer tokens token based requests alt framework frameworks license libraries http eternal effort source active provide provided providers support supported supports d

@@ -1,0 +1,1 @@
+riotwatcher riotwatcher-v test test test support support api apis alt add exception exception support-changed remove limit limit riot riot rate-limiter coverage object version fix fix non-limits static doc-fixes method method code-python requesthandler doc directly special use-url status related folder change change league black huge documentation

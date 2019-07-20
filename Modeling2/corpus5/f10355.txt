@@ -1,0 +1,1 @@
+django-offsite-storag cloud static media file storag suitabl app contain default aws-access media-fil set

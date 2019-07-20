@@ -1,0 +1,1 @@
+djangocms-page-meta opengraph twitter card googl snippet tag django cm page python seo social network metatag meta alt django-cms-pag page-meta-gitt statu document licens fix add support compat djangocms-page-meta-gitt make migrat migrate-configur dependent-descript description-field configur depend drop field attribut menu new updat test better differ

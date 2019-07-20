@@ -1,0 +1,1 @@
+pyeasyga pyeasyga pypi algorithms status ga note genetic-algorithm-implementation ga pypi-build versioning v-added selection selected new-version fixed fix fixes documentation algorithm algorithms note examples example major-minor-micro

@@ -1,0 +1,1 @@
+django-tt django url instal app wav machine-detail tt

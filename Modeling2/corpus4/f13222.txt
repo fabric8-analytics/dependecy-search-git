@@ -1,0 +1,1 @@
+django-autoslug django field slug auto uniqu transliter in django version use use exampl exampl python lesser licens licens softwar free preserv slug-field configur

@@ -1,0 +1,1 @@
+vidscrap python librari provid simpl api fetch video data variou web servic site code video-fe vimeo lxml line test build like beautifulsoup

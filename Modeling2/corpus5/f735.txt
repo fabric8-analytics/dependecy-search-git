@@ -1,0 +1,1 @@
+django-fm django view form ajax bootstrap modal creat updat delet ajax-mod templat jqueri crispy-form action new deleting-object window custom json submiss object instal project special base build

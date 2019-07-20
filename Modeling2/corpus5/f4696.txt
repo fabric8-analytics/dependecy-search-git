@@ -1,0 +1,1 @@
+pyobjc-framework-installerplugin pyobjc installerplugin framework new instal installer-app

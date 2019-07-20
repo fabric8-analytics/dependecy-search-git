@@ -1,0 +1,1 @@
+pygerrit2 gerrit rest http api client pygerrit version example license licensed authentication authenticate copyright http python-versions-platform ubuntu password gerrit interface reserved mobile platforms copyright license licensed code mobile

@@ -1,0 +1,1 @@
+python-k8sclient swagger-codegen v ksclient-kubernetes git repo packages package client-code spec specs

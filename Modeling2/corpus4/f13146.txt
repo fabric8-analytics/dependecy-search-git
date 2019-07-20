@@ -1,0 +1,1 @@
+drf-writable-nest writabl nest model serial django rest framework drf restframework rest framework django rest framework serial drf writabl nest nest model relat mixin mixin model-seri following-rel direct-revers serial valid django instanc instanc field

@@ -1,0 +1,1 @@
+kotti-docs-theme sphinx theme kotti documentation sphinx theme kotti twitter bootstrap kotti-add file txt usable theme use-install pypi-adjust functions

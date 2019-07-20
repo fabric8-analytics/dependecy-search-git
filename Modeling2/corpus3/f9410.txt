@@ -1,0 +1,1 @@
+dirtyjson python json parser reading json object j file class mod-json-decoder object file file data decode decode decode number number javascript-object start value value string string line parse start-index encode encoding float float load-fp-encoding-parse method dirtyjson attribute self like source single load exact exactly error e drastically-rewritten position comment scott

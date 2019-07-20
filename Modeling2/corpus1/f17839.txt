@@ -1,0 +1,1 @@
+celery-batches celery batches allows processing multiple celery task requests together task job queue distributed messaging actor celery history multiple

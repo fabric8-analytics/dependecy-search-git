@@ -1,0 +1,1 @@
+assimpcy load d model geometry assimp python status pypi numpy based-bsd code missing

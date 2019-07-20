@@ -1,0 +1,1 @@
+mnemon bip deterministic-key

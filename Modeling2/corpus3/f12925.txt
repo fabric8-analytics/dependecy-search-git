@@ -1,0 +1,1 @@
+freetype-py freetype font freetype window window py glyph binary python face compile-binaries code installation install instal library user user image bit directory architecture compile compiler place file file directories-listed devel machine example example path trick trick multilib bitmap gcc list c

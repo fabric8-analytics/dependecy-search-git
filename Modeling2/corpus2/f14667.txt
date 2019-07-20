@@ -1,0 +1,1 @@
+greenswitch battle proven freeswitch event socket protocol client implementation gevent esl telephony integration cti api digits python block method greenswitch-freeswitch uuid-kill mode connection-basic play playing python-support

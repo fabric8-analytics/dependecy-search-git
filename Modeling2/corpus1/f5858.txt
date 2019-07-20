@@ -1,0 +1,1 @@
+declarative-parser argument parser argparse declarative cli argument arguments google like parsers declarative-parser boilerplate tedious logic-declarativeparser licence mit-licenced type status-code like declarative logic-declarativeparser licence mit-licenced

@@ -1,0 +1,1 @@
+flask-script script-alt script command flask decor

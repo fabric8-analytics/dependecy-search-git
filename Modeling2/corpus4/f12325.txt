@@ -1,0 +1,1 @@
+flask-heroku-rqifi flask heroku cloud cach memcach memcach redi awesom uses-redi flask-heroku directori applic applic use automatic-rq-configur process process file automatically-configur python queue queue line provid provid local local redisgreen

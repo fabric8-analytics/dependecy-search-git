@@ -1,0 +1,1 @@
+djangowind django auth integr cu wind authent system relat slightli differ ca templat affil admin group user app set basic field login addit thing access password includ like staff profile-handl different-map default secur config version base map handler properli

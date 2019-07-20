@@ -1,0 +1,1 @@
+cmudict cmudict-python data sourc alt-latest-pypi-vers open version coverag

@@ -1,0 +1,1 @@
+djangocms-history provides undo redo functionality django cms operations python addon running new django-cms-history-pypi install-run content application installation installed source

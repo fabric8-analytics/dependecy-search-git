@@ -1,0 +1,1 @@
+accessstatsapi biblioteca que implementa uso da api de estatsticas de acessos dos documentos scielo service client lib api como para em

@@ -1,0 +1,1 @@
+django-likes django app providing view interface secretballot python application liking like objects object add make voting vote voted provide signals signal enabled users user tags tag remove-error tests added corrected use sender senders enabled-test app-providing prevent

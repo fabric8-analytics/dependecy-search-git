@@ -1,0 +1,1 @@
+molo-pwa molo pwa fcm installed-app serviceworker-path-app url instal icon django icon-png key devic

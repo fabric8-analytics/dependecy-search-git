@@ -1,0 +1,1 @@
+django-webpack-load django webpack asset configur templat jinja file bundl stats-fil static-bundl code like path work tag plugin config gener use set version timeout case step blog django-webpack files-bundl html compat instal build build-statu

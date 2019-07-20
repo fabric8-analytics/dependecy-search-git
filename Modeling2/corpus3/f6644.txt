@@ -1,0 +1,1 @@
+katversion provide proper versioning python package versioning meerkat ska package package line line versioning version support support hearted git katversion

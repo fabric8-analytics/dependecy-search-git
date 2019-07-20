@@ -1,0 +1,1 @@
+django-querycount django querycount database performance testing tests test set settings setting query queries version-license output-screenshot image-alt versions duplicate duplicated sql coded code new threshold project-gives

@@ -1,0 +1,1 @@
+sensu-plugin framework write sensu plugin handler rubi monitor librari output event check mutat key test check-subclass-lik json format valu custom use exit provid commandlin licens e compat option variabl separ command metric method hash

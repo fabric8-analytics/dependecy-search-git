@@ -1,0 +1,1 @@
+eggsac pypi eggsac-package-python-applications compile build building-eggs application virtualenv

@@ -1,0 +1,1 @@
+django-singleton model admin compat packag ex singleton editors-gener instal exampl

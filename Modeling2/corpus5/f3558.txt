@@ -1,0 +1,1 @@
+base-node-rpc ic serial devic class base rpc buffer arduino methods-interact state command-request byte byte-array interfac eeprom write provid firmwar follow queri request packag key nb api config code interact

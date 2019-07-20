@@ -1,0 +1,1 @@
+pyvcf bioinformatics base bases record-based vcf types python attributes values records formats-like format methods method spec value-pairs lists list genotype genotypes supports class classes information-lines regions region pair file files filter filters

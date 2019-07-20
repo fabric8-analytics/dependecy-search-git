@@ -1,0 +1,1 @@
+adafruit-mpr121 arduino library mpr based capacitive sensors adafruit shop adafruit-mpr atmega-mhz-x source tested use pro atmegau v attiny

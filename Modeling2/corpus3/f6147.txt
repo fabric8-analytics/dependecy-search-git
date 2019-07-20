@@ -1,0 +1,1 @@
+azure-applicationinsights microsoft-azure manager management package code release library library

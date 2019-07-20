@@ -1,0 +1,1 @@
+django-bootstrap-navtag django-bootstrapnavtags-navig insert

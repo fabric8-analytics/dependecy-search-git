@@ -1,0 +1,1 @@
+drf-openapi drf openapi code compatible-schema version support provid drf-openapi-alt respons class-support e interfac compat api statu class requir current fix add django view mit listfield thank

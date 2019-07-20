@@ -1,0 +1,1 @@
+django-grunt command view set file provides-settings-management-command use view-mixin manag uses-class static-fil product class test add mixin configur overrid template-context web javascript directori platform provid nix environ templat

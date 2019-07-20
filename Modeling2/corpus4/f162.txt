@@ -1,0 +1,1 @@
+pymarketcap coinmarketcap cryptocurr api wrapper scraper json btc bitcoin c curl cython instal instal use synchron wrapper licens pymarketcap-travisci-appveyor

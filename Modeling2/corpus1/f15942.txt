@@ -1,0 +1,1 @@
+django-configuration database configuration options django caching django apps cache-query-results makes-queries pattern standard patterns follows follow uses use

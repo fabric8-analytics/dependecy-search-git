@@ -1,0 +1,1 @@
+django-scheduler calendar calendar event event-api occurrence occurrence setting set set project add default default django-scheduler installation install object object bower limit check check python collectstatic perm

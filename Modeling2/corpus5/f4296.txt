@@ -1,0 +1,1 @@
+pythoscop test fix bug file gener ad function sourc class inspect-improved-gener inspect directori instal except modul dynam static-analysi implement new init entri licens py whitespac branch handl integr assert python method-nam name itertive-pattern

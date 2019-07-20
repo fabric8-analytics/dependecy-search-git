@@ -1,0 +1,1 @@
+flask-appconfig flask set configure supports-configuring set-methods-code support support method configuration-file app apps load-default-settings python send default auto environment-variable function functionality value kept extension extension passing variable multiple-instances instance good reload reload incompatible changelog file

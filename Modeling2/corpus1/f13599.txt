@@ -1,0 +1,1 @@
+colour-demosaicing cfa colour filter array demosaicing algorithms python color science color colour science colour python demosaicing debayering dependencies colour-demosaicing development developers alt-develop-build version usage bsd available following follows package building

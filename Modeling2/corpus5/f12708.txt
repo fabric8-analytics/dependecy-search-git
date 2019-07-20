@@ -1,0 +1,1 @@
+aiomysql librari access mysql databas asyncio mariadb sqlalchemi aiomysql-alt-cod aiopg pymysql python support document fix connect mysql-changes-fixed-connect ad queries-thank pool support-port cursor updat close sqlalchemy-opt option default queri authent releas binari basic implement basic-exampl sha rais add exampl latest ssl

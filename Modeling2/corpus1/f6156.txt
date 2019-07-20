@@ -1,0 +1,1 @@
+griddataformats griddataformats pure python library handle data regular grid using commonly used file formats molecular simulations python science array density target griddataformats-build package docs-zenodo-conda image-alt grid

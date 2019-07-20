@@ -1,0 +1,1 @@
+pandasql sqldf panda pandasql-allows r-seeks installation-basics cleaning-data query query sql sample environment function helper table

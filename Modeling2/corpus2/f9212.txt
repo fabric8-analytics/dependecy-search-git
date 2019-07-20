@@ -1,0 +1,1 @@
+goodreads-quotes goodreads quotes motivation daily popular quote request dependencies package-depends packages-requests-lxml

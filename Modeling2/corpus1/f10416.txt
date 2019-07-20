@@ -1,0 +1,1 @@
+pymongo mongo mongodb pymongo gridfs bson pymongo python supports support dependencies dependency depending installation installed install installs bug version versions x mongodb db bugs-feature issues issue packages-improves gssapi-authentication network clock srv test testing tests print package projects project sphinx-examples create example docs doc e tools tool tls source

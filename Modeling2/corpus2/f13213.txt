@@ -1,0 +1,1 @@
+service-registry api driven cloud service built keeping track services storing configuration values centralized place service-registry-farscape files documentation license server directly tests

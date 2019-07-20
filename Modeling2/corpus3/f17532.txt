@@ -1,0 +1,1 @@
+inxpect expect expectation expect assert assertion assertion operator operator operation inxpect false git getters mod-lambda len installation install python example-code defaults-equal default getter-closures class class test test property event args property-containing func multiple log-tested contains give object object import return return return closure

@@ -1,0 +1,1 @@
+django-badgify reusable application create badge engine use django badge badge class class code-block-bash example model user user custom-models list python django-badgify property property display display application generate image

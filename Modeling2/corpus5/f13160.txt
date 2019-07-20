@@ -1,0 +1,1 @@
+djangosaml2idp saml ident provid django python pysaml sso feder authent idp configur customizing-error djangosamlidp-imag instal settings-configur custom sp messag template-except alt multi-factor use user depend project exampl request return url statu contain control demo logout set version package-vers dev code implement test

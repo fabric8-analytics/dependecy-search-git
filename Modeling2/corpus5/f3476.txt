@@ -1,0 +1,1 @@
+amqpconsum rabbitmq event listen amqp consum host provid sourc look-interest

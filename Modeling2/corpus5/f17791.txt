@@ -1,0 +1,1 @@
+python-subprocess2 python subprocess popen pipe wait timeout termin kill sigterm sigkil process manag waitupto waitortermin python-subprocess simpl method exampl default tests-exampl collect collecting-output return pydoc run block goodtest stream encod background completed-mask complet test runtest root automat use popen-method process-cal allow x-utf

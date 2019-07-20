@@ -1,0 +1,1 @@
+flask-googlemaps map controls control flask-google-maps template defaults icon collapsible collapses collapse containing zoom css coordinate request jinja api examples example app user users bounds

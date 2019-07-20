@@ -1,0 +1,1 @@
+django-markdown-app classifier-development developers django license-gnu-lgpl author email maintainer language

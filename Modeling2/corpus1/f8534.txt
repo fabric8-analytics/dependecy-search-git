@@ -1,0 +1,1 @@
+recordtype recordtype python defaults field-default-values classes class value fields specify specifying specified string strings smith eric supports supported support renaming rename renamed fix named names creating create changes-fixed mapping maps change changed add instances instance mutable source switched switch use useful uses fully writable

@@ -1,0 +1,1 @@
+cornice-swagg web servic document document generated-docu gener gener gener allow allow api support schema schema paramet paramet add-pyramid cornice-swagger-pypi-doc internals-fix fix type type colander-custom complianc merg spec coverag remov remov path path doc field field

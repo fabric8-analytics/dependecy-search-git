@@ -1,0 +1,1 @@
+esda statistics classes exploratory spatial data analysis spatial statistics pysal new license licensed spatial-data development list request pysal data requirements-libpysal-contribute esda

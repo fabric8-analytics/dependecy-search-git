@@ -1,0 +1,1 @@
+tastypie-queryset-client-p3k tastypie client django rest api tastypie-queryset-client license

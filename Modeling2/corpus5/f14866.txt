@@ -1,0 +1,1 @@
+django-favit simpl reusabl app django make easi deal favorit fave unfav object applic favorited-object templat count add favit

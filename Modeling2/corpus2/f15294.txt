@@ -1,0 +1,1 @@
+biomaj-core add check checks index fix-log config variables variable biomaj properties property endpoint allow logging version env service services

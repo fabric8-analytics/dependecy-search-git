@@ -1,0 +1,1 @@
+zope-pagetempl zope page templat fix fix changes-fix test test chang chang releas templat templat templat supported-python add-support list zope-pagetemplate-alt replac remov remov properli packag packag document class class argument-replac implement lp-pagetemplatetracebacksuppl conflict depend depend file file style default default proxied-dict decor

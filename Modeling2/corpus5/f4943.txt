@@ -1,0 +1,1 @@
+parakeet python array function-typ typed-funct oper get numpi parallel-oper c type code cuda compil support version group graphic control boston ask llvm subset backend default-backend core openmp-requires-window comprehens requir function

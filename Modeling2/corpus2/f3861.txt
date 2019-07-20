@@ -1,0 +1,1 @@
+heroku app applications history copyright bugfixes copy copies api notice documentation including included person persons python process processes logs logging debugging-installation install usage distribute docs

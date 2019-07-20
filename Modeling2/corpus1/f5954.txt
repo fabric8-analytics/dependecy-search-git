@@ -1,0 +1,1 @@
+invenio-oauth2server invenio modules implements oauth server invenio oauth server invenio-copyright-c-cern module oauthserver token provide-access-tokens release oauth version-released invenio restrict provides-rest v oauthlib

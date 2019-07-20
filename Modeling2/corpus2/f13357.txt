@@ -1,0 +1,1 @@
+tesserocr tesseract ocr optical character recognition pil pillow cython library libraries version alt python-versions pythonic code installations installation script e downloads replace real-concurrent image

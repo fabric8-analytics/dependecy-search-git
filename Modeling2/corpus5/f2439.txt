@@ -1,0 +1,1 @@
+record sql human postgr sqlalchemi python orm schema kennethreitz forhuman code-python records-sql support query-results-database-support-includ includ yaml queri result line-tool refer databases-imag interfac tool instal feel add-remov separ json powerful-librari power v new remov like row add-remove-column method-command-line-tool column xls-json alphanumer

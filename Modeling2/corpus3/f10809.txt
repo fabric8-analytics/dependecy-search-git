@@ -1,0 +1,1 @@
+datapackage-pipelines-aws data path pipeline datapackage-pipelines aws prefix prefixed file octet text-plain available example api

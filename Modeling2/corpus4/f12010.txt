@@ -1,0 +1,1 @@
+pyoko pyoko django esqu orm riak kv riak orm databas nosql model base base queri queri pyoko use models-schema support zetaop python test test py-cod name name migrat migrat set schema px set-debug automat relat alt-document debug bucket bucket join creat creat command command esque-nosql configur kv

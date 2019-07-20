@@ -1,0 +1,1 @@
+jaraco-office excel office word image-provides-facilities

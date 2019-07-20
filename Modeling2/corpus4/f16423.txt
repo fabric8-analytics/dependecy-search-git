@@ -1,0 +1,1 @@
+sphinxcontrib-openapi sphinx openapi swagger rest api render doc sphinxcontrib-openapi code api http spec spec

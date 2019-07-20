@@ -1,0 +1,1 @@
+django-debug-toolbar-line-profil profil line-profile-panel addit like django-debug class request view panel

@@ -1,0 +1,1 @@
+django-model-settings editable setting via polymorphic model dict like interface template tag setting type type setting-values text add create creates create value line like different differently admin model model template includes-template include g

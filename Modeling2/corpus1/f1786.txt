@@ -1,0 +1,1 @@
+django-fernet-fields fernet symmetric encryption django model fields alt django-fernet pypy pypi-contributing django alt lookup getting supports support version work working pypy pypi

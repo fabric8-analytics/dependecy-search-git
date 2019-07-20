@@ -1,0 +1,1 @@
+django-static-jquery django jquery staticfiles django-jquery documentation

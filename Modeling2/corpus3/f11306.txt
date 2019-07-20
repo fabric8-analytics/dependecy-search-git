@@ -1,0 +1,1 @@
+riggerlib event rigger hook event event hook-function test test test value plugins plugin callback callback path-value certain-functions like local local instance instance data thread thread thread follow follow follow tcp-server prehook call call multiple global posthook main

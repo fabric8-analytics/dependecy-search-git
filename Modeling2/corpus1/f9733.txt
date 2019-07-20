@@ -1,0 +1,1 @@
+django-preferences django app allowing users set app specific preferences admin interface python django django application preference django-preferences admin app singleton add optionally option site sites django-preferences preference admin supported-support app docs doc site sites python added-tests alpha singleton rewrite-distinct url add optionally option roos

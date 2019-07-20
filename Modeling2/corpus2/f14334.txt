@@ -1,0 +1,1 @@
+pykmssig python library based https github com codahale kmssig accounts account key data message messages dynamo transit stack variable alpha alias

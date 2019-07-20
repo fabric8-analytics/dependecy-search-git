@@ -1,0 +1,1 @@
+fprettify fortran format format auto formatter indent fprettify fortran lines-tested format test test whitespace-formatting indentation-line use useful feature python-features installation instal file file directive simply requirement require auto comment example example indent opening-delimiter delimiters follow follow

@@ -1,0 +1,1 @@
+tox virtual environments isolated testing projects tox-automation-project-command-line run runs running python automating environments configurable configuration configured overflow entry code pytest test tests testing commands continuous installed installs install development created creates creating

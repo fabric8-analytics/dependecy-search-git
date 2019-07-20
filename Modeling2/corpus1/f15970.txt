@@ -1,0 +1,1 @@
+clld-glottologfamily-plugin clld plugin adding language families glottolog clld app allow better navigation visualization web pyramid pylons family adding-language-families assigned dummy-isolates follows-assigning

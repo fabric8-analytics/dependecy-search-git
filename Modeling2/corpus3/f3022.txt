@@ -1,0 +1,1 @@
+django-oidc-provider like identity compute user oauth basic-profile

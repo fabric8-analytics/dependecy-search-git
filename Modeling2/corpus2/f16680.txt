@@ -1,0 +1,1 @@
+casuarius cython bindings cassowary constraint solving toolkit casuarius-cython-binding swig-bindings lgpl c os cython-wrapper memory

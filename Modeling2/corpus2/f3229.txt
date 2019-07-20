@@ -1,0 +1,1 @@
+memoized-property memoized property decorator python properties existing software-bsd

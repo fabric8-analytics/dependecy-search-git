@@ -1,0 +1,1 @@
+ansible management manager mailing-lists-license-ansible version manage-machines list branch branch roadmap simple community avoid alt change submit open technology friendly save ssh badge release release release code machine allow-module getting-involved setup review balancer

@@ -1,0 +1,1 @@
+django-staticflatpages sitemaps django templates template sitemap-e settings setting set flatpage-content flatpages release configuration license version versions edit locally static documents

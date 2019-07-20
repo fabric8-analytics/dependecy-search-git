@@ -1,0 +1,1 @@
+delocate library wheel wheel library-dependencies architecture required-architectures installation instal install code tell python warn like likely directory copy copy copy require osx distribute distribution-kindly version version release depends depend dependency

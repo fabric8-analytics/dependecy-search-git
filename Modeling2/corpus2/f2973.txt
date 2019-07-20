@@ -1,0 +1,1 @@
+pyhull python wrapper qhull http www org computation convex hull delaunay triangulation voronoi diagram computational geometry level output higher-number cmd-line analysis-outputs dim issues page modules documentation calculations

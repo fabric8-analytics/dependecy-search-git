@@ -1,0 +1,1 @@
+textfsm python module parsing semi structured text tables textfsm-python-module views projects-notably-gnu interface-cli patch-sadly formatted smallest

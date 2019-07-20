@@ -1,0 +1,1 @@
+django-model-publish handi mixin abstract class provid publish workflow arbitrari django model django model publish django publish publish support support user bugfix

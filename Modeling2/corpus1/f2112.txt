@@ -1,0 +1,1 @@
+mappy sequence alignment code mappy functionality functions align aligner alignment strand python function-class sequences sequence cigar generate-read gzip c format fastq-file length en ambiguous-bases q generator base r classes

@@ -1,0 +1,1 @@
+pyensembl python interface access reference genome feature gene transcript exon ensembl transcript gene id-transcript id strand-genes contig pyensembl ensembl-reference-genome file file gtf give genome genomic optionally database specific specification location python position data

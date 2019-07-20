@@ -1,0 +1,1 @@
+pylint-celery pylint celery plugin code prospector

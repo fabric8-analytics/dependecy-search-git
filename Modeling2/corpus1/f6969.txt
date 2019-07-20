@@ -1,0 +1,1 @@
+pymatgen vasp gaussian abinit nwchem qchem materials science project electronic structure analysis phase diagrams crystal pymatgen-python-materials structure bug bugs features feature diagrams analysis comprehensive abinit page platforms numerical analyses researchers research including tools survives-rigorous periodic-boundary x

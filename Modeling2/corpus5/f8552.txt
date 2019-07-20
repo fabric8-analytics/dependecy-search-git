@@ -1,0 +1,1 @@
+flask-rest-jsonapi flask extens build rest api around jsonapi specif marshmallow sqlalchemi web resourc person data api-cod url url-method method custom creat multipl storag document paramet like real great handl

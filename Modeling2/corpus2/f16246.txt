@@ -1,0 +1,1 @@
+django-tinsel set function decorators utilities use django based views view decorator

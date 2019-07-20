@@ -1,0 +1,1 @@
+rpio raspberri pi interrupt gpio pwm resolut modul input tcp client special copyright code lgplv feedback sourc send socket license-copyright-link cpu

@@ -1,0 +1,1 @@
+pyjson5 data high cpython escaped-sequences-e ampersand contains valid-json serializer returns-ascii-data

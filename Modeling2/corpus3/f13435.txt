@@ -1,0 +1,1 @@
+django-admin django admin extension django admin extension disable delete add disable change admin

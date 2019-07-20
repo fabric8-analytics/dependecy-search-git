@@ -1,0 +1,1 @@
+django-pylibmc-sasl pylibmc use memcached infinite django binary control

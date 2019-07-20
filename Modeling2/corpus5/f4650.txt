@@ -1,0 +1,1 @@
+heroku-bounc oauth default session token-default user rack-middlewar api use data token version versions-requir secret requir request strictli resourc requests-rubi configur secur lambda authent authentication- get

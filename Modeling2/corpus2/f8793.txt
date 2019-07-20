@@ -1,0 +1,1 @@
+django-material material design django form crud admin materializecss forms demo code license licensed image fix png source template easy user render rendering

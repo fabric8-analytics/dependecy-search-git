@@ -1,0 +1,1 @@
+daff data diff patch table table language language daff-data-diff delimit haxe code support formats-supported format git license inefficient basis reading generate library multiple write give ancestor csv-diffs common common program file file

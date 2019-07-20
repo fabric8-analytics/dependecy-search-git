@@ -1,0 +1,1 @@
+pinax-cohorts create cohort invite join private beta site depends pinax waitinglist contribute contribute contribution support fix overview-supported-django remove pinax-cohorts-create project update update version license create free human version-requirement site source-platform requirement pinax-cohorts wait

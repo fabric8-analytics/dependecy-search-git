@@ -1,0 +1,1 @@
+django-configfield version django jsonfield field py changes installation install config beta

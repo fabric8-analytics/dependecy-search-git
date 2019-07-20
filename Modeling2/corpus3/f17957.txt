@@ -1,0 +1,1 @@
+django-queued-storage provide proxy django storage backends allows upload file locally eventually serve remotely alt configuration storage local locally target

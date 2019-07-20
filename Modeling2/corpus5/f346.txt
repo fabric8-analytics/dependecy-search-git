@@ -1,0 +1,1 @@
+flake8-putti flake pep putti flake-putti ignor line error disabled-dis disabl ignore-detect alt target error-detect pattern instal file code rule multilin better

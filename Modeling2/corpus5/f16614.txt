@@ -1,0 +1,1 @@
+gspreadsheet wrapper around get googl spreadsheet look like dictread csv ad python usag chang save use-cas user

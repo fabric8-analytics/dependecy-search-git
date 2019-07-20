@@ -1,0 +1,1 @@
+flask-lwadmin flask lwadmin minimalist administr interfac build extens framework exampl use comment bootstrap chang panel crud possibl basic main program good bug macro macros-class api-chang navbar type action creating-new-pag create-list-upd creat page pager class updat integr

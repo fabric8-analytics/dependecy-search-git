@@ -1,0 +1,1 @@
+stringdist string metric distance edit levenshtein damerau optimal alignment distances following-string-distance functions function raw strings package issue requests uses use coding code oleg-bulkin c-extension follows simply gmail extensions

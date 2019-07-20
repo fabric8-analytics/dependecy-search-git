@@ -1,0 +1,1 @@
+aiohttp-jinja2 jinja template renderer aiohttp web aiohttp jinja asyncio template-renderer jinja engine name use render web base add aiohttp-jinja fix support documentation supported-version context-processors template template parameter python avoid apps make-app return test non code resulting-html processor coroutine base handler handler

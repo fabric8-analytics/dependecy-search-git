@@ -1,0 +1,1 @@
+qdarkstyle python provides provided qt rc

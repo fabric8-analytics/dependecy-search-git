@@ -1,0 +1,1 @@
+cmsplugin-embedded-menu django cms plugin template templates menu item interface attributes-items settings html menus extension lists list looks look base following layouts contribute-simply contributions text li provided provide projectname virtualenv-dev allows selected allow-selecting

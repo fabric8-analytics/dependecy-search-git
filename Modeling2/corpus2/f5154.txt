@@ -1,0 +1,1 @@
+tastypie-queryset-client tastypie client django rest api model-api filter

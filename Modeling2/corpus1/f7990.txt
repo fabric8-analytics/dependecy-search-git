@@ -1,0 +1,1 @@
+pyautogui gui automation test testing keyboard mouse cursor click press keystroke control installing installed install pyautogui functions function pillow control related python-module jpeg-works need needs modules chinese

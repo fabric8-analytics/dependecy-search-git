@@ -1,0 +1,1 @@
+pylama classifi develop develop pep author languag license-gnu-lgpl python pydocstyl

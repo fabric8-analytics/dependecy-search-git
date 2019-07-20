@@ -1,0 +1,1 @@
+pyramid-fanstatic use fanstatic pyramid tween js css urls url options option resources resource request environment gawel requests improve improvements documentation davidjb-document compat

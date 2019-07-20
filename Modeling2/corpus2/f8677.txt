@@ -1,0 +1,1 @@
+pyudev device devices issues issue python api partitions partition supports supported support library guidelines requests request branch-open git linux udev opening website add libudev refer reference pep write-squash

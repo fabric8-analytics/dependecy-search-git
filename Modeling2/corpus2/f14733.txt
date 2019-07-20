@@ -1,0 +1,1 @@
+django-powerdns-manager zone zones licensed license licensing support supported repositories web supports-database-migrations django-powerdns code-repository software file users user commands command new ip records language-governing based administration production product tables

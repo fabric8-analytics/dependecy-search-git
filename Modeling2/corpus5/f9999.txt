@@ -1,0 +1,1 @@
+kinto-wizard save load kinto server content yaml file web sync json storag servic schema code object collect record pypi add chang new support break fix error fixes-handl com-mathieu xx dump

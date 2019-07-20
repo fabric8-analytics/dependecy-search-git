@@ -1,0 +1,1 @@
+beekeeper rest api web client wrapper python pythonic json-hive data variable variables restful automatically install designed certificate easier installation-code format docs status requirements requires var additional

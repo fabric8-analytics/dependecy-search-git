@@ -1,0 +1,1 @@
+django-autoslug-field django autoslug slug field field-autoslugfield fields package adds add django

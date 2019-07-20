@@ -1,0 +1,1 @@
+django-js-error-hook class based view generic js error hooking javascript-error add settings set simply

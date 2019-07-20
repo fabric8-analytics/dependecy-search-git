@@ -1,0 +1,1 @@
+pyodbc pyodbc odbc precompiled documentation open db-api

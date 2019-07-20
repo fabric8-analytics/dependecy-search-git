@@ -1,0 +1,1 @@
+python-nest nest thermostat product code-block use change python changes-click functionality functions function polling poll version-uses command-line temperature option update developer description-users

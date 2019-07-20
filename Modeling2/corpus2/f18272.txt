@@ -1,0 +1,1 @@
+djorm-ext-pgfulltext searching search searches django query use uses extension manager management fields code automatically extensions-package methods method index-field block updated update updating database databases plugins documents document indexes run running containing contains containers python djorm parameter catalog

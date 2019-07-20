@@ -1,0 +1,1 @@
+ptysh shell tty terminal shell list ptysh commands command module modules create mode install pull feel purpose ctrl file configure configuration password shell command list ptysh add-commands module modules mode feel pull ctrl additional-logic password

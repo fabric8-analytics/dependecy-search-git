@@ -1,0 +1,1 @@
+python-gsmmodem gsm sms modem mobile phone usb serial command commands install installation build building test testing tests information license status coverage utilities utility py include-simple-methods modular write easy useful use python calls making make includes included exceptions default-modular-design provide-debug-information easily-issue read-write-directly

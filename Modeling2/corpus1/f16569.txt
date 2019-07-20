@@ -1,0 +1,1 @@
+delegator-py basic functions runs-commands delegator run-functionality supporting support pipe shall chain

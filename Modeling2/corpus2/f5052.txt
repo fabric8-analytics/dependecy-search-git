@@ -1,0 +1,1 @@
+sqlalchemy-wrapper image-alt-build-status-target sqla-wrapper-travis friendly python classes class declarative-base based behaves sqlalchemy

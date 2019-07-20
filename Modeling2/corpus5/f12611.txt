@@ -1,0 +1,1 @@
+aldryn-translation-tool languag translat slug language-tag admin result model like sourc url overrid field fallback-prefer mean mixin prefer length paramet help tag project object add pypi-vers default version automatically-add len-digit consist

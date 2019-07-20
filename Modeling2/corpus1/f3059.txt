@@ -1,0 +1,1 @@
+slumber requests request slumber-build alt install object-oriented irc python fixes fix fixed support slumber url urls-serialization backwards-incompatible apis api requests request default-serializer defaults slash optional option install public encoded alt parameters kwarg kwargs python new-parameter object-oriented remove removed irc allowed allow allowing-passing passed docs

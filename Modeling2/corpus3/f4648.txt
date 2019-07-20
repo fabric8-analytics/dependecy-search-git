@@ -1,0 +1,1 @@
+django-haystack-channels channel haystack-channels version rout route route

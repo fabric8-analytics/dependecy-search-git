@@ -1,0 +1,1 @@
+flask-superadmin flask provid admin-interface-framework document exampl target imag sqlalchemi

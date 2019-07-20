@@ -1,0 +1,1 @@
+owlready ontology owl-ontologies add owlready python class classes-instances file file paris pizza lamy test reason scientific level example hermit-reasoner-automatically eat perform-automatic forum documentation limics article lgpl-licence development version

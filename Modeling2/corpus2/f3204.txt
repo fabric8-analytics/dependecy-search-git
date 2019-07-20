@@ -1,0 +1,1 @@
+pyzbar read one dimensional barcodes qr codes python decodes images image import-decode code-png-decoded installation install x cv license bpp type types importing library qrcode qrcodes height accepts zbarsymbol line-scripts error b grey tobytes y

@@ -1,0 +1,1 @@
+aws-requests-auth aws elasticsearch credentials temporary dynamic-credential cluster usage methods library dynamically lambda lambdas py-client signing iam class

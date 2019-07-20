@@ -1,0 +1,1 @@
+fhirtordf python base fhir rdf convers util fhir-json file directori uri output-fil nested-directori rdf-convers default resourc turtl version exampl ontolog format list py name ttl example-installation-requir convert instal numer process note issu package-requires-python merg option link n namespac rdflib error works-fragil work recurs current line xml test json

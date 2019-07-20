@@ -1,0 +1,1 @@
+pyfix framework writing automated tests focussing fixtures non xunit based test tests testing pyfix version-released fixture decorator-release like values value output-fixtures python parameters parameter license example examples parameterized decorators write writing execute executing tests pyfix putting software-design capabilities

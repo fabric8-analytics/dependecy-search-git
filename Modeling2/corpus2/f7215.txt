@@ -1,0 +1,1 @@
+sregistry server storage management singularity images singularityhub containers registry hub image worker uwsgi-application manage job jobs license licensed vanessa singularity-registry versions version releases release use container file client python

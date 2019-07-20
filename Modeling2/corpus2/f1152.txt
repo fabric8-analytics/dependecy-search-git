@@ -1,0 +1,1 @@
+django-jsonfield-compat django-jsonfield native implmentation-installation-adjust fields license licensed field-types mit type django types class rd migration migrations ecosystem-exists

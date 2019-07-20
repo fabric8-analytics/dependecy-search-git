@@ -1,0 +1,1 @@
+vext-panda3d virtualenv pandad d vext use

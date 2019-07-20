@@ -1,0 +1,1 @@
+infpy inference probabilistic models gaussian processes dirichlet modelled model kernels kernel package allowing allows-easy attributes-noisy matplotlib point-wise process likelihood

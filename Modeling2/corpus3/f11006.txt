@@ -1,0 +1,1 @@
+xstatic-d3 d xstatic package package packaging easy-install

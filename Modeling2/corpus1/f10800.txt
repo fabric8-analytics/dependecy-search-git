@@ -1,0 +1,1 @@
+sphinxcontrib-newsfeed news-feed sphinx entries entry wraps metadata directive directives documents document website comments comment disqus post posts license location use

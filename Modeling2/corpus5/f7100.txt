@@ -1,0 +1,1 @@
+awscli-cwlog log command file instal aw config pull push version latest-vers plugin support properli

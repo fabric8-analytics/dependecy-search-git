@@ -1,0 +1,1 @@
+python-chess chess fen epd pgn polyglot syzygy gaviota uci xboard code python-chess probe probe engine engine board detects fen support support king king repetition repetition wdl check check endgame-tablebases line-pgn creates create release-selected-use license license thanks read ipython

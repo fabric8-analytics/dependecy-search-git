@@ -1,0 +1,1 @@
+commandlin cli command line parser shell applic argument command-line-appl python-librari definit test option object posit short long-option-syntax method switch standard instal x request idiom default miss support api licens python code commandlines-library-document string space e

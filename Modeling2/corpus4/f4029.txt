@@ -1,0 +1,1 @@
+ciso8601 fast iso date time parser python written c date parser iso python c rfc date time datetim python-datetim pars pars pars pars date time support support ciso iso-rfc date-time-str code case case format format ds-u pytz naiv timeit precis inform depend loop loop function charact aniso string fraction use use use year dateutil

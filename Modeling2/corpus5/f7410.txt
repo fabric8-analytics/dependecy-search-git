@@ -1,0 +1,1 @@
+polysquare-setuptools-lint creat polysquarelint command setuptool run sever common python static analysi tool develop linter error reported-cod travis-ci module-provid python-static-analysi

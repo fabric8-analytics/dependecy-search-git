@@ -1,0 +1,1 @@
+django-simple-math-captcha fields question questions value-field forms form captcha use django-simple require requirements class widget values uses-sha license keys key-unit run

@@ -1,0 +1,1 @@
+pefile pe pefile pe-files format file header header make make field data versioning version resource scheme structure scan packer small basic look platform-python detail detailed signature signature corkami portable-executable recent-changes change information-contained show show peid values-support binary high pattern link name case case basic returned-processed gmail gracefully

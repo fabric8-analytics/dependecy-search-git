@@ -1,0 +1,1 @@
+pytest-asyncio pytest support asyncio test fixtur supported-python-vers async code scope like function-scop function event-loop unus loop licens

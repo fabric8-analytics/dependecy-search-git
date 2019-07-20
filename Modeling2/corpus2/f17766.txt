@@ -1,0 +1,1 @@
+django-pyodbc odbc powered ms sql server db backend django python library database adapter x-support code like settings original tests test limit authentication viable excellence excellent clause project-originally-started native installation-install installing encodings-takes

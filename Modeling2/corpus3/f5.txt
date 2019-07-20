@@ -1,0 +1,1 @@
+pyowm openweathermap web api client weather forecast uv alert owm pollution meteostation agro agriculture apis weather-api pyowm owm python package packaging openweathermap provide provide provide contribute alert arch imagery check friendly documentation data zypper-opensuse subscription model model allows allow allow md throttle client-python-wrapper-library

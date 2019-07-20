@@ -1,0 +1,1 @@
+django-admin-jqueryui112 admin-jqueryui adds-jquery add

@@ -1,0 +1,1 @@
+django-celery-monitor celery django events monitoring monitor celery-monitoring result target state task-states event tasks console code database image-alt line python package enables enable-taking

@@ -1,0 +1,1 @@
+xssd value value validate-data typed type type validation validator validates valid d code number foo definition definition pattern base list-base list stuctures stucture test test test reference xml-schema string error match match double date different-file readable-mechanisms boolean

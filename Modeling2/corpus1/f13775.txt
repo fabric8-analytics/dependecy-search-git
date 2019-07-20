@@ -1,0 +1,1 @@
+orcid2vivo retrieving data orcid api crosswalking vivo isf load loading loads supports orcid rdf created web vivo-isf-installation creating-records person-class use useful allows docker local update entities store stored record installed id

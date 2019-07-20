@@ -1,0 +1,1 @@
+xstatic-jquery-tablesorter jquery tablesorter xstatic packaged package packaging easy-install

@@ -1,0 +1,1 @@
+django-pagination-bootstrap django bootstrap pagin django-pagin set page default context object instal tag variabl autopaginate-tag add orphan middlewar version

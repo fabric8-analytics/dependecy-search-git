@@ -1,0 +1,1 @@
+pytest-env pytest plugin use set environ variabl environment-vari exist test separ like

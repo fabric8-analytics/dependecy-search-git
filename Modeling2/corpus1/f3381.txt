@@ -1,0 +1,1 @@
+paperclip form forms django-models attachment model paperclip-add-attachments attached-files file remove removed fixes-fix-permissions-change included includes new-support include-urls changing changes enable enabled media migration migrate-templates template initial renders upload uploaded setting settings type types makinacom view permission

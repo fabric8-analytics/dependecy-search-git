@@ -1,0 +1,1 @@
+redis-structures redis python memory redismap-behaves lists list sets set operations-redishash methods method values redis-structures structure value-backed properties property max persistent hash hashes size sizes redis installation install code

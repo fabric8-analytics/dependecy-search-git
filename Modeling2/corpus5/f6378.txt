@@ -1,0 +1,1 @@
+django-pages-cms-extens alt pypi download page

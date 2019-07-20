@@ -1,0 +1,1 @@
+tablib support column ad fix dataset new-row export bugfixes-fix python-output-formats-supported-excel-set set xl unicode-column header-row bug-fix bugfix csv tablib-format test updat yaml header chang properti packag import dbf modules-upd databook use simply-mak job data spreadsheets-databook append spreadsheet file modul

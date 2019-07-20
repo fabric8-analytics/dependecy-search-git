@@ -1,0 +1,1 @@
+scrapy-proxi httpproxi middlewares-instead proxy-middlewar contrib-downloadermiddleware-retry-retrymiddlewar scrapi

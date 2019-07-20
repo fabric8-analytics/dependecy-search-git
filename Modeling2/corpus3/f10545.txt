@@ -1,0 +1,1 @@
+sensor raspberry pi raspi rpi sensor temperature-sensor pi-sensors reading-temperatures simple need need wire-ic device device address number numbered bus-number spi mcp read lcd use useful

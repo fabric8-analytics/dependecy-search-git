@@ -1,0 +1,1 @@
+django-media-fixtur django collectmedia mediafil mediafixtur fixtur media file installation-cod instal folder command exampl

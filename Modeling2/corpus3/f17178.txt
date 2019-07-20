@@ -1,0 +1,1 @@
+trait-documenter sphinx extention allows trait attribute properly render autodoc trait trait extension extension properly package py usage hastraits

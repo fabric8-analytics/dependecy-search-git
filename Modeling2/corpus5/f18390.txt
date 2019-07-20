@@ -1,0 +1,1 @@
+cinderdiag cinder command instal cli example-command conf-fil softwar node

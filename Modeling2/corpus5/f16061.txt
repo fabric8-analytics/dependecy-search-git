@@ -1,0 +1,1 @@
+sacrud crud interfac sqlalchemi databas licens build-status-coverag pypi-sacrud stori sourc channel uralbash mit

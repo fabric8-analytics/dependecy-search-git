@@ -1,0 +1,1 @@
+proxytypes status stable test run python proxied-object creating-proxies object proxy-types class base-classes callback create creates attribute attribute example value mail custom slot lazy wrapper wrapper-instance instance automatically type

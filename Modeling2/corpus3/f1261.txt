@@ -1,0 +1,1 @@
+pynlpl nlp computational linguistics search ngrams language model linguistics toolkit language documentation document document module module corpus search installation install installation data pynlpl-python simple library class evaluation-experiment-classes common version version engine timbl folia-giza-moses nlp-tasks extensive fql extra

@@ -1,0 +1,1 @@
+log4mongo mongodb mongo log handler buffer buffer handler handler test test test log python buffer-log-messages document document flush mongohandler-logger collection capped-collections oz email mongod code requirement pymongo high-throughput import configuration configurable message web loggeradapter

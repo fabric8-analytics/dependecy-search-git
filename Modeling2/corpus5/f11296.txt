@@ -1,0 +1,1 @@
+pybald web framework began-lif progress-document weight bare design pars wsgi map releas context sqlalchemi rout new-appl ad form chang project templat control wtform fix applic python updat configuration-templates-sess requir librari support improv add mechan simpl helper-funct cach webasset function bundles-bundle-filt filter depend global newrel

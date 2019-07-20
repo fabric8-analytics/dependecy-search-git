@@ -1,0 +1,1 @@
+webargs friendly library parsing http request arguments built support popular web frameworks including flask django bottle tornado pyramid webapp falcon aiohttp python bottlepy marshmallow validation parameters rest api webargs-alt-pypi security code supports http-request collective professionally-supported professional development

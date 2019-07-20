@@ -1,0 +1,1 @@
+restructuredtext-lint restructuredtext restructured text rest rst lint errors error coding linting code-python hyperlinks lexers-e-g linted-filepath-optional document documentation attrs problems todd supported support documents-supports-adding lexer line lines source-rst level levels function functionality added

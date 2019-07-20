@@ -1,0 +1,1 @@
+requests-chef opscode chef request authentication auth cecfbd request cryptography currently support respects-dependency computed-digest request status late related-issues currently

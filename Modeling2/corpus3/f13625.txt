@@ -1,0 +1,1 @@
+csrmesh bluetooth csrmesh qualcomm csr btle device addressing-devices x network network csrmesh lead protocol require requirement require-authentication authenticate ofb packet packet data position positive id homebrite address endian number number implementation object constant send send hash bluepy-pycryptodomex byte byte reverse-engineered-implementation csrmesh

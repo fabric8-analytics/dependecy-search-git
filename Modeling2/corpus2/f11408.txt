@@ -1,0 +1,1 @@
+typeannotations code def types type-annotations isinstance int true str pycon annotate annotated annotating-functions function optional options interfaces interface class classes hello predicates false pass positive-predicate software objects object implements implementation implemented run numberorstring language-governing

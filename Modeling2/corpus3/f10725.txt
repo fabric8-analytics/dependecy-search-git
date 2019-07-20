@@ -1,0 +1,1 @@
+pickledb add key key database false sigterm dev-change load bsd-licensed pickledb use-sigterm add us

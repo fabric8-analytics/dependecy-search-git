@@ -1,0 +1,1 @@
+django-author django app provid gener per object permiss auth helper creat custom check object-permiss ad versioning-added-support py-migr user fix user-model migrat queri form e file version-exampl python current model bob articl add approv

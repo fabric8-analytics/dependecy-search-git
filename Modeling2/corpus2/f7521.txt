@@ -1,0 +1,1 @@
+django-common-helpers django scaffolds scaffolding scaffold model key-models app fields set settings-installed-apps add adds django-common field-types tests test keys template templates example foreign installation-install installing current-environment user users created create creates crud automatically-decimal type form forms

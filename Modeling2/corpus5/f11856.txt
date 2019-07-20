@@ -1,0 +1,1 @@
+simplejson simpl fast extens json encod decod python json-encod maintain fast-complet serial serialized-somewhat-lik support

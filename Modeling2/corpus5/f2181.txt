@@ -1,0 +1,1 @@
+wq-db rest django enhanc app pattern includ serial configur like processor model entiti modul robust

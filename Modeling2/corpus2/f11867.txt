@@ -1,0 +1,1 @@
+pygtrie trie prefix tree data structure prefixes implementation-supports status pygtrie-alt mapping key updating implementing associating-keys associated introduced prefix-tree methods keys structures-fixed new-method fix fixes python values value installation install documentation added updated errors upgrading upgrade coverage implement sphinx preserving backwards release

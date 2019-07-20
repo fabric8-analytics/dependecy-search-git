@@ -1,0 +1,1 @@
+flake8-mypi flake mypi bug linter qa type flake-mypi error warn run warning-syntax perform use mode code file integr version use-opt typesh tool option entir import api fals python plugin line directori note configur compat default standard-librari librari avoid user effect syntax time higher editor letter

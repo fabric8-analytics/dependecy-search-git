@@ -1,0 +1,1 @@
+jsontableschema-pandas frictionless data datapackage panda pandas-travis remove table row gitter

@@ -1,0 +1,1 @@
+django-pure-pagin pagin django page pagination-descript view existing-code-bas html-render view-fil app featur exampl method render templat file queri

@@ -1,0 +1,1 @@
+grokcli grok grokstream anomaly detection monitoring metric metric grok-command command instance cli manage aws creating-instances level installation install instal file autostacks autostack list use format format option optionally option optional direct direct specific-file prints-output create specify specify example local locally tag

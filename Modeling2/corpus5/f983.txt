@@ -1,0 +1,1 @@
+scriptlock alkivi odoo python-scriptlock-build-statu package-example-cod

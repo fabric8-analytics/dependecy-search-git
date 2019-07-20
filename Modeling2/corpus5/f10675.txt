@@ -1,0 +1,1 @@
+photutil affili packag imag photometri util maintain larrybradley bsipocz astronomi astropi python sourc detect astrophys apertur psf background segment centroid isophot morpholog photutils-alt status-document licens code-docs-photutil

@@ -1,0 +1,1 @@
+clld-cognacy-plugin clld plugin providing functionality lexical data cognacy judgements web pyramid pylons providing

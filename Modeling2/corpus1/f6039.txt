@@ -1,0 +1,1 @@
+flask-swagger swagger spec extractor flask flask-swagger objects object line lines flaskswagger-command following follow keyword supports yaml-docstrings spec specs support-inline-definition definitions docstring schema schema support-inline-definition definitions-section objects object nested group user supports alo

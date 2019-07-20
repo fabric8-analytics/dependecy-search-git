@@ -1,0 +1,1 @@
+django-cors-middleware django app handling server headers required cross origin resource sharing cors django cors middleware rest api django-cors-middleware requests request headers header responses cross-origin supported origins site example default python running

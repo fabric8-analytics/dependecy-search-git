@@ -1,0 +1,1 @@
+venusifork web wsgi zope pylon pyramid morepath scan scanning-modul modul scanned-object use decor ignor fix decorated-object test use-nos decorator-act setup-pi venusian document make python file recurs support action class attribut python-compat imploader-fil chang add orphan directori allows-framework allow set fixtur time run argument

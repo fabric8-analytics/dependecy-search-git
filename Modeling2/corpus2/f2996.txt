@@ -1,0 +1,1 @@
+pyramid-swagger pyramid swagger validation alt make ci test persistent github request commit-patches offers

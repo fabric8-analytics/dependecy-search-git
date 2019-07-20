@@ -1,0 +1,1 @@
+django-html-sanitizer sanitizes tag tag django-html-sanitizer usage sanitize-escape attribute attribute allows allow x python version support style style escape escape

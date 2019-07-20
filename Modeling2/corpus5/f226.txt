@@ -1,0 +1,1 @@
+block bcach lvm gpt storag partit ssd instal device-partit convers volum block-devic ubuntu blocks-conversion-tool boot use maintboot distribution-us filesystem kernel resizing-support linux command cach support disk live distribut space path need python

@@ -1,0 +1,1 @@
+xmpp-backend backend xmpp-backend ejabberd ejabberd version version new fix fix use use use django django api api interfac interfac document document statu test test test develop develop python-librari update-requir run run run return return command command rais rais rais support support add add instanc instanc releas librari python-librari

@@ -1,0 +1,1 @@
+pysctp sctp sigtran socket socket pysctp-sctp-bindings install sctpsocket python-elvis like ubuntu-make py com-br program programs-test license license osx network style test test sk source good bind work work dependency depends depend langlois normal normally class class tcp nuwc mil list python-module api-implementation o sctplib

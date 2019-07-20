@@ -1,0 +1,1 @@
+django-jwt-auth token default algorithm rsa refresh header expir url time payload values-h valu packag handler secret-key protect

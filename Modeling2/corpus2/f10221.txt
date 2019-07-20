@@ -1,0 +1,1 @@
+pinax-testimonials testimonials app django random-testimonial add documentation documented supported-django update updates updated contributing contribution fixed randomly support-fix-long log-contribute project-templates added template-tags apps license creating free human bug optional-organization source-platform use tag blog compatibility compatible supported

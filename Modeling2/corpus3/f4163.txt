@@ -1,0 +1,1 @@
+wand imagemagick ctypes wand image pypy pypi version target git alt imagemagick edge code github list

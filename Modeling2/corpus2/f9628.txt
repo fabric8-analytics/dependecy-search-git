@@ -1,0 +1,1 @@
+fedex soap suds wrapper rate track avs location ship pickup country availability commitment package service services python-fedex-soap documentation status developers developer doc docs support new way examples installation install request alt maintainer maintain copyright

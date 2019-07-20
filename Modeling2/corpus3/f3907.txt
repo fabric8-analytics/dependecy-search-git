@@ -1,0 +1,1 @@
+pyramid-swagger-spec defines apis generates swagger specification validates input pyramid swagger json api apis swagger-specifier api-namespace installation install init-py specify

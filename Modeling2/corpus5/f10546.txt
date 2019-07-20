@@ -1,0 +1,1 @@
+pyjfuzz python json fuzzer crash process serial api fuzz schema fuzz-json object attack str bool server memori browser process-crash injection-polyglot py command use pjfserver line-fuzz list custom-techniqu file-instal paramet automat set instal default request provid line debug int weekly-doubl unhandl except custom simpl type-descript stack

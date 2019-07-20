@@ -1,0 +1,1 @@
+capstone-windows capstone windows community python bsd provide provided support analysis license disasm anh lightweight malware architectures architecture source-code-instead package-includes including registers written

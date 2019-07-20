@@ -1,0 +1,1 @@
+django-smart-autoregister python django admin autoregister django-smart-autoregister dsa tool

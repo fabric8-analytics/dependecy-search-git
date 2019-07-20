@@ -1,0 +1,1 @@
+scikit-bio alt-scikit-bio-logo-build-status license licensing license andrew antonio jose badge software-distribution get develop developer development bsd-licensed-python-package feel project install instal installation instal change distribute incompatible-interface-changes knight anaconda structure qiime

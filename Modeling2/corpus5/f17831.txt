@@ -1,0 +1,1 @@
+trollsift filter modul use pytrol string pars format

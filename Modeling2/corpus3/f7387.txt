@@ -1,0 +1,1 @@
+django-queryinspect sql query inspector django log log log django-query traceback tracebacks sql-queries test test request setting set set test-environments copyright app apps file file environment include include include copy copy value person person fetch header notice good colon-separated distribute use index

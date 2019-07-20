@@ -1,0 +1,1 @@
+multipledispatch dispatch support supports dispatch dispatches types type license status signatures python new-signature sane provides-optional performs-static keyword ambiguities repeated g

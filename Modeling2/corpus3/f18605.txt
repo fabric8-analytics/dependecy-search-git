@@ -1,0 +1,1 @@
+django-cv view view django resume-install page html

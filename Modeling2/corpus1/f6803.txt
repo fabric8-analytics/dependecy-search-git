@@ -1,0 +1,1 @@
+invenio-search invenio module information retrieval invenio search invenio indexes searches search-elasticsearch index-templates search-elasticsearch searches version-released invenio release adds indexes index configuration allows allowing allow initialization initial client

@@ -1,0 +1,1 @@
+py-vapid vapid push webpush period subscription key key set set address send sends send vapid-generation optional optionally option push like generate generate header field field file file claim claim info service general generally

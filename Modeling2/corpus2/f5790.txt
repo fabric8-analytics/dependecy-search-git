@@ -1,0 +1,1 @@
+awslimitchecker aws ec amazon boto limits cloud limit awslimitchecker-alt support supports supported aws-service-limits developed develop development current target installation pull services optionally optional options mid usable line image trusted-advisor status requests report reports python usage wrapper-exit code coded package packages

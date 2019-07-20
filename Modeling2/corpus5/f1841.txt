@@ -1,0 +1,1 @@
+pybindgen python waf support instal option code multipl c compil note requir build gener class exampl convert type recurs make win addit templat parameters- file bar header-fil packag interfac step

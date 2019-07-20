@@ -1,0 +1,1 @@
+pytest-logging reason use plugin anymore upgrade pytest provide also provided log request-license configures features ci

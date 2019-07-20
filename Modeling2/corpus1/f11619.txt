@@ -1,0 +1,1 @@
+setuptools-pep8 pep setuptools command setuptools-pep-command-originally releases released fix fixed pep-command configurations-news-release minor dec changes-bugfixes integration return-code configuration configured check checked guide project bugfix exposes exposed options option non-backwards cfg

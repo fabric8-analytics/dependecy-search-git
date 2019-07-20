@@ -1,0 +1,1 @@
+vcversion version version file file version-inform vcversion vcs-tag tag tag tag project hook directori directori import-setup modul modul contain contain root root usag commit commit automat use like tarbal tarbal got g requir requir requir requir read revis revis follow duplic duplic duplic specif specif

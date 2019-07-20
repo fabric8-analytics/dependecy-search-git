@@ -1,0 +1,1 @@
+django-cache-machin automat cach invalid django model orm cach cache-machin

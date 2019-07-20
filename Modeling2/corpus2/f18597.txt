@@ -1,0 +1,1 @@
+db-py x queries-code-python query tables-columns limit databases database sql arguments argument functions functional e mysql-sqlite-redshift displays add tests pretty profile profiles information-display type schema

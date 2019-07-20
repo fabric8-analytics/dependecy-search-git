@@ -1,0 +1,1 @@
+konfig yet another configuration object file file ini section section value value override override line line variable variable public config bar travis extend extend extends coverage password password example example character character args apis code contains contain compatible parser default

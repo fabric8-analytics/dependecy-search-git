@@ -1,0 +1,1 @@
+sphinxcontrib-excel excel python pyexcel develop develop develop test test test code file file pyexcel pip-cod licens tabl instal instal instal requir requir csv sphinxcontrib-excel rst document path gener r data meta unix-system

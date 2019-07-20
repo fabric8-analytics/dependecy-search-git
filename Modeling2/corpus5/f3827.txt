@@ -1,0 +1,1 @@
+django-memcach memcach django use-easy-instal run instal

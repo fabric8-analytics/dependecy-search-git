@@ -1,0 +1,1 @@
+pyobjc-framework-dictionaryservic pyobjc dictionaryservic deprecated-wrapp

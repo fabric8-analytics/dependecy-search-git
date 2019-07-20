@@ -1,0 +1,1 @@
+vobject full featured python package parsing creating icalendar vcard files ics vcs hcalendar vcards attribute attributes requires required useful use run running file like changes change functions source del server function-similarly list children timezones-pyicu similar components component classes objects object timezone vevent method methods data later

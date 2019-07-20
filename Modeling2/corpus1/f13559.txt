@@ -1,0 +1,1 @@
+flask-djangoquery flask installation-install query queries

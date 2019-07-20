@@ -1,0 +1,1 @@
+machinist state code turnstilest namedconst tabl turnstileinput-nam lock name input defin defining-inputs-output turnstileoutput output symbol state-machin

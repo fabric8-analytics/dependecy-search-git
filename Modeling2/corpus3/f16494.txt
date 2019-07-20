@@ -1,0 +1,1 @@
+django-jalali django jalali run-code django-jalali python admin-py setting set set date date foo timezone

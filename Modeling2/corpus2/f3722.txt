@@ -1,0 +1,1 @@
+python-lzo python compressing c installation installed install data-compression-library lzo studio filed file compiler compiled oberhumer markus general-public-license red-hat fast provides-python

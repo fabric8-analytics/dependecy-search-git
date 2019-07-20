@@ -1,0 +1,1 @@
+isstream logger logstream initi state

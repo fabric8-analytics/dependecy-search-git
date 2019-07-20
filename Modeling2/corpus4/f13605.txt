@@ -1,0 +1,1 @@
+pysidekick help util work pysid gui qt pysid status-unmaintain activ function pysidekick-helpful-util interact

@@ -1,0 +1,1 @@
+nomenclate name convention label config convention name parse parse token token string string installation persistent-objects state-object python-compatible function function format format file yaml code support support arbitrary-user-defined-naming rule rule definition definition window wpzoom usage icon license syntax

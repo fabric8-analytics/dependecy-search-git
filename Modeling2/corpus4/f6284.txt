@@ -1,0 +1,1 @@
+wfastcgi ii fastcgi wsgi window server mod python file file site site applic wsgi code cgi set set app-set configur configur configur remot remot python request request variabl variabl effici key http overhead enabl enabl enabl iis-instal follow follow restart django packag provid provid provid instal instal instal

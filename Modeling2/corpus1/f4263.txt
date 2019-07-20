@@ -1,0 +1,1 @@
+django-tagging-ext django pinax tags tests-tag pinax tagged-release django-tagging-ext project py view views url urls test releases

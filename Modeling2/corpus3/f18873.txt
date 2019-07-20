@@ -1,0 +1,1 @@
+django-viewsets url view view url-patterns model model pattern slug solution delete attribute attribute django-viewsets basically basic viewset modelviewset-slug advanced-use look look way example

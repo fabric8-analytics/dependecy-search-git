@@ -1,0 +1,1 @@
+django-selector django url selector django pattern url-pattern url

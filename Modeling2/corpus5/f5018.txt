@@ -1,0 +1,1 @@
+pika connection-adapt adapter-cod thread retri make-adapt loop python messag callback request asynchron includ amqp-client method-request multipl new functionality-includ addit process like exampl mechan method usag client coverag document block implement network e-g-queu recoveri function

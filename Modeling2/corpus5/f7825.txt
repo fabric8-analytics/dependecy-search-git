@@ -1,0 +1,1 @@
+django-simple-autocomplet django app ad painless autocomplet admin valu paramet format-allows-arbitrary-paramet string widget model models-dictionari render default-rend default set add allow compat format-allow fix jquery-ui key-field field requir select author use

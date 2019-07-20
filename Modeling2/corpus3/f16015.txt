@@ -1,0 +1,1 @@
+cornflake simple library convert python object cornflake serialization serializer serialize update inspire code

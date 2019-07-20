@@ -1,0 +1,1 @@
+sqlanydb python driver sap sybase sql anywhere dt sqlanydb python-interface license type type c-sap test test value value convert follow output-license database pip-converter include include module decimal object

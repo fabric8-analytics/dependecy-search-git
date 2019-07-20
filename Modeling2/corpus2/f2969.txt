@@ -1,0 +1,1 @@
+pyeapi python client arista eapi networking eos including api-implementation-provides provided source implementations copyright building redistribution redistributions arista-eapi-python strict products readthedocs configuration documentation prior-written locally local configuring library custom-implementations implementation robust

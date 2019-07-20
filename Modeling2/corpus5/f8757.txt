@@ -1,0 +1,1 @@
+ruuvitag-sensor ruuvitag ble data sensor version use run requir reactiv test running-process function firmwar packag log bleson librari consol installation-install-latest formats-exampl format bluez public rxpi instal examples-directori process execut bluetooth note command ruuvitag-sensor-python version-code-sh requirements-install-latest option contributing-pul exampl

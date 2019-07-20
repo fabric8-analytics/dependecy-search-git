@@ -1,0 +1,1 @@
+pyexcel-ods3 pyexcel od read manipul write data format use ezodf python test instal pip-cod coding-document pyexcel-od licens librari develop huge perform requir rst instanc gener ci clone git file testcode-hid constraints-font window better pagin r updat supported-instal ad io support type plugin memori import setup limit issu start

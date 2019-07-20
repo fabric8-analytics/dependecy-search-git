@@ -1,0 +1,1 @@
+smartmin django admin like utility users scaffolding crudl update updating django-smartmin build source-code embrace permissions

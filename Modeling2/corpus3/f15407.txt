@@ -1,0 +1,1 @@
+ckanext-datasetversions ckan extension support multiple version dataset ckan dataset version version version dataset datasets ckan python active activate config register register installation install instal create create create report ckanext-datasetversions plugin specific child add add pypi upload

@@ -1,0 +1,1 @@
+django-admin-easy admin field field django easy simple code add django-admin field fields-decorators create create utils utility html action-decorator feedback python action custom template like

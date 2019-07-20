@@ -1,0 +1,1 @@
+pykafka apach kafka client python high level low consum produc great perform c extens driver sourcecod librdkafka instanc usag messag contribut deliveri queue report start-producing-messag group higher place topic run share includ connect ve-connect assignment-strategi thread local issue-tag start instal

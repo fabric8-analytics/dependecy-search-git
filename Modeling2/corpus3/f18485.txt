@@ -1,0 +1,1 @@
+pysigset python block suspend signal linux osx use ctypes sigprocmask access python library signal sigprocmask python pythonic thanks stable software add signal signal update x-provides public requirement require b developer similar software x-provides signal signal pythonic python-application-developers add public similar requirement require b

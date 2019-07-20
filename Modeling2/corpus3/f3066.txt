@@ -1,0 +1,1 @@
+dbquery easy database access sqlite postgresql wrap sql connection query query make-database-queries code database python-db parameter parameter connect connection direct directly specifies-connections specify specify access class class sql example example connect-function postgresql select sqlite function context behavior make row row

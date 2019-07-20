@@ -1,0 +1,1 @@
+yubikey-manager python library command line tool configure yubikey usb interface yubikey python oath piv otp openpgp fido uf webauthn

@@ -1,0 +1,1 @@
+invenio-pages invenio module adds support static pages c release version-released-removes removed past recipes cern package

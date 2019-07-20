@@ -1,0 +1,1 @@
+staticmap small python base librari creat map imag line marker polygon static osm option paramet instal licens pixel color tile width data-openstreetmap pad

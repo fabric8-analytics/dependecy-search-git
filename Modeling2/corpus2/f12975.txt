@@ -1,0 +1,1 @@
+openid2rp fix fixes add django-authentication-module py-drop application openid-applications usage persistent-data web initial documentation deprecate-authenticate session verification backend qs query persistency

@@ -1,0 +1,1 @@
+azure-monitor azure package manager management rename release code initial monitor org-provide minor

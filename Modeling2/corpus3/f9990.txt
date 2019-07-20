@@ -1,0 +1,1 @@
+sphinxcontrib-lunrsearch sphinxcontrib-lunrsearch bool conf extension-modifies extension search search-box

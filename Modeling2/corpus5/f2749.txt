@@ -1,0 +1,1 @@
+symmetricjsonrpc call thread symmetric-json process detail transport e

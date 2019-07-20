@@ -1,0 +1,1 @@
+python-usbtmc provides usbtmc driver controlling instruments usb usb usbtmc measurement instrument python-usbtmc updates-github-repository-google-group-introduction rule rules file running run-configuring package

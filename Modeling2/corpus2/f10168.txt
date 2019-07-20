@@ -1,0 +1,1 @@
+graphicsmagick-engine thumbor imaging graphicsmagick

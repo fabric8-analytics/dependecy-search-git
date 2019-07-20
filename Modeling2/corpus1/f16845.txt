@@ -1,0 +1,1 @@
+django-mobility mobile-views view varying varies caching cache site vary-user-agent users different agents settings set chosen idioms decorator-handles decorators templates template

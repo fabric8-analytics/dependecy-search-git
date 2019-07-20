@@ -1,0 +1,1 @@
+winchester stacktach event processing pipeline event notification openstack trigger notifications-events process process handler handler winchester stream stream pipeline pipeline openstack-notification-event-processing-library daemon yagi yaml database add like appropriate trait lock integer expire expire expire python-dictionaries dictionary

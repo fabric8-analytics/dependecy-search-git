@@ -1,0 +1,1 @@
+tenacity retrying retry retries retried functionality function returned-testcode wait waits exponential exponentially sleeping sleep sleeps customize custom use features feature attempts attempt tenacity rtype number return callback callbacks time bugs bug issues issue perform specify-stop parameter code help helps alternative-event result python state

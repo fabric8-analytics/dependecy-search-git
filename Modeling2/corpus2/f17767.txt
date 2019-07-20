@@ -1,0 +1,1 @@
+airflow-imaging-plugins set plugins helping work imaging data airflow spm mri neuroimaging neuroscience factory provenance operator folders pipeline-operators airflow-imaging scan-folder pipelines scanning scans xcom xcoms run project id following providing provided matlab version optional brain program union functions function

@@ -1,0 +1,1 @@
+simplesignals signals provides provided use uses unix-signal-handlers gracefully graceful functions function functionality simple base add worker-processes compile compiled process commit copyright code software-released release half-finished purpose-commercial handler matthews

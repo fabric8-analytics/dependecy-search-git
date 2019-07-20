@@ -1,0 +1,1 @@
+scrypt python-scrypt versions latest-version fix fixed openssl windows library passwords functions install-py encrypting-password tests derivation-function builds improve-build osx platform-testing extremely os force wheels wheel improved encryption installation installed provided-changes forge derivatives

@@ -1,0 +1,1 @@
+warrant python library using aws cognito support srp user pool attributes attribute arguments users password-confirm token tokens authenticate authentication authenticated authenticates github id make class methods method settings set warrant-makes username access jwks-optional group groups code confirmation attr attrs example examples authors-release app initiate python-class

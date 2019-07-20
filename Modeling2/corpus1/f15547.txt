@@ -1,0 +1,1 @@
+sharq core sharq library powers sharq server queueing queue queues interval dequeue dequeues dequeued sharq enqueue-enqueues enqueued rate enqueueing-finish installation-install stable code-running-tests finished ms file classifier-development developers copy copies copyright notice python including included documentation person persons license distribute software shall

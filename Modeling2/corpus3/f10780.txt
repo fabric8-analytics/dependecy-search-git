@@ -1,0 +1,1 @@
+django-eventtools occurrence event-occurrences querysets queryset-filtering repeat repeat sort sort sort sort match match installation start baseoccurrence setup library filter filter optional option exactly occurrence querysets queryset event-occurrences repeat repeat circle optional option library setup baseoccurrence models-usage text

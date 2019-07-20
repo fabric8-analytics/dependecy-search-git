@@ -1,0 +1,1 @@
+django-belt updated settings

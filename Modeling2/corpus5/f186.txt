@@ -1,0 +1,1 @@
+django-flatpages-i18n translat version django contrib flatpag in wysiwyg languag redactor django-flatpag settings-fil set menu installation-instal instal item

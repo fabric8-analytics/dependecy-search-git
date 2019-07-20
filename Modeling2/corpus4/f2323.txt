@@ -1,0 +1,1 @@
+pysndfil soundfil audiofil version format format fix fix pysndfil soundfile-format sndfile write write write file read read read libsndfil sf different-sound-fil clip method method method data changes-mov chang chang long setup interfac ad roebel larg cue scale set set function function recip pointer-replac python ircam differ

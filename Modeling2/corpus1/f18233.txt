@@ -1,0 +1,1 @@
+vmflib vmf valve map format source engine games basic map classes class providing-game-specific vmf source provide provided create-maps windows life current copy specification run-modules d start world running license vmflib included creating tools tool message vmf-files map maps python requires

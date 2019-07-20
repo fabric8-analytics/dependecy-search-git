@@ -1,0 +1,1 @@
+django-auth-remember django remember functionality using separate token settings setting apps-set remember-app time-optional close

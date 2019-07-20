@@ -1,0 +1,1 @@
+djangocms-owl djangocms plugin owl carousel v djangocms owl add add template plugin plugins include include include django code-python-add carousel custom-templates djangocms-owl field cm base-html select select option option responsive support support migration migration

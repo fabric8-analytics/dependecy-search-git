@@ -1,0 +1,1 @@
+prompt-toolkit client python-prompt-toolkit-build shell functionality-lik api function interactive-command-lin input run build exampl object termin level start aw code charact repl vi issu levels-oper start-not structur case altern window support prefer appveyor-pypi sql-server server global-st recommended-feel os freebsd cli oper note premature-optimization-speci multipl user

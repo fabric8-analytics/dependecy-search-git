@@ -1,0 +1,1 @@
+click-configfile extends click http github com pallet click functionality add support command use configuration file click configfile configparser code configuration-file-support file option optional click-commands-alt command-line like way support block click file file write

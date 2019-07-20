@@ -1,0 +1,1 @@
+bandcamp-downloader bandcamp downloader music cli album dl file option bandcamp-dl-download issue issue python option-allows directory version version directories-templates report report report reporting reporter template copyright feature feature library release release track rapid make slug slug allow encode exist exist command-line line conversion

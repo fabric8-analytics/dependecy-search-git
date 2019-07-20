@@ -1,0 +1,1 @@
+configuration-registry python-configuration-registry-api-purpose registy

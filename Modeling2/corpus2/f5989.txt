@@ -1,0 +1,1 @@
+djangocms-spa run django cms project single page application spa djangocms partials partial api context python templates custom default-template text code contents content mode allows set settings self rendering render implementation implemented like

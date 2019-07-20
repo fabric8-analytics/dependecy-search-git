@@ -1,0 +1,1 @@
+parsel parsel lets extract data xml html documents using xpath css selectors python lxml xpath xml selectors css scraping parsel alt selectors extract helper-methods add selectors selector test tests pypi pypy documented document alt fix method bsd-license-documentation root doc-fixes extract updated methods-example coverage packaging module examples html docs

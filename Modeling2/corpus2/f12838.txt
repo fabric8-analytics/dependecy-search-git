@@ -1,0 +1,1 @@
+cartopy cartographic python library matplotlib support geometry maps spatial projections cartography map transform projection proj geos shapely shapefile projects contributing contribution contributions copyright data questions easy capabilities developers developed development package overview license advanced-mapping drawing-maps licensed general interface

@@ -1,0 +1,1 @@
+django-bitfield bitfield extension django models modeladmin save-operations make option incompatible like

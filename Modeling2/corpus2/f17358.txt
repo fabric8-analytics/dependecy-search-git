@@ -1,0 +1,1 @@
+django-pylibmc cache backend django using pylibmc memcached django-image pylibmc-cache-backend caching memcache configure-like variables package-target number compression compress python testing tests omit omiting use configuration configured pylibmc-cache support supports like expiration expire value values timeout timeouts

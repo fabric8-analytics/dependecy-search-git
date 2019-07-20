@@ -1,0 +1,1 @@
+django-multilingual-model languag language-curr translat model code current simpl version default yield translationinlin soon function key py return

@@ -1,0 +1,1 @@
+kafka-influxdb kafka influxdb metric consum default-setup format messag supported-format support perform python-support use docker metric-data follow fals config option x connect input logstash backend encod verbos thing protobuf like collectd confluent simpli maximum imag logstash-benchmark code things-like-protobuf output version

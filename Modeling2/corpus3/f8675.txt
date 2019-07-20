@@ -1,0 +1,1 @@
+gbp manual usr-share-doc buildpackage

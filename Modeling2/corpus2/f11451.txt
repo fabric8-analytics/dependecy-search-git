@@ -1,0 +1,1 @@
+django-commando commands management-command managing options option manage-py files optional-overrides override writing-overriding write ll methods method simple directory package packages like define defined defines app apps ve length simply project use uses convenience projects-south sequencing sequence template provide-convenient underlying oriented provides provided api

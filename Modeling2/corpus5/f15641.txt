@@ -1,0 +1,1 @@
+bytecodeassembl gener version version-fix chang object ad stack bytecod level fix python-bytecod opcod generation-details-like-jump support way code jump node list constant node-typ variabl smart type tracking-lin new backward equal txt yield attribut reject spec fold statement kb oper

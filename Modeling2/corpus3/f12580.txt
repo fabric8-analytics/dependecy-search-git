@@ -1,0 +1,1 @@
+django-localized-fields implementation localize model field use postgresql hstore field django localize language model field field field language language code django package-requires-python usage useful use package translation translation required-optional uses-widget base type option file concurrency automatically example widget set setting set romania

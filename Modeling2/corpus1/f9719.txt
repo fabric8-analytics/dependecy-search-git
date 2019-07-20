@@ -1,0 +1,1 @@
+pyefd elliptic fourier descriptors fourier descriptors shape descriptors image analysis testing tests usage code fourier digits alt-documentation code-bash-usage added-pipfile-ran contour general v numpy wrapper license examples example

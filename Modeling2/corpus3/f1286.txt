@@ -1,0 +1,1 @@
+bitex wip plan method api apis class-method interface interface exchange exchange class bitex order endpoint endpoint standardize formatters authentication attribute output query query objective object like-objects provide provide format format format implement rest base based-websocket considers section include account

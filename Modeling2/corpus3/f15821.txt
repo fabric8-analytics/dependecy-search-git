@@ -1,0 +1,1 @@
+bravado-core python openapi library supported-python-versions-bravado libraries-isolated version support alt class copyright-c

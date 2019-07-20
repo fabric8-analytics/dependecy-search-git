@@ -1,0 +1,1 @@
+sphinxcontrib-images images html-image add sphinx-thumbnails picture pictures directive options patches latex

@@ -1,0 +1,1 @@
+invenio invenio digital library framework python flask elasticsearch postgresql redis rabbitmq digital library digital repository invenio inveniosoftware json schema angularjs institutional repository multimedia library multimedia repository invenio digital library framework invenio-copyright-c source

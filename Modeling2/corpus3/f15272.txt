@@ -1,0 +1,1 @@
+pgwrap cursor sql psycopg connection python db query query method basic provide provide provide pgwrap-simple-postgresql module-provides object version v

@@ -1,0 +1,1 @@
+azure-mgmt-cdn azure model models parameter resource-manager management-client list https-parameters add-custom type breaking-changes enum-types release argument arguments apis api operation operations change changed code complete completion wheel http-session

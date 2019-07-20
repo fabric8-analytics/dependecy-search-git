@@ -1,0 +1,1 @@
+django-emoji emojis version replace replaces replacing replacements python-versions django-emoji-alt unicode-characters app urls url installed-apps use install character usage json xss template templates support change changes-tim-schilling like

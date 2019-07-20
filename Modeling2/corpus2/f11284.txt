@@ -1,0 +1,1 @@
+django-smarttest django testing test code versions-tested running-tests testcase testcases driver drivers python-installed django-installation-install smarttest-alt class import-unittest version settings setting set development run

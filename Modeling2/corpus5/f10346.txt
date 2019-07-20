@@ -1,0 +1,1 @@
+lazr-restfulcli fix fix-compat server code python-bug version certif ad httplib default test lazr certificate-path collect rest servic new cert compat remov object oper depend lp filenam add ca-cert binary-data cach header basic files-cach standalon authent file import take behavior situat linux constructor launchpad oauth client httperror name setup user filesystem string

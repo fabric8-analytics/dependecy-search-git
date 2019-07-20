@@ -1,0 +1,1 @@
+pinax-cli tool easily instantiate pinax starter project django template django django project template pinax-command project project command supported-django add contribute contribute contribution support usage apps python-versions-documentation app-releases license free human release-version name name create create create md-convert source-platform post pinax django

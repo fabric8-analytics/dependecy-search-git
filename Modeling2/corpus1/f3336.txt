@@ -1,0 +1,1 @@
+django-daterange-filter django admin django date range installation installed install-code filters django-daterange-filter date special filtering-running python readme rabbaglietti run modeladmin

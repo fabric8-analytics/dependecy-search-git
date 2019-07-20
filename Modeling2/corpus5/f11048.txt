@@ -1,0 +1,1 @@
+mongoctl manag mongodb server replica set use json configur command instal shell-command cluster support cluster-configur typic port defin python note command-lin

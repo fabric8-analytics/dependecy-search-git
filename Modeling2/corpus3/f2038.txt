@@ -1,0 +1,1 @@
+sysv-ipc sysv ipc inter process communication semaphore share memory shm message queue ipc licensing bsd-license include include sample x program

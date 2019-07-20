@@ -1,0 +1,1 @@
+pysimplesoap python simpl soap librari support python-simpl includ servic wsdl fix lightweight-soap including-bas service-framework test dialects-serv xml server-webservic improv framework like code nest client wsse featur file implement rel project drug sign nation wsgi wcf structur somewhat type chang extens technic security-extens function compatible-st gener wrapper pycurl

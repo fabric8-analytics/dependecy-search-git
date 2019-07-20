@@ -1,0 +1,1 @@
+flask-breadcrumb flask breadcrumb extens add support gener site navig invenio metadata test releas improv list allow coverag deprec

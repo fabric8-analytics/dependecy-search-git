@@ -1,0 +1,1 @@
+django-bootstrap-crud-templates django templates bootstrap crud template bsct css-html simply based base urls make account cdn provides provided provide view views project source developers model homepage

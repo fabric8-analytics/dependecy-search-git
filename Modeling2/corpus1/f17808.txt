@@ -1,0 +1,1 @@
+xmlrunner unittest based test runner ant junit like xml reporting pyunit unittest junit xml report testrunner test unittest way output-verbose-default reporting reports integration development systems use useful django

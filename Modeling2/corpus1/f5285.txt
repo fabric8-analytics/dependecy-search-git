@@ -1,0 +1,1 @@
+nose-test-sets tests test-sets-installation set

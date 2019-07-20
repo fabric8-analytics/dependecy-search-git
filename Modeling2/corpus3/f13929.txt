@@ -1,0 +1,1 @@
+devdns thing-maps default devdns ip port

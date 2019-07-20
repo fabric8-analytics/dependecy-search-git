@@ -1,0 +1,1 @@
+yawlib princeton wordnet glosstag omw wordnet glosstag search wntk use-not folder db

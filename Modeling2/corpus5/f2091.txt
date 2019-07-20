@@ -1,0 +1,1 @@
+pyforg mock forg class test stub replay method pass compar manag record-replay function-stub record someclass-object-def-f-self c-pass doctest-ellipsi order object return context-manag return-valu call expect recording-tru replac instanc creat rais exist regular-funct debug func place reset installation-instal instal m constructor time setattr case environ arg unexpect x accept

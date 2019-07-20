@@ -1,0 +1,1 @@
+pysqlpool patch mysql-connection documentation site pysqlpool query query management manager python file file base src-base doc true pysqlpool python mysql-connection installation install query query management manager file doc-index doc

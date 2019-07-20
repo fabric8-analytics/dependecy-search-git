@@ -1,0 +1,1 @@
+scikit-umfpack instal installation install installing-scikits build building scikit-umfpack scipy code share sparse directory include source source

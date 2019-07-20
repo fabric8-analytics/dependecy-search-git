@@ -1,0 +1,1 @@
+docformatt pep pep style formatt docstr docstr line docformatter-formats-docstr wrap wrap quot quot string wrapping-descript format trail reindent use-tripl descript

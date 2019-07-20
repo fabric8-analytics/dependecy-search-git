@@ -1,0 +1,1 @@
+talon falcon hook middlewar authent ident user wsgi-middlewar talons-falcon class identifi apis-lik store method backend-identity-plugin http object constructing-identifi applic configur licens interfac api-appl exampl simpli python singl backend request credenti separ softwar construct paramet true valu plugin use author language-govern c-programm

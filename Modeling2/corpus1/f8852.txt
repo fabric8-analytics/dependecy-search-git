@@ -1,0 +1,1 @@
+docformatter pep pep style formatter docstrings docstring line docformatter-formats-docstrings wrap wrapped quoted quotes string wrapping-descriptions formatted trailing reindent use-triple description

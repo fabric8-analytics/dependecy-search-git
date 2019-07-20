@@ -1,0 +1,1 @@
+flask-paranoid session-protection-quick generate protect paranoid session

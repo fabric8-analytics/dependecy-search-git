@@ -1,0 +1,1 @@
+djangorestframework-hstore python django copyright hstore-alt-code copy copies version tests test person persons document documentation including included follow following notice drf distribute write

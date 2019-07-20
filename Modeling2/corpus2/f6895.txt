@@ -1,0 +1,1 @@
+fixedint integers sliced slicing slice slices operators operated fixed bits bit mutable size-integer instances instance arithmetic-operations operands operand byte provides provided registers register machine sizes e-g result resulting results follows follow following flexible flexibility

@@ -1,0 +1,1 @@
+getconf simpl python configur util environ setup config section valu type-default namespac v production-system base type getconf-alt variables-code-block types-concept option variabl use standard provid

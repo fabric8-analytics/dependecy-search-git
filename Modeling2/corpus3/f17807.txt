@@ -1,0 +1,1 @@
+django-admin-conf-vars var var-settings-file-py django variable variable set python-module admin-installation-install instal design value path normal

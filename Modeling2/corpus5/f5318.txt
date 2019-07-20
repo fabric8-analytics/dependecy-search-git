@@ -1,0 +1,1 @@
+ecdsa key signatur curv use test sign p-curv python-ecdsa openssl create-keypairs-signing-key use-implement nistp like gener length string py short format pearson master implement creat require-str random keypair byte sourc way crypt immedi helper repeat attack version verifyingkey warner mac librari entropi base requir

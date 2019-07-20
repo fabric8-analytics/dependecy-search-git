@@ -1,0 +1,1 @@
+tkintertable tkinter spreadsheet table tkinter python gui clone classes table-class tables allows-interactive-spreadsheet-style

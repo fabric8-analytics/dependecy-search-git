@@ -1,0 +1,1 @@
+django-backbone permission permissions api app apps urls url models model django-backbone customization customize add collection collections class uses use license licensed definitions definition objects read alternatives suited source features file files csrf-protection

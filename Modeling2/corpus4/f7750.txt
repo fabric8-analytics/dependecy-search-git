@@ -1,0 +1,1 @@
+allure-pytest deprec pleas use http github com allur framework allur python instead allur report pytest allur report pytest test test allure-pytest def code alt step step sever sever environ class report countri host assert stori stori case case statu bar automat target target code

@@ -1,0 +1,1 @@
+django-activitysync django social activity application twitter reddit google reader activity django-activity provide provider provider provide item item set python activitysync settings-py-installed twitter-reddit like likely create create installation template manage management-command run add-support support admins admin interface

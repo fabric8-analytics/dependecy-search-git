@@ -1,0 +1,1 @@
+flask-jira-helper flask jira flask-jira python supports supported support authentication initialization initial oauth app code ignore added config configuration key error

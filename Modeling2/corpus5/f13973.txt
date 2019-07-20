@@ -1,0 +1,1 @@
+python-stdnet python redi databas test queri backend server relational-databas queries-stdnet type directori installed-backend valu object-data-mapp branch applic pypi coverage-dev object featur master api languag pulsar instal licens odm bsd asynchron table-schema schema simpli document creat test-coverag redis-mongo object-data build

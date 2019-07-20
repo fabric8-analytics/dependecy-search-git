@@ -1,0 +1,1 @@
+sense-emu raspberrypi sens hat documentation-pypi-lgpl-vers sense-hat-emul emul

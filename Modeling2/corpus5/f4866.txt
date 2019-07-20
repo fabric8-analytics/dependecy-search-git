@@ -1,0 +1,1 @@
+pyqtdeploy c python platform file platform-specif deploying-pyqt tool applic deploy frozen modul qt

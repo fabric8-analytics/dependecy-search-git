@@ -1,0 +1,1 @@
+vext setuptool develop install-vext packag work modul import block files-import file module-us allow-import instal venv fairli pymotw disabl allow standard-requir development-commun use virtualenv help-diagnose-problems-pth need enabl like c support

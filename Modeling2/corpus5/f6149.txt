@@ -1,0 +1,1 @@
+django-socialregistr django facebook twitter oauth openid registr foursquar linkedin github enables-develop user enabl

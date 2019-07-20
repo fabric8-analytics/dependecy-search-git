@@ -1,0 +1,1 @@
+bungiesearch elasticsearch haystack django model index indexes-defin model-map field index-manag defin search option code-python set class exampl modul search-alias updat feature-exampl manag mappings-upd default map py call environ function databas instanc featur queri signal function- requir version meta method core content better implement make start statu subclass

@@ -1,0 +1,1 @@
+dashboardmods collection dashboard module django admin tool ncludes dashboard memcache statistic varnish statistic r dashboard creation via model dashboard-mods server memcache-server-configured varnish dynamic

@@ -1,0 +1,1 @@
+django-mailviews class base email view django framework include message previewer code message django build email message-previewer email-views run-tests version view test test instead coverage user best preview preview

@@ -1,0 +1,1 @@
+django-emailit deadsimple html emails html-email-sending emailit mymails send wide body

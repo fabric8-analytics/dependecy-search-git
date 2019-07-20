@@ -1,0 +1,1 @@
+grappelli-modeltranslation copy copies documentation django modeltranslation copyright compatibility person persons including included add initial date-nov notice magnusson translation interface

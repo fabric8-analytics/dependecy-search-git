@@ -1,0 +1,1 @@
+geonode-announcements fork django announcements compatible announcement sites site users user anonymous

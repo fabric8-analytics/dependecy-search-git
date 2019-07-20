@@ -1,0 +1,1 @@
+yahooscraper scrape screen web yahoo login fantasy yahooscraper-python-utilities package require-authentication authenticated-session module module python function function module module page page authentication authenticate api argument-html

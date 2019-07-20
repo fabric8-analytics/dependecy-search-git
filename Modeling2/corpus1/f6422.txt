@@ -1,0 +1,1 @@
+django-candv-choices choices constants django candv values constants constant fields value values alt django-candv-choices model-field-let library libraries code-block version python-versions-license supports support supported demo add definition definitions dependency big messages e verbose package problem models text texts

@@ -1,0 +1,1 @@
+coffin-garetjax templat django-support coffin-jinja template-function filter string render custom-filt loader use function safe-str r extens addit tag syntax loaders-set manual compat error second librari variabl list basic follow support library-approach manual-chang html set chang admin current work

@@ -1,0 +1,1 @@
+django-channels-panel django-channel toolbar

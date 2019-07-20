@@ -1,0 +1,1 @@
+candideitorg-django link candideitorg django app local requirements run org candideitorg

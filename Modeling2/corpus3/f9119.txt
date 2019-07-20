@@ -1,0 +1,1 @@
+socksipy sock proxy proxy allow-developers

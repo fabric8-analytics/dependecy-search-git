@@ -1,0 +1,1 @@
+pydoe doe design of experiments experimental design optimization statistics python designed designs design-package factorial indexing index lhs scilab-copyright-c license licenses bugs author engineer bleeding hints questions-bug master pydoe-source accurately-requirements references

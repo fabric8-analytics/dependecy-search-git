@@ -1,0 +1,1 @@
+markov self state states probabilities distribution-poissondistribution-probability-class updates update methods method models markov-model observations observed object-bayesianmodel classes likelihood-outcome-given n laplacian prior-outcomes categories category iadd priors

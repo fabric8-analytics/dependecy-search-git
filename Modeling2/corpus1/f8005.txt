@@ -1,0 +1,1 @@
+django-any-urlfield improved url selector choose internal models external urls django django admin django field input url urls contributing contribution code page pages px internal-models field figure model module

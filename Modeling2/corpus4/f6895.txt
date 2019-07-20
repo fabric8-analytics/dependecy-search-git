@@ -1,0 +1,1 @@
+fixedint integ slice slice slice slice oper oper fix bit bit mutabl size-integ instanc instanc arithmetic-oper operand operand byte provid provid regist regist machin size e-g result result result follow follow follow flexibl flexibl

@@ -1,0 +1,1 @@
+pyamg algebra multigrid solver python amg spars matrix conda krylov precondit grid multigrid-amg-solv problem code linear olson oper levels-operator-complexity-grid stuben schroder geometr exampl poisson larg support multilevel level smooth relax c critic sa

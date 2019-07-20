@@ -1,0 +1,1 @@
+pyqode-qt qt pyqt pysid instal alt librari licens pypi test

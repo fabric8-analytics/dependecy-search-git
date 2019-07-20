@@ -1,0 +1,1 @@
+django-mock-queri django orm mock unit test tdd code queryset queryset-funct test-funct function testing-featur add method bash database-run aggreg featur run like local set field-lookup new-set creat

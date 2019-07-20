@@ -1,0 +1,1 @@
+guacamole argparse cli tool command sub command subcommand application applications-tools easier-testsetup-doctest guacamole features right custom customize application parser commands applications-tools creating-command features doctest doctests license-documentation-create guacamole licensed writing write cmdtree feedback

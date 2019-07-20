@@ -1,0 +1,1 @@
+django-fsm-log automatic logging django fsm django fsm django log logging logs logged add statelog transition django transitions-fixed manager usage admin added adding decorator support cached caching cache fsm record recorded records running compatibility immediate

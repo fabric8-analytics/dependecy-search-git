@@ -1,0 +1,1 @@
+optlang optlang sympy based mathematical programming language optimization sympy mathematical programming heuristic optimization optlang solver solvers optimization-problems objective object interface mathematical license licenses problem-formulation dependencies gitter status appveyor symbolic-math formulated qp

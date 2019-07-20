@@ -1,0 +1,1 @@
+owslib gis ogc iso fgdc dif ows wfs wms sos csw wps wcs capabilities metadata wmts owslib-alt ogc-web-service python update available api push py-git interface interfaces releasing release content tag tagging tags docs logging logs log txt

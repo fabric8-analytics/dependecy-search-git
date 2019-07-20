@@ -1,0 +1,1 @@
+syn metaprogram type python-librari usag

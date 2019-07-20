@@ -1,0 +1,1 @@
+blogging-plugin extens flask

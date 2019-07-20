@@ -1,0 +1,1 @@
+gapic-google-cloud-datastore-v1 googl api gapic-librari isolated-python v

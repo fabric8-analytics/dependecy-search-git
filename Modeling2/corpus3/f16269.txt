@@ -1,0 +1,1 @@
+rfc3987 uri iri url rfc rfc validation version version pattern compiled-pattern name string python parse par match-string-rule compose compose require requirement names-compilable multilingual resolve resolve match compilation build adapt reference reference

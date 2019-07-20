@@ -1,0 +1,1 @@
+python-vote-full library election method schulze-method aka vote voting software license example-usage single representation release

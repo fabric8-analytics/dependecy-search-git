@@ -1,0 +1,1 @@
+hepdata-converter-ws-client light client wrapper interaction hepdata converter ws web services convert-function additional converter-ws files file-path paths additionally-library input tar docstring supporting supports creating

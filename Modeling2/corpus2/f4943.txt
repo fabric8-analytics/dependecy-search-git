@@ -1,0 +1,1 @@
+parakeet python array function-type typed-functions operations getting gets numpy parallel-operators c types code cuda compiler compilation compiles compile supported supports version group graphics control boston ask llvm subset backends default-backend core cores openmp-requires-windows comprehensions require function operators type

@@ -1,0 +1,1 @@
+aioslack licens licens aioslack-asyncio

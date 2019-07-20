@@ -1,0 +1,1 @@
+django-cities-light simpl app provid three model countri region citi also command insert updat data geonam databas dump statu stabl django postal code use city-data django-c yourlab db countries-spati test secur server run mysql fixtur creat installation-instal instal project-set develop consult filesystem

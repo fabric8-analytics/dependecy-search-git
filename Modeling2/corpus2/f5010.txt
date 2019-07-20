@@ -1,0 +1,1 @@
+adafruit-lsm303 driver adafruit lsmdlhc breakout library libraries adafruit-lsm arduino atmega-mhz-x source folder use diagrams corner download downloads tested pro atmegau v attiny

@@ -1,0 +1,1 @@
+invenio-i18n invenio internationalization module in localization ln c-cern release version-released jinja catalogs locale

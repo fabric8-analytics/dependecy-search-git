@@ -1,0 +1,1 @@
+flask-class class base view flask python alt class-based-view rout project support crud feel take mr develop development-vers latest version little-big file-licens setup-readm

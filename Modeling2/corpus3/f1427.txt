@@ -1,0 +1,1 @@
+xmlformatter xmlformatter element format format format format element-content like encode encode encode text whitespaces whitespace document inline property-values properties-names output xml-documents e-leading indent indent indent value sequence script-named script style style set set note note remove remove suppresses

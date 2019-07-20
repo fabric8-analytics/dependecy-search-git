@@ -1,0 +1,1 @@
+acdh-django-handl django app creat manag handl pid acdh packag django-handl provid code-block-python-provid regist model save

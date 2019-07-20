@@ -1,0 +1,1 @@
+maxcube-api copy copies status including included documentation person persons copyright notice description publish-distribute platform

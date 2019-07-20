@@ -1,0 +1,1 @@
+aiohttp-socks asyncio aiohttp socks socks socks proxy aiohttp requirements maintain-compatibility

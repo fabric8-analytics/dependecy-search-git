@@ -1,0 +1,1 @@
+djangocms-bootstrap3 menu render page snippet templatetag djangocms-bootstrap navbar add class option languag item css-class django-cm bar changelog-adopt cm version replac angular add-support

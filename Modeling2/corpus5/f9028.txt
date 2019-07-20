@@ -1,0 +1,1 @@
+simplesqlit sqlite csv googl sheet json alt depend data-insert python tabl insert sampl relat block simple-orm

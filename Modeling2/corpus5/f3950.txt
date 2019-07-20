@@ -1,0 +1,1 @@
+pdfminer2 pdf parser convert layout analysi text mine maintained-fork pdfminer

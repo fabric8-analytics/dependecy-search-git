@@ -1,0 +1,1 @@
+django-mobile-app-distribution app-distribution make android-apps email users user upload uploading django distribute uploaded-files py file custom customizing customization customize login add archive archives download downloads default-ios provisioned provisioning folder url urls create export denied bundle choosing choose css apk use admin fields field

@@ -1,0 +1,1 @@
+pact-test python test contracts-testing contract sdist-upload

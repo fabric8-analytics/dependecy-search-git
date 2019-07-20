@@ -1,0 +1,1 @@
+sacrud crud interface sqlalchemy database license licensed build-status-coverage pypi-sacrud stories source channel uralbash mit

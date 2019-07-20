@@ -1,0 +1,1 @@
+django-browserid django application adding browserid support mozilla django-browserid functioning page license licensed persona help current include

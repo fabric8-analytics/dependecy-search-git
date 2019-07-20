@@ -1,0 +1,1 @@
+django-inplaceedit-bootstrap integration django inplaceedit bootstrap django inplace inline edit bootstrap inline form inline inplace edit inplace form ajax bootstrap demo optional options option edge version adaptor inplace video-use django-inplaceedit-bootstrap add project version versions adaptor optional options option demo fields field improvements fix-typo testing

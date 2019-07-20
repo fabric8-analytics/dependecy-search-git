@@ -1,0 +1,1 @@
+appenlight-cli monitor wsgi django flask pylon pyramid debug report error errorm appenlight client sentri altern configur middlewar like templat app-enlight data librari logo default main-document provid structur time except ini-fil pipeline-compat variabl alt properli licens

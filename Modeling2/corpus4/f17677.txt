@@ -1,0 +1,1 @@
+pulp python linear program api problem variabl variabl linear-problem model model lp-model export solver solver pulp form cbc exampl valu creat use com classifi copyright descript copi copi document includ includ person person notic research program languag licens publish-distribut text modifi

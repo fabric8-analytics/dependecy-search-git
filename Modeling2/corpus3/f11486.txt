@@ -1,0 +1,1 @@
+django-brake ratelimit ratelimiting bucket bucket django request request allow allow allow allows version version like time ip ip login limit limit limited separate separately test test cached-count cache-keys directly api http note count count counting example false examples-implementation implement key base deploy fully-deployed deploy deployment

@@ -1,0 +1,1 @@
+qtconsole interactive interpreter shell install installs installation installed installing jupyter-qt-console pyqt additional documentation pdf feels supporting support highlighting-graphical note

@@ -1,0 +1,1 @@
+django-textclassifier field-code field model text extraction django-textclassifier-validators validate project

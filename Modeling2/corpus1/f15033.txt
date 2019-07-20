@@ -1,0 +1,1 @@
+snap-plugin-lib-py snap telemetry plugin plugins metrics snap-plugin writing-plugins flags flag values value diagnostic diagnostics-custom-config uses use buffer superclass containing unloaded collection collectible version write collector architecture grpc types type framework plugins snap-plugin telemetry-framework unloaded

@@ -1,0 +1,1 @@
+uniseg unicode-text-segmentations wrap python-module segmentation string string break changes-change-wrap require requirement require provide word-break breaking-implementation library package word binary packaging-related console-monospace module icu like character script implement implement line line support support support similar g

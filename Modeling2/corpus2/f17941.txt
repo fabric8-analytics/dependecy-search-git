@@ -1,0 +1,1 @@
+drf-openapi drf openapi code codes compatible-schema versioning version versioned supported supports provided provides provide drf-openapi-alt response class-support e interface compatibility api status classes requirements requirement current currently fixes fix add django view mit listfield thanks

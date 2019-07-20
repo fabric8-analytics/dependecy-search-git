@@ -1,0 +1,1 @@
+gapic-google-cloud-logging-v2 google logging-api gapic isolated-python v

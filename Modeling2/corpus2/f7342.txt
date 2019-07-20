@@ -1,0 +1,1 @@
+django-stronghold stronghold strongholds defaults defaulting django-views-default view-public setting url urls settings-file optionally-set files decorator decorating test tested optional named names view code settings set based path

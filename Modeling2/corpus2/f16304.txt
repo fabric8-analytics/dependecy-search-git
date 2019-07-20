@@ -1,0 +1,1 @@
+django-heroku-memcacheify django heroku cloud cache memcache memcached awesome epic django-heroku install installed-automatically memcache-server assuming locally addon addons local-memory-caching automatic required c requirement requirements testing tests cheap-great

@@ -1,0 +1,1 @@
+carrot consuming-messag message-queu carrot-amqp-messaging-framework serial python bug consum send consumers-method data list bug-track start like kombu receiv starting-exampl queue rout follow option includ highli high-level exampl help class recurs got object instal inform contains-backward-incompat

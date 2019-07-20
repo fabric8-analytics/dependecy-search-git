@@ -1,0 +1,1 @@
+django-settingsjs django configurable javascript settings settings setting set instalation-add-settingsjs urls url installed

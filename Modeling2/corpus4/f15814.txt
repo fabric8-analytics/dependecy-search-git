@@ -1,0 +1,1 @@
+tastypie-cli tastypi rest django request tastypie-cli api

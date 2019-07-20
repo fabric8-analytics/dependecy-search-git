@@ -1,0 +1,1 @@
+sphinxcontrib-texfigure default tex image tikz sphinx documents document license css-classes directives use-directive following extension

@@ -1,0 +1,1 @@
+pysoundfil audio libsndfil v data soundfile-version-python write-sound-files-file-reading-writ imag instal bechtold open geier platform-open function f code read wav block licens sf issu platform x version object overlapping-block sampl inconsist time auto set myfil numpi np frame overlap cffi librari python c-code wav-flac soundfil depend

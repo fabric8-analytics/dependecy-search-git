@@ -1,0 +1,1 @@
+wchartyp doubl byte full width charact type kanji hiragana katakana hangul

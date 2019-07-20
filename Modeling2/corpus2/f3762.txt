@@ -1,0 +1,1 @@
+mozrepl firefox python alt firefox-mozrepl

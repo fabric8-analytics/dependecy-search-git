@@ -1,0 +1,1 @@
+pyglottolog python api access clld glottolog data linguistics glottolog-data make access accessed accessing-languoid python command commands local csvw running run

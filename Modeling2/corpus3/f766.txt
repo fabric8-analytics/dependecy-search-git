@@ -1,0 +1,1 @@
+durabledict dictionary style access different type model dicts dict object read read like-objects dictionary-classes-backed durabledict method method cached cache durable-data-store store store value value use us likely class implementation implement provides-implementations provide insert insert date django encode encodes encode actually actual pickle sync sync require require

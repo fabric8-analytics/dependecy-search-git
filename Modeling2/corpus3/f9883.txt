@@ -1,0 +1,1 @@
+pybids python tool query manipulate bid datasets bid python api bid python related installation instal install instal pybids discussion discus bug request request usage official pip officially-supported support support operating including-mac require require license license paper term conform

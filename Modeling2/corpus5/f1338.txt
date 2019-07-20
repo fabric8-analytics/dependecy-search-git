@@ -1,0 +1,1 @@
+gspread spreadsheet googl cell google-spreadsheets-python-api contribut cell-valu issu report-issu ask request valu document use-restructuredtext worksheet simple-googl api-featur licens

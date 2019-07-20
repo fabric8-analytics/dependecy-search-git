@@ -1,0 +1,1 @@
+pql locat pql foo type type location-geowithin queri b-c python-queri schema oper valid add syntax exampl parser polygon geometri follow

@@ -1,0 +1,1 @@
+django-searchbar searchbar django form templat usag advanc dictionari method search model e

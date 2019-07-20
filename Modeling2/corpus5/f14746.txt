@@ -1,0 +1,1 @@
+django-threaded-messag rewrit django messag support facebook style thread search recipients-instal instal views-recipi user unread app haystack-us similar view tokeninput

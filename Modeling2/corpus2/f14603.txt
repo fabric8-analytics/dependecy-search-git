@@ -1,0 +1,1 @@
+py-moneyed money currency class abstraction moneyed python code codes currencies-data sourcecode division tests testing test tested usd float tox local localization locale provides providing provided provide formatting format installed install installing types type e pyenv complete iso classes decimal-class number usage useful use uses version versions

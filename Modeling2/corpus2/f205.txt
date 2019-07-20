@@ -1,0 +1,1 @@
+isbn-validator isbn validation module mit license introduction-image checksum-digits

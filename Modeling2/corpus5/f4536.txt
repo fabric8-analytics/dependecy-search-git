@@ -1,0 +1,1 @@
+pyfasta bioinformat blast fasta file fasta-sequence-fil use pyfasta-pythonic-access header flatten test sequenc numpi record key python split extract content k hash work new-lin line mmap like fseek-fread txt origin py chr memmap thank inplac allow add cli backends-record nosetest base fn fix fread backend

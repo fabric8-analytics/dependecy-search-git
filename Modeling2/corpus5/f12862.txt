@@ -1,0 +1,1 @@
+pypreprocessor c style macro preprocessor written python processed-cod block debug direct defin py mode ifdef support process file processing-us statement set use option specif requir output support-c version exampl new limited-subset support-c-style-direct pre-process

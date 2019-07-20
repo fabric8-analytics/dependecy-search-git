@@ -1,0 +1,1 @@
+bandit test alt-bandit file plugin secur python-vers support use issu ast line code exampl report run check doc exclud format properli pr current version comma context project documentation-sourc exclude-dir vulner tree import add directli git-tag directori

@@ -1,0 +1,1 @@
+seqmagick imagemagick like frontend biopython seqio sequence little sequence-files id reverse write version way requirement require installation install file case

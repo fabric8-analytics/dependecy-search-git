@@ -1,0 +1,1 @@
+sphinxjp-themes-basicstrap sphinx restructuredtext theme updat theme theme support fix ver licens fixed-bug sphinx license-requir bootswatch-font requir bootstrap-travis-coveral new add alt css font thank html

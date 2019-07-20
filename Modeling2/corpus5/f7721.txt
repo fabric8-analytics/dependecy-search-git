@@ -1,0 +1,1 @@
+pyramid-urireferenc pyramid plugin handl refer extern uri web wsgi rest ad add function fixed-applicationrespons fix request url better error decor paramet support

@@ -1,0 +1,1 @@
+libpysal spatial statistic libpysal-modules computational output weight io-input

@@ -1,0 +1,1 @@
+djorm-ext-pgtrgm django querysets lookup pg trgrm similar search text similarity similar django set postgresql queryset-filter result ubuntu usage character ca cat low pg

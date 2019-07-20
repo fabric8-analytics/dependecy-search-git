@@ -1,0 +1,1 @@
+pyupdater-s3-plugin pyu variable variable aws

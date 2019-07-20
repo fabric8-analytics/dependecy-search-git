@@ -1,0 +1,1 @@
+django-pagedown markdown templat widget form import file admin-instal default make instal add possibl input embed render certain control manual option

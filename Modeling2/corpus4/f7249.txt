@@ -1,0 +1,1 @@
+makesit supervisor-uwsgi pip-zetalibrari

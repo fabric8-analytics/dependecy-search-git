@@ -1,0 +1,1 @@
+django-deleg django deleg queryset manag method dispatch syntax sugar manager-queryset chain subclass subclasses-work work

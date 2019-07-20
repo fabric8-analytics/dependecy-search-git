@@ -1,0 +1,1 @@
+sphinx-pypi-upload build sphinx python command command option option upload upload default default uploading-document url py

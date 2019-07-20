@@ -1,0 +1,1 @@
+python-constraint constraint solving problem resolver python satisfaction csp problems solver code solvers examples example constraints todo continuous style gmail tests gustavo-niemeyer magic domains

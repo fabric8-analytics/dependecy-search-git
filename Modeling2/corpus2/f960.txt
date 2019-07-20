@@ -1,0 +1,1 @@
+slate pdf text extraction getting-simple-things makes-interfacing pdfminer irritating package api

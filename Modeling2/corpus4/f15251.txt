@@ -1,0 +1,1 @@
+sphinx-serv wsgi sphinx document server webapp sphinx-serv documentation-cont gunicorn static

@@ -1,0 +1,1 @@
+python-craigslist type-u python-craigslist auto-title org true-false filter code new title min-year subclass wrapper-license max classes-base-class-subclasses compact size craigslistforsale example specific food

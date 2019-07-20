@@ -1,0 +1,1 @@
+bdquaternions quaternion d rotations python-package source available license licensed setuptools

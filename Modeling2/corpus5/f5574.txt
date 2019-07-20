@@ -1,0 +1,1 @@
+python-keycloak-cli v thank python-keycloak-client-alt releas doc code-bash argument document

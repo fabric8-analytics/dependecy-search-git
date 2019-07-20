@@ -1,0 +1,1 @@
+chessnut chess chessnut package installation instal install instal project chess-board-model fen move shell generic string unittest environment repository-setup export chessnut fen-generate representation correspond notation test test function package installation-virualenv-finally install instal

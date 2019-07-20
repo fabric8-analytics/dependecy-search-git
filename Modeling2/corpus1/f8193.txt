@@ -1,0 +1,1 @@
+invenio-config invenio configuration loading module invenio config invenio c config loader invenio configuration configurations release installed version-released cern

@@ -1,0 +1,1 @@
+pyexcel-xlsxw wrapper librari write data xlsx format use xlsxwriter python xlsxpython test pyexcel pip-cod coding-document instal develop licens rst requir ci gener clone git testcod unix-system constraints-font r support supported-instal updat remov explicit setup chang changes-git constraint

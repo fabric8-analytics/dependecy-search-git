@@ -1,0 +1,1 @@
+flask-static-bundl flask-stat requir rout exampl develop

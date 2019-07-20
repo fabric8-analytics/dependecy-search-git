@@ -1,0 +1,1 @@
+percol anyth el unit vim dmenu shell pipe filter curs match input input-lin line migemo-support prompt support exampl zsh customizing-prompt-dynam instal tmux custom regular tool specifi dynam interactive-select command key color queri select number charact featur follow japanes caret pinyin options-lik option set tri adds-flavor

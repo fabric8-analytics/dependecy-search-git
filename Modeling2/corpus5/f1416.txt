@@ -1,0 +1,1 @@
+django-rainbowtest test set output custom-test django complet color

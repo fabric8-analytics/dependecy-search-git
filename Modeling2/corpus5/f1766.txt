@@ -1,0 +1,1 @@
+django-slick-admin slick clean look django admin interfac set dashboard templat style npm folder sass dirti task tini repositori adjust addit install-required-npm-modules-cr automat tools-dashboard-instal adjust-output-path run

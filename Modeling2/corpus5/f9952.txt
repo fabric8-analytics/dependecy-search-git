@@ -1,0 +1,1 @@
+cassandra-driv cassandra request datastax-python languag licens softwar support object-mapper-cqlengine-origin asynchron discoveri govern

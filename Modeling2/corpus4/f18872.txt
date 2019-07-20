@@ -1,0 +1,1 @@
+tnetstr netstr serial alt statu prefix extra follow note programm translat encod encod encod file version serial hello encod encod encod tnetstring-data netstr typed-netstr type like level check base python function tnetstr syntax

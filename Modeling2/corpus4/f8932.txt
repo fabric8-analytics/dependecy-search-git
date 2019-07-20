@@ -1,0 +1,1 @@
+pyhs100 devic set state bulbs-supported-devic command setting-color inform api support properti properti bulb command-e-g plugs-switch plug-specif discov discov discov switch hs energy-met appropri feel consumpt librari function function

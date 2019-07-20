@@ -1,0 +1,1 @@
+typeannot code def type type-annot isinst int true str pycon annot annotating-funct function option interfac class hello predic fals pass positive-pred softwar object implement run numberorstr language-govern

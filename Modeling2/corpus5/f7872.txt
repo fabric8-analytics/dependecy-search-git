@@ -1,0 +1,1 @@
+ckanext-geoview ckan geospati resourceview servic resourc geospatial-view instal ckan-resourc develop basemap wmt python file layer geojson ckanext configur base-lay set featur support openlayers-bas wm default e web-map request plugin version gisdata regist add activ url sourc follow base leaflet

@@ -1,0 +1,1 @@
+sphinxjp-themecore sphinx theme themes sphinx-theme-plugin-extension fix fixed directives directive installation plugins install-requires package requirements write setup-py path paths remove feature features

@@ -1,0 +1,1 @@
+django-admin-report report django admin group by annotate agregate orm example app admin-report-create-reports

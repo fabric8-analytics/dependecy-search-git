@@ -1,0 +1,1 @@
+pymata firmata arduino protocol callback callback python data-latches latch latch pymata user user analog pin pin value value notification sonar directory change encoders signal polling poll code applicable application digital encoder-changes-ic list device device protocol news-special control

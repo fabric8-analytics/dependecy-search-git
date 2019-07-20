@@ -1,0 +1,1 @@
+django-configur e set py python configur target manag code-block alt function wsgi

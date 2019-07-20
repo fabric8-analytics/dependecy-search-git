@@ -1,0 +1,1 @@
+django-appdata extend field use django model app build addit form contain code incompat function source-commun version versions-python

@@ -1,0 +1,1 @@
+theano theano math numerical symbolic blas numpy gpu autodiff differentiation theano bugs bug expressions numpy compute computing computationally optimize optimizations large evaluate intensive-computations features release x-faster verification-includes foreman frederic transparent perform dimensional

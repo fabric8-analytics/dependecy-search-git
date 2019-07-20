@@ -1,0 +1,1 @@
+django-autoslug django field slug auto unique transliteration in version use useful examples example python lesser licensing license software free preserve slug-field configurable

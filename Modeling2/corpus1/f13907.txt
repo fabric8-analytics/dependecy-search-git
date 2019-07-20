@@ -1,0 +1,1 @@
+bonfire v fixes fixed documentation-fix query querying api adds add configure-queries release line bonfire added use searches search configuration configured usage

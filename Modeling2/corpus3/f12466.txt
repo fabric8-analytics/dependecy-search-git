@@ -1,0 +1,1 @@
+django-tenant-schemas schema multiple-tenants share share django-tenant-schemas-pypi-version key app apps database database domain model approach code make make python-versions multitenancy postgresql image website website automatically create create create detail

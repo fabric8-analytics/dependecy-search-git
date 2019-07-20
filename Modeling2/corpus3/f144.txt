@@ -1,0 +1,1 @@
+django-select2-forms django form field use select jquery plugin example example code django-select-forms field form-fields python autocomplete autocompletes ajax formfields way use us media-company

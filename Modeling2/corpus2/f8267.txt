@@ -1,0 +1,1 @@
+unittest-xml-reporting unittest based test runner ant junit like xml reporting report xunit tests jenkins pytest nose python pyunit testrunner xmlrunner testing reports use useful uses pull schema schemas files file write systems way feel verbose settings setting line docstrings contains version

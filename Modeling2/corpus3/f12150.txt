@@ -1,0 +1,1 @@
+django-cookies-samesite django cooky samesite cookie django-cookies-samesite set version python-set x code

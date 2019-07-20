@@ -1,0 +1,1 @@
+mesopy python wrapper mesowest environmental data api weather api climate mesowest meteorology function function station mesowest observation-stations observation observe data additional retrieve retrieve network value type type keys-values version statistics-network key metadata obtain license simply john variable variable weather object time parameter line-window pure

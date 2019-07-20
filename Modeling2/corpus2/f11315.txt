@@ -1,0 +1,1 @@
+rackspace-novaclient metapackage install python novaclient rackspace extensions install-python os installed

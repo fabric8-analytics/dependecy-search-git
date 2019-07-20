@@ -1,0 +1,1 @@
+setuptools-bower installation install bower aliases testing test-suite software license cern ma

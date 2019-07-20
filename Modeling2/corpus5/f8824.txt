@@ -1,0 +1,1 @@
+astroml-addon add tool astroml requir c compil instal python code use addon-cod packag optionally-instal core document documentation-sourc sourc list-instal version astronom exampl contribut astronomi git algorithm librari example-script numpy-scipi option routin pymc graph lt imag pixel unit bsd perform data list make high highli repositori learn chain-mont user novic file

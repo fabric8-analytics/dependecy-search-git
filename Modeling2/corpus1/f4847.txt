@@ -1,0 +1,1 @@
+typecheck python decorator type check typesafe typesafety type typing static type types classes signatures signature supporting support txt methods method-decorators decorator

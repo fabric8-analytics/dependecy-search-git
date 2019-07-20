@@ -1,0 +1,1 @@
+python-peripheri gpio spi led pwm ic mmio serial uart embed linux beaglebon raspberrypi rpi odroid test requir licens require-interactive-probing- python-periphery-linux setup includ python peripher interfac

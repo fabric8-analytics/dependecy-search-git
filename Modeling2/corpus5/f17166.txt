@@ -1,0 +1,1 @@
+pagin page link exampl generate-link modul like custom-pagin result-contain result class gener generating-html method accept string web webhelp solr format version chang contain paramet url list-lik use pager-method list collect item partial support python markup automat attr curpag compat

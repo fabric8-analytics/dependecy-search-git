@@ -1,0 +1,1 @@
+complexity static site generator html jinja templates s template files file-urls simple-static-site-generator converts contributions e generated template-context projects project file directory directories json-files generation optionally option optional input-data read reading server change changed improved argument arguments takes asset assets renames rename renamed alleviates

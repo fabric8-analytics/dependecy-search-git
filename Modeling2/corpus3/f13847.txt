@@ -1,0 +1,1 @@
+colorific automatic color palette detection color color image colorific-image-palette code code directory branch changelog multiprocessing saturation line delimited-string pillow-release api

@@ -1,0 +1,1 @@
+average array-format data-type shaped-like-numpy-arrays np averaging averages shape ewma values value code eye

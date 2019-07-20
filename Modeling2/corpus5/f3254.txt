@@ -1,0 +1,1 @@
+django-cms-pagetag add page group capabl django cm easier list manag tag templatetag usag order varname-ord option

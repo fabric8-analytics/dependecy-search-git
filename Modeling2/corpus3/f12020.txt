@@ -1,0 +1,1 @@
+python-snappy snappy compression google python-snappy compression compress compress zlib-compressing uncompress uncompress uncompressed py c install installation instal code o time cffi binding

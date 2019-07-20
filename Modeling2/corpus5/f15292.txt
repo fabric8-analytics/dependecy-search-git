@@ -1,0 +1,1 @@
+docker-fabr docker contain imag container-configur servic api-servic remot client use automat copi base command e configur support version follow

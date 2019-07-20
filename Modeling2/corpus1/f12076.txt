@@ -1,0 +1,1 @@
+django-taggit-serializer django taggit serializer taggit-rest-serializer framework taggit

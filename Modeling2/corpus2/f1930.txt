@@ -1,0 +1,1 @@
+flufl-enum lesser enum enumerations python-enumeration-package project barry licensed license concise

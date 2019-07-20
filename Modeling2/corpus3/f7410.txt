@@ -1,0 +1,1 @@
+polysquare-setuptools-lint creates polysquarelint command setuptools run several common python static analysis tool development linters polysquare-setuptools-linter error error reported-codes travis-ci polysquare-setuptools-linter module-provides error error python-static-analysis

@@ -1,0 +1,1 @@
+django-crumbs django crumbs pluggable django app adding breadcrumbs project template templates django-crumbs breadcrumbs breadcrumb html context current currently development syncdb-make breadcrumb-block-example adding-breadcrumbs base-html template

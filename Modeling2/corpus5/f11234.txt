@@ -1,0 +1,1 @@
+deplint requir depend linter pip deplint-depend examin test packag project chang licens virtualenv-packag contributor-licens run contributor code version virtualenv instal work way fix complet ownership way-mak make line-tool integr request atlassian

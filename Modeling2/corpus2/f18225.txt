@@ -1,0 +1,1 @@
+cmsplugin-gallery templates template gallery galleries django installation installing features feature plugin use version bugs settings setting supports-filer support migrations

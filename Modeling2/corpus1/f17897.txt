@@ -1,0 +1,1 @@
+sveeaccounts forms form django templates template optionnal usage urls path samples sample registration password file install installed change changes-version versions user users

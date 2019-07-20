@@ -1,0 +1,1 @@
+elasticsearch open sourc distribut rest search engin java use python-elasticsearch-cli licens like connect version python document defin nodes-persistent-connect document-data persist dsl way common softwar pluggabl language-govern level

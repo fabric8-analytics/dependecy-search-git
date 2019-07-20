@@ -1,0 +1,1 @@
+dockerpy testing logging example

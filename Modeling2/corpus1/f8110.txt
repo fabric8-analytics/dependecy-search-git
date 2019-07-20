@@ -1,0 +1,1 @@
+phpserialize serialize serialization module user objects data loads load functions function object-array likely dump serialized-like username serialization serialize d php attributes attribute hook import-obj-dumps-hello python stream dict arrays transparently-handles xfrld ordereddict admin true

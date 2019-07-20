@@ -1,0 +1,1 @@
+djangocms-reversion2 django cm plugin add page reversion logic diff view page trash bin revision django cm django versioning django django cm version history versioning reversion revision cm blueshoe basket bin revert image page page-drafts editor editor djangocms create status code feature feature release alt revision revision unwanted change

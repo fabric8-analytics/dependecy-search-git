@@ -1,0 +1,1 @@
+repoze-who-plugins-browserid authent repoz browserid csrf audienc assertion-audi assert check verifi request plugins-browserid default plugin refer login updat python-refer use verif cooki file pyvep postback host fix initi independ et separated-list navig strict

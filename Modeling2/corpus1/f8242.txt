@@ -1,0 +1,1 @@
+nfcpy python module read write nfc tags communicate another nfc device nfc nfc library python python library contactless nfc llcp pp snep alt nfc launchpad python-module release github code short

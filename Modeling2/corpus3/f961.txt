@@ -1,0 +1,1 @@
+staticmap small python base library create map image line marker polygon static map image osm map marker marker optional line line parameter installation install license license pixel pixel base base color tile width data-openstreetmap pad

@@ -1,0 +1,1 @@
+{"fuzzywuzzy": {"count_match": 111, "count_topn": 2100, "hitrate_topn": 5.29}, "whoosh_fuzzyterm": {"count_match": 143, "count_topn": 2100, "hitrate_topn": 6.81}, "whoosh_variations": {"count_match": 137, "count_topn": 2100, "hitrate_topn": 6.52}}

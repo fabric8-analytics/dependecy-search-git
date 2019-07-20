@@ -1,0 +1,1 @@
+richenum powerful enum library python code orderedrichenum changes-add fields order contributing changelog repo alt target

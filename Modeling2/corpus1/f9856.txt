@@ -1,0 +1,1 @@
+gopay-django-api app installed-apps django-api

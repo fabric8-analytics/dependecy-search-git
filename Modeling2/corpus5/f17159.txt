@@ -1,0 +1,1 @@
+django-appengine-toolkit django appengin toolkit configur need file contain app appengine-toolkit storag url-enviro cloud project project-depend set sdk

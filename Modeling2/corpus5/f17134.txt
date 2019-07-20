@@ -1,0 +1,1 @@
+peforth run notebook line tutori continue-run way notebook-pag python-debugg forth debugg block text new weight messag ctrl command page let interpret like mnist digit jupyter-notebook setup text-editor user mnist-handwritten-digit program

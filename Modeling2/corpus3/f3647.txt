@@ -1,0 +1,1 @@
+opster option option python contains contain message command newline-n write write subcommands like echo help sys option option fix fix fix command handle improve improve improvement contains contain help python-types handle-subcommands message gh newline-n write write easy like docstrings type echo ability ability import-sys indentation

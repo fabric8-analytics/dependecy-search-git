@@ -1,0 +1,1 @@
+coolfig django set code middleware-class settings-value-types-class url contrib envconfig str-debug instal messag context-processor write-configur ad import-settings-value-types-class valu support type import configur documentation-instal local initi secret auth

@@ -1,0 +1,1 @@
+uwsgitop worker color uwsgi-stat press memory-manag stat request statist use display usag pid rss

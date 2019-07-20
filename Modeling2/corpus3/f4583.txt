@@ -1,0 +1,1 @@
+configparser2 configparser configparser ini parse conf cfg configuration file file file python encode encode proper properly cpython text support-explicitly support data configparser form work work ascii section unit release free commit string string branching branch read reading manage require require code b futurization

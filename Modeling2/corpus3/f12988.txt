@@ -1,0 +1,1 @@
+speaklater lazy string lazy-strings u yes keyword translation translatable import gettext set-language

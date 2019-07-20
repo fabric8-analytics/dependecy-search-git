@@ -1,0 +1,1 @@
+horizon openstack dashboard horizon follow standard deprec releas horizon-openstack develop develop based-project doc project build build specif build build openstack test test py use use doc doc local sh django-bas local-develop run run set set track packag html sphinx node

@@ -1,0 +1,1 @@
+alog simple basic application logging print log python-logging module code defaults default info user m swtich support comparing showing replacing pure-string-output test level

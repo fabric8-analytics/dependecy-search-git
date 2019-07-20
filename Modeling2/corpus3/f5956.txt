@@ -1,0 +1,1 @@
+nose-setenv install development nosetests

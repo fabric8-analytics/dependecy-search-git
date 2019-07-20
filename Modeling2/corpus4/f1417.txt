@@ -1,0 +1,1 @@
+pypdt hep physic particl mass lifetim charg pid pdg ctau montecarlo particl tbl particle-data pypdt python print pythonic-access access lifetim p scheme heppid minim default classes-exampl interfac class mean

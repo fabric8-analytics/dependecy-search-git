@@ -1,0 +1,1 @@
+xstatic-angular angular xstatic package package packaging easy-install

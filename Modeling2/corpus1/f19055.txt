@@ -1,0 +1,1 @@
+retools cache redis queue lock caches cached caching-global-lock cache-statistics removed removing removal redis-tools locking features job jobs expiration expire actually license changes changed proper-expires-value incompatibilities-changing hit bug-fixes-properly-support example values invalidate forever doc based base added tested test fix mccabe

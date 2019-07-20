@@ -1,0 +1,1 @@
+aldryn-apphooks-config aldryn apphook config models-import model class-newsblogconfig apphooks-config-namespac django apphook setup application-namespac applic follow integr version version defin defin defin view view apphookconfig statu admin baseapphookconfig

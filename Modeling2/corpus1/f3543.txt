@@ -1,0 +1,1 @@
+txaws twisted based asynchronous libraries amazon web services clouds support aws apis txaws-alt aws status testing test tests license includes additional package installing install based-client asynchronous api

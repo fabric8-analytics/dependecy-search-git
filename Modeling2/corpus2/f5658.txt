@@ -1,0 +1,1 @@
+elasticutils deprecated friendly chainable elasticsearch interface python deprecated-january-th consider-switching django-queryset-like

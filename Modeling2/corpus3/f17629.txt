@@ -1,0 +1,1 @@
+django-eztables support support django integration code column column datatables installation install console support supporting-sorting django fix python integration datatables package packaging implementation custom installation install sort

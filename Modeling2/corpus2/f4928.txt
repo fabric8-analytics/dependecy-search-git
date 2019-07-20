@@ -1,0 +1,1 @@
+pytest-voluptuous pytest plugin asserting data voluptuous schema validate validators validated use match matching matches validation-fails alt schemas target provides provide tests test printing getting gets exact exactly keys key versions version failure-print like usage-intro printing-error-details failed fixed thanks-fix value values print

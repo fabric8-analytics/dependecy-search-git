@@ -1,0 +1,1 @@
+django-highchart django chart highchart ajax class base view chart chart py file file pie differ seri download download graph static-root django chart pie django-highchart

@@ -1,0 +1,1 @@
+gitlint gitlint git lint messages message-linter-written gitlint commit-msg-git-hook gating-script

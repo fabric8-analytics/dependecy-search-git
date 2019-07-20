@@ -1,0 +1,1 @@
+django-froala-editor packag integr froala wysiwyg html rich text editor django django-froala option default plugin use imag set usage-us upload licens follow web font insert py avail storag

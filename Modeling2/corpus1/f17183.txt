@@ -1,0 +1,1 @@
+pyfakefs testing test file os shutil glob mocking unittest fakes filesystem unit pyfakefs tests test tested python versions version-released file release supporting supported support supports contains container usage documentation documented libraries library development developed classes style running run c fork contributing contributions functions functionality john

@@ -1,0 +1,1 @@
+django-admin-jqueryui simply adds jquery ui admin panel admin app-adds-jquery add apps

@@ -1,0 +1,1 @@
+xlsx2csv sheet default sheet-pattern version-installation csv install-xlsxcsv e format h-v m-xlsxfile-outfile argument delimiter file file python n py xlsx

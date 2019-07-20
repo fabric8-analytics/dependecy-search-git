@@ -1,0 +1,1 @@
+lifxlan light api light-objects controlling-lifx-devices message message device-discovery object group group py-provides color color multizonelight multizonelights methods-provided set set set stable think data synchronize lifxlan support support level packet packet mac-address example example control

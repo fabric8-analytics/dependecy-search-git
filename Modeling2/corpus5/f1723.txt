@@ -1,0 +1,1 @@
+django-cassandra-engin django cassandra engin backend driver wrapper databas nonrel cqlengin donat django-cassandra licens model model-stor work instal store change-set connect

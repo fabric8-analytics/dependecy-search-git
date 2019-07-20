@@ -1,0 +1,1 @@
+django-castor files file software model models shards sharding usage uploaded modifies modify content contents caveats caveat compile compiled digest digests uploads-directory-based django code collection parameter parameters copyright filesystem storage count reference-counting use referred references refer default options

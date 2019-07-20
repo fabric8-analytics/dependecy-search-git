@@ -1,0 +1,1 @@
+django-tagulous django tagging tags tagging tag support supports tagged-models model django-tagulous customisable install-simple categorisation-admin features syntax

@@ -1,0 +1,1 @@
+posix-ipc ipc inter process communication semaphore shared memory shm message queue licensing posix-ipc bsd-license module version sample warnings shared

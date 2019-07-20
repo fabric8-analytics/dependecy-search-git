@@ -1,0 +1,1 @@
+django-pydenticon license django-pydenticon sane

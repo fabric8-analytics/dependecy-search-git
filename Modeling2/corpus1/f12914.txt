@@ -1,0 +1,1 @@
+url-for-s3 demonstrates url accessible-based

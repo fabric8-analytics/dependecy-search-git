@@ -1,0 +1,1 @@
+sireader sportident orienteering bosco si-set cards card station punching punches punch sicard control sireaderreadout modes mode protocol sireadercontrol false classes class events event

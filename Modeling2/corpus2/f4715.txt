@@ -1,0 +1,1 @@
+jingo-minify file files django jinja support supports supported images use uses minifier minifying settings set setting image-installing css-js sass bundles bundle bundled bundling stylus busting bust busts assets installation maintained maintainer template templates generate e moving ids id media

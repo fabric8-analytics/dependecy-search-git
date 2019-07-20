@@ -1,0 +1,1 @@
+flask-celeryext simple integration layer celery flask flask celery documentation test test celery release version-released version test test integration task task initialize initial application

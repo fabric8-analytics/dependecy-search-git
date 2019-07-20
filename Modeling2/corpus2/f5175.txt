@@ -1,0 +1,1 @@
+django-inspectional-registration django app registration inspection django-inspectional-registration-alt code compatibility steps step messages message password supported support south-compatible permission string activation activate following requirements requires required

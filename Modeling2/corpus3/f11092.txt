@@ -1,0 +1,1 @@
+django-sendfile file file backends backend set set setting set django-sendfile internal-redirect nginx request server serve serve serve location locate g mod-xsendfile url call e lighthttpd modxsendfile match mode

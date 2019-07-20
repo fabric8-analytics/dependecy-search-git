@@ -1,0 +1,1 @@
+modern-package-templ project project-automat use-distribut follow automat pypi includ buildout add remove-setup credit readme-txt release-d

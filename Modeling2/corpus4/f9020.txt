@@ -1,0 +1,1 @@
+django-pageblock reusabl cm compon use django pagetre

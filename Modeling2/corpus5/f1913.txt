@@ -1,0 +1,1 @@
+google-cloud-datastor low level protobuf base java python client librari cloud datastor check googl first cloud-datastor python-client-librari repo level-java issu request version md rpc automat sampl queri step document strong-consist managed-schemaless

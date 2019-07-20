@@ -1,0 +1,1 @@
+django-private-views deprecated site wide login protection public view including add views-site copyright redistribution redistributions provided direct directly listing list fixed fix explicitly strict non urlconf actively makes making make special julien-phalip frontpage post-packaged prone-deprecated packages christie

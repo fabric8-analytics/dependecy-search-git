@@ -1,0 +1,1 @@
+piecash gnucash python binding interface sqlalchemy pythonic python piecash format gnucash-files new xml sql-sqlite price book book mode file backends backend script script object test test

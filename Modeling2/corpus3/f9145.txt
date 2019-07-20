@@ -1,0 +1,1 @@
+geohash2 geohash gi latitude longitude encode decode galileo gps wgs coordinate geotagging provide

@@ -1,0 +1,1 @@
+ssh2 ssh ec aw ec-instance-instantli command-lin instanc

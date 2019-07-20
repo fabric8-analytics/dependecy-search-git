@@ -1,0 +1,1 @@
+dictorm psycopg dictionari python dict tabl transact sqlite update-delet key creat backend comparison queri insert

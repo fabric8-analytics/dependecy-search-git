@@ -1,0 +1,1 @@
+bandmat band package packages banded-matrix python modes mode operations operates file files cython repository class development installation install installs installing installed way ways like approach status blas source uses use c bugs bug

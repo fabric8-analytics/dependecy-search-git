@@ -1,0 +1,1 @@
+sphinxcontrib-fancybox fancybox thumbnail imag remot html patch paramet github fix

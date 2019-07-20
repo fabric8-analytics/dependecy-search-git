@@ -1,0 +1,1 @@
+django-easy-pjax django pjax templat sites-alt-build add licens site page repositori url settings-code-block set separ incompat string exampl filter project quality-project permalink block bust settings-cod ascii query-str compat support

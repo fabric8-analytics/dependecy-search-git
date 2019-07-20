@@ -1,0 +1,1 @@
+sphinxcontrib-phpdomain php methods method cross quick class classes-functions author-mark-story support supports function global contains

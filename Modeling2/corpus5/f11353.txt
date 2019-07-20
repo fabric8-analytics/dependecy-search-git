@@ -1,0 +1,1 @@
+fadapa bioinformat fastqc pars instal fadapa-fastqc code python python-versions-instal cd version

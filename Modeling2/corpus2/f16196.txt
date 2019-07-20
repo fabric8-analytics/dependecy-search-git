@@ -1,0 +1,1 @@
+xstatic-font-awesome font awesome xstatic package packaging icons-packaged

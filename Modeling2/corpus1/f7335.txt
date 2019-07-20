@@ -1,0 +1,1 @@
+aubio file aubio uses use acceleration accelerated accelerate files-detects computations compute computation spectral audio-analysis detection frequency tracking installation including-read reading format formats line notes-installing sound module modules library libraries note

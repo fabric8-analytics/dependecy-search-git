@@ -1,0 +1,1 @@
+factory factory factory class foo bar bunch attribute attribution attribute function function classes-instance def-adder-x-y-return argument argument add add return object object color counter instead quux b implementation include follow intelligent source module fac self kwargs file-directly template

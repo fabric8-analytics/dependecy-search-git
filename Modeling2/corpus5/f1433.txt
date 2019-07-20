@@ -1,0 +1,1 @@
+idutil small python librari valid persist identifi use scholarli commun licens refseq identifier-schem block scheme cern pubmed-id featur free version changes-version-adds-support fix test supported-schemes-isbn arxiv configur develop invalid-doi file doi-handl gnd socket-timeout chang http handl

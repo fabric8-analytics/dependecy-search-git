@@ -1,0 +1,1 @@
+mrjob run mapreduce jobs hadoop amazon web services jobs job mrjob run-hadoop mapreduce setup keys key set setting emr-service file step mrwordfreqcount environment install installation basis supports support json-api information links apis

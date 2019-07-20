@@ -1,0 +1,1 @@
+django-elasticsearch-debug-toolbar django e elastic elasticsearch elasticsearch-toolbar query query license

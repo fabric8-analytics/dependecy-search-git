@@ -1,0 +1,1 @@
+django-email-bandit django email backend hijacking sending test environment emails django-email documentation python build-status mixin smtp

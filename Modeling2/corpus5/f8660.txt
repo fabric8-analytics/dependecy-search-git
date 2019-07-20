@@ -1,0 +1,1 @@
+chartkick javascript-chart chart-j options-chart ck app demo static add url highchart

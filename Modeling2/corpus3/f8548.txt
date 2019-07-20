@@ -1,0 +1,1 @@
+redish key list set set serializers serialize serializer keys-example storing-serialized python-objects supports-lists value value object store store redish-pythonic-redis store-string member member string remove remove give item item support support check proxy keyspaces local locally-remember base index version version introduction-braindump index

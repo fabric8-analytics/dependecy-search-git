@@ -1,0 +1,1 @@
+dj-static-incuna static django serv wsgi-serv

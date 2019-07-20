@@ -1,0 +1,1 @@
+social-auth-app-django django version version time-consider-donating details-versioning social-auth-django donation

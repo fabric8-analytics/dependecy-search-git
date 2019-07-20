@@ -1,0 +1,1 @@
+pycolorterm allow getting-start python bash-usag

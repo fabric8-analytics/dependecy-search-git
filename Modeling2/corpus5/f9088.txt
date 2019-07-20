@@ -1,0 +1,1 @@
+pytest-qt pytest plugin qt pyqt pysid applic test unittest variabl change-vers versions-black code-block-python benjamin waitsign method requir pydev request instal local docs-appveyor featur user like-key yurchak john

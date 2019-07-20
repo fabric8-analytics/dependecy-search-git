@@ -1,0 +1,1 @@
+awesome-slugify slugify slug transliteration russian german unicode translation flexible code slugify-python function function

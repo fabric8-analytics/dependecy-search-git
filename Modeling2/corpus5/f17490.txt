@@ -1,0 +1,1 @@
+complex static site gener html jinja templat s file file-url simple-static-site-gener convert contribut e template-context project directori json-fil option input-data read server chang improv argument take asset renam allevi

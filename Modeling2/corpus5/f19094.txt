@@ -1,0 +1,1 @@
+daemon interfac rundaemon-check daemonization-signal-handl method simple-init requir messag handler handl manag

@@ -1,0 +1,1 @@
+launchr finds r installation provides convenience functions running scripts python including package install installed installer users user added packages currently output script

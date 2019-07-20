@@ -1,0 +1,1 @@
+django-select2-form django form field use select jqueri plugin exampl code django-select-form form-field python autocomplet ajax formfield way media-compani

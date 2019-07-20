@@ -1,0 +1,1 @@
+cmsplugin-news install cms-x integrate installed-apps menu-integration plugin plugins

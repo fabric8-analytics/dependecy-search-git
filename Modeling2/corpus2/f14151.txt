@@ -1,0 +1,1 @@
+django-cms-search cms-search haystack

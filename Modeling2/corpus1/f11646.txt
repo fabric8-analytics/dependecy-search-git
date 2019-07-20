@@ -1,0 +1,1 @@
+python-bcrypt date fork py bcrypt python python compatible compiles windows mac linux windows python-bcrypt patches hashes-passwords blowfish-password-hashing py compiles compiler patch-fixing-compilation compile-c code gmail-com bsd installation installer install tested tests test file original miller-djm-mindrot urandom random py-bcrypt passwords blowfish-password

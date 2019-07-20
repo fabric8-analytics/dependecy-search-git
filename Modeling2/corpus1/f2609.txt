@@ -1,0 +1,1 @@
+slycot python wrapper subroutine library systems control theory slicot python conda compiled compiling compilation slycot-python package packages installed installing install c-compiler-e-g code pre lapack dependencies variable operating forge working work openblas wraps

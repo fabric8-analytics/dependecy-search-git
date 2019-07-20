@@ -1,0 +1,1 @@
+django-multilingual-news author django-multilingual-news

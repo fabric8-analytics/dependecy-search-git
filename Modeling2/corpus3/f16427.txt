@@ -1,0 +1,1 @@
+django-websocket-request support django request response lifecycle automatically handle websocket message key websocket-request agnostic patch provide j message message demo example authorization jwt live-demo example authorization key django rest-framework

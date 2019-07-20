@@ -1,0 +1,1 @@
+pytabix tabix bgzip bioinformat genom module-allows-fast-random-access python pysam c gzip-index index

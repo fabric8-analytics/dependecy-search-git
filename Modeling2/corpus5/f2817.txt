@@ -1,0 +1,1 @@
+raphendyr-django-essenti django code import app import-upd set templat essential-django log settings-us color deprec function colorized-log-formatt essenti formatters-color includ class key creat add myapp use enum processor python exist requir argument fg debug

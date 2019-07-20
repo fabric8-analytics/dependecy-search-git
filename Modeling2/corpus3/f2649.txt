@@ -1,0 +1,1 @@
+pytaf aviation weather meteorology taf metar report report reporting-format information decode decoder decode format weather-forecasts-taf interpret interpret interpretation decode-method class class method like likely english flight cloud note pytaf readable forecast straightforward-key

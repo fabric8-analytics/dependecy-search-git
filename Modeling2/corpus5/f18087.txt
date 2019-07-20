@@ -1,0 +1,1 @@
+pyfuzz includ russian including-chinese-han-japanes light-weight string jpg

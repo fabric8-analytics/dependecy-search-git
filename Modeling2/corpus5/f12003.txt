@@ -1,0 +1,1 @@
+pyodbc odbc precompil document open db-api

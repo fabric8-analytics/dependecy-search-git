@@ -1,0 +1,1 @@
+django-inlines inline template templated templates models model value values arguments argument tag photo adding context class classes import important jannis syntax uses fixes fixed process silently style use-include includes example-register registered admin dictionary

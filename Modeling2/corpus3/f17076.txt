@@ -1,0 +1,1 @@
+pywinauto window gui automation guiauto test test desktop mouse keyboard send-mouse window

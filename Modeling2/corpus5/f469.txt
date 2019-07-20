@@ -1,0 +1,1 @@
+textblob nlp linguist nltk pattern translat text-processing-alt languag word python wordnet classification-transl tagging-noun-phras sentiment

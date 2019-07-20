@@ -1,0 +1,1 @@
+python-surveilclient api complete completion command host python client

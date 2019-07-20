@@ -1,0 +1,1 @@
+shellish shellish-command-line-shell-mashup-framework streamline hierarchy mode posix command python-standard shell-mashup-framework argparse platform argument mode

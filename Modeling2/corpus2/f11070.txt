@@ -1,0 +1,1 @@
+pygdal virtualenv setuptools friendly version standard gdal python bindings versions versioning installing install installed git package packages sudo values variable library pygdal-n currently current small-set setting

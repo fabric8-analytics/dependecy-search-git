@@ -1,0 +1,1 @@
+jmbo-poll polling app jmbo polls poll-option add django vote require required migrations migrate praekelt roos-changelog break model

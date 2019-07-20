@@ -1,0 +1,1 @@
+biomaj-cor add check index fix-log config variabl biomaj properti endpoint allow log version env servic

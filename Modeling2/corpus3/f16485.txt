@@ -1,0 +1,1 @@
+azure-mgmt-hanaonazure feature microsoft-azure operation add enum management-client enums-bugfixes resource-manager model model parameter parameter new argument argument update package complete completion code release breaking-changes http-session change change

@@ -1,0 +1,1 @@
+django-suit-redactor versions-master use uses version django redactor

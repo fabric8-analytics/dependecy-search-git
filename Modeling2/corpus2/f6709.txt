@@ -1,0 +1,1 @@
+eulfedora utilities accessing creating fedora commons digital objects using idiomatic python including django extensions alt repository api license pythonic-object dependencies development developer use code version currently-depends module current-versions provides provide software level management-command models documentation tests test run running

@@ -1,0 +1,1 @@
+django-appypod render opendocument files templates using appy pod django templates template-backend add views backends install opendocument initial

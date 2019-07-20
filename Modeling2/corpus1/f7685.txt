@@ -1,0 +1,1 @@
+xstatic-bootstrap-datepicker bootstrap datepicker xstatic packaged package packaging easy-install

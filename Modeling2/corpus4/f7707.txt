@@ -1,0 +1,1 @@
+pipreq pip requir import generate-requirements-txt-fil fix fix-dupl output-add import import option remove-packag use project packag map map duplic duplic ej-le requirements-txt modul modul kxrd-exclud requir comment shin update-proxi environ pip-freez clean

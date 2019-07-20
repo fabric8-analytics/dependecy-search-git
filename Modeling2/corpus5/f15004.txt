@@ -1,0 +1,1 @@
+django-safedelet mask object instead delet databas django python file branch model soft manag requir example-cod fix new deleting-object remov compatibility-bugfix refactor compat compatibilities-branch ad add error current behavior use abstract-model models-cascad relat cascad

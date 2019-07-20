@@ -1,0 +1,1 @@
+solrclient simpl python librari solr built support latest featur queri basic test index query-respons respons manag json stream result better data enhanc option request

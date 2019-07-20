@@ -1,0 +1,1 @@
+django-virtual-pos django module abstracts flow several virtual points sale including paypal payment redsys bank methods sales ceca tpv point of puchases online payments view views payment-methods banks spanish set django-virtual attributes settings-py santander license removethisintelligenia-com needed need confirm contributors remove code python banks-redsys settings bitpay

@@ -1,0 +1,1 @@
+distroinfo python module parse validate query distribution packaging metadata store human readable reviewable text yaml file info repos repo rdoinfo use us code-reviews file reviewable test test parse parse python-module project bug module require requirement base proper usage distribution metadata human example example integrate integration

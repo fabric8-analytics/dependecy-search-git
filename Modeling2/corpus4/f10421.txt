@@ -1,0 +1,1 @@
+pytest-moto pytest aw moto boto moto-alt run run packag statu requir requir travis-ci isn repositori pypi insecur endpoint moto-alt run run packag requir requir documentation-statu enabl travis-ci iam test test cloudformation-isn mode mode

@@ -1,0 +1,1 @@
+jms-storage jumpserver storage oss s elasticsearch

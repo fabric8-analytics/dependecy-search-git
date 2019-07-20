@@ -1,0 +1,1 @@
+django-addon addon add configur instal project set installation-upd updat pypi py

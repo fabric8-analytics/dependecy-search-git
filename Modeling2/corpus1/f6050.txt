@@ -1,0 +1,1 @@
+kore plugin components component existing-plugins-installation application kore code creating create creates created hooks hook install testing tests test class bash python-container flask inside required requirements configuration configure baseplugincomponent factory

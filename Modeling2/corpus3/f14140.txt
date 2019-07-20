@@ -1,0 +1,1 @@
+kitten aws-resources configure-examples credentials-set tool tool-run-command server server installation install use-replace tiny upload-file instance credentials-set file

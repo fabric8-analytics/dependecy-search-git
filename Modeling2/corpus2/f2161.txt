@@ -1,0 +1,1 @@
+pysqlpool patch mysql-connection documentation site query queries management manager python files file based src-base doc true installation install doc-index docs

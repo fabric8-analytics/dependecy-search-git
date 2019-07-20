@@ -1,0 +1,1 @@
+flask-registri applic blueprint flask test softwar licens cern badg ma place

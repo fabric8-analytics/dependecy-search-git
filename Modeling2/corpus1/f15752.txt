@@ -1,0 +1,1 @@
+pyoos python library collecting met ocean observations pyoos observations data com code install installation installed installing python-library case publically public sos rest use-cases virtualenv bash try software rolling typical water copyright fiona-beautifulsoup metadata-concept groups-mailing numpy kyle useful dave asascience libraries

@@ -1,0 +1,1 @@
+filetype file libmagic magic infer numbers magicnumbers discovery mime type kind files types-provides z mp add dependency image-video-audio api-blazing supports supported license-mit-tomas simple reference wasm-benchmarks compilation-needed osx wide-range bytes file-type types api python image-video-audio-add build code free-package benchmarks bindings-cross ps-sqlite

@@ -1,0 +1,1 @@
+fpdf pdf unicode png jpg ttf support code python documentation installation install installers pyfpdf pdf-document channel fixes note development pdflib-extension barcode translation

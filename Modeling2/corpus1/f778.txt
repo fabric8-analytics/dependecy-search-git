@@ -1,0 +1,1 @@
+acidipy acidipy endpoint aci-python object objects profile method l filter paths-path virtual vrf-fvbd-acibridgedomainmodel-bridgedomain acilprofilemodel lphysif-aciphysifmodel-physif node tenant epg create created ap example aci print

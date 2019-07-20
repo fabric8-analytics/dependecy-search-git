@@ -1,0 +1,1 @@
+django-google-analytics-reporter analytics id tracker-class readable use django make makes

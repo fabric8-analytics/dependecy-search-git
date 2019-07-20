@@ -1,0 +1,1 @@
+bottle-i18n example application bottle

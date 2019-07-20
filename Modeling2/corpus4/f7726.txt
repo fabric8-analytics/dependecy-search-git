@@ -1,0 +1,1 @@
+conllu conllu conll conll u parser nlp sentenc sentenc use-conllu call dependency-tre depend python-dictionari tree-structur file file code-work multipl u instal instal instal instal new list pars pars format format format support support coverag

@@ -1,0 +1,1 @@
+simple-tim timer timedelta durat print instal pip-instal elaps valu

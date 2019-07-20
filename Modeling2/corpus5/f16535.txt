@@ -1,0 +1,1 @@
+rabbyt fix reporting-immediately-overlapping-rect sprite circular-dependencies-optim

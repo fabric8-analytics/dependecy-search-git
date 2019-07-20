@@ -1,0 +1,1 @@
+pywws pywws-python-software weather data gnuplot usb read readings version dependencies-legacy snapshot depends paramiko-posting twitter web low memory hidapi post tweepy essential recent street

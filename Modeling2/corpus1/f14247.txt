@@ -1,0 +1,1 @@
+wagtail-django-recaptcha simple recaptcha field wagtail form pages wagtail recaptcha captcha version versioning merge merged-use path recaptcha field semver

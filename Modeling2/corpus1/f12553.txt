@@ -1,0 +1,1 @@
+git-up git git up v-fixed support supported thanks added fix pygitup-version-build-status dependency dependencies depends gitup screen demonstration git problems problem arguments argument windows test output

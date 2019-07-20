@@ -1,0 +1,1 @@
+repoze-sendmail remov remov messag ad ad email-messag internals-remov smtp pr python-add issu transactional-mail zope transact compat compat ssl drop-support directori drop processor-config unicode-charact queu tpc fix fix doc encod prevent prevent delivery-util rude plug longer repoz alia spell test test connect lp improved-test got allow intern b code binari

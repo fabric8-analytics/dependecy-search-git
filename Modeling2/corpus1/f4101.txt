@@ -1,0 +1,1 @@
+openstacksdk openstack-clouds cloud python client-library layer layers code differences different-libraries defaults default shade level oriented history rest configuration configurations configured specific manner environment extra abstraction abstractions entitled-narcissist complete documentation

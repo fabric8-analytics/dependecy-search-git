@@ -1,0 +1,1 @@
+django-siteprefs django alive settings code

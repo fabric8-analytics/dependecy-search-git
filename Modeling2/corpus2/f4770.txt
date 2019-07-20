@@ -1,0 +1,1 @@
+crypto encryption decryption gpg pgp openpgp cipher aes cryptography security privacy encrypted encrypt files gpg-file-encryption decrypt decrypted install installing installed options documentation-detailed linux tar details multiple issues issue stream tools generation generate generating contributors license users unpack code bash option hash-digest automated-tar

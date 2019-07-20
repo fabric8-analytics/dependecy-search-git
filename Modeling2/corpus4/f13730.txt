@@ -1,0 +1,1 @@
+periodict support support modified-fix formula formula neutron new neutron-scatt valu add tabl tabl differ differ differ volum fix-activation-calcul section mass-dens masses-dens updat h packag packag coher calculations-use-valu ion ion sld incoherent-cross-sect element element chang chang atom atom calcul calcul ray pyex use nm natur renam return state bcc

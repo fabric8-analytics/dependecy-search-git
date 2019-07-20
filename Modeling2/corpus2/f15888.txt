@@ -1,0 +1,1 @@
+xstatic-rickshaw rickshaw xstatic packaged package packaging easy-install

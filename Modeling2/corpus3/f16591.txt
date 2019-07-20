@@ -1,0 +1,1 @@
+aioconsul infrastructure asyncio service discovery health check key value store test test service service consul installation install simple-checks check cov v multi

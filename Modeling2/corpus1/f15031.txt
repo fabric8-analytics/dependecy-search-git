@@ -1,0 +1,1 @@
+django-googl django apps googl google api short url googl installation installed

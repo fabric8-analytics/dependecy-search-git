@@ -1,0 +1,1 @@
+msgpack unpack unpack unpack unpack unpack type msgpack option option option use use raw-typ code object python-alt data buf like pack-object gc import instal chang chang chang default default binari pycon-import package-provides-cpython string string provid messagepack bytes-provid larg true allow byte transit transit pypi pypi deprec deprec pack pack pack

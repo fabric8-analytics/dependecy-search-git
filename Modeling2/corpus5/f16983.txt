@@ -1,0 +1,1 @@
+django-bootstrap4 bootstrap integr django python author issu templat licens lead pull-request request upgrad fix develop develop-branch author-develop branch jqueri text pagin form adopt-black setting-remov authors-rst set use widget version start histori

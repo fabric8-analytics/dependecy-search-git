@@ -1,0 +1,1 @@
+structpp wrapper around python standard struct modul provid bitfield namedtupl decod struct-introduct python-modul base adds-support decoding-struct string

@@ -1,0 +1,1 @@
+geohash2 geohash gi latitud longitud encod decod galileo gp wg coordin geotag provid

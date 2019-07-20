@@ -1,0 +1,1 @@
+pydl alt status sdss license licensed library libraries idlutils github package legal astropy-badge photoop idlspecd

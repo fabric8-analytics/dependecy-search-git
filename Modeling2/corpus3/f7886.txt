@@ -1,0 +1,1 @@
+django-qsstats-magic aggregate aggregate aggregation aggregate aggregate django-qsstats date method method data time db license test series tests-py current currently defaults-testing argument api configuration repetitive example default tox hour matt

@@ -1,0 +1,1 @@
+aldryn-bootstrap3 deprec project longer maintain see readm inform configur django-cms-provid run install-run instal addit bootstrap-pypi grid sourc provid properly-insid compon

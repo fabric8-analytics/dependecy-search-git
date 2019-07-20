@@ -1,0 +1,1 @@
+nxpi tool python relat version file util manag packag object build option-set visual-studio scon

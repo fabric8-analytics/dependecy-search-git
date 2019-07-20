@@ -1,0 +1,1 @@
+openfisca-survey-manag tool manag survey data style file test config use openfisca code contain st-usag ini microsimul softwar

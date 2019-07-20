@@ -1,0 +1,1 @@
+esoreader python module reading eso file generate energyplus simulation parse energyplus panda variable variable energyplus file eso-files interface data panda module license license column column installation install list name understand report simulation reporting-frequency frequency eth-zrich default-zonezonehvac object object ipython

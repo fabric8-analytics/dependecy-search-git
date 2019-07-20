@@ -1,0 +1,1 @@
+python-taiga evergreen tree python module communicate taiga api taiga python rest taiga kanban wrapper api alt code python documentation issue issue task task api gitter-pypiversion-pyversion-status version version

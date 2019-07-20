@@ -1,0 +1,1 @@
+steam python package interacting valve steamworks webapi authentication authenticator guard codes web client steamid api steamcommunity alt version code-bash install installed curiosity testing test simple-api pypi-license master-build

@@ -1,0 +1,1 @@
+dirsync directory option option dirsyncing file file dirsync-copyright update update default create create sync pattern directory default-force e future diff define define exclude exclude verbose action excludes-configuration time exist exist

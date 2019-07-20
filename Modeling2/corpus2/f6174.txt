@@ -1,0 +1,1 @@
+django-robots django app managing robots txt files following exclusion protocol supported python file robot url urls sitemaps setting set value values sitemap-app installer install installed settings-file site sites installation-use crawl-delay crawling-web useful apps rules rule change changed trailing urlconf website automatically caching cache multiple request requests e add

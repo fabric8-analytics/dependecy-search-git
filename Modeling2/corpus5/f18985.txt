@@ -1,0 +1,1 @@
+django-linkcheck app analyz report link model regist bare url imag file field embed html linkcheck handl pars fairli easi overrid method object need anyth complic like gener slug etc test linkchecks-requires-python check run check-extern class intern site-domain set mysit upload instal requir domain command option e

@@ -1,0 +1,1 @@
+logassert log-assertion log mechanism logging-calls method methods-self simple code wrong

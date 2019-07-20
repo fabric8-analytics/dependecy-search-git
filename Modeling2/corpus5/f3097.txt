@@ -1,0 +1,1 @@
+python-sld simpl python librari enabl dynam sld creation manipul ogc geo geoserv mapserv osgeo filter class object styledlayerdescriptor-class-object font rule instal contributor schema xml parent implement

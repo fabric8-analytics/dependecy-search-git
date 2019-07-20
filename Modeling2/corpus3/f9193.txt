@@ -1,0 +1,1 @@
+flask-babelex localization localization flask multiple-language localization localization flask babel link

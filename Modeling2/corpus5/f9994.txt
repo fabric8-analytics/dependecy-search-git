@@ -1,0 +1,1 @@
+pyramid-servic pyramid servic layer ioc contain import code config def request view build class myapp-interfaces-pi base interfac sqlalchemi token test logic object set installation-instal self regist databas setup iloginservic home dbmaker new instanc python-config context support origin featur model

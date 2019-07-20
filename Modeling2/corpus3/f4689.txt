@@ -1,0 +1,1 @@
+django-require run run run django-require build building code standalone storage file file generate generate generate test test r-js-optimizer optimize optimize optimization cache instead base staticfiles-post checkout coverage

@@ -1,0 +1,1 @@
+edc-metadata django edc data entry metadata models model-instances rules rule visit code coded edc-metadata class classes crf data forms form python entry like field requisitions requisition available fields-list-registered instance directly registry configuration configured listed run runs simple subject subjects

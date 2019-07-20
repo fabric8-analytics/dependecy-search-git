@@ -1,0 +1,1 @@
+django-nine django code versions alt version-checking mail testing tests processors sh check

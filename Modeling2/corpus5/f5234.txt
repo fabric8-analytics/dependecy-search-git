@@ -1,0 +1,1 @@
+django-test-plu use addit django default testcas test method django-test testing-view view class respons url context kwarg simpli password cl like follow key queri usag exampl user make query-str thing rational name check specif requir code-check http error pytest project return templat creat instead auth

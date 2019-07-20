@@ -1,0 +1,1 @@
+pytest-asyncio pytest support asyncio testing test tests fixtures fixture pytest-asyncio support supported-python-versions async code scopes like function-scope functions event-loop unused loops licensed

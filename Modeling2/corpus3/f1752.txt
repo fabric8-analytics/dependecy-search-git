@@ -1,0 +1,1 @@
+django-secure set setting good-choice-set guessing-asset-content-types protect ssl xss-filtering-protections version version usage-add security django-secure test test test test set set setting add ssl thanks version version cod little code-worked site site work initial-release heller redirect redirects asset filter avoid change

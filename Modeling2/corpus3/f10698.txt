@@ -1,0 +1,1 @@
+django-openid-auth library integrates add-openid-support server support

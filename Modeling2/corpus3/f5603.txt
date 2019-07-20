@@ -1,0 +1,1 @@
+py3exiv2 exiv pyexiv exif iptc xmp image metadata python dev library library easy version level xmp-image-metadata

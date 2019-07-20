@@ -1,0 +1,1 @@
+multiprocessing issues python-multiprocessing issue-added-patch support-fix fixes fixed package packaging module modules int r handles check-handle remove checks updated-version update patches removed-target change changes changed internal docs doc properly proper fileno calling bug bugs

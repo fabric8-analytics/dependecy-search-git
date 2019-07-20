@@ -1,0 +1,1 @@
+rabbyt fixed reporting-immediately-overlapping-rects sprite circular-dependencies-optimized

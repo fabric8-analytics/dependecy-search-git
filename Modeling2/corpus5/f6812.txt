@@ -1,0 +1,1 @@
+django-dajaxic use framework-dajaxice-us

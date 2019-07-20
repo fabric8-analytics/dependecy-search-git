@@ -1,0 +1,1 @@
+dumptruck painlessly move data sqlite database databases commands command table tables row rows indices values value types type pass passing save saves saving like dictionaries dictionary commits commit committing column columns names named automatically-committed uses use useful methods method object objects specialized special index arguments argument list lists

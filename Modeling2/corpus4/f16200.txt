@@ -1,0 +1,1 @@
+setuptools-scm bless packag manag version scm tag version version version code metadata configur configur git number number file tag tag instal instal instal scm python volatil reason reason directori followup like support support support use use e-g issue-trackers-chat

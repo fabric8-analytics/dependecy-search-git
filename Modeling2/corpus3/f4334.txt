@@ -1,0 +1,1 @@
+django-static-angular django angular staticfiles installation instal v static

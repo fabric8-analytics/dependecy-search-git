@@ -1,0 +1,1 @@
+mailjet-rest mailjet api v v python wrapper api-document version version version mailjet exampl exampl refer refer send

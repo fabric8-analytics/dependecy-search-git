@@ -1,0 +1,1 @@
+flask-colorpicker flask spectrum color consuming extension flask settings template flask extension

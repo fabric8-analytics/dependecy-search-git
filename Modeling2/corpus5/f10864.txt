@@ -1,0 +1,1 @@
+foreman api hosts-list object orange-com media usag

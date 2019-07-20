@@ -1,0 +1,1 @@
+heroku3 app apps add heroku-py dynos feature feature api running-dyno-processes-use formation formation debug debug start start addon useful update applications-addons updated-python buildpacks buildpack release notice follow person person include include support support list copyright documentation run bugfixes g add travis copy copy

@@ -1,0 +1,1 @@
+djangorestframework-jsonapi json-api framework-image-alt base automat like django target e-g format

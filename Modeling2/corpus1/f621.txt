@@ -1,0 +1,1 @@
+diamond diamond python daemon collects system metrics publishes graphite others capable collecting cpu memory network load disk metrics additionally features api implementing custom collectors gathering metrics almost source

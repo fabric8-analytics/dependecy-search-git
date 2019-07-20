@@ -1,0 +1,1 @@
+django-inbound-email email handl test test-app servic code mandrill-backend object http current service-e-g supports-python configur backend provid support configuration-set sendgrid version-support ll describ set character-set project pars receiv transact mail smtp

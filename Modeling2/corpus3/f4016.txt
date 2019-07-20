@@ -1,0 +1,1 @@
+envisage envisage python base framework building application whose functionality extend add plug in application project project envisage-extensible-application-framework framework extension extension-points plug-in application framework envisage-extensible-application-framework consists extension extension project project base

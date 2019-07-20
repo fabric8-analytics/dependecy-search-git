@@ -1,0 +1,1 @@
+serial-device2 serial class auto o device serial-device

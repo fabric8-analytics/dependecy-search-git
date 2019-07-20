@@ -1,0 +1,1 @@
+watson-developer-cloud language code services service version versions authentication authenticate authenticating header headers files response watson supported supports support cloud-python-sdk client credential-file try install installing token instances instance generated credentials installation-note like directory http status assistant details

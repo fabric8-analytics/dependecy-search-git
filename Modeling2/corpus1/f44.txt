@@ -1,0 +1,1 @@
+jcconv japanese converter hiragana katakana half width kana half check wide encoding-simple

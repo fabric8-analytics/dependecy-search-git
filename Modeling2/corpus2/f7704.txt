@@ -1,0 +1,1 @@
+monasca-agent agent monasca openstack checks check tags tag processes process plugins plugin statsd metrics metric detailed details-license memory prometheus code http-endpoint endpoints http

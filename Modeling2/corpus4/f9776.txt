@@ -1,0 +1,1 @@
+flask-debugtoolbar-mongo debug flask-debug-toolbar-mongodb-panel panel true profil harri request app stack configr

@@ -1,0 +1,1 @@
+awacs python library aws access policy language creation iam policies generate generated actions py generator-tool python-code installation installed install action-allow json tools policydocument cloudtools checking arn bucket allows

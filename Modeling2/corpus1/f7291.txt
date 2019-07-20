@@ -1,0 +1,1 @@
+memoize way mproperty def class

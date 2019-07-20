@@ -1,0 +1,1 @@
+editorconfig editorconfig-python-cor code librari text command file

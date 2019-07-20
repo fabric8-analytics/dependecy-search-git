@@ -1,0 +1,1 @@
+jprops jprops comment properties property line-comments file value values encodings encoding data fp unicode-files encoded-bytes lines writing write like x binary grained byte handled handle import use-pip props hello thu unreleased

@@ -1,0 +1,1 @@
+pyshorteners upcoming-version comment-pyshorteners shortening shorteners usage pyshorteners-description engine default param new-file send method optionally-methods needed need banner-optional mandatory import

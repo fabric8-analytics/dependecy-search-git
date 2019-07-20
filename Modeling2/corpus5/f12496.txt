@@ -1,0 +1,1 @@
+ssh-import-id ssh public key ident use line verifi supported-ident rsa log instanc support prefix kirkland-scott author exampl

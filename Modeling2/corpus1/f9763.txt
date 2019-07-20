@@ -1,0 +1,1 @@
+stop-words stop-words-list common languages attribution-international alt pypi contents python-stop status install turkish-ukrainian-installation basic

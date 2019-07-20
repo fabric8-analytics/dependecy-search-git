@@ -1,0 +1,1 @@
+z3c-recipe-script develop build script python egg packag buildout-script-recip option installs-egg chang site-packag use path interpret sitecustom py version initi significant-chang allow provid valu pypi make zc significantli code ll instal local includ directori behavior-depend depend document

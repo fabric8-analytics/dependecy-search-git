@@ -1,0 +1,1 @@
+mopidy-mobile mopidy-mobile language language android-version web installation instal install version app translation translate default default license license building build run run text text screen-change available server server online-resources ionic pull button control tracklist alt pypi device device user user

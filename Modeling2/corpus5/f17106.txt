@@ -1,0 +1,1 @@
+nexus-yplan nexu django code remov csrf thank set support python ad version templat admin fix modul make releas new login includ longer user function ongo employ origin ajax jqueri instead logout

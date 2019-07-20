@@ -1,0 +1,1 @@
+metapy python bindings meta nlp natural language processing ir information retrieval cl computational lingusitics parsing tagging tokenizing syntax lingustics text mining analysis version versions building build library-getting web package way

@@ -1,0 +1,1 @@
+newt-db database nosql python postgresql postgres fix object record record update update updater update changes-added database-python-objects search-query index newt-db cause cause change change transform transformation transformer argument argument support-indexing-data initial table table connection relstorage postgresql query

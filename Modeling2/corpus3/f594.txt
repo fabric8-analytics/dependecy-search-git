@@ -1,0 +1,1 @@
+vcrpy-unittest vcrpy vcr py unittest test mock http unittest-pypi class class code python acknowledgement manager test test inherit inherit cassette default-cassettes py class class code python-versions unittest-pypi-build inherit inherit inheritance manager acknowledgement py test test cassette default-cassettes support support support

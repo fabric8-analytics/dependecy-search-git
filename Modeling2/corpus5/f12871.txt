@@ -1,0 +1,1 @@
+flake8-pep3101 pep pycodestyl flake string format plugin-python new gforcada string-format fix-text releas alefteri handl case work express quotes-insid quot add travi

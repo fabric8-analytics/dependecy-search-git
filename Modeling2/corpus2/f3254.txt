@@ -1,0 +1,1 @@
+django-cms-pagetags add page grouping capabilities django cms easier list management tags pages tag tagging templatetags templatetag usage ordered ordering varname-order optional options

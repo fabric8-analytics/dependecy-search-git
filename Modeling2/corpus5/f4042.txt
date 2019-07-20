@@ -1,0 +1,1 @@
+tastypie-rpc-proxi proxi resourc api-cli model remote-resourc default class local-model url-set option defin follow oper applic notes-set coding-bas namespac e-g separately-cod operations-instal operation-support urls-separ alt field version key-cach local data queryset databas base string access cach note instal target support separ statu

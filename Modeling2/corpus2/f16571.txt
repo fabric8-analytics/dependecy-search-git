@@ -1,0 +1,1 @@
+beautifulhue philips hue home automation module api lighting lights light example official verbose response bridge schedules schedule python update groups group beautifulhue-installation control

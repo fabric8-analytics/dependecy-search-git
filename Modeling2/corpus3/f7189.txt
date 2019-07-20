@@ -1,0 +1,1 @@
+filemagic magic type type use us python osx file file unicode-memory method method handle string string build description garbage libmagic mime library support

@@ -1,0 +1,1 @@
+sphinx-markdown-tables sphinx markdown tables sphinx-markdown version license licensing ryan

@@ -1,0 +1,1 @@
+gnureadlin use python-us updat version fix gnu-readline-modul fixed-build branch os build support level librari compil releas r licens mac tag instead maintain pip problem ubuntu x arch major remov replace-pi gcc function github instal flag replac

@@ -1,0 +1,1 @@
+adrest rest rpc api django alt logo-adrest bug-tracker django-rest license license klen gnu example

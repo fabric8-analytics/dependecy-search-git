@@ -1,0 +1,1 @@
+lrsignature learn registry resource document signing validation key managment module license license pgp software language-governing signing sign version versions-bug-fixes-new modify pgp-keys basic dependency dependency python module fix fix license license verification software language-governing minor test

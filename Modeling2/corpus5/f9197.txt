@@ -1,0 +1,1 @@
+spinnstoragehandl host base storag handler class spinnak softwar stack python depend package-provides-class data-storag

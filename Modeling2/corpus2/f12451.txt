@@ -1,0 +1,1 @@
+knesset-data apis documentation allow getting data israeli parliament knesset knesset-data-apis provides issues level known-problems faq api

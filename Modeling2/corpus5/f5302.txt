@@ -1,0 +1,1 @@
+nlpnet c network fonseca mingw languag code script hlt token joint refer alt numpi cython tag model dependencies-requires-nltk training-new trained-model depend setuptool text

@@ -1,0 +1,1 @@
+invenio-oaiharvester invenio module oai pmh metadata harvest repository invenio oai pmh harvest metadata invenio-copyright-c-cern module allows harvest harvest harvest harvest release invenio code-block workflow released-adds interface oai-pmh repository repository workflow-e-g url add package-fixes file file record record

@@ -1,0 +1,1 @@
+flask-qrcode feature contributing contributed contribution install installation-usage qrcodes straightforward new codes code tests testing

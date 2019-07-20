@@ -1,0 +1,1 @@
+django-encrypted-model-fields encryption django fields encryption field django-encrypted-model-fields versions version installed install file environment properly-support-python local like automatically pyenv supported

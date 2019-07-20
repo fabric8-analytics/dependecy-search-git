@@ -1,0 +1,1 @@
+flask-turbolinks chrome credits-thanks rails-repo-installation flask install

@@ -1,0 +1,1 @@
+androidviewclient android uiautomator viewclient monkeyrunner test automation wiki devices python scripts-provides-view-based-device test-script hierarchy simple

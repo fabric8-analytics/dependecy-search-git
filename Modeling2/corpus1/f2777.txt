@@ -1,0 +1,1 @@
+spur-local shell subprocess process error stdout-stderr-encoding standard-output connection command allow shell code run-commands store running

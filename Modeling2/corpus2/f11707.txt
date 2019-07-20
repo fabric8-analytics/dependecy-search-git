@@ -1,0 +1,1 @@
+geonode-avatar fork django avatar compatible user-avatars storage avatars sizes default-size defaults rendering renders resized resize resizing template settings set setting views view like gravatar user optionally options generate scheme

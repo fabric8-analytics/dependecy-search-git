@@ -1,0 +1,1 @@
+machinist state state code turnstilestate namedconstant table turnstileinput-names lock lock name input define defining-inputs-outputs turnstileoutput output symbolic state-machine

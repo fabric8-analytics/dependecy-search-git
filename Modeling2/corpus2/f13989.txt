@@ -1,0 +1,1 @@
+fastkml gis kml google maps openlayers alt version versions feature different earth fast shapely dateutils-pip pygeoif supports supported geometries geometry add adds alt-tests tested test handled handle supports-python ian-lee documented documentation document lxml fix tesselate tesselation travis support values value namespace namespaces ify py case remove human tox

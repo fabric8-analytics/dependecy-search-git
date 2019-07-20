@@ -1,0 +1,1 @@
+django-infranil expose directory templates django-infranil url templates basic basics base-template additional app-urls ll based old-html cms-like functionality navbar editing editable little files file apps generating-navigation paths path normal probably rules control controlled bar-baz make

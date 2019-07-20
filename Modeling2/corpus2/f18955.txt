@@ -1,0 +1,1 @@
+bebop solr stuff c index generate generated generates schema-generation library packages ubuntu driver pysolr schemas libxml import dev jar container jetty-tomcat pretty-seamlessly

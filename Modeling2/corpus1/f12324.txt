@@ -1,0 +1,1 @@
+promise concurrent future deferred promise promise promises value values called calling static-type-checking function returned returns return license ensure installation installed python checks code rejected reject method methods environments arguments argument code promise promises python called static-type ensure browser-environments sh installed travis coveralls-installation

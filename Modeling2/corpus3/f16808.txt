@@ -1,0 +1,1 @@
+tripleo-heat-templates x network network networking heat-templates script role role rbd include include puppet swift configuration file rabbit deployment deploy-openstack environment-files tags-change service-testing feature environment neutron-ovn ha wip

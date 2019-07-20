@@ -1,0 +1,1 @@
+wkhtmltopdf default install sudo python-wkhtmltopdf xfonts false html flash jonathan gmail

@@ -1,0 +1,1 @@
+salmon simpl monitor system server server metric metric salt pillar api ubuntu

@@ -1,0 +1,1 @@
+pifacedigitalio piface digital raspberrypi openlx v-added installed install installation chip boards updated deinit-board interrupt interrupts version versioning piface-digital fixed fixes new py class classes command module modules docs pifacecommon

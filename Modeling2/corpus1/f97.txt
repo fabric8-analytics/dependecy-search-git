@@ -1,0 +1,1 @@
+socketio-client socket io node js define polling environment proposed information socket-io license submitted test-code specify added fixed fix thanks define defined polling support connect connection connections wait suggested suggestions environment information proposed strikos namespace namespaces channel channels socket-io exception params library license python socketio

@@ -1,0 +1,1 @@
+djangocms-oemb set oemb plugin current video django cm embed emb

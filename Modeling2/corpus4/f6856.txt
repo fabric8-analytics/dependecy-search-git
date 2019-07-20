@@ -1,0 +1,1 @@
+jsonrpcserv process-json-rpc

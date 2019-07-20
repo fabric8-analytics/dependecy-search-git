@@ -1,0 +1,1 @@
+django-jchart configur chart render-chart-js-chart django url class method data field templat tag add render argument librari asynchron call app following-properti releas dictionari valu python composable-datasourc pointbackgroundcolor-bordercolor properti

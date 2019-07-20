@@ -1,0 +1,1 @@
+django-simple-ratings simple extensible rating system django stuff collective getting rateditem database gfks

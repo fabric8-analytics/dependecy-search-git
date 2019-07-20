@@ -1,0 +1,1 @@
+sphinxcontrib-napoleon docstr docstr googl sphinx napoleon style style section section numpi use file-us restructuredtext rewritten document file visually-dens space

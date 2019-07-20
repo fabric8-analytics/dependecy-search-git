@@ -1,0 +1,1 @@
+python-postmark postmark emails pmbouncemanager-django-email-backend templates templating template including includes-pmmail html error automatically automatic account send sending kwargs kwarg com py settings setting set example functions make

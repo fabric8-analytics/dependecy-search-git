@@ -1,0 +1,1 @@
+gcovr util report code-coverage-report instal instal instal end gcovr-gener html begin badg gcov document summari licens readable-summari differ line gener gener alt quickstart develop build

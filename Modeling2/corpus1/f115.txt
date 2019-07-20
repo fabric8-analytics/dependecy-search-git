@@ -1,0 +1,1 @@
+pandocfilters pandoc pandoc objects filters filter list lists image images json line lines object-returns string format formatted formatting formats code functions function latex contains output arguments argument tree class-containing return returning example examples convert pandocfilters use useful compatibility theorem theorems generate generated link text emphasis

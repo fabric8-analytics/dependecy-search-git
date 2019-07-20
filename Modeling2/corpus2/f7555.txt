@@ -1,0 +1,1 @@
+alchemyjsonschema sqlalchemy jsonschema schema generation users user-code group coding type json class import-sqlalchemy structuralwalker model models pk-description foreignkeywalker output sqlalchemys noforeignkeywalker walker properties swagger

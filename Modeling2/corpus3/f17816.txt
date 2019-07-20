@@ -1,0 +1,1 @@
+multihist multihist histogram histogram numpy histogramdd density-information statistic adding-new package error-propagation histogram histogram fix package packaging histdd python basic function function physic physical root average average bin support summing-averaging name name pyhistogram matplotlib histd sum new cumulative cumulate like dataframe

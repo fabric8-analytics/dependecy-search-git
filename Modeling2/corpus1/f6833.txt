@@ -1,0 +1,1 @@
+django-haystack-elasticsearch haystack elasticsearch haystack-elasticsearch make versions version python code-block

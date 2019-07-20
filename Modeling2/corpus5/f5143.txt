@@ -1,0 +1,1 @@
+gromacswrapp python packag wrap system call gromac tool thin class allow fairli seamless integr v x code script molecular dynam scienc analysi file pdb-file gro instal gromacswrapper-packag alt doc f git source-cod docs-zenodo md-simul build softwar o simul contains-bug licens develop document releas emin section request bug pdbgmx c librari cook cd

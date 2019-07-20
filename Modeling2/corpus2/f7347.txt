@@ -1,0 +1,1 @@
+chromium-compact-language-detector cld pycld language detector

@@ -1,0 +1,1 @@
+python-magic mime magic file python file libmagic-file versioning version license library library command windowserror include include include github-windows encode troubleshoot author need win-application source source bit amit sacha compatible write use uses-ctypes

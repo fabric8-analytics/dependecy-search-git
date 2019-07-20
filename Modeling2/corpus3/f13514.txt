@@ -1,0 +1,1 @@
+django-easyfilters django filter autofilter drilldown easy simple version test test page-docs file file fix fix api use useful static demo result live attribute add filter possible

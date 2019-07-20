@@ -1,0 +1,1 @@
+aprs ham radio aprs-python interfaces interfacing frames frame interface-classes license usage-examples-example-library connection connects digi based supports-connecting net-copyright callsign tcp wgmd phillips-freeman kiss fcs-py class support receiving receive currently sending send sends target

@@ -1,0 +1,1 @@
+tashaphyne affixation word stemming stemmed arabic-light-stemmer features featured affixes-list dot test doc docs code set sentiment usage documentation sourceforge

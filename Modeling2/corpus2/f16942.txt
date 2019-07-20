@@ -1,0 +1,1 @@
+rivr-rest-peewee library building rest apis rivr peewee build resources resource automatically automatic rest-peewee

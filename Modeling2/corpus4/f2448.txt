@@ -1,0 +1,1 @@
+bqueri queri aggreg framework bcolz w bcolz bqueri memori groupby-column ctabl data-aggreg aggreg perform perform perform column-usag panda result result oper oper list list benchmark nan weight vbench requir requir provid provid time time handle-report instal instal factor factor factor specific-new

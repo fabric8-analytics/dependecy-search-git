@@ -1,0 +1,1 @@
+pyqtree gis spatial index quad tree usage use python license quad-tree bbox bboxes-intersects intersect ymax pypi fixes xmin box rectangular user

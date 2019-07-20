@@ -1,0 +1,1 @@
+django-pybrowscap browser browscap detect user agent django middlewar python file tests-test test request py contrib http sitemaps-web default r-sitemap reload manag download-latest download media gorej automat

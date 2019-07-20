@@ -1,0 +1,1 @@
+aiohttp-jinja2 jinja templat render aiohttp web aiohttp jinja asyncio template-render jinja engin name use render web base add aiohttp-jinja fix support document supported-vers context-processor templat templat paramet python avoid app make-app return test non code resulting-html processor coroutin base handler handler

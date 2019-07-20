@@ -1,0 +1,1 @@
+pyobjc-framework-quartz pyobjc quartz quartz quicklookui quartz coregraph quartz pdfkit quartz corevideo quartz imageio quartz quartzfilt quartz quartzcor quartz quartzcompos quartz imagekit imag imag framework quartz-related-framework wrapper wrapper graphic provid provid warn model-imageio layout-new

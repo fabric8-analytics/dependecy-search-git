@@ -1,0 +1,1 @@
+pycbc-glue-obsolet glue-repositori

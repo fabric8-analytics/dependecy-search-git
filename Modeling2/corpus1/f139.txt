@@ -1,0 +1,1 @@
+gmpy2 gmp mpir mpfr mpc multiple precision fixes-fix precision-arithmetic format coded code mpfr gmpy longer case release supports supporting support shift

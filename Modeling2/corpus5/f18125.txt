@@ -1,0 +1,1 @@
+logshipp setup distutil default messag action rabbitmq-send match send key valu improv class virtual log step accepted-valu accept name

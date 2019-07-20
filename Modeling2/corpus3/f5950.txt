@@ -1,0 +1,1 @@
+ipython interactive interpreter shell embed extensible python-interactively interactive session session main keywords development setup rich integrate purpose history pythonstartup access

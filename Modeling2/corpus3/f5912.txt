@@ -1,0 +1,1 @@
+pyserial python serial port access library python serial provides-backends appropriate-backend-project-homepage-download-page linux-bsd license-c-chris serial-port-extension

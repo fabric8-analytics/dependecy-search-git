@@ -1,0 +1,1 @@
+django-admin-report report django admin group by annot agreg orm exampl app admin-report-create-report

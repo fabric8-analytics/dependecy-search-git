@@ -1,0 +1,1 @@
+django-qbe qbe django admin reports query sql qbe admin django-query custom installation install import imported queries index settings-installed number python export set template models model project customoperator ago feel py class git operators operator xls-format optionally option options formats south

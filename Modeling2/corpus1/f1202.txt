@@ -1,0 +1,1 @@
+moz-sql-parser let make sql parser provide familiar interface non sql datastores sql objectives objective object objects data queries query statement statements familiar run running new access usage example-notes status non provide

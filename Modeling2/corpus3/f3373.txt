@@ -1,0 +1,1 @@
+envparse simple-utility email-provider instead-provide simply-make contain-spaces pypi-manually-usage standard-parser great-choice type type parse parse-environment-variables parses-json variable use us file values-useful configuration value-tests manually provide provider expect instal install cast default default

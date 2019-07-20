@@ -1,0 +1,1 @@
+ploy-ezjail plugin ploy provis freebsd jail use ezjail zf option path instal local address insid host-run run recip plugin-provid creat provid valu fschulz b jails-ezjail-ploy-freebsd-instal instanc fix master startup error addit create-new tomster default config

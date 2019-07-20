@@ -1,0 +1,1 @@
+djangocms-gmap djangocm gmap map djangocms-gmaps-alt map-mark plugin set instal width requir django marker add templat locat form allow center info

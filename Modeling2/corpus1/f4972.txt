@@ -1,0 +1,1 @@
+rows tabular table csv xls xlsx xpath ods sqlite html pdf rows data opendata tabular-data instead

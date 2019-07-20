@@ -1,0 +1,1 @@
+django-plugin home-page-document instal enabl automat argument instanc move plugon like command backward path version view

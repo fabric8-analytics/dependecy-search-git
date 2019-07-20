@@ -1,0 +1,1 @@
+hotword-detection frequency frequencies frame dtw supported supports audio filterbank filtering filters hot provides mfcc-features run parameter usage-example extraneous

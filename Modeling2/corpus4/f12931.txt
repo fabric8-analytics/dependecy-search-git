@@ -1,0 +1,1 @@
+uwsgidecor uwsgi uwsgidecor modul

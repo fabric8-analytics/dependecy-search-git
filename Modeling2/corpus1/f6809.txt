@@ -1,0 +1,1 @@
+vidscraper vidscraper python library provides simple api fetching video data various web services sites videos code video-feeds vidscraper vimeo lxml line test tests build like beautifulsoup

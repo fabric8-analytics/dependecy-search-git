@@ -1,0 +1,1 @@
+pybootd bootp ftdp dhcp pxe netboot file file network network tftp instal instal instal instal dhcp-protocol remote-host host pxe python access error address-acl simpl pybootd mac messag pxelinux

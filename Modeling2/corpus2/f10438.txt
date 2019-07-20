@@ -1,0 +1,1 @@
+blockstack-profiles bitcoin blockchain blockstack profile schema

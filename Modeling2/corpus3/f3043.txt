@@ -1,0 +1,1 @@
+rest-framework-generic-relations serializers serializer serialize serialize serialize object implement model model hyperlink-simply-use-objects library-implements-django field-serializes rest-framework example relation relational field

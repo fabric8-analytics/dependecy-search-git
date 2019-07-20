@@ -1,0 +1,1 @@
+modesolverpy mode modes waveguide waveguides example examples-ex n soi nm refractive-index data plotting plots gnuplot wavelength wavelengths structure percentage extensible fields field following linux grating-coupler couplers semi-vectorial y um z-cut fully different difference script finding finds

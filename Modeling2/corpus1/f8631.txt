@@ -1,0 +1,1 @@
+django-xhtml2pdf django-xhtmlpdf templateview function pdf simply following

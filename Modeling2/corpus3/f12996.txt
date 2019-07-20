@@ -1,0 +1,1 @@
+django-spaghetti-and-meatballs django entity relationship diagram erd uml model model auth image app django-spaghetti installed-apps field field sauce live set set setting color color relation related install case make meatball meatball alt

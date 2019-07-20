@@ -1,0 +1,1 @@
+ipysankeywidget ipython jupyter widgets examples links linking link simple-example object layout diagram diagrams installation install installed npm-browser-support thanks versions version

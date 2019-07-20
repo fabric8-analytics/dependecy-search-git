@@ -1,0 +1,1 @@
+spyder-unittest plugin spyder run test view result python pytest nose qt pyqt pane support develop instal right tracker automat request github contribut code-contribut menu cogwheel click standard

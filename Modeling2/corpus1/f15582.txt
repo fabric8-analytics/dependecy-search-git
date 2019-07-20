@@ -1,0 +1,1 @@
+latlon latitude longitude decimal degrees degree minutes distance latlon objects-strings formatted-string coordinate projection project methods method object longitude distance formatting format geographic-coordinates-latitude alternatively heading headings characters character sphere function following follows usage geographical g

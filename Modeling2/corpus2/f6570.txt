@@ -1,0 +1,1 @@
+power ac-battery new mac final fault python type-ac

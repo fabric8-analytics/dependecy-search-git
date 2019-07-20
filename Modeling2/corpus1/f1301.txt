@@ -1,0 +1,1 @@
+srcinfo srcinfo makepkg pacman aur parse library

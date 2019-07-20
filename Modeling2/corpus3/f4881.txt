@@ -1,0 +1,1 @@
+invenio-celery integration layer celery invenio invenio celery task invenio celery task-queue-module module invenio celery module module configuration discovery flask release release change change task task mymodule

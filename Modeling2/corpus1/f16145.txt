@@ -1,0 +1,1 @@
+gssapi gssapi security api apis extension extensions c names naming installation installations containing-named pythonic rfc-methods python-gssapi install-test level contained kerberos-mechanism tests mechanisms credentials credential error errors including includes value values simo specification specific enums enum removed github new released release live lives gss

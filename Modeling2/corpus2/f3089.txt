@@ -1,0 +1,1 @@
+python-swiftclient python openstack api release client licensed license tags-change line takes

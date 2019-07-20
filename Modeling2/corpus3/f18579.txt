@@ -1,0 +1,1 @@
+coincurve secpk crypto elliptic curve bitcoin ethereum cryptocurrency parameter return return coincurve-alt new use-api context-returns libsecpk pypi pypy signature signature tested-python macos support support binary-packages secure security code master package-tests malleable malleability time allow clean make add optional option test curve-secpk homebrew form fix fix

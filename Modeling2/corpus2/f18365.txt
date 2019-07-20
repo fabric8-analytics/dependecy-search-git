@@ -1,0 +1,1 @@
+django-object-actions action admin attribute attributes making make defining start started add tools tool demo demos changelist instead versions stable-version templates template custom customizations install installation default

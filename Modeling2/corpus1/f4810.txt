@@ -1,0 +1,1 @@
+sneazr-pynotify nose tests pynotify pynotify installation installed happy

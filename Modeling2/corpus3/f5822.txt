@@ -1,0 +1,1 @@
+toolz functional standard library python functional utility itertools functools function functional function python literal example example build-status contribution contribution dependency dependency common build new processing replace replacement standard

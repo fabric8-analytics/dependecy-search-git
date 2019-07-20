@@ -1,0 +1,1 @@
+django-hvad translat django releas model queri package-coverage-build-model-transl included-translation-en languag use language-awar key branch queryset featur enabl default-return queryset-method instanc return titl french exampl includ

@@ -1,0 +1,1 @@
+django-cryptocoin currencies-default add send confirm crypto command templat creat invoic signal btc bitcoin exchang cryptocoin app coin currenc second nvc

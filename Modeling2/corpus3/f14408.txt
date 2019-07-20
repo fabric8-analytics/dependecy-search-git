@@ -1,0 +1,1 @@
+statsdmetrics statsd metric client code request request send sends send statsd-metrics-metric test test test python client client copyright copy copy include include documentation documentation person person set notice cpython-dev socket development license bash distribute

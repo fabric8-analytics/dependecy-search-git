@@ -1,0 +1,1 @@
+zope-cachedescriptors persistent cache decorator method property attribute cached cache cache instance-attributes documentation computation compute compute python change change change invalidation invalidate invalidate radius different difference package test test add release remove remove lazy function alt allows allow storage btree method method recomputed recomputation zope

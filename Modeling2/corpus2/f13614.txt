@@ -1,0 +1,1 @@
+python-awis longer-maintained wraps requests request support

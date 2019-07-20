@@ -1,0 +1,1 @@
+django-ticketing table tables sequences sequence testing tests test db license configured settings-configuration-simply-define django defined following setting looks like

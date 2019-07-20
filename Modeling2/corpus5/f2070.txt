@@ -1,0 +1,1 @@
+django-admin-sortable2 django licens class admin-sort detail model inlin list offer base addit code

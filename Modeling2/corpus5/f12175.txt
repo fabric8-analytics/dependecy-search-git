@@ -1,0 +1,1 @@
+rplcd raspberri pi lcd liquid crystal hitachi hd alt support test charact character-lcd-librari control python ic-port-expand pypi depend mode charlcd directori mcp expand data

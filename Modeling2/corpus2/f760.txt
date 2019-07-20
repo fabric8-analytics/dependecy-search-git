@@ -1,0 +1,1 @@
+inspyred optimization evolutionary computation genetic algorithm particle swarm estimation distribution differential evolution nsga paes island model multiobjective ant colony example python-inspyred inspired-computational binary canonical open-source

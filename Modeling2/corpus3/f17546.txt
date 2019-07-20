@@ -1,0 +1,1 @@
+azure-mgmt-nspkg package azure namespace-package x

@@ -1,0 +1,1 @@
+ipython interact interpret shell embed extens python-interact interact session session main keyword develop setup rich integr purpos histori pythonstartup access

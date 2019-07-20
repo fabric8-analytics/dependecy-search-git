@@ -1,0 +1,1 @@
+keybase-api python-api-allow allow search-download

@@ -1,0 +1,1 @@
+django-finegrained-permiss django model permiss finegrain field

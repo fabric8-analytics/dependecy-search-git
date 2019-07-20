@@ -1,0 +1,1 @@
+django-less less css file default files-instal cach inlin contrib templat option instal use add url set compil staticfil fix doubl mode instead

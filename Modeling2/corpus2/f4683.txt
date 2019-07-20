@@ -1,0 +1,1 @@
+corenlp-python corenlp stanford output server json contains contain directory text texts sentiment performance file-containing python-wrapper requires use uses hiroyoshi packaging-requirements files package optionally option supports support parse parsed

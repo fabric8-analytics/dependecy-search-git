@@ -1,0 +1,1 @@
+docoptcfg docopt config configur environ alt statu changelog-sect version python file reading-configur bash

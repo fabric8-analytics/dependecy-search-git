@@ -1,0 +1,1 @@
+virtualenvclone test log example

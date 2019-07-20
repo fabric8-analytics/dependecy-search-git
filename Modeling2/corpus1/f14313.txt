@@ -1,0 +1,1 @@
+pymacaroons macaroons macaroon python pymacaroons tests example examples specific-authorization versions version libmacaroons-library quickstart feel installing install installation compatible credential contribute license licensed

@@ -1,0 +1,1 @@
+django-autoadmin autoadmin django-projects-screenshot add add code badge make make setting support-setting admin-users user-use us support project migration migrate migration image manager version feature management-command enable enable

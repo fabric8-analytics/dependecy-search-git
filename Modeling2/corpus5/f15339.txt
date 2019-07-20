@@ -1,0 +1,1 @@
+smokesign python event signal callback python-sign requir argument callabl context-manag method purpos decorate-inst maximum licens larg direct directli version decor

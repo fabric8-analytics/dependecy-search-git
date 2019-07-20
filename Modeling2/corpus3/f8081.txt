@@ -1,0 +1,1 @@
+geoio image file file object image-format geospatial-data installation-code-python pythonic install installable instal conda accessing-digitalglobe geoio handle handle class class meta gdal package base import important access information easy spectral-processing include

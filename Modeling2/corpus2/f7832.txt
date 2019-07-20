@@ -1,0 +1,1 @@
+django-oscar-testsupport testing test package packages useful oscar products

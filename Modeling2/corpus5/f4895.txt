@@ -1,0 +1,1 @@
+neuronunit packag data driven valid neuron ion channel model use sciunit python neurosci neuroinformat unit test comput test-model channel-model membrane-potenti score capabl class thing z return implement function channels-neuron spiking-neuron type examples-exampl instanti e make let width spike-width id-rrid agnost keyword complet dev singl

@@ -1,0 +1,1 @@
+django-paintstor color admin doc django py packag

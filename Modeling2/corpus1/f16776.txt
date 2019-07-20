@@ -1,0 +1,1 @@
+django-classification-banner adds add django-classification module

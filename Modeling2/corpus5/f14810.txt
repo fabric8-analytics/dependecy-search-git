@@ -1,0 +1,1 @@
+djangocms-grid multi column plugin use common grid system run column-plugin

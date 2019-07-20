@@ -1,0 +1,1 @@
+edc-rest simple class edc rest api django rest rest

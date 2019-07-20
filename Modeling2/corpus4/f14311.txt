@@ -1,0 +1,1 @@
+psycopg2-binari packag packag psycopg python postgresql thread thread sourc sourc multi-thread featur wrapper asynchron build installation-build adapt adapt adapt type instal instal mail

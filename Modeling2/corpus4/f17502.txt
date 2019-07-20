@@ -1,0 +1,1 @@
+fhirclient smart fhir healthcar medic informat clinic informat biomed informat fhir-client data version version server server model note note build build build account file pypi page releas requir doxygen patient search resourc resourc file-flask-app html-page class class packag like make team python python document initi

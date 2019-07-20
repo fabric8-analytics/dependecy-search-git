@@ -1,0 +1,1 @@
+flask-migr applic flask need exampl folder chang databas document migrat

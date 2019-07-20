@@ -1,0 +1,1 @@
+fdt python file dts-dtb-files option option version pydtc infile infiles installation-code-bash command command o status install pad issue branch path output auto directory

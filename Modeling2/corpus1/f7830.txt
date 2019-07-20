@@ -1,0 +1,1 @@
+pyxdameraulevenshtein distances python implements implementation implementations edit-distance-algorithm string strings character characters licensed pyxdameraulevenshtein-license performance performs number magnitude finite operations operation exact array pyxdameraulevenshtein-implements visit implementation distance e-finite levenshtein

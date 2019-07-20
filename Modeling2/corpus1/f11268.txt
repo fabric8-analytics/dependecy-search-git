@@ -1,0 +1,1 @@
+pyatv apple tv python controlling control controls-play commands playing supports supported library libraries tasks help-command examples remote build-status simple-example code support-features documentation protocol stable reverse cli package packages airplay-stream apple pydoc streaming smoke total fetch

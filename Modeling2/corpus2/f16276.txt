@@ -1,0 +1,1 @@
+accupy dot summing sum accupy-accurate-sums precision conditioned conditions computing computed comput condition-number methods method j point-numbers-digit release errors result license comparison numpy provides provided summation fold m

@@ -1,0 +1,1 @@
+django-slim multi lingual django python code-block-sh examples example installer python-installation installed-apps translated translation translations py admin-integration support supported app mail latest demo add execute virtual models model import languages language installation class-fooitem title gettext foo classes localeurl supports slug ipsum body author

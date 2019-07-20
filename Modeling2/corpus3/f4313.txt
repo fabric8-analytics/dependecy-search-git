@@ -1,0 +1,1 @@
+django-absoluteuri absolute uri function template tag django django absoluteuri absolutize django-absoluteuri-absolute-uri uris setting-code add setting

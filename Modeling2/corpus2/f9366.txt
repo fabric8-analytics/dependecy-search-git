@@ -1,0 +1,1 @@
+pointfree functional functions function-composition python operator operating operators presentation development application automatic decorator pypi pypy intentional distutils module support supported notations notation composing composable composed wrapping wrapped small-module function python-specifically syntax

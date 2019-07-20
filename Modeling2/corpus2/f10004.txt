@@ -1,0 +1,1 @@
+colorlog colors color logging packages packaging log-formatting levels example examples copyright distribute distributions-provide provided record-level copy copies sam including included following format-string python notice escape-codes person persons code base based strings message messages records versions mapping mappings shall permission

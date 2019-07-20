@@ -1,0 +1,1 @@
+pygelf logging udp tcp ssl tls graylog gelf log logs fields python-logging-handlers code field-contains default server debug chunk chunks chunked include-debugging message messages true handler simply length udp-tls file parameters parameter input host compress number http validate

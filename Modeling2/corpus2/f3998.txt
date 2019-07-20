@@ -1,0 +1,1 @@
+django-xmlrpc django service xmlrpc returns-string-args return installation install installed passed def-test release git simply

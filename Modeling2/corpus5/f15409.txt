@@ -1,0 +1,1 @@
+dockerspawn interact interpret shell web

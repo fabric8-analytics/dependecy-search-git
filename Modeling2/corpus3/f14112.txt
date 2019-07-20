@@ -1,0 +1,1 @@
+gs100 jupyter d gradescope ds-notebook

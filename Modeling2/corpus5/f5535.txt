@@ -1,0 +1,1 @@
+django-appregist base class django except level blocks-app model admin

@@ -1,0 +1,1 @@
+django-conventions django rout convetion over configuration url py view base-view django-convention class urls-routing class-based convention inside index template template main rout route call

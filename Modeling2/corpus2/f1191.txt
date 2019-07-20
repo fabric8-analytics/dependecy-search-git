@@ -1,0 +1,1 @@
+django-statici18n django-staticin code installation install installed template python templates-options interface step generating-javascript generated files file management manage translation translated optional view provides provided

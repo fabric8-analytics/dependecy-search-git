@@ -1,0 +1,1 @@
+django-rest-auth app make extrem easi build django power spa singl page app mobil app expos registr authent relat function cbv class base view rest json authent rest social login django django rest framework django rest auth registr rest framework django registr api rest-auth

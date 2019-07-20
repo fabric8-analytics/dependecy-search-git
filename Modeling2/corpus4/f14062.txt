@@ -1,0 +1,1 @@
+python-taiga evergreen tree python modul commun taiga api taiga python rest taiga kanban wrapper api alt code python document issu issu task task api gitter-pypiversion-pyversion-statu version version

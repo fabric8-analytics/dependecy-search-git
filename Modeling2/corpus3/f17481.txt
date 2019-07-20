@@ -1,0 +1,1 @@
+django-leaflet-storage django leaflet geodjango django-leaflet-storage instance installation aware install

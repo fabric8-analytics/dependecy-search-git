@@ -1,0 +1,1 @@
+pip-tools set tool keep pin python dependency fresh code package package packaging dependency dependency environment-tooling pip-tools bash example-commands command python version version image-alt requirement confuse use useful multiple target

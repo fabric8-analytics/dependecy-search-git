@@ -1,0 +1,1 @@
+mailjet repository-isn key current-mailjet-api-v methods parameters secret settings environment real-time emailing-platform previous-example profile-information reserved contacts

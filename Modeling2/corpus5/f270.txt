@@ -1,0 +1,1 @@
+access-point point-inform access-points-scan

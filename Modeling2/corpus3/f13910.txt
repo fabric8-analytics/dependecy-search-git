@@ -1,0 +1,1 @@
+django-intercoolerjs django jquery staticfiles intercoolerjs django installation-code instal j static-files

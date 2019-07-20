@@ -1,0 +1,1 @@
+w1thermsensor sensor therm-sensor note pi kernel-modules precision module ds-dsb python package load load load config connect connection project set set tool support support follow furrer-https read read usage

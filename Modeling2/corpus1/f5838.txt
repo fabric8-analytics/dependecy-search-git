@@ -1,0 +1,1 @@
+pyftdi driver ftdi usb serial spi ic twi rs gpio bit bang pyftdi devices device serial ic mbps uart compliant space single-port fth

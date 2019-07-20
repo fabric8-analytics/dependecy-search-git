@@ -1,0 +1,1 @@
+cloudaux cloud auxiliary python wrapper orchestration module interacting cloud providers security aws-gcp-openstack client orchestration orchestrates iam support supported service services account image storage accounts-network examples example caching-handles cloud flags handling providers provider

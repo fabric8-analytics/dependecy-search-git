@@ -1,0 +1,1 @@
+emoji-unicode emojis emoji-unicode-replace glyph glyph test test source doc support file file future acknowledgment removes-optional

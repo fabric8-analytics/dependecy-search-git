@@ -1,0 +1,1 @@
+django-simple-email-confirmation email emails python users user django root originally providing provided address addresses

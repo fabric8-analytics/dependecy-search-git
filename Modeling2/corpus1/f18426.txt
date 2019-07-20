@@ -1,0 +1,1 @@
+nestly make use nested directory trees corresponding combinatorial choices parameters nestly nest files example examples running runs nests-templates input-file nested-directories exhaustive-run scons template choices inputs set paper python combination combined combinations strategy backwards dependencies directory source results

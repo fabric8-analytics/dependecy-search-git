@@ -1,0 +1,1 @@
+testing-cassandra3 cassandra support uses fix directory add install-use-easy setups setup server license testing import x database including-column data

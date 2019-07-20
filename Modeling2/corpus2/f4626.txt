@@ -1,0 +1,1 @@
+angular-gettext-babel angular gettext babel extractor gettext-babel

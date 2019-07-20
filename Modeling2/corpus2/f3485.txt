@@ -1,0 +1,1 @@
+pypdns client api query passive dns implementation following common output format pdns

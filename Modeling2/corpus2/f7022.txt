@@ -1,0 +1,1 @@
+pyuserinput module cross platform control mouse keyboard python simple install use user input event keys pykeyboard make pymouseevent platforms intended todo help development developers issues-exist-contributions path motion capturing capture windows-mac platform-control linux-systems-scrolling making

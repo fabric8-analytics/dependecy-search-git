@@ -1,0 +1,1 @@
+django-easytest set test testing-projects-appnam django default py-project version

@@ -1,0 +1,1 @@
+flask-assetrev hashed-static-assets version

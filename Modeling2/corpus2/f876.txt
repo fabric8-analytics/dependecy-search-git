@@ -1,0 +1,1 @@
+scikit-video video processing python scientific computing quality assessment ffmpeg wrapper scene detection version versions images-scikit-video installation install installing installed image skvideologo-bsd py quick directory packages package sudo avconv make minimum addition additional import skvideo provides

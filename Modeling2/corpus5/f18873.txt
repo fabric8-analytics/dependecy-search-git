@@ -1,0 +1,1 @@
+django-viewset url view url-pattern model pattern slug solut delet attribut basic viewset modelviewset-slug advanced-us look way exampl

@@ -1,0 +1,1 @@
+django-convent django rout convet over configur url py view base-view class urls-rout class-bas convent insid index templat main call

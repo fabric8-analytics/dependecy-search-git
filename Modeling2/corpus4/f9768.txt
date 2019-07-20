@@ -1,0 +1,1 @@
+azure-mgmt-containerregistri model features-model paramet new-paramet registri registri manag azur run run support support resource-manag management-api add added-oper rules-bugfixes-renam enum credenti credenti sourc argument argument updat sku version chang chang imag api apiversion-preview code breaking-chang context rule wheel packag http-session

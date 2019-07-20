@@ -1,0 +1,1 @@
+dj12 django factor configuration security default secure-hsts database databases-caches-email-default email code factor-config setting set type django python cache true ssl apps app environment environment

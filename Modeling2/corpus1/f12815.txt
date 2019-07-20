@@ -1,0 +1,1 @@
+pytest-helpers-namespace pytest helpers namespace pytest pytest plugin pytest-helpers-namespace-alt v-support tests test target namespaces register-helper code supported def-foo provide provides source-software

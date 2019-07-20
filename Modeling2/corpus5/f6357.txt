@@ -1,0 +1,1 @@
+mister-bump version releas version-numb versions-python tag pipelin new-tag branch creat commit ci let creating-artifacts-start master start chang project number change-major make line bugfix exampl multipl packag base add tl debug git-project verbos rc block final candid current major help argument dev option

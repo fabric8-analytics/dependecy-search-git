@@ -1,0 +1,1 @@
+django-twitter-fe set twitter-fe apps-set simpli command feed app credenti applic account

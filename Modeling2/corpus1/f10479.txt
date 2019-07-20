@@ -1,0 +1,1 @@
+rackspace-auth-openstack rackspace auth plugin novaclient rackspace

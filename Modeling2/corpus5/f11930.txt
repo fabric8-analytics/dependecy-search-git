@@ -1,0 +1,1 @@
+wagtail-modeltransl simpl app contain mixin model integr modeltransl http github com deschler django wagtail panel system code translat translation-field model-class add-transl field languag import class approach instal creat admin inherit default featur run exist middlewar project new-project modeltranslation-appl translate-dynam

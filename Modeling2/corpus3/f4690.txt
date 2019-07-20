@@ -1,0 +1,1 @@
+python-binary-memcached standard python instal install-code-block bmemcached test auth-support backward

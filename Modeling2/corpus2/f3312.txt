@@ -1,0 +1,1 @@
+django-sld django library uses python sld generate slds based models ogc geo geoserver mapserver osgeo geodjango color keyword generates generating named-generator model models-requirements required geometry install installation algorithms assuming assume fields field

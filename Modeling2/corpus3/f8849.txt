@@ -1,0 +1,1 @@
+cosmos-wfm workflow pipeline ng manager management distribute sge slurm genomics sequence grid compute scientific pipeline

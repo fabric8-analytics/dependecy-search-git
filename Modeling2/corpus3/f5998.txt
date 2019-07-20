@@ -1,0 +1,1 @@
+katello-cli test tests-install instal katello option env requirement rpm

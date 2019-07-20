@@ -1,0 +1,1 @@
+pyembed-rst like restructuredtext-directive special-text

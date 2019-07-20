@@ -1,0 +1,1 @@
+django-geoexplorer-worldmap layer layer-source-code sources-license suite identify work work widget feature feature search version correctly-working map map include include include field field django-geoexplorer style translation correct service service install-usage remove icon

@@ -1,0 +1,1 @@
+pygsheets spreadsheets google spreadsheets pygsheets cells spreadsheet cell-datarange google-spreadsheets issues issue opening features-open docs doc api support set sample developers development pull oauth installation installing install run notes note version object objects col-label

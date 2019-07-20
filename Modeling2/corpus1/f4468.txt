@@ -1,0 +1,1 @@
+django-courriers generic application manage newsletters installation install set mailjet installed-apps configure-settings configuration courriers key backends backend status

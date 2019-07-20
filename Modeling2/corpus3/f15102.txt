@@ -1,0 +1,1 @@
+pypostgres pypostgres postgres wrapper psycopg database python-x-basic-usage given-statements exact-time e special-attention want class return cursor cursor str connect connection connection python result result dict psycopg-extras data build

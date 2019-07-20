@@ -1,0 +1,1 @@
+cgivar2gvcf file lines command-line suffix conversion reference build builds twobit genomics genome package compressed compression output options optional option

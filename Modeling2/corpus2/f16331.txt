@@ -1,0 +1,1 @@
+parsely-raw-data access parse ly raw data via amazon kinesis parsely s redshift firehose bigquery versioning tools new-version python changes directory script scripts xlsx create creating event events streams stream streaming-access github-e

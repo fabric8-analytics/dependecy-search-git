@@ -1,0 +1,1 @@
+paegan paegan python cdm met ocean data grids grid gridded-sample paegan sampling python com requires nc-ncom ocean-data install-virtualenv installation installed installing library libraries kyle c try typical subsets subsetting common regridding etopo transport netcdf soon tools

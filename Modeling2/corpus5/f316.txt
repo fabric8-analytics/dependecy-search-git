@@ -1,0 +1,1 @@
+django-crontab default crontab django job python command management-command code-bash exampl module-path manag py execut cronjob instal format-requir option contab mayb file get old f format python-module-path forward project version

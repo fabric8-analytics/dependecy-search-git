@@ -1,0 +1,1 @@
+django-zappa deploy server server-configur web deployment-environ aws-lambda-api-gateway manag set dev command file configur packag new enabl enabling-cor compat work quickli balanc environ rout python instal respons make

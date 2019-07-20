@@ -1,0 +1,1 @@
+django-clear-cache django cache management memcached clear cached cache django-clear-cache instal command-install management-shell simply new

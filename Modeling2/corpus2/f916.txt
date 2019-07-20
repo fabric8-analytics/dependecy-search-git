@@ -1,0 +1,1 @@
+tri-form tri form forms fix fixes fixed supports-code support rendering django field fields major shortcuts shortcut deprecations-render example examples use table-object added bugfix tox tests tested validation valid python classes class bsd deprecation work works

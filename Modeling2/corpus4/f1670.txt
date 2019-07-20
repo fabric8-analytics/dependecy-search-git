@@ -1,0 +1,1 @@
+inotifyx test test setup-pi inotifyx python

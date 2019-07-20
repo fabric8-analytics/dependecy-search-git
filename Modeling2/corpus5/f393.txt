@@ -1,0 +1,1 @@
+sqlalchemy-redshift amazon redshift sqlalchemi dialect pypi updating-vers statu releas fix add-support supports-releas command updat commands-update-test tabl includ columns-nam name thank format constraint option regist default-column keys-us schema reflect copycommand type parameter-typ chang paramet renamet compress

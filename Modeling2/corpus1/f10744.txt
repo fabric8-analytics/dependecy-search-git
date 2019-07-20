@@ -1,0 +1,1 @@
+invenio-formatter invenio module formatting bibliographic records invenio jinja flask invenio release version-released invenio

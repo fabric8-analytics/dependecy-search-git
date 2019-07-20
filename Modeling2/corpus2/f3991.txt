@@ -1,0 +1,1 @@
+astrodbkit python module astronomy create manage collaborate using sql relational databases astrophysics launch-ipython

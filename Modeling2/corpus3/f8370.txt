@@ -1,0 +1,1 @@
+skinfer skinfer tool infer merge json schema skinfer json schema json schema inferer merger schema schema data reduce samples-merging merge schema json-schemas add documentation test test fix data api reduce validator validation merge format-inferring samples-merging infer inferer

@@ -1,0 +1,1 @@
+django-crontab default crontab crontabs django job jobs python command management-commands code-bash examples example module-path manage py executed executable cronjobs cronjob install installed installing format-required optional contab maybe file gets getting old f format python-module-path forward project projects version versions

@@ -1,0 +1,1 @@
+pinax-cli tool easili instanti pinax starter project django templat pinax-command command supported-django add contribut support usag app python-versions-document app-releas licens free human release-vers name creat md-convert source-platform post

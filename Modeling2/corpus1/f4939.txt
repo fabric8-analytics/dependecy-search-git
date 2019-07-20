@@ -1,0 +1,1 @@
+couchapp utilities make standalone couchdb application development simple couchdb couchapp couchdb couchapp installation installed installing install installations python applications building build run running couchapp-standalone-couchdb-application based testing tests html follow replication following-option principles started arch options got-big

@@ -1,0 +1,1 @@
+django-nani django alpha sql check translation

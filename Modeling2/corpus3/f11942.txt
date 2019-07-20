@@ -1,0 +1,1 @@
+shinken shinken code configuration configure installation instal install instal descriptive description use d nagios-compatible feature requirement git python log log display problem windows-gnu-linux update exist

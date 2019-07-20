@@ -1,0 +1,1 @@
+pickleshare file system base database us python pickle database persistence pickle ipc shelve object database installation install shelve-like code-size load

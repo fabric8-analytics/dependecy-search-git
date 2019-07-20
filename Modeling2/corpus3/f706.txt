@@ -1,0 +1,1 @@
+dccp cvxpy extension convex concave program dccp convex solve solve parameter parameter cvxpy objective object problem return return expression expression problem-satisfies constraint constraint initial-point specific side package rule curvature curvature program program satisfy satisfy point additional

@@ -1,0 +1,1 @@
+pythoscop pythoscop test test fix fix bug bug file file gener gener ad function function sourc class class inspect-improved-gener inspect directori instal instal instal except except modul modul dynam static-analysi implement implement new init entri licens licens py whitespac branch handl handl integr integr assert assert python method-nam name itertive-pattern

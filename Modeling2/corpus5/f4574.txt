@@ -1,0 +1,1 @@
+hdlpars hdl parser instal python packag avail pip-command linux code gener sh x sourc declar type modul

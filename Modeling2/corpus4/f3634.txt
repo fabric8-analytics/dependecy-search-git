@@ -1,0 +1,1 @@
+neovim-remot neovim nvim nvr remot helper nvr use use neovim-remot open open buffers-open address address file shell-e-g-opening-fil cases-controlling-nvim-process option option option buffer wait wait wait process-instal read read silent window window editor p git case demo messag messag like exit exit start start start start execut execut expr h control cc

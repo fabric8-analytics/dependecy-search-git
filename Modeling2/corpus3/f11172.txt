@@ -1,0 +1,1 @@
+tinynumpy science research engineering software development pretty python-numpy ctypes ndarray well array array memory order support doc type

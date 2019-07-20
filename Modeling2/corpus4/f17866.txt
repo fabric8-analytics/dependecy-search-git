@@ -1,0 +1,1 @@
+django-inst django websocket centrifugo centrifugo-push-ev install-instructions-quick-exampl client websocket multi-sites-realtime-appl handl handl

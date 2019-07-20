@@ -1,0 +1,1 @@
+django-formaldehyde django form form formset pypi target license image-alt-django downloads

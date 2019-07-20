@@ -1,0 +1,1 @@
+shove object storage persistence database dictionary shove cache cache object-storage support supports-dictionary memory

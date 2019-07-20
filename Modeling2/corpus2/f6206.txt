@@ -1,0 +1,1 @@
+wagtail-blog django wagtail blog

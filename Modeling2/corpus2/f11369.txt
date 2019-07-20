@@ -1,0 +1,1 @@
+solrclient simple python library solr built support latest features querying basic test tests testing indexing index query-responses response management managed json streaming results better data enhancements optional requests request

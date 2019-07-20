@@ -1,0 +1,1 @@
+cmreshandler logging elasticsearch handler log django instrumentation logs python-elasticsearch-log alt aws requests request additional kerberos-support-additionally supports supported buffer operations information db-operation status fields field execution executes executed execute es ssl requirements requires indexnamefrequency-daily auth feel mm user

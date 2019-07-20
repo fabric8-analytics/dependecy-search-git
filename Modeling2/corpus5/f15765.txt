@@ -1,0 +1,1 @@
+jaraco-clipboard clipboard-librari modul supports-text support

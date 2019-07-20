@@ -1,0 +1,1 @@
+socksipi sock proxi allow-develop

@@ -1,0 +1,1 @@
+django-calendarium django calendar app widget events schedule event days day week nicely nice like bootstrap roadmap settings set setting foreign common

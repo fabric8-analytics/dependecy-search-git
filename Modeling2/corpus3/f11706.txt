@@ -1,0 +1,1 @@
+django-map-widgets django-map-widgets google field-widget v-fixed add issue object object support support jquery implement autocomplete development fields-documentation static setting admin docker configurable

@@ -1,0 +1,1 @@
+thumbor-riak thumbor riak basho imag instal hash crop modul databas document store

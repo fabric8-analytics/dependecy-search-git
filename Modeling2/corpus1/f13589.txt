@@ -1,0 +1,1 @@
+django-subdomain-instances way allowing subdomains served project associating objects particular subdomains instances instance base based manager associating associate associated subdomains subdomain add adds use running-tests-code

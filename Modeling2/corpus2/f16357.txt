@@ -1,0 +1,1 @@
+django-rss-plugin django cms plugin rss template templates rssplugin django-cms-rss-plugin like examples example installation install installed list window migrate migration migrations long py version rss-plugin feed feeds timeout release specified time

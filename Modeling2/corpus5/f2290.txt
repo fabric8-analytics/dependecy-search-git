@@ -1,0 +1,1 @@
+django-celery-email thank email support send set fix backend task messag add work instal errors-report releas chunk wheel extra string

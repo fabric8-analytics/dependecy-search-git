@@ -1,0 +1,1 @@
+django-pgview fork django postgr focus maintain improv support sql view python pg sql-view refresh model example-materi examples-not defin updat concurr field db pgview provid depend sync

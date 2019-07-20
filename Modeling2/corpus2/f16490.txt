@@ -1,0 +1,1 @@
+pi-rc522 pins gpio board-pin block method uses use spi-rfid useful-sectors-blocks tag tags mifare python-rc sector methods-return-error rst bits bit p device true contains black anti-collision irq returns pi

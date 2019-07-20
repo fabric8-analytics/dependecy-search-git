@@ -1,0 +1,1 @@
+pymorph bug bug package numpy lpc copyright-license morphological image-morphology start open opening started-fixing basic fix future unicamp operation image unit-test test

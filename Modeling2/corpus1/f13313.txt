@@ -1,0 +1,1 @@
+django-cookie-law helps django project comply eu cookie regulations displaying cookie information banner dismissed user template-tag bugs-contribution tags-installation-add media-directory feature-requests doubt-contributions django

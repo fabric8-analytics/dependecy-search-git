@@ -1,0 +1,1 @@
+jsonmapping schema jsonschema json data conversion data transform transformation transforms value mapping mapping map column-value package column case json test test whitespace nest form slug include include

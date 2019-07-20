@@ -1,0 +1,1 @@
+django-dirtyedit django editor file file ex setting set edit install instal codemirror admin directory directory handle reversion-management

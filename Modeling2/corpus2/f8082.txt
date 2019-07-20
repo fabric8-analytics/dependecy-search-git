@@ -1,0 +1,1 @@
+notabene openstack notification transport library rabbitmq notifications amqp events consumer-publisher

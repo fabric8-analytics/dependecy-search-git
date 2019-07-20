@@ -1,0 +1,1 @@
+aioxmpp asyncio xmpp library developed development developer network network list protocol-secure request request contribution-security document support python-xmpp-library check feature-list account contribute-documentation apis api features-native-support key issue issue protocol style need need dnspython scope contribute dirty run

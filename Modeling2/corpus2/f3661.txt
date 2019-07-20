@@ -1,0 +1,1 @@
+django-hstore-flattenfields django dynamic fields hstore add help account change application-development objects endswith install installation

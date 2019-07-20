@@ -1,0 +1,1 @@
+numina astronomical data reduction package python astronomy science install packages-installed installation-procedure requirements required requires documentation docs doc sphinx properly license pytest version stable scipy-astropy-pyyaml

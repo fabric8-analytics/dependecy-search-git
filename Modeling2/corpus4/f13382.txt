@@ -1,0 +1,1 @@
+django-infranil expos directori templat django-infranil url templat basic basic base-templ addit app-url ll base old-html cms-like function navbar edit edit littl file file app generating-navig path path normal probabl rule control control bar-baz make

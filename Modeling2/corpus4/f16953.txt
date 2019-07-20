@@ -1,0 +1,1 @@
+resolv import text string eval config like-packagename-modulenam

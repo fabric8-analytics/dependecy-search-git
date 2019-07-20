@@ -1,0 +1,1 @@
+pymongo-amplidata mongo mongodb pymongo gridfs bson python pymongo dependency dependency depend support support bug installation instal install installs x mongodb db bugs-feature gssapi-authentication packages-improves version issue issue package network clock srv test test test print project project create unittest-examples example tool tool doc doc e source bernie

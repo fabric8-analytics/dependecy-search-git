@@ -1,0 +1,1 @@
+rosetta tools wrappers etc data science concentration text processing utilities use rosetta-tools minor processed process ml-processes contain contained examples example egyptian-tablet text-processing code formats repo release releases python dependencies contributing contribute files e multiprocessing unix

@@ -1,0 +1,1 @@
+bumpr version bump releas tag code bump-r-alt command file test line block configur support hook supported-python-vers use fix readthedoc-hook optionn ensur added-opt option readthedoc handl custom diff run document

@@ -1,0 +1,1 @@
+dbfread file python type record data dbfread-read-dbf-fil api read instal code installing-requir chang visual document version case ole

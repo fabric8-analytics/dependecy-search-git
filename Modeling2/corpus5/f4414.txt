@@ -1,0 +1,1 @@
+pyramid-simpleauth auth configur pyramid email view login base page redirect name travers route-nam based-authent use password rout templat user authent url pass easili factori usernam app

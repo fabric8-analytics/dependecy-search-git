@@ -1,0 +1,1 @@
+djiffy django application index display iiif manifests books presentation python testing tests test uses install installed alt installation-use-pip iiif-manifests settings configuration configure configured required-configurations import imported content run running requirements require requires manifest e py setup

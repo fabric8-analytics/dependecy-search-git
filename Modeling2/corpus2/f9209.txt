@@ -1,0 +1,1 @@
+pytest-rerunfailures py test plugin runs failed tests n times eliminate flakey failures pytest rerun flaky tested runs-tests fail fails reruns-failed code failures-alt true-false python flag class version versions like line run def example add rerunning pr thanks fix added adding fixes-fixed-issue backwards changes-drop-support supporting result results package use option options

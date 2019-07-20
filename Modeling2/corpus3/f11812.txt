@@ -1,0 +1,1 @@
+django-app-metrics metric create-metric backends-default statsd-backend set setting set set default gauge librato redis data useful use us user timing-timer-gauge email e user-signups traffic weekly database signup manage manager sell status celery time simply fuel total total allows allow api

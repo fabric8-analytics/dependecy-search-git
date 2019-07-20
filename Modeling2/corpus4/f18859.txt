@@ -1,0 +1,1 @@
+django-rest-registr django rest api auth rest framework registr regist login reset password regist email chang email sign up sign in configur configur django-rest-registration-us support support supported-view password base base use use sign sign post minim frontend token

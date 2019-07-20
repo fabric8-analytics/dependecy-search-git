@@ -1,0 +1,1 @@
+django-vinaigrette translate django model data using gettext translates translations translated translation language testing test tests models code-python model-data files installing install value file version versions supported support adds fields field installing-add update register registered contexts context

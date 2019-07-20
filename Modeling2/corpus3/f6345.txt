@@ -1,0 +1,1 @@
+pytest-twisted test twist code pytest cod code corotwine pytest-twisted-test def reactor reactor target tmpdir-res creates create d-defer defer deferreds pypi-pythons-travis-appveyor-black alt python-versions version

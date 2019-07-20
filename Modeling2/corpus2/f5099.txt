@@ -1,0 +1,1 @@
+django-xadmin admin django xadmin bootstrap django-admin support install installed added adding figure-alt reversion reverse demo-user errors-update fixed export changelog changelogs files error version-run-code-bash filter add forms form methods method changelogs-update fixed-reverse

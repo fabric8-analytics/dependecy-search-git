@@ -1,0 +1,1 @@
+mod-wsgi mod wsgi apach apache-modul instal run mod-wsgi-packag python server-instal directli direct file modul directori software-packag script way configur use execut server command applic addit process locat complet instead tool web-appl macos-x includ standard-loc previous type messag histori later port window user method startup selinux set instanc

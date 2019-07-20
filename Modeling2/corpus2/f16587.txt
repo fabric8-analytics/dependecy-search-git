@@ -1,0 +1,1 @@
+tc-aws thumbor aws loaders settings set thumbor-aws loader-takes configuration-values issues key keys tc value formatted formatting storages storage boto-documentation-origin taking

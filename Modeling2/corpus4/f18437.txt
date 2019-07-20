@@ -1,0 +1,1 @@
+aiohttp-secur auth permiss aiohttp aiohttp asyncio exampl provid example-rst directori warn aiohttp document bump support support-exampl exampl provid suit licens jinja

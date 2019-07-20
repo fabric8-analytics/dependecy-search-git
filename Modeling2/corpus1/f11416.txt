@@ -1,0 +1,1 @@
+smmap sliding memory map manager smmap python-implementations file filed map mapped mapping mappings implementation memory-maps large-files region regions likely like bit offset authors authorize source limited limitations limit license licensed github git root continued large-files file-descriptor

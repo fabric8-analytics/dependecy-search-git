@@ -1,0 +1,1 @@
+talkey talkey-simple-text best-result macos-test jasper project local-inst use

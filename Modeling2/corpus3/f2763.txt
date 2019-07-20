@@ -1,0 +1,1 @@
+djangocms-style django cm style plugin django cm allows create html container contain class style id attribute addon cm django python django cm style installation install-run run plugin plugins django style-pypi tag tag additional source-project project python

@@ -1,0 +1,1 @@
+django-tokenapi user user token django use-token-based-authent base like basic json-respons view view header access access access obtain obtain encod encod api api pair use request

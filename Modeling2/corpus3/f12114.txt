@@ -1,0 +1,1 @@
+cmdln command command-line version default shell python-versions option option shell-install help sub installation cmdln-py associate source e simple doc doc-string svn easy extensions-make extension command command cmdln py think

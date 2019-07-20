@@ -1,0 +1,1 @@
+django-custom-field django admin field django-custom-field-allow applicant model model information student-applicants option-allows-schools-additional school type installation install instal optional boolean create create schooldriver leave admin

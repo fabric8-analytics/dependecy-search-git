@@ -1,0 +1,1 @@
+pypostgr postgr wrapper psycopg databas python-x-basic-usag given-stat exact-tim e special-attent want class return cursor str connect python result dict psycopg-extra data build

@@ -1,0 +1,1 @@
+bless termin sequenc tti curs ncurs format style color consol keyboard ansi xterm like target support alt provid code python-cod file curses-provid safe licens upstream linux suggest js act wrapper bug tparm string build posit pipe avoid key

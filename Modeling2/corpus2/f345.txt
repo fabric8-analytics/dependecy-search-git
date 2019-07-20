@@ -1,0 +1,1 @@
+django-dajax powerful-tool js

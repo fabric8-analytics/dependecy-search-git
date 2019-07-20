@@ -1,0 +1,1 @@
+django-better-test tests django-better-test allows

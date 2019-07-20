@@ -1,0 +1,1 @@
+flask-allow flask author permiss permiss permiss permiss flask simpl code releas version fix added-requir requir requir deprec deprec deprec permiss permission-decor permissions-mak decor return return context flask-allow code add easier make sdist prevent class one public

@@ -1,0 +1,1 @@
+hypothesis-regex hypothesis regex regex-alt generate generates generating-strings generated-examples strategy string match data-example pypi e match-given word way way unexpected character character flag python

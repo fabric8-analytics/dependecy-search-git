@@ -1,0 +1,1 @@
+django-oscar-testsupport test test packag packag use oscar product

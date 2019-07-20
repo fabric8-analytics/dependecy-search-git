@@ -1,0 +1,1 @@
+python-monetdb monetdb cursor true-exampl python-api default connect sql exampl run import test control variabl queri languag demo command fetch usernam id localhost server cwi copyright

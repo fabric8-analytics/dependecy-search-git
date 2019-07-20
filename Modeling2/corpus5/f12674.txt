@@ -1,0 +1,1 @@
+simplystat page file site gener configuration-gener use templat website-gener contain thing mako-templ directori theme default e notic differ includ content command websites-blog html ad deploy blog apach frontpag data maller good chronolog specif subdirectori workflow simpl link case python server web sourc css small line

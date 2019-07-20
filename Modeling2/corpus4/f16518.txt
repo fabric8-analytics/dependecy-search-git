@@ -1,0 +1,1 @@
+birdhousebuilder-recipe-conda buildout recip conda anaconda birdhous option option buildout-opt default default recipe-conda-alt-travi channel channel instal instal instal instal ad prefix environ environ fix fix connect internet env env updated-exampl set set set updat

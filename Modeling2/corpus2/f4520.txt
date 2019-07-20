@@ -1,0 +1,1 @@
+eve-elastic default queries resource-query support supported supports filtering filter code-block add fix filters index set settings setting search-filtering resource-query-params allow param parse parsing mapping support-aggregations avoid config make-serializer install handle handling use throw serialization dependency dependencies aggregates request introduce type rus

@@ -1,0 +1,1 @@
+historical serverless event driven aws configuration collection service configuration versioning aws serverless lambda security dynamodb s securitygroups cloudtrail event python aws account management historical

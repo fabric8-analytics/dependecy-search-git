@@ -1,0 +1,1 @@
+django-useful installation-install personal-use-new-features snippets travis use-new celery

@@ -1,0 +1,1 @@
+chainer-libdnn network neural-network layer train argument training-interfac imag function expect default-train filter forward interfaces-lik visual autoencod specifi isa optim encod view visualizer-class suzuki set encoding-decod defin feedforward data decod program pixel output licens automat x gener chainer cuda paramet g object requir

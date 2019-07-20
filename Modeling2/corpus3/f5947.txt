@@ -1,0 +1,1 @@
+tiletanic python library support generalize geographic tile scheme tile tile tile geospatial-tiling mercantile mercator projection project projection tiletanic-tools deal need installation install need-geos-installed manager raster extremely provide-tooling provide

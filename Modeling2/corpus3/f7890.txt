@@ -1,0 +1,1 @@
+django-client-logger client side log application django

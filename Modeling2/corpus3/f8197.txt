@@ -1,0 +1,1 @@
+xstatic-angular-ui-router package package packaging easy-install

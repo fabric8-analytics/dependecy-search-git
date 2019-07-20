@@ -1,0 +1,1 @@
+rst2pdf use text editor make pdf python restructuredtext gener present tool restructur convert rst docutil pygment reportlab support instal defined-pag support-python-sudo git rstpdf quick syntax style multipl defin released-vers

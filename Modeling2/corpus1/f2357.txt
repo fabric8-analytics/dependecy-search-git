@@ -1,0 +1,1 @@
+rdp rdp ramer douglas peucker line simplification numpy ramer-douglas-peucker status-python-numpy points installation

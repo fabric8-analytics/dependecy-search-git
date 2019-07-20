@@ -1,0 +1,1 @@
+flask-lwadmin flask lwadmin minimalistic administrative interface building extension framework examples example useful use uses comments bootstrap changes change panels panel crud possible possibly basic main programming good bug macro macros-classes api-changes navbar type actions action creating-new-pages create-list-update created page pager class updated integration

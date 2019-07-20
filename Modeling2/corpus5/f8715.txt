@@ -1,0 +1,1 @@
+django-taggit-machinetag property-valu tag instal

@@ -1,0 +1,1 @@
+django-singleton model admin homepag instal ex import editors-gener singletonmodel

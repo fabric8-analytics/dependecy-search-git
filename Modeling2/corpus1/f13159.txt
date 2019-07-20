@@ -1,0 +1,1 @@
+django-denorm provides declarative way denormalizing models django based applications maintaining data consistency database automatic django django

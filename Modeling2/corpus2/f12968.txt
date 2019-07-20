@@ -1,0 +1,1 @@
+django-windows-tools django windows installed installation install installing-services commands command py configuration service d application django-windows logs log version versions run-celery running servers server serveral python bugs directory files file host processes process section sections

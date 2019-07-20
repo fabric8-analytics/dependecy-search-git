@@ -1,0 +1,1 @@
+edc-visit-track track studi particip visit ensur document cover data collect edc clinic trial research health informat django model declar travis-codecov-downloads-edc-visit code

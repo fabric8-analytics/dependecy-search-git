@@ -1,0 +1,1 @@
+python-zimbra core framework easily send request zimbra soap api request python-zimbra test test test authenticate authentication authentication user request-fault-handling-batch soap api preauth use account like message code sanity ini folder admin import handle console installation-imports specific specific specifically send send install python-classes

@@ -1,0 +1,1 @@
+newrelic-plugin-ag configur instal monitoring-instal configuration-file-not plugin requir file server apach nginx format exampl monitor statu postgresql-rabbitmq-redi php support target uwsgi multiple-target httpd domain n metric verif memcach like note stanza-lik default credenti level stanza yaml

@@ -1,0 +1,1 @@
+django-admin-bootstrapped-plus admin theme dependency django-admin-bootstrapped interface-experience-quick root

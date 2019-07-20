@@ -1,0 +1,1 @@
+protoc-java-resource-names-plugin gener gener gener version version version librari librari gapic-proto-compiler-plugin

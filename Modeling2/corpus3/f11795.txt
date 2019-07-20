@@ -1,0 +1,1 @@
+django-rest-fuzzysearch fuzzy search django rest python search search require requirements-python import-migrations py rest-fuzzy-search viewset viewsets migration migrate extension exact class postgres

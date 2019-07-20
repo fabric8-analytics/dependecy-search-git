@@ -1,0 +1,1 @@
+starlett littl asgi framework shine python async websocket graphql http support high-perform asgi-framework requir dependencies-requirements-python code independ test independently-run run applic api auto access cpu exampl task

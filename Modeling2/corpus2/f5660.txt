@@ -1,0 +1,1 @@
+numexpr fast numerical array expression evaluator python numpy pytables pandas bcolz arrays-like-code codes coding computing computations expressions performance performs speed expression-evaluator results resulting result better memory benchmarks benchmark evaluate math-library cpu import author authors documentation-travis complex cache np allocating ne e

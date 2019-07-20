@@ -1,0 +1,1 @@
+unicode-slugify slugifier work unicode unicode-slugify character slugifier

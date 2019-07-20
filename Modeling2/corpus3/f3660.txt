@@ -1,0 +1,1 @@
+pytmpdir class represent file system directory deletes garbage collect directory readme-read auto-delete deletes directory create create

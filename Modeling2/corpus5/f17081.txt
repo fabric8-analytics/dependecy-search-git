@@ -1,0 +1,1 @@
+versionfind version git pip pkg resourc setuptool instal test tests-test releas packag python-packag issu intend alt-github-forks-target travi distribut make return rst chang develop fork url request repo clone usabl pep pytext serial command bug tag

@@ -1,0 +1,1 @@
+flake8-putty flake pep putty flake-putty ignored line errors disabled-disabling disable ignore-detects alt target error-detected patterns pattern installation install file code codes rule rules multiline better

@@ -1,0 +1,1 @@
+os-dpm dpm base hypervisor hypervisor dynamic-partit holds-common

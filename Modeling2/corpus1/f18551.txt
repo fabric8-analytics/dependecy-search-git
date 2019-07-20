@@ -1,0 +1,1 @@
+flinx flinx-configuration file files sphinx generate generators version automatically-generated named documentation projects names-license acknowledgements guinea starter theme test current-project dean-foster command-line commands toml currently tool tools

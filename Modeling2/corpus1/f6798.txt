@@ -1,0 +1,1 @@
+cmsplugin-link-extended django django cms plugin link extension installation install cmsplugin original extended extends plugin

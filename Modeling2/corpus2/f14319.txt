@@ -1,0 +1,1 @@
+biggus entry deprecated virtual large arrays lazy evaluation new-code consider-porting-existing requires demanding-requirements demand-important-note features development developed array-data status-virtual plans got

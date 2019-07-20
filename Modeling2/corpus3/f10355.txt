@@ -1,0 +1,1 @@
+django-offsite-storage cloud static medium file storage suitable app container storage storage default file aws-access media-file set setting

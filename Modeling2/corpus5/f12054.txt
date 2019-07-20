@@ -1,0 +1,1 @@
+djangorestframework-bulk django framework-bulk updat url delet view-mixin generic-view model mixin resourc drf fix directly-map class credit code major requir field histori map

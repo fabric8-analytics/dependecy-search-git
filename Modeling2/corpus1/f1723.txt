@@ -1,0 +1,1 @@
+django-cassandra-engine django cassandra engine backend driver wrapper database nonrel cqlengine donate donation django-cassandra license licensed models model-stored database databases working works installation storing change-setting connection

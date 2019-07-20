@@ -1,0 +1,1 @@
+aggdraw python package wrapping agg drawing functionality library libraries aggdraw permission copyright build source uses use agg-sources following support supporting check action setup-py secret modify c damages whatsoever graphics aggdraw-module-implements drawing

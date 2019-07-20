@@ -1,0 +1,1 @@
+cfn-pyplat setup distutil templat python cloudformation-templ pyplat sphinx imag resourc base instal dev allow

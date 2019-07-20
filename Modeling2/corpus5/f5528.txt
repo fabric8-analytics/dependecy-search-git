@@ -1,0 +1,1 @@
+nkf input string string-guess guess

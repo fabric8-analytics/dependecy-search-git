@@ -1,0 +1,1 @@
+flake8-comprehens flake comprehens list set dict c rewrit liter releas tuple-liter tupl rule-c-unnecessari rule python

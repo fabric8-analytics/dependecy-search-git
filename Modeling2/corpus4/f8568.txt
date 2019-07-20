@@ -1,0 +1,1 @@
+invenio-oauthcli invenio modul provid oauth web author support invenio oauth authent oauth cern support authorization-support invenio author author releas releas github extra applic login pin-oauthlib

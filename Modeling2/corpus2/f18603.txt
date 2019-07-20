@@ -1,0 +1,1 @@
+pylint linter annoys static analysis code quality pep distributed distribution python coding configurable configuration alt package packages tool tools command commands information install installed installation status-target simple-refactoring errors-helps

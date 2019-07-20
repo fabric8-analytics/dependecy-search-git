@@ -1,0 +1,1 @@
+eemeter open source python package implement develop standard method calculate normalize meter energy consumption avoid energy use energy efficiency energy data energy efficiency alt method method meter metered-energy source model caltrack open-source eemeter-tools pp data code package status project warning

@@ -1,0 +1,1 @@
+aiobotocor asyncio support botocor librari use aiohttp aw sdk cloud manag test basic servic async python-support list alt requir specif download athena version e thank fix timeout changes-fix-respons respons updat bump ad aiohttp-asyncio basic-exampl add remov chang set verifi exampl async-cli aiobotocore-alt connector bring make dynamodb

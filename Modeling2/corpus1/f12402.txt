@@ -1,0 +1,1 @@
+sleekxmpp xep xeps latest sleekxmpp chat project projects documentation dependency saint included component abstractions xmpp dependencies-installing author following follow install smith-remko releases release

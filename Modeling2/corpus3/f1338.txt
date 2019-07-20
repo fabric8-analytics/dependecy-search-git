@@ -1,0 +1,1 @@
+gspread spreadsheet google spreadsheet cell spreadsheet google-spreadsheets-python-api contribute contribute cell-value issue report-issues ask request value documentation use-restructuredtext worksheet simple-google api-features license

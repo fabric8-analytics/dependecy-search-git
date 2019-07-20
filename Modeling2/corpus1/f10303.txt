@@ -1,0 +1,1 @@
+flask-queryinspect flask-queryinspect queries query headers header log logging config combined example app enabled-true enable new-db flask extension

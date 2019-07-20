@@ -1,0 +1,1 @@
+tox-bitbucket-status ci tox-bitbucket-status repo repos url-bb mercurial url

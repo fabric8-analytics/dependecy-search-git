@@ -1,0 +1,1 @@
+html2pdf default install wkhtmltopdf false disable xfonts htmlpdf sudo com pip usage python

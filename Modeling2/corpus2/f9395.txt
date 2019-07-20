@@ -1,0 +1,1 @@
+nose-warnings-filters project-separated line-whitespace say tests test tested testing following-form configuration

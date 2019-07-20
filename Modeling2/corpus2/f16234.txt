@@ -1,0 +1,1 @@
+geoip2 databases database-reader errors error pycon services codes type-code data-returned maxmind-geoip web-service ip records use uses request requests geonames record-classes client api city versions versioning return returns returning class address provides provided like mapped map contains contain

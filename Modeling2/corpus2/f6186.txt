@@ -1,0 +1,1 @@
+fann2 ann artificial intelligence fann bindings install installed fann-python source-installation lib libs pkgsrc network training-data artificial-neural-networks license connected py libfann information command-prompt links

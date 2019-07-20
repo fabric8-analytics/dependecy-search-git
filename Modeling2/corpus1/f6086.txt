@@ -1,0 +1,1 @@
+dutree dutree python lib cli helps quickly find files dirs taking space compare summary ncdu cli library disk usage usage sizes size like dutree file directories-files blocks

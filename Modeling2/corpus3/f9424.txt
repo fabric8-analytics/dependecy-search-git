@@ -1,0 +1,1 @@
+dnsimple-dyndns dns script domain replace function dyndns-dynamic-dns domain-record

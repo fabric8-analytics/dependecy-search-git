@@ -1,0 +1,1 @@
+crash interactive cratedb command line interface cli sql shell autocompletion crate db data client version versions shell-alt help contributing contributions contribution rst installation install executable problems

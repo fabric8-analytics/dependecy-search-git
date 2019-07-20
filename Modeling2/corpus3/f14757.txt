@@ -1,0 +1,1 @@
+django-orderable add manual sort order django object via abstract base class admin class orderable order order model model class admin-classes subclass subclass key manager manager field likely race way installation instal

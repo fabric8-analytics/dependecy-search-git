@@ -1,0 +1,1 @@
+django-datatable-view server side datatable representation django querysets automatic render template python django datatables table datatables demo demo column column license license support datatable-view field supports-state fields-easy object example small copyright option editable suite-documentation mode-instead rowdata-customization contents-html parse fault search

@@ -1,0 +1,1 @@
+kernel-tun auto tune gpu comput pycuda cuda pyopencl opencl kernel code python paramet search tune-cuda support algorithm defined-paramet exampl tuned-gpu-program c default bfg defin nugteren program compil script output-verif badg process optim align

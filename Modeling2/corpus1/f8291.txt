@@ -1,0 +1,1 @@
+taskcluster-s3-uploader taskcluster credentials

@@ -1,0 +1,1 @@
+lmfit curve fitting least squares minimization methods method-bfgs-sequential addition including optimal scipy-optimize mead provides provided

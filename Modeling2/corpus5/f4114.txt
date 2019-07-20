@@ -1,0 +1,1 @@
+django-layers-hr django-lay layer-lookup set basic page template-set request site templat exampl fix com devices-smart path based-lookup render static collectstat add devic awar differ test authors-hedley barry-changelog initi

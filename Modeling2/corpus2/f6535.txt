@@ -1,0 +1,1 @@
+fancycompleter rlcompleter prompt tab color completion colors colored line lines automatically version versions colorful-python-tab-completion installation install installed type types typing-function functions named completions complete completed completer pyrepl file readline config ctrl dirty useful use uses command work works note returns simply strips-escape running run

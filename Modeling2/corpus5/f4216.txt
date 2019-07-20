@@ -1,0 +1,1 @@
+python-freezercli freezer api-freez releas openstack version disast fulli librari chang repositori

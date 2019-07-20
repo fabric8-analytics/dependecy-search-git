@@ -1,0 +1,1 @@
+django-crypto-field django field encrypt secur code fields-python encryption-key add-encrypted-field-class key django tabl tabl add pii support support identifi identifi supports-uniqu analysi class data level set set sourc research secur secur issu issu lookup lookup sets-rsa automat

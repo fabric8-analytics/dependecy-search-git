@@ -1,0 +1,1 @@
+googletrans google translate translator code version versioning versioned translations translation python-library status license licensed detect detection http requests request run google-translate-api usage url urls character features feature highly encouraged x-times time

@@ -1,0 +1,1 @@
+sphinxcontrib-gravatar gravatar alt default licens license-requir option option requir tell-k class true test target com sphinx conf coveral

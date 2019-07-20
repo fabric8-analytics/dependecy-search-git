@@ -1,0 +1,1 @@
+sqliteschema sqlite library schema alt python table dependencies sample-code text

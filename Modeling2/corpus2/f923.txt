@@ -1,0 +1,1 @@
+django-searchbar searchbar django forms template usage advanced dictionary method search model e

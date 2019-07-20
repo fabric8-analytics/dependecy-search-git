@@ -1,0 +1,1 @@
+spiceypy spice naif jpl space geometry work works working status-windows citation documentation version versions naif-c-spice linux running run doi science python pypi environments environment coverage-docs

@@ -1,0 +1,1 @@
+hitchstory hitchdev framework bdd tdd declarative test test yaml story story test test python-testing hitchstory name exception-named installation install instal design design principle principle use flaky recommend call exception type documentation-framework maintained-example executable execute instead traditional jira-ticket maintain hiding strong line

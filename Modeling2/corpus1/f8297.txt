@@ -1,0 +1,1 @@
+python-markdown-math extensions math-extension use markdown configuration files-like mathjax

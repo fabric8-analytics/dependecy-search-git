@@ -1,0 +1,1 @@
+django-debug-toolbar configur set panel display variou debug inform current request respons alt statu configur configur django-debug image-width rob

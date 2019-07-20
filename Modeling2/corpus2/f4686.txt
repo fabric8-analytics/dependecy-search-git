@@ -1,0 +1,1 @@
+rekt client-objects-contain object-hook dot-accessible generating-rest-clients generation generated generates instance-attributes specific specifications store libraries rest client

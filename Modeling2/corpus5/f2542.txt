@@ -1,0 +1,1 @@
+adafruit-ampi adafruit ampi hardwar micropython circuitpython command run like directori python file board boards-instal port note instal micropython-tool tool untest variabl osx mode

@@ -1,0 +1,1 @@
+django-order add manual sort order django object via abstract base class admin model admin-class subclass key manag field like race way instal

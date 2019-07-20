@@ -1,0 +1,1 @@
+sphinx-docstring-typing sphinx docstrings type napoleon

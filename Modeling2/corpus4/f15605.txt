@@ -1,0 +1,1 @@
+django-pgjson django postgresql pgsql json field django

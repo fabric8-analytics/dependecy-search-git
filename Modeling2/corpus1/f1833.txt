@@ -1,0 +1,1 @@
+django-rosetta-grappelli support supported supporting django installed installation grappelli maintainer

@@ -1,0 +1,1 @@
+pyfirmata pin layout board arduino analog protocol usag statu class state

@@ -1,0 +1,1 @@
+django-qrcod django qr code qrcode django-qr templat url webpag like follow address tag email size use

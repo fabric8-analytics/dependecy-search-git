@@ -1,0 +1,1 @@
+syslog-rfc5424-formatter python logging formatter emitting rfc syslog messages module-implements python-formatter yaml

@@ -1,0 +1,1 @@
+soundmeter soundmeter triggering triggered default defaults threshold-trigger input audio options optional sound log monitor line e file thresholds segment seconds rms

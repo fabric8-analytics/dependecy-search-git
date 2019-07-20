@@ -1,0 +1,1 @@
+jupyter-cli interact interpret shell web

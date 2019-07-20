@@ -1,0 +1,1 @@
+petulant-bear present etree interface netcdf python object use ncml data model netcdf lxml xml metadata ncml bear operation library interface uniform-metadata-operation childishly netcdfncml-import

@@ -1,0 +1,1 @@
+astrodbkit python modul astronomi creat manag collabor use sql relat databas astrophys launch-ipython

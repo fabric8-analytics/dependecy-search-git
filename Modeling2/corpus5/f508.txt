@@ -1,0 +1,1 @@
+django-coffeescript coffeescript file default cach contrib inlin compil add mode use-django-coffeescript set staticfil chang script root

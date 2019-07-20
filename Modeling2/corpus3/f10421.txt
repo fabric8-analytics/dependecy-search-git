@@ -1,0 +1,1 @@
+pytest-moto pytest aws moto boto moto-alt run run package status requirement require travis-ci isn repository pypi insecure endpoint moto-alt run run package requirement require documentation-status enable travis-ci iam test test cloudformation-isn mode mode

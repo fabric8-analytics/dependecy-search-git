@@ -1,0 +1,1 @@
+django-memcached2 memcached django cache cache app resuable django-memcached run run give

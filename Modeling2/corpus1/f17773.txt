@@ -1,0 +1,1 @@
+neovim vim fork focused extensibility usability neovim c vim lua nvim text editor cross platform extensible api license licensed contributions contributed vim wiki neovim features maximize default including cmake-based base page build building package packages managed manager python list bundled lists linux debian ruby data

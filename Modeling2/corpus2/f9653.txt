@@ -1,0 +1,1 @@
+django-haystack-panel haystack query todo license

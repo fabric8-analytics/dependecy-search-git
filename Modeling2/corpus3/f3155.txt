@@ -1,0 +1,1 @@
+django-singleton django-singleton model model admin compatibility package ex singleton editors-generally installation instal example

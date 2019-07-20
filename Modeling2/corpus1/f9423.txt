@@ -1,0 +1,1 @@
+ssl ssl wrapper socket objects compatible versions version ssl socket sockets test installing-tests installation install plus support eof sslfix branch python pypa includes including asyncore fixed fixes fix unexpected-eofs package neal chris-stawarz instead georg server error david class-wrong issues-feel encode kuchling

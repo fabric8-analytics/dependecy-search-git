@@ -1,0 +1,1 @@
+base-node-rpc ic serial serialize serialize device class class base base rpc buffer buffer arduino methods-interactively state command-requests byte byte-array interface interfacing eeprom write provide provide provide provide firmware follow follow query request package key nb api config code interact interactive interact

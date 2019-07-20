@@ -1,0 +1,1 @@
+ibmiotf support supports supporting devices supported-features-device-connectivity-connect application applications http api apis mqtt platform connects connections v based-authentication publish interruption event

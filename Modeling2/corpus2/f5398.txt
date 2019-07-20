@@ -1,0 +1,1 @@
+minimock mock testing unittest test tested tests mocks mocked attributes attribute return-calls like doctest called calling arguments argument kian mailing set sets trigger

@@ -1,0 +1,1 @@
+wagtail-simple-galleri wagtail cm model page templatetag imag url templat set collect default exampl admin use tag-us tag content filter

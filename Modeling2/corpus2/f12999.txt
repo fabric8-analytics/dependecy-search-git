@@ -1,0 +1,1 @@
+django-dashing django dashing customisable modular dashboard application framework visualize interesting data project inspired metrics metric widgets dashboards python code-block-text widget listwidget directory file installation-install config interesting-data projects

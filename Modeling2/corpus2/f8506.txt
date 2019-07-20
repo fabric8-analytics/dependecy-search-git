@@ -1,0 +1,1 @@
+scrapyd-client command line client scrapyd server target targets use-netrc need needs eggifying typically addversion specific available project projects set settings use uses ll-need mercurial typically-involves

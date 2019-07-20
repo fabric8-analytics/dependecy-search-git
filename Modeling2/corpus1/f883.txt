@@ -1,0 +1,1 @@
+django-coverage-plugin alt versions version template-coverage-py support supported-python templates production d use useful test tests template-coverage-py templates-supported-python support d production use useful

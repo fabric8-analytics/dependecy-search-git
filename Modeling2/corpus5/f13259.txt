@@ -1,0 +1,1 @@
+python-etcd etcd raft distribut log api client code python releas list atom fix lock-fix tests-added-vers python-etcd-document support test remov removed-lock chang requirements-cod date except requirement-chang better key updat allow exception-handling-improv error etern certif tupl base cluster improv leader delet recurs

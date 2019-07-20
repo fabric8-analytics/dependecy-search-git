@@ -1,0 +1,1 @@
+python-baseconv converter numbers math license licensed project base altsign baseconv c encode decode python-module baseconverter-myconv reserved

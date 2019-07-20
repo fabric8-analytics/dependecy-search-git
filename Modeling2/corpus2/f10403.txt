@@ -1,0 +1,1 @@
+django-plugins home-page-documentation installation installable enabled automatically argument instance moved plugon like command backwards path versions view

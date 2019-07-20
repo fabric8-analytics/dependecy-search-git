@@ -1,0 +1,1 @@
+zope-hookable function hook replacement loose coupled add supports support supported-python-versions documentation document hookable-alt test testing extensions extension alias objects object use py release version indirection

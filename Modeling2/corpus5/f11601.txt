@@ -1,0 +1,1 @@
+pyphen hyphen pure python hyphenation-dictionari dic git nl amster featur dict lgpl

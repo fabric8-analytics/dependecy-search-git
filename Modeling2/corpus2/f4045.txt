@@ -1,0 +1,1 @@
+yamjam config yaml django settings dry resource configuration install installation settings-py-file alt-build

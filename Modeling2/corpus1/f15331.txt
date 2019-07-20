@@ -1,0 +1,1 @@
+django-popolo django based implementation opengovernment context compliant popolo data specifications django application python open government django-popolo classes class primary government-data release tests test md web ids numerical django includes-classes class-populating slugs release entities sql-oriented main based

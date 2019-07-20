@@ -1,0 +1,1 @@
+spark-sklearn scikit learn integration package apache spark apache spark scikit learn grid search parameter tuning machine learning spark scikit learn distributed computing machine learning learning distributed distribute distributes tests testing tested spark scikit-learn-integration-package version versions python integrate simple cross sparse run runs

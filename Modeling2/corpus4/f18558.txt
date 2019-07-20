@@ -1,0 +1,1 @@
+django-admin-rangefilt python exampl django-admin

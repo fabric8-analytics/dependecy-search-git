@@ -1,0 +1,1 @@
+django-panda default model queryset column function version column-valu field parameters-exampl exampl storag datafram field-nam valu instal axi key pull tabl boolean provid row manag usag support django-pandas-tool float-option-thank support-python releas test removes-compat remov bug ad option tool set query-set document

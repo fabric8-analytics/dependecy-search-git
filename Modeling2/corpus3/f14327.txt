@@ -1,0 +1,1 @@
+openfisca-parsers deprecate lexers parser compiler etc openfisca source code openfisca python parse benefit compiler lexer microsimulation parser social tax openfisca-parsers package openfiscafrance directory instrospection api introspection microsimulation-free syntax

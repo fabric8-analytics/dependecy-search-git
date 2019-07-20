@@ -1,0 +1,1 @@
+django-click instal command management-command write manage-py-helloworld add support exampl hello code python retrieve-model test-suit compat

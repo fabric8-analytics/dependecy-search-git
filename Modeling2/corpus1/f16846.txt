@@ -1,0 +1,1 @@
+edc-search searchable slug model mixin class edc dashboard django edc search form code mixin python

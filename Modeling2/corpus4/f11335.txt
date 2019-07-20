@@ -1,0 +1,1 @@
+django-memcache-statu classifier-develop django author license-mit develop python

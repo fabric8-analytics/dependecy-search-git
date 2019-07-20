@@ -1,0 +1,1 @@
+superdesk-core common server module superdesk superdesk python flask celery mongodb elasticsearch superdesk-core-library application

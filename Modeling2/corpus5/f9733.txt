@@ -1,0 +1,1 @@
+django-prefer django app allow user set specif prefer admin interfac python applic singleton add option site supported-support doc added-test alpha rewrite-distinct url roo

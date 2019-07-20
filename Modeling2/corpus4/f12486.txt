@@ -1,0 +1,1 @@
+fritzconnect avm fritzbox modul modul fritzconnection-python exampl exampl packag use use call call util phone protocol protocol line code version statu ip avail servic servic compat extens extens contain

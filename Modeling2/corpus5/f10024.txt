@@ -1,0 +1,1 @@
+gnupg-securedrop module-allows-easy-access

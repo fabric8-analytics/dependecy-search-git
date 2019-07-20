@@ -1,0 +1,1 @@
+pytest-qt pytest plugin qt pyqt pyqt pyside application test pytest qt pytest qt test unittest test test variable change-version versions-black code-block-python benjamin waitsignal waitsignals method requirement pydev request request instal installable install locally docs-appveyor feature feature user like-key yurchak john

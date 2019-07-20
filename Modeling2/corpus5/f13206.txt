@@ -1,0 +1,1 @@
+django-grapho django chart made realli easi yui set demo gchart instal creat highchart python data local-set install-requir axi linechart-barchart allow requir morri py like mongo use support flot-googl project-loc list run datasourc js licens option line year yearli linechart grapho use-mongo googl argument

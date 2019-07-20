@@ -1,0 +1,1 @@
+django-sphinxsearch django-sphinxsearch index import field field attribut model model db base bit-integer-bigint valu

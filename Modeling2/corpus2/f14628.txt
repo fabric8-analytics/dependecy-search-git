@@ -1,0 +1,1 @@
+djcacheutils cached caching django-cache-utils decorator decorated keys key memcached supports support supported delete deletes set invalidation invalidated number gracefull function-method kwargs kwarg methods note notes logging log o

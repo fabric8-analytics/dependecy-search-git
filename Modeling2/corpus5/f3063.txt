@@ -1,0 +1,1 @@
+django-tastypie-swagg adapt use swagger ui django tastypi document v version instal licens concentric-ski technolog concentricski oregon applic resourc contributors-licens md

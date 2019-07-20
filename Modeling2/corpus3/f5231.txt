@@ -1,0 +1,1 @@
+pyquil python library quantum program use quil forest quil quantum compute quantum program quantum quil program hybrid forest pyquil quil-programs contribute quantum start start instal instal installation install develop development package source community simulator follow follows-bibtex

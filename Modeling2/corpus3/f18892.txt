@@ -1,0 +1,1 @@
+ipysankeywidget ipython jupyter widget example link link link simple-example object layout diagram diagram installation install instal npm-browser-support thanks version version

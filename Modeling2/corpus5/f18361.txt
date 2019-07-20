@@ -1,0 +1,1 @@
+s3 amazon aw s upload download bucket bucket-configur storag header configur listed-configur requests-request set metadata tag string key use contain-key contain return delet retri data remot list file directori code api-us option python-modul delete-copi respons error class argument permiss read object access-permiss provides-xml updat tool command prefix exampl provid

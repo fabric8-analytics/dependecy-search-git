@@ -1,0 +1,1 @@
+proto-google-cloud-spanner-admin-instance-v1 library idl-derived

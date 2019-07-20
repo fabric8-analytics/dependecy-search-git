@@ -1,0 +1,1 @@
+testinfra test tools-like-salt-ansible-puppet testinfra-test

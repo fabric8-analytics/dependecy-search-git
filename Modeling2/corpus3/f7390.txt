@@ -1,0 +1,1 @@
+crimson crimson bioinformatics json yaml samtools picard fastqc version output fastqc-version tool-outputs file file code crimson python development follow license license tool release command feel fusion parse result support support contribute contribution flagstat standard

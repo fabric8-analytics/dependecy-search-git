@@ -1,0 +1,1 @@
+dsmr-parser client settings serial python code telegram telegrams module type int-str-decimal blocking block read

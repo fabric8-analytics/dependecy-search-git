@@ -1,0 +1,1 @@
+django-dockit provides document based orm suite modelled django conventions backend documents backendable-support supports backends-help index indexing included settings set schemas

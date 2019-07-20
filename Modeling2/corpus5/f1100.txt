@@ -1,0 +1,1 @@
+js-angular angular-build-statu en fr locale-af es ar pt zh han ca resourc el nl hant imag library-packag making-sur requires-integr web-framework hk sv sw latn rs bn sr-cyrl-ba ph fa vi za ln ru mo

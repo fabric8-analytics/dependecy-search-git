@@ -1,0 +1,1 @@
+pyscrol pyscrol map layer layer tile tile animated-scrolling-map tiles-zoom support alpha sprite sprite supported-draw transpar transpar render render render colorkey data draw zoom zoom quest game pass pass quickli quick perform anim existing-gam speed speed make make activ graphic graphic exist adapt adapt adapt simpl tutori pygam includ includ

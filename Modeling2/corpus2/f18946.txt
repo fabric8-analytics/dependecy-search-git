@@ -1,0 +1,1 @@
+django-gm2m django supports relation relations models-support related-fields features model copyright minor future field like behaviour

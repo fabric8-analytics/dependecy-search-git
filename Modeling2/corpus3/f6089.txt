@@ -1,0 +1,1 @@
+pytest-ipynb pytest test unittest ipython notebook ipython-notebooks notebook-define cell cell ci unit example name define install-author-credits-thomas-kluyver notebook notebook unit cell cell

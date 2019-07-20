@@ -1,0 +1,1 @@
+django-google-chart django templat googlechart

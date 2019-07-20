@@ -1,0 +1,1 @@
+docstamp svg templat render tabl data base inkscap jinja licens file releas badge-cr header ljsalvatierra-haseeb instal version fix support cli release-requir majid python pypi

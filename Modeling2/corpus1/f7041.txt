@@ -1,0 +1,1 @@
+django-nopassword add authentication code installation install installed rest available-post django settings erik

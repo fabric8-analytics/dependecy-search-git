@@ -1,0 +1,1 @@
+socket-io-emitter socket io emitter pure python module universal module io-python-emitter event emit-events copyright ziasal person person documentation mccurdy include include copy copy room room open-source client compatible notice license

@@ -1,0 +1,1 @@
+django-seo2 seo django framework metadata model class django-seo-alt-cod requir escap django-seo definit python

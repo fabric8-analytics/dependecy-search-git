@@ -1,0 +1,1 @@
+django-mandril django mandril email backend

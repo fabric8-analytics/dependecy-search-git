@@ -1,0 +1,1 @@
+python-logging-json-formatter logging formatter appends extra data json e g loggly logging json loggly e json

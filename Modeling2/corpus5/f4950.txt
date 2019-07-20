@@ -1,0 +1,1 @@
+pydht raspberri pi bcm gpio dht am adafruit includ python warranties-includ copyright sourc strict reserv provid code indirect-incidental-speci kevin damag git

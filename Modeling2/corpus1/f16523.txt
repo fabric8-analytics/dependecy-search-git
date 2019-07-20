@@ -1,0 +1,1 @@
+django-livefield convenient soft deletion django models python django soft delete license django convenient-soft requests contributing new travis

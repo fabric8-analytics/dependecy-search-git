@@ -1,0 +1,1 @@
+pyqtconfig bioinformat research analysi scienc set set set widget widget valu valu standard config handl handl default default configur mapping-handl qsettings-str applications-featur map dict nice qt return return applic support support note access hook bug choic licens acknowledg data simple-api xml paramet paramet qslider api store store simple-api list-box

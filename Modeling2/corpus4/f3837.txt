@@ -1,0 +1,1 @@
+tabletext format format format charact charact option option row row line code follow output output follows-argument-default corner corner argument bash

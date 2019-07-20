@@ -1,0 +1,1 @@
+django-loci reusable django app storing gis indoor coordinates objects code install installing shell python test tests databases database contents-table requirements extend extending configure configuration development extension spatialite library geodjango contents send style

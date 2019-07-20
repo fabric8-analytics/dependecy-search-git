@@ -1,0 +1,1 @@
+ubuntudesign-gsa client-image-alt-build-status-target gsa basic

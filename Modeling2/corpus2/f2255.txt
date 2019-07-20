@@ -1,0 +1,1 @@
+django-meta pluggable app allow django developers quickly add meta tags opengraph twitter google plus properties html responses python metatags social network seo optimization alt django-meta-gitter apps version versions method status contents check github developed bitbucket-repository

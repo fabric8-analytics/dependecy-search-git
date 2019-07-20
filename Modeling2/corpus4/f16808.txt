@@ -1,0 +1,1 @@
+tripleo-heat-templ x network network network heat-templ script role role rbd includ includ puppet swift configur file rabbit deploy deploy-openstack environment-fil tags-chang service-test featur environ neutron-ovn ha wip

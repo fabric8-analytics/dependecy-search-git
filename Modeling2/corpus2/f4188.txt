@@ -1,0 +1,1 @@
+piwho speaker recognition raspberry pi marf audio installation min-version-installed use-turbo code model-b-raspbian jessie

@@ -1,0 +1,1 @@
+yamjam config yaml django set dri resourc configur instal settings-py-fil alt-build

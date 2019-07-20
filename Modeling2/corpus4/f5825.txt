@@ -1,0 +1,1 @@
+django-debug-toolbar-vcs-info django django debug toolbar git vc info revis hash panel vc supported-python panel panel instal instal

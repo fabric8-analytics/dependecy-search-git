@@ -1,0 +1,1 @@
+django-argonauts lightweight collection json helpers django rest views code class escapes tag methods method safely safe var log status tests testing test releaser release support fixed python type http

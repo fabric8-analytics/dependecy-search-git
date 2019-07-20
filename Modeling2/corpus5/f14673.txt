@@ -1,0 +1,1 @@
+xmpp-backend backend ejabberd version new fix use django api interfac document statu test develop python-librari update-requir run return command rais support add instanc releas librari

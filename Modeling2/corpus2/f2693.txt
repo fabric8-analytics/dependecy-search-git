@@ -1,0 +1,1 @@
+django-autoload-fixtures load-initial automagically code bash inside fixtures stable

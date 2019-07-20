@@ -1,0 +1,1 @@
+form-designer simple form designer django field form input-fields form-designer optionally option definable define defines define submission-option set set setting recaptcha submission checkboxes right add add currently current-http additional default django possibility possible

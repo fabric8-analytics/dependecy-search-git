@@ -1,0 +1,1 @@
+pyomo optimization pyomo program problem problem developer development developer python optimization integer software-package license pypy pypi developing-high-level parallelization parallel solver model model library library pysp getting-help

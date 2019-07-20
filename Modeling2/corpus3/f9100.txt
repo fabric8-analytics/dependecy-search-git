@@ -1,0 +1,1 @@
+djangoshop-stripe version versioning version stripe-payment fixed-initialize object shop add change change payment initial x key key view compatibility replace replace

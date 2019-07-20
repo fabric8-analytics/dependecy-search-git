@@ -1,0 +1,1 @@
+syndicate apis api mode requests-sync-mode serialization authentication service connection directly resource resource-non-crud example

@@ -1,0 +1,1 @@
+pynt-of-django companion librari use pynt build tool django project function task util christoph fill virtualenv contain build-pi test instal venv command status-instal work platform

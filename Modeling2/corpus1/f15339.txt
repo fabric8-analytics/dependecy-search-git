@@ -1,0 +1,1 @@
+smokesignal python event signal signals signaling signals signal callbacks callback python-signaling requirements requires require argument arguments callable context-manager method methods purpose decorate-instance maximum license licensed large direct directly versions version decorator

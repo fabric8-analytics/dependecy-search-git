@@ -1,0 +1,1 @@
+dogecoin-python add-server dogecoin-python random-generated-password qt todo api allows-performing

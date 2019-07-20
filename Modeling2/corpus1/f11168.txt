@@ -1,0 +1,1 @@
+gsheets spreadhseets google api v wrapper csv pandas python google-api code gspread file files alt apis access spreadsheet spreadsheets oauth-client dataframes pandas-dataframe download pypi-version-license create created directory based sheet sheets v versions currently drive transfer worksheets worksheet

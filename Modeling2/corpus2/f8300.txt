@@ -1,0 +1,1 @@
+curses-menu python code installation install gui stuff windows probably

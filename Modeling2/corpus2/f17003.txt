@@ -1,0 +1,1 @@
+mgrs gis coordinate conversion support ctypes geotrans related results longitudes warnings-travis

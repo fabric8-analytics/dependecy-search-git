@@ -1,0 +1,1 @@
+robo message code service def cmd ping robo service-adapter-handler config adapter

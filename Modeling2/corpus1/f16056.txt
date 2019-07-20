@@ -1,0 +1,1 @@
+django-mothertongue django in model translation internationalization longer-actively-maintained package master-fork django appropriate multi

@@ -1,0 +1,1 @@
+sanic-cors sanic-cors code enable enables python-versions simple method method version plugins plugin use us contribute contribution installation-install response allow allows decorator cross-origin origin

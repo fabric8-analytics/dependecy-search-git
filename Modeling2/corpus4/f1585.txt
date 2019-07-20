@@ -1,0 +1,1 @@
+django-adminact export admin record project master cov adminact

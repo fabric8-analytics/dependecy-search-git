@@ -1,0 +1,1 @@
+aldryn-common aldryn project requires django-cms-projects true-querying boilerplates

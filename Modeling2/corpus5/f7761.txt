@@ -1,0 +1,1 @@
+guiqwt support python librari image-plot base modules-numpi platform licens option applic copyright pyqt gui pythonqwt numpi curv

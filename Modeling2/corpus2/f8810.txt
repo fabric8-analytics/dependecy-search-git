@@ -1,0 +1,1 @@
+webassets-browserify browserify webassets django assets license requires command filter

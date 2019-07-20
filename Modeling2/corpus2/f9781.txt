@@ -1,0 +1,1 @@
+taskotron-python-versions taskotron task regarding python versions fedora rpm python-versions tests test testing package packages checks mock version uses-versioned ansible use useful cfg running run runs build license licensed

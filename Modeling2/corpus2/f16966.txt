@@ -1,0 +1,1 @@
+pyprind bar bars stream iterations iteration updated update indicators way pyprind-python-progress-indicator default true iterative-computation monitor monitors installation install package-installed pycharm usage usages complete track tracking tracked int n example examples mail-sebastianraschka python-progress-indicator-module object percentage

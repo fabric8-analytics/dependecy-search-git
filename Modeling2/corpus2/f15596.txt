@@ -1,0 +1,1 @@
+django-markdown alt settings set sets extension extensions-optional use package directory versions-bug-tracker admin admins license licensed github klen version markitup option c preview requirements require klenov

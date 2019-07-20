@@ -1,0 +1,1 @@
+django-cloudinary-storag django cloudinari storag file static-fil use uses-pycloudinari instal upload set hash version video requirements-installation-usag non argument add requir optional-argu imag deleteorphanedmedia-deleteredundantstatic-set resourc valid different-default command packag management-command make delet test field variabl pycloudinari

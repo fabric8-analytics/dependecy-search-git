@@ -1,0 +1,1 @@
+gpsbabel major-data-types type gpx-files linux-type help gpsbabel copyright-credits

@@ -1,0 +1,1 @@
+pynamodb python dynamodb amazon code pythonic pynamodb supports-python useful use support dynamodb provides json operations service-provided upgrading upgrade indexes index migration migrate migrated notes note usage services local user users like filter filters

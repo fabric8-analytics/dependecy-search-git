@@ -1,0 +1,1 @@
+hspellpi python kenigsberg-instal setup-pi make

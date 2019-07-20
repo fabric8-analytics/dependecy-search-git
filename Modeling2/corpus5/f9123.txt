@@ -1,0 +1,1 @@
+django-factori valu test default-valu model-attribut models-creation-method field gener instanc method particular user class current admin active-peopl explicitli prefer foreignkey allow longer inter attribut pass instead known futur correctli

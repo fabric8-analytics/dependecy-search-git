@@ -1,0 +1,1 @@
+x11-hash module hash hashing test

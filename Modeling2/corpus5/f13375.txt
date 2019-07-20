@@ -1,0 +1,1 @@
+django-reversion-compar django revers diff compar v version contribut bugfix-contribut field test reverse-field model add admin io imag relat chang use python running-tests-run unittest package-e-g way creat coverag environ py tox context task partial packag requir jedi support class remov updat

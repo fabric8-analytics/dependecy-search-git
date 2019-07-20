@@ -1,0 +1,1 @@
+chardet python compatible character encoding detector in xml iso windows image-alt line gb-euc version versions recently jp hebrew-tis-thai dan

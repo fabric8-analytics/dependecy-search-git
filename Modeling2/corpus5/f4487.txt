@@ -1,0 +1,1 @@
+mo-thread thread log signal asynch uses-sign wait timeouts-log use resourc lock state monitor monitor-lock-iter immedi logic speed class method process demand-shutdown properly-aggreg strict-convent bug python primit semaphor easili scope

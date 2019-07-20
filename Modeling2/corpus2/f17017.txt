@@ -1,0 +1,1 @@
+pyparallel python parallel port access library parport lpt printer ppdev alt license version java sys based pypi code-block homepage copyright extract extension platforms numbering platform javacomm pypi-downloads jython download k

@@ -1,0 +1,1 @@
+pygster stripped logster using pygtail derived ec python

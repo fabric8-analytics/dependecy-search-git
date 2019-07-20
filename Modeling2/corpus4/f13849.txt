@@ -1,0 +1,1 @@
+pa-ringbuff sound audio portaudio ringbuff lock free python modul modul code portaudio document cffi function function function block follow declar declar currentmodul autodoc version html extens c buffer

@@ -1,0 +1,1 @@
+django-bakeri set helper bake django site flat file python static gener class base view django-sit model form-features-model job

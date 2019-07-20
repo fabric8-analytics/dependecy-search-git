@@ -1,0 +1,1 @@
+pymsteams microsoft teams messages message formatting formatted microsoft-teams-webhooks uses-webhook pytest print sections section multiple add useful use url section send-requests sending-adding request-enhancements-testing multiple-rooms messages message additional-sections add formatting formatted test cards card

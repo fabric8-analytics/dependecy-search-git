@@ -1,0 +1,1 @@
+django-simple-auth view views limiting-public authorization default-rule-based-limits assets-version-author information-like-shared view views default author-ben-lopatin public simple-auth-info-super shared-photo

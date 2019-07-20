@@ -1,0 +1,1 @@
+hawkauthlib low level librari implement mac access authent hawk http request sign object function hawk-access-authent scheme like signatur auth codebas initi string

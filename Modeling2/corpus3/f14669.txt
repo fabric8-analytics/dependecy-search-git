@@ -1,0 +1,1 @@
+mzml2isa parser get meta information mzml file parse relevant information isa tab structure metabolomics mass spectrometry metabolite isa tab mzml parser file file python mzmlisa tool metabolomics-data format format metadata tab-document meta-information mzml bash workflow

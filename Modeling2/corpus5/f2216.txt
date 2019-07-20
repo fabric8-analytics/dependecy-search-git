@@ -1,0 +1,1 @@
+azure-mgmt-resourc resourc featur resource-management-cli add-list paramet rc azur client apivers deploy manag model oper preview versions-deploy operation-deploymentsoper parameter-loc break subscript policy-new-api-vers packag group bugfix enum-typ chang default argument type definit assign code name releas support api

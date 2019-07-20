@@ -1,0 +1,1 @@
+django-partial-index indexes add-unique support supported supports adds multiple rows fix databases modelforms modelform model class-based sqlite-database job jobs table tables usage postgres kept classes query deprecated deprecate conditional condition conditions requirements require adding added generated definitions definition make runsql

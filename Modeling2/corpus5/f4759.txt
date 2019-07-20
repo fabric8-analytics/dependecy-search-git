@@ -1,0 +1,1 @@
+metric-learn metric learn algorithm python scikit machin larg margin nearest neighbor inform theoret spars determin least squar neighborhood compon analysi local fisher discrimin rel mahalanobi for cluster kernel regress instal learning-algorithm components-analysi pypi-vers lmnn depend run sphinx differ pypi-version-metric-learn euclidean default implement points-return

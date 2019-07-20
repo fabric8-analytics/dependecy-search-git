@@ -1,0 +1,1 @@
+django-ucamwebauth library provides use cambridge university raven authentication django django raven-authentication errors error use module http malformedresponseerror-invalidresponseerror message use module status-introduction-django-ucamwebauth malformedresponseerror-invalidresponseerror-publickeynotfounderror authentication install

@@ -1,0 +1,1 @@
+django-app-metr metric create-metr backends-default statsd-backend set set set set default gaug librato redi data use use use user timing-timer-gaug email e user-signup traffic weekli databas signup manag manag sold statu celeri time simpli fuel total total allow allow api

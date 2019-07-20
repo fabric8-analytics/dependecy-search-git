@@ -1,0 +1,1 @@
+aioodbc library accessing odbc databases asyncio sqlite mysql postgresql async await oracle python pyodbc requires requirements required docker tested test tests testing odbc-databases threads pep installation install pull uvloop aiomysql aiopg thanks added dockerize cursor fixed connection connections supported support basic motor versions version

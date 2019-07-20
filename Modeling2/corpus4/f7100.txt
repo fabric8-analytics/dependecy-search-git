@@ -1,0 +1,1 @@
+awscli-cwlog log log command command file file awscli-cwlog instal instal instal instal instal aw config pull pull pull push push push version latest-vers plugin support properli

@@ -1,0 +1,1 @@
+edc-model-wrapp wrapper class model use edc dashboard clinic trial manag system django and templat code python method origin field

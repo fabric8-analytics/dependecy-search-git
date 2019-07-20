@@ -1,0 +1,1 @@
+language-detector arabic farsi french kurdish kurmanci language python sorani spanish tagging turkish languages-supported language-detector support package kurdish testing test excluding exclude installation

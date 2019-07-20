@@ -1,0 +1,1 @@
+extinction map extinction dust-maps-useful installation install alt different-extinction-laws status h healpy b pip version version environment-variable outdir local use scipy od list list select

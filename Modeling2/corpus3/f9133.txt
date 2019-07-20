@@ -1,0 +1,1 @@
+django-mfa django mfa multi factor authentication simple package add extra layer security django web application give web app randomly change password extra protection django security mfa python fa django-mfa-alt app py-installed-apps add user user click easy message url installation authentication authenticate authenticator middleware middlewares code

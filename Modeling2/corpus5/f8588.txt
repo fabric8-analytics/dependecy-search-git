@@ -1,0 +1,1 @@
+djzen product start pre deploy perform static-file-serv django file automat setup safeti serv

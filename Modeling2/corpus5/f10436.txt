@@ -1,0 +1,1 @@
+pylint-quot pylint lint string quot develop string-quotes-exampl configur function licens avoid

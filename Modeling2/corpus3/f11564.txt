@@ -1,0 +1,1 @@
+django-adminfilters project filter page django-adminfilters

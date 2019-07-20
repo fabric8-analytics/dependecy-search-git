@@ -1,0 +1,1 @@
+plotly ruby-wrapper plot charting chart charts plotly-py license licensed licenses graphing graphs jupyterlab installation installed install support supports python-documentation online dashboard dashboards open additions release released notebook notebooks commands command js

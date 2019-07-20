@@ -1,0 +1,1 @@
+python-librtmp python librtmp python blocking function functions code-block cffi uses use compiler compile library packages-binaries stable-version fixed python-librtmp added blocking function functions library code-block compiler compile compilation packages packaging version versions rtmp-cffi uses use dependencies depends dependency buffer singledispatch streaming stream

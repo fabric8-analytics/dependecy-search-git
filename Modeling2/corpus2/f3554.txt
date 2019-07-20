@@ -1,0 +1,1 @@
+pytelemetry lightweight communication protocol embedded telemetry remote program control communications published publishing data topic topics python publish-subscribe arrays array called sending send transport provides provided future frame frames implements implementation implemented implementations device devices add-group line c-implementation interface command serial

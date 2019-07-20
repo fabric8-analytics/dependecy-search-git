@@ -1,0 +1,1 @@
+ssw bioinformatics sequence alignment smith waterman genomics proteomics library ssw example hall instruction instructions python dependancies library ssw external dependancies fast

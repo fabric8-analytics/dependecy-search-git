@@ -1,0 +1,1 @@
+static3 wsgi web http static content webapps template templating templates static serving-files content-contents file-handlers kid headers header like serve serves served index-html genshi-support python simple-wsgi latest directory shock supports added ad-hoc-installation provides provided provide

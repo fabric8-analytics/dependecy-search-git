@@ -1,0 +1,1 @@
+unicategories unicode character character punctuation letter-uppercase-graphic category separator symbol symbol rangegroup letters-e code code unicode-category mark assigned-fixed iterable iterator end int numeric numeral number digit digit open opening close closing group bi-directional contain contain quotation method method

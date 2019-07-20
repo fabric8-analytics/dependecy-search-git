@@ -1,0 +1,1 @@
+lang-trans transliteration nlp languages romanization transliteration transliterators license licensed transliterate-text latin software arabic language-governing

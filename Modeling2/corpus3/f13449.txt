@@ -1,0 +1,1 @@
+fedmsg-meta-fedora-infrastructure fedmsg metadata provider fedora infrastructure deployment message message provider provide metadata-providers like develop build building

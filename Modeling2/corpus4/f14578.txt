@@ -1,0 +1,1 @@
+getch getch char singl char password pass read stdin input one char h-librari input getch getch

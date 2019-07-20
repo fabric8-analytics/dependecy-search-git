@@ -1,0 +1,1 @@
+django-instapush device model model setting yes device-data-documentation send-gcm apns send value django-instapush-push-notifications notification object document method method com feedback api mongoengine django-instapush device device

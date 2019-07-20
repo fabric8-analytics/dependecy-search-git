@@ -1,0 +1,1 @@
+djorm-ext-pgtrgm django queryset lookup pg trgrm similar search text set postgresql queryset-filt result ubuntu usag charact ca cat lower

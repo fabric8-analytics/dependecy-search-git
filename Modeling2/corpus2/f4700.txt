@@ -1,0 +1,1 @@
+xmljson support conventions-supported attributes converted convert converts-xml convention uses use root method json conversion case cases cli python nodes node like badgerfish unix conversions strings string dictionaries python-dictionary test-cases unix-filter

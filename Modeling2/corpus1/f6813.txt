@@ -1,0 +1,1 @@
+invenio-deposit invenio module depositing metadata using workflows invenio todo uploading-files file deposit depositing release module deposit depositing invenio jsonschema fixes version dependency dependencies package past recipes

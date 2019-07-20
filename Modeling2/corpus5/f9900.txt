@@ -1,0 +1,1 @@
+nose-regress options-n short-opt required-valu requir value-curr new dictionari plugin

@@ -1,0 +1,1 @@
+pyupdater pyinstaller auto update autoupdate esky updaterpyi bbfreeze ccfreeze freeze cz pyupdate autoupdate-framework

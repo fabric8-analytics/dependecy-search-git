@@ -1,0 +1,1 @@
+pycld2 language languages alt defaulted python default-option cld testing test tested html-encoded encoding tags tag matched match matching detection detect detectable list bytes provide normalized optional content x text note pass passes false

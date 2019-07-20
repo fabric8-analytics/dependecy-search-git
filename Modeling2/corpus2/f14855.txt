@@ -1,0 +1,1 @@
+azure-mgmt-policyinsights microsoft-azure manager management features-model parameter policy package release group

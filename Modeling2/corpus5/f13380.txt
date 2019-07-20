@@ -1,0 +1,1 @@
+rpctool project provid json rpc eventu xml librari enhanc ssl support jsonrpc client ssl-support provides-rpc-clients-curr client-certif supports-provid pool current unit basic incompat alpha featur server run rpctools-package-provides-cli

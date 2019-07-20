@@ -1,0 +1,1 @@
+flask-talisman http security headers flask https xss default setting sets set secure requests request http-security-headers header scripting script hsts preventing prevents prevent installation install installing contributing uses use cookie requires web library google-product downloads status options policy content

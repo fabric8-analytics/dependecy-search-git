@@ -1,0 +1,1 @@
+soundmet soundmet trigger trigger default default threshold-trigg input audio option option sound log monitor line e file threshold segment second rm

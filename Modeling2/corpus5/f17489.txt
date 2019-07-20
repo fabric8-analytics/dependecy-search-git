@@ -1,0 +1,1 @@
+django-semanticui-form semanticui django templat element

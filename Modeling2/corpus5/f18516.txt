@@ -1,0 +1,1 @@
+azure-mgmt-cognitiveservic paramet enum model microsoft-azur properties-oper resource-manag features-model releas sku services-management-cli argument breaking-chang string wheel bugfix complet code chang avail add servic

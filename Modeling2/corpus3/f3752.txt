@@ -1,0 +1,1 @@
+soundfile audio libsndfile v soundfile python data write-sound-files-file-reading-writing bechtold installation install installer geier function function f read read block platform sf x platform-open c-code object object overlapping-blocks wav-flac sample sample sample open auto version version set time inconsistency myfile numpy np cffi frame frame overlap library

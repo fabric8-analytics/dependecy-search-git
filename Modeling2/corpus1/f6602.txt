@@ -1,0 +1,1 @@
+django-redis-status app apps displays requires

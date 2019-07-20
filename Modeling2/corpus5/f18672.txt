@@ -1,0 +1,1 @@
+homeassist home autom code-bash-check automation-platform

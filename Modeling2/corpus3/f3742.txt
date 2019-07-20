@@ -1,0 +1,1 @@
+flask-assistant assistant create-virtual-assistants convenient-syntax-resembling flask-extension easily ask hello-world return

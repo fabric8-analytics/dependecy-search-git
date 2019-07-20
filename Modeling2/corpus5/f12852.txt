@@ -1,0 +1,1 @@
+pysolr python solr client search code updat instal basic index usag look support statu solrcloud result slash set method-set method

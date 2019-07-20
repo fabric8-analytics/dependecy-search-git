@@ -1,0 +1,1 @@
+docxtpl jinja fix fix-add-support tag managing-tag better escap templat python-docx-template-us tabl manag thank use richtext tables-footer-header-vari package-us file-xml file packag autoescap accept imag version word autoescaped-valu subdoc replac method insid sub-docu document code remov valu

@@ -1,0 +1,1 @@
+panflute pandoc pandocfilters markdown latex python installation install installs panflute-pythonic-pandoc guide guides running run-contributing contribute license points push installation install installs panflute-pythonic filters-python code guide guides uninstall push points license running run contribute contributing

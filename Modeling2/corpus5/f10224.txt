@@ -1,0 +1,1 @@
+django-futur job scheduling-job chang version time schedul run command paramet implement ad databas use new date translation-ad processor statu admin-interfac pickl valu transact thank leidel

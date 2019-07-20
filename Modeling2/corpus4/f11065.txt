@@ -1,0 +1,1 @@
+django-templatesadmin v templates-admin templat templatesadmin edit edit default edithook edithook fix fix permiss missing-permiss editing-optional-set repositori sensit charact charact set django file form handl

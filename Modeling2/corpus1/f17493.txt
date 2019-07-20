@@ -1,0 +1,1 @@
+azure-mgmt-subscription subscription-management remove removed manager microsoft-azure package added-operation release group-subscriptionfactoryoperations

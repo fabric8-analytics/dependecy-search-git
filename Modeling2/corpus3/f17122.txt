@@ -1,0 +1,1 @@
+django-authtools add django-authtools url url view view release email antoine-catton backwards bugfix bugfixes insensitive python username usernames py update update jared-proffitt-remove migration migrate gavin-wahl support user user merriam

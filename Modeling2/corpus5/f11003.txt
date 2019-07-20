@@ -1,0 +1,1 @@
+django-tagul django tag support tagged-model model customis install-simpl categorisation-admin featur syntax

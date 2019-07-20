@@ -1,0 +1,1 @@
+rfc5424-logging-handl python log handler syslog rfc python-rfc-syslog-logging-handl document compliant like packag bom utf ad chang file fix level messag better-input set make id

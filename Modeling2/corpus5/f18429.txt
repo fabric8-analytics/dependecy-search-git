@@ -1,0 +1,1 @@
+django-setuptest simpl test suit enabl django app via python setup py e-g provid modul depend command coverag report output sampl app-test pep ad support option refactor set south detection-refactor restart detect style-approach patch need

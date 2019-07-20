@@ -1,0 +1,1 @@
+django-tinymc django widget tinymc use licens license-origin documentation-releas releas instal fix jquery-set support document add ad supports-python set static file issues-licens url issu improv

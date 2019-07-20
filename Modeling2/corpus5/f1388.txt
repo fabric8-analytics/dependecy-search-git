@@ -1,0 +1,1 @@
+lifxlan light api light-object controlling-lifx-devic messag device-discoveri object group py-provid color multizonelight methods-provid set stabl think data synchron support level packet mac-address exampl control

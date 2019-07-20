@@ -1,0 +1,1 @@
+python-speech-features feature default-parameters filterbank-energies parameter speech-features energy-returns window window cepstral band array return include apply size millisecond support

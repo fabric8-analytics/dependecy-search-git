@@ -1,0 +1,1 @@
+python-sld simple python library enables dynamic sld creation manipulation ogc sld geo geoserver mapserver osgeo ogc python-sld filter filter class object pythonic styledlayerdescriptor-class-object font rule rule instal installation contributor schema xml parent implementation

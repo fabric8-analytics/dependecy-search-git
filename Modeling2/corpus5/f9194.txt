@@ -1,0 +1,1 @@
+esoread python modul read eso file gener energyplu simul pars panda variabl eso-fil interfac data licens column instal list name understand report reporting-frequ frequenc eth-zrich default-zonezonehvac object ipython

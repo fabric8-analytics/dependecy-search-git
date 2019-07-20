@@ -1,0 +1,1 @@
+pyqode-qt qt pyqt pyqt pyside pyqode-qt instal installation install alt library license license pypi test test

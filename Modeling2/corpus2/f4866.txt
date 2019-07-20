@@ -1,0 +1,1 @@
+pyqtdeploy c python platforms file files platform-specific deploying-pyqt tool tools applications application deployment deployable frozen modules qt

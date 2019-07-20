@@ -1,0 +1,1 @@
+django-cropper pil django crop image screenshots-mit

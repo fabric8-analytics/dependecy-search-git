@@ -1,0 +1,1 @@
+rabbitmq rabbitmq amqp cffi rabbitmq-python-bindings message

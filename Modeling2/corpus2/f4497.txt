@@ -1,0 +1,1 @@
+colr easy terminal colors chainable methods python color library escape codes gradient true ansi module linux colorizing colorize-text style styles code basic method examples feature features chainable-methods simple stdin section modules python-module windows usage request-notes javascript object libraries line-examples screen-progress-updates

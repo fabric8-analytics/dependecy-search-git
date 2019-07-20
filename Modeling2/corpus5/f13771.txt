@@ -1,0 +1,1 @@
+qdarkstyl python provid qt rc

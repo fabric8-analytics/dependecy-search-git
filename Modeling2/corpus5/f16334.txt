@@ -1,0 +1,1 @@
+cmp-version cmp version compar number packag rpm commandlin tool modul releas examples-compar example-method magic like type

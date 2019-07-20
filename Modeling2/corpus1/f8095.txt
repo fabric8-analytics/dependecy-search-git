@@ -1,0 +1,1 @@
+osmapi openstreetmap osm api versions versioning version development develop developed openstreetmap create creates password release documentation use uses easy python commit test tests api edits code branch use create version versions community-creates project-uses-github-pages documentation test tests pass build locally local

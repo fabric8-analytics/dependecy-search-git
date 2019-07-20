@@ -1,0 +1,1 @@
+django-secretballot user-provides-abstract-base-model model voting vote example-implementation wish enable enable migrations-run-enabling voting vote django optional model model add add user field middleware enable enable enable apps generic utility

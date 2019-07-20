@@ -1,0 +1,1 @@
+cfnlint aw cloudform linter yaml json resourc properti properti cloudform supported-resourc support current featur

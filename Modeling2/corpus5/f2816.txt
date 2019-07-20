@@ -1,0 +1,1 @@
+pygsm gsm sm gsmmodem self-args-kwarg modem return messag command gsm-modem respons connect thread line object errors-tru object-pygsm method good logic queri network device-kwarg option send devic error bug-report report ping term contain prefix python-modul

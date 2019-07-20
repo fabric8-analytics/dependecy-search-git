@@ -1,0 +1,1 @@
+sugartensor tensorflow sugar sugartensor slim wrapper practical code code example python tensorflow training train installation instal function follow follow sugar-tensor kakaobrain variable class class object parallel look chainable-object api support deep-learning tensor

@@ -1,0 +1,1 @@
+snakebite pure python hdfs client hadoop protobuf hadoops supports supported tested tests testing support-make data cdh versions version line-interface

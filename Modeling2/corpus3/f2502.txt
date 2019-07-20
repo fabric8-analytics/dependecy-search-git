@@ -1,0 +1,1 @@
+eulerpy eulerpy euler project euler projecteuler code problem file file euler-problems eulerpy bash pypi-homebrew solution solution instead solve solve process task automatically command-line command target currently current skip skip license license python docstring

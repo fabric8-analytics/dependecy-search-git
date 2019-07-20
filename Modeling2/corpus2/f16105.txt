@@ -1,0 +1,1 @@
+djangocms-maps maps plugin django cms map alt target run viamichelin mapbox supporting supported require requires required python-support-license-gitter api js map-providers-supported provider code thanks run-add implement layers float health-python-support-license-gitter version versions remove bing allows allow

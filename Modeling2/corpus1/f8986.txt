@@ -1,0 +1,1 @@
+conda-manager graphical conda package manager qt pyqt pyqt pyside conda conda api binstar alt license licensed spyder conda-manager python graphical-user installation installs install management manage

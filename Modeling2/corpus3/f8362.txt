@@ -1,0 +1,1 @@
+dj-sso-client sso login application setting set set optional storage default api user-model-code store store store add provider python example locally local

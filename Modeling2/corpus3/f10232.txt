@@ -1,0 +1,1 @@
+django-js-error-hook class base view generic view j error hook javascript-error add setting set simply

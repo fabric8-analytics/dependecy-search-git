@@ -1,0 +1,1 @@
+declarative-pars argument parser argpars declar cli googl like boilerpl tediou logic-declarativepars licenc mit-licenc type status-cod

@@ -1,0 +1,1 @@
+django-solo caching cache cached django-solo page admin model object objects settings setting set team retrieve retrieved retrieves retrieving development-version home use uses provide provides configuration site instance

@@ -1,0 +1,1 @@
+django-modelcluster django extension allow working clusters models single unit independently database model related relations relation actors actor class-band-models code movie movies beatles bandmember parentalmanytomanyfield parentalmanytomanyfields objects length draft multiple harrison null modelcluster saving saved save wars tests import

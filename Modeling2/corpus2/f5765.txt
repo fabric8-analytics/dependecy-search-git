@@ -1,0 +1,1 @@
+ipdbplugin test unittest nose nosetests plugin debug ipdb ipython

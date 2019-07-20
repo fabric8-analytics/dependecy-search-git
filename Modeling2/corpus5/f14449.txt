@@ -1,0 +1,1 @@
+sphinxcontrib-robotdoc document syntax test latex sphinx embed-robot-framework-test custom-docutil path resourc highlight latexformatt highlighted-set style set use way fix add robot keyword direct asko-soukka custom-docutils-direct pygment node ad highlighting-support instead pars option packag comment tag includ

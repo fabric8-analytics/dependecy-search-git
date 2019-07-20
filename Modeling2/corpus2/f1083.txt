@@ -1,0 +1,1 @@
+django-inline-ordering orderable inlines model models admin class classes app installed-apps reorderable reorder installing installation tested test tests media drag-drop-reordering file files import list-kudos record new-records make

@@ -1,0 +1,1 @@
+solid-i18n django languages django issues issue set settings setting v urls url use-default-language add cases case supported support example prefix fix preferred useful status requirement requirements-python content path paths notes site starting start

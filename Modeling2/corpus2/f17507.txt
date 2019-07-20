@@ -1,0 +1,1 @@
+django-flatpages-tinymce flatpages tinymce wysiwyg flatpage flatpages-tinymce installed editing edit apps app

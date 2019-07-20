@@ -1,0 +1,1 @@
+rackspace-monitoring python client library rackspace cloud monitoring base apache libcloud ca certificate certificate issue issue port version version libcloud-installation monitoring file instal instal test test code-coverage

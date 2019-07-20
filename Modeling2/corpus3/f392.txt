@@ -1,0 +1,1 @@
+haigha amqp python client python amqp event rabbitmq test test test test haigha connects connection ch asynchronous-amqp applicable bug application-code support support world-applications queue use useful rabbitmq-event-libevent requirement code message simple directory directory mode transport guest ssl-allow improve improvement protocol improved-error implementation exchange

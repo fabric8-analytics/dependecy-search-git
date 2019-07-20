@@ -1,0 +1,1 @@
+libthumbor imag face detect featur thumbor thumbnail imagemagick pil opencv extens

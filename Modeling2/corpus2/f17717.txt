@@ -1,0 +1,1 @@
+django-field-history django field history fields code model models python mysql manager management changes change changed changing run running n app apps object objects yes default like adding added command management-commands mysql-support compatibility stores stored storing store fix fixed track tracking tracked key

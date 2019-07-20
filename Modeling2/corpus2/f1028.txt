@@ -1,0 +1,1 @@
+django-anylink django anylink generic linking module using create links many usecases django-alt-latest build link supports add-support python translation translations supported-versions source documentation version admin-form license

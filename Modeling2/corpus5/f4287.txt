@@ -1,0 +1,1 @@
+django-lf django e commerc onlin shop fix manag add urls-us remove-static-url remov histori

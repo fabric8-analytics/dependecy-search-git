@@ -1,0 +1,1 @@
+zope-dublincor metadata dublincor add permiss permiss test test alt testing-doctest zcml object object remov remov zope-bas interfac supported-python includ includ includ doctest core-support releas depend depend deprec browser regress condit project regex decor compat compat

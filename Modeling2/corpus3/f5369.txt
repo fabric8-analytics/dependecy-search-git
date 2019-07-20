@@ -1,0 +1,1 @@
+quokka-flask-admin view view flask-admin fix fix update update new documentation document bug-fix support support add file file editable edit control example column column simple generate generation model model improve improve feature application application local locally localize page feel action action postgres need list csrf-validation jquery

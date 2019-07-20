@@ -1,0 +1,1 @@
+confcollect support supports supported multiple settings set environment recognize setup url format type host dict nested-dicts spec specs

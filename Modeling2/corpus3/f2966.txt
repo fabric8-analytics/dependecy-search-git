@@ -1,0 +1,1 @@
+formlayout pyqt pyqt pyside gui simple python form-dialogs dialog parameter line-count package-installation simply single dialog-box simply-use

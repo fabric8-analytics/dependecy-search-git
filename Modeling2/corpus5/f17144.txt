@@ -1,0 +1,1 @@
+cobra metabol biolog linear program optim flux balanc analysi fba packag package-manager-e-g-brew-apt-yum mac-o write writing-ilog-cplex instal cobrapi

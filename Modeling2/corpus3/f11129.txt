@@ -1,0 +1,1 @@
+pymysql-sa sqlalchemy pymysql dialect gevent pymysql python-mysql-client installation

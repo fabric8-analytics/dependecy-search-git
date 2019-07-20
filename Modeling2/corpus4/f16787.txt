@@ -1,0 +1,1 @@
+hotword-detect frequenc frequenc frame dtw support support audio filterbank filter filter hot provid mfcc-featur run paramet usage-exampl extran

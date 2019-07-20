@@ -1,0 +1,1 @@
+msmexplorer visualizations biomolecular simulations markov state models license python-visualization statistical installation install development-version level scripts guide msmbuilder-documentation use-different useful versions b-msmexplorer-data-visualizations rmsd traj image featurizer import version-license documentation-doi code status github rmsdfeaturizer git different

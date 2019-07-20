@@ -1,0 +1,1 @@
+python-k8scli swagger-codegen v ksclient-kubernet git repo packag client-cod spec

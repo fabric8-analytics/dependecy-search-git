@@ -1,0 +1,1 @@
+ffmpeg-python vf a v audio dsp ffmpeg ffprobe filter complex movi render signal sound stream video wrapper aac ac avi bmpflac gif mov mp png raw rawvideo wav complex-filt look gener interfac document array-gener command-lin graph exampl arg gnarli shorthand matrix api signal-graph thank special tracker featur

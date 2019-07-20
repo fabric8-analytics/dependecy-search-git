@@ -1,0 +1,1 @@
+django-dbindexer adds support sql features like joins non relational django backends project information site insensitive

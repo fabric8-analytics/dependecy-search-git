@@ -1,0 +1,1 @@
+django-absolut django-absolut code-block url url templat templat processor processor syntax syntax django-absolut template-tag templates-instal url url tag instal initi context-processor processor request

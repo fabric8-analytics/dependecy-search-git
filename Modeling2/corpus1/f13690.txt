@@ -1,0 +1,1 @@
+riakalchemy object mapper riak written python riak types type let object objects use key command removing start started person added adding index changes probably-change configuring configuration resolution-sibling make storage

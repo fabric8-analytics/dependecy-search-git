@@ -1,0 +1,1 @@
+imgix domains urls url code images domain-sharded image-alt-imgix python error errors parameter simply new parameters-properly sharding shards encoding added deprecated deprecate proper key keys ascii creating create params specify bash base proxy flag

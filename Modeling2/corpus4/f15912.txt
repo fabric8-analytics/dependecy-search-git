@@ -1,0 +1,1 @@
+pylogit condit logit discret choic econometr model ad logit-model fix interv dataset asymmetr choic multinomi altern altern december-chang supports-dataset fix-error refactor format statement statement instal support mix mix th refactored-intern packag regress argument maximum-likelihood-estim matrix subset subset estim estim error arxiv new paper

@@ -1,0 +1,1 @@
+django-amazon-s django email backend use boto interact amazon simpl servic se aw services-aw version code-bash messag credenti send-email python profil test test-configur configur access provid

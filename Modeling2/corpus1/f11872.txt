@@ -1,0 +1,1 @@
+flake8-tuple flake tuple tuple tuples licence-bsd plugin fix fixed issue issues flake-tuple tuples plugin bug block licence-bsd line-string

@@ -1,0 +1,1 @@
+opt-einsum optimize optimizer optimize optimal optimizes expression expression contract contract opt-einsum blas-features perform-contractions intermediate time detailed performance tensor-contraction building build function functionality contributions-bug contribute contribute daniel arbitrary cost matrix backends tensor significantly

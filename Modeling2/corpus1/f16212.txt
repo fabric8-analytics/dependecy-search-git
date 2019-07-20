@@ -1,0 +1,1 @@
+tmuxp computer tmux session manager built libtmux tmux python yaml json session manager cli cli utilities terminal tmuxp tmuxp-tmux-session sessions installation-code python install installing pane panes testing test tests load loading image pypi-docs yaml pypy coverage-license donations donation run travis projects project pull config configs feel feels command commands alt

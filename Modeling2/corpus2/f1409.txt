@@ -1,0 +1,1 @@
+drf-haystack haystack django rest framework supported support search searching rest-framework documentation api

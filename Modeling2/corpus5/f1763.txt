@@ -1,0 +1,1 @@
+nose-allure-plugin test test-report code sever allure-nos featur def logdir step alt bar assert

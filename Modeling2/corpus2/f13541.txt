@@ -1,0 +1,1 @@
+django-pjax django helper defunkt jquery pjax ajax pjaxing class-based views variable version versions ahah-asynchronous mixin instead context use template python real makes make new reload kaplan templates multiple project ahah

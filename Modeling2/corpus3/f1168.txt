@@ -1,0 +1,1 @@
+molecule molecule aid development test ansible role python python ansible test test framework docker lxc lxd openstack vagrant testinfra ansible lint ec yamllint gce azure python inspec rubocop python molecule-alt provide provider license easily work lists-license ansible list instance

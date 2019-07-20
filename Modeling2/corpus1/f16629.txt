@@ -1,0 +1,1 @@
+django-simple-open-graph fix og templates template add open-graph embed django keys

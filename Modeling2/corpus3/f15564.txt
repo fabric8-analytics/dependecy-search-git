@@ -1,0 +1,1 @@
+django-sts fsm state machine transition django state state-transition transition model manager event event use example framework support

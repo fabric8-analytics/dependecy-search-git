@@ -1,0 +1,1 @@
+gapic-google-cloud-vision-v1 google api gapic-library isolated-python v

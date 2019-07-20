@@ -1,0 +1,1 @@
+xapian-haystack xapian haystack c search e contributor options option test strategies-testing licenced licence optional-settings strategy questions license spelling-suggestions weighting requirements-python implemented setting required

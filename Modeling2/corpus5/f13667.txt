@@ -1,0 +1,1 @@
+normal type classes-typ python-object api properties-attribut property-attribut class data object coercion featur declarative-meta collect function rich-comparison constructor basic databas marshal option level call

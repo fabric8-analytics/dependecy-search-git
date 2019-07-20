@@ -1,0 +1,1 @@
+flake8-copyright adds copyright checks flake pep files file regular-expression author

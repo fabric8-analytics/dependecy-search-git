@@ -1,0 +1,1 @@
+djangocms-link django cms link plugin django cms allows add links site django python django cms cms addon django installation install-run supports support running links additional python link-pypi standard code-block provides provide provided-templates template coverage

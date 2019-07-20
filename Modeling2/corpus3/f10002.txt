@@ -1,0 +1,1 @@
+django-cache-tools tool make cache easy django cache cache-tools keyablemodel

@@ -1,0 +1,1 @@
+django-tenants tenant django-tenants schemas schema shared share key use app apps video postgresql databases database project-instance domain model example examples code approach make making created creating bash-create multitenancy automatically websites website block tutorial details multiple

@@ -1,0 +1,1 @@
+flask-rest-jsonapi flask extension build rest apis around jsonapi specification flask jsonapi marshmallow sqlalchemy web api rest jsonapi flask sqlalchemy marshmallow flask-rest-jsonapi apis resource resource person person data api-code url url-method method custom customize create multiple storage storage documentation parameter restful like real great handle

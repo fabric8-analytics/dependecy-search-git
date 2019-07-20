@@ -1,0 +1,1 @@
+django-common django applic develop shortcut helper page wrap-view

@@ -1,0 +1,1 @@
+openerp-client-lib openerp librari com commun rpc xml net xmlrpc python client lib web servic

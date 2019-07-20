@@ -1,0 +1,1 @@
+sysv-ipc sysv ipc inter process commun semaphor share memori shm messag queue licens bsd-licens includ sampl x program

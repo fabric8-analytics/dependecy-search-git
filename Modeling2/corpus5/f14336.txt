@@ -1,0 +1,1 @@
+python-librtmp python librtmp block function code-block cffi use compil librari packages-binari stable-vers fix ad packag version rtmp-cffi depend buffer singledispatch stream

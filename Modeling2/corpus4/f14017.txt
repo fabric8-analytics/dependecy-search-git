@@ -1,0 +1,1 @@
+pynlpir pynlpir nlpir ictcla chines segment nlp support support latest get encod python chines pynlpir-build text code fixes-error add nlpir licens python support support code code version updat updat function function encod encod test test use use word packag packag pynlpir-build chines document includ includ segment-text segment pypi releas

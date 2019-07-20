@@ -1,0 +1,1 @@
+djangocms-picture django cms picture plugin django cms allows add images site django django cms python cms addon images installation-image installed django additional install-run setting set height running plugin plugins values value text make alignment sizes source attributes attribute configured configuration pypi

@@ -1,0 +1,1 @@
+satispi sat-boolean solver program cnf class object librari note write directori arbitrary-solut solut variabl temporari

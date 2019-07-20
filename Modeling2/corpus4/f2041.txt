@@ -1,0 +1,1 @@
+django-pod app app note django-pod default-set style packag packag default

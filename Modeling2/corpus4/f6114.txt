@@ -1,0 +1,1 @@
+clingon cli option option python type type type function script script clingon-command-lin gener gener path paramet paramet valu valu code-sh automat indentation-multi requir requir default options-default option fix fix function function new updat variable-clingon allow refactor refactor input-util update-print exampl variabl print comment

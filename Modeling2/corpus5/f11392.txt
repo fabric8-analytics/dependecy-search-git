@@ -1,0 +1,1 @@
+django-webpack default build manifest-file-config-fil set object python-webpack function context manifests-gener settings-django-integr functions-configur use provid path element output overrid gener enabl server contain generated-asset hmr open respons inject configur integr automat data instal option look behaviour-ensur ensur flag indic request level

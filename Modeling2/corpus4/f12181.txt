@@ -1,0 +1,1 @@
+django-page-cm django quick-demo-pip-instal inform django-pag page

@@ -1,0 +1,1 @@
+flake8-blind-except flake except except block blocks-catching-specif except code better like like catch catch considered-bad

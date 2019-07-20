@@ -1,0 +1,1 @@
+dj-scaffold project py env app boilerplate-vari requir

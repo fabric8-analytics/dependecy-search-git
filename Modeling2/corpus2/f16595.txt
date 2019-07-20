@@ -1,0 +1,1 @@
+pyppeteer python pythonic options option example puppeteer-javascript license run running usage installation install chromium add uses useful project cookiecutter plan pyppeteer-alt page await browser code element javascript documentation document main launch evaluate true version import

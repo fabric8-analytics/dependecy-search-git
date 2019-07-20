@@ -1,0 +1,1 @@
+crispi gui spectroscopi simul synchrotron scienc instal version python marker code releas scientif task oper requir pip implement run interfac spectra required-depend follow variabl depend input empir

@@ -1,0 +1,1 @@
+yamllint yaml yamllint code yaml-files file rules rule installation install lint ignored ignore screenshot alt lines line status bash-sudo disable like-key documentation centos python trailing parsable yaml-files-yamllint

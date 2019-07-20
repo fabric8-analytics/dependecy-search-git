@@ -1,0 +1,1 @@
+odswriter type type python license opendocument include

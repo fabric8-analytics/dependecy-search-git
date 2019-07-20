@@ -1,0 +1,1 @@
+django-search-views search list class base view django form filter search set-filtering search-views usage version class view compatibility

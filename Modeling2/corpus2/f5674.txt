@@ -1,0 +1,1 @@
+pinax-stripe payments django app stripe api apps python pinax subscriptions saas test testing contribute contributing contribution project blog-post namespace free committing commit commits human ci creating recommend recommended versions environment

@@ -1,0 +1,1 @@
+pycosat python binding picosat sat solver integer integer clause clause sol pycosat python picosat solver solution solution cnf value c make make level x-sub list variable variable string itersolve

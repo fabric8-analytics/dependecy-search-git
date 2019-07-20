@@ -1,0 +1,1 @@
+django-admin-select2 django selects admin-select automatically g

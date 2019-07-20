@@ -1,0 +1,1 @@
+django-jwt-auth token token default default django-jwt-auth algorithm algorithm rsa refresh refresh header expir url url time payload values-h valu packag packag handler secret-key protect

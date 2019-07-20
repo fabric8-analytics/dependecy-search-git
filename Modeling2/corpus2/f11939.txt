@@ -1,0 +1,1 @@
+django-messages-extends messages django persistent sticky message-storages use users user storage templates template credits credit klass links like method csrf need default defaults current currently bootstrap line

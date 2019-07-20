@@ -1,0 +1,1 @@
+pinax-imag app manag collect imag associ content object add set supported-django setting-specif contribut project documentation-installation-usage-settings-chang thumbnail support specif licens compat free human creat requir releas version python-vers source-platform revise-access access instal

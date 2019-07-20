@@ -1,0 +1,1 @@
+watermark v add-python package packaging add version shows-package-versions instal install format format currently fix magic command command printing-date fixes-string examples-installation current-git import import license line print print time watermark usage-changelog allow example dd october ipython-magic-extension

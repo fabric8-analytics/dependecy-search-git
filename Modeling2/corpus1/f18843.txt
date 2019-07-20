@@ -1,0 +1,1 @@
+wsgicors wsgi cors wsgi-middleware pipeline wildcards-like verbatim example-code version policy policies request requested like preflight-requests separated matching match matched matches krmer wsgi origin original origins people-contributed keywords keyword cache caching allow relaxed

@@ -1,0 +1,1 @@
+flask-cors flask-cors simple enable enables python-versions case case allow allows allow origin-resource origin default version simply installation-install contribute contribution route route

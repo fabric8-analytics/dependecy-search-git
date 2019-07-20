@@ -1,0 +1,1 @@
+pysqlpool patch mysql-connect document site pysqlpool queri queri manag manag python file file base src-base doc true pysqlpool python mysql-connect instal instal queri queri manag manag file doc-index doc

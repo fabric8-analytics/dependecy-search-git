@@ -1,0 +1,1 @@
+pinax-calendar django util publish event calendar adapter-templ templates-styl month monthli view months-adapt project supported-django view-mixins-ev add adapt remov day contribut style support free base updat date-bas use bootstrap licens pass creat human option ad class document fix compat refer method longer avail source-platform compatibility-test test mixin exampl

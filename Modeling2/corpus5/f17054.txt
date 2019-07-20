@@ -1,0 +1,1 @@
+pynfft supported-platform linux-support instal enable-openmp-flag file build option cython requires-cython requir pip c document platform nfft c-subroutin core discret transform

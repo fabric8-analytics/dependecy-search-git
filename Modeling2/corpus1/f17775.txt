@@ -1,0 +1,1 @@
+cleanerversion cleanerversion adds versioning historizing layer relational db implements slowly changing dimensions type behavior python django versioning slowly changing dimensions model history soft delete django versions versioning version cleanerversion object related-objects feature package-features feel relational packages time retrieval type changing type slowly-changing

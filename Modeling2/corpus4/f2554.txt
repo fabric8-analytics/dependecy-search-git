@@ -1,0 +1,1 @@
+restl rest client framework rest mapper client api api resourc resourc object restl object-list field field django list-view need addit case alphanumer start exampl create-cli

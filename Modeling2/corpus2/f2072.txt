@@ -1,0 +1,1 @@
+animation wait waiting status wait-animations animated-waiting code-block text types-provided provides spinning time

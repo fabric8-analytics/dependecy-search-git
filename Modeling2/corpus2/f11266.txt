@@ -1,0 +1,1 @@
+sqlite-bro sqlite gui ttk sql python-file installation install installed files example easy pip import

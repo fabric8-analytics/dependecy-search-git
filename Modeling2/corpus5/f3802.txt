@@ -1,0 +1,1 @@
+predictionio data predict detail predictionio-python smart

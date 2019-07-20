@@ -1,0 +1,1 @@
+django-infinite-memcach infinite-memcach licens timeout timeout set

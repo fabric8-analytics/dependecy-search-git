@@ -1,0 +1,1 @@
+pymongo mongo mongodb gridf bson python support depend instal bug version x db bugs-featur issu packages-improv gssapi-authent network clock srv test print packag project sphinx-exampl creat exampl doc e tool tl sourc

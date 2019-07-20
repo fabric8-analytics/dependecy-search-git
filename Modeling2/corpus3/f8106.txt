@@ -1,0 +1,1 @@
+gapic-google-cloud-spanner-admin-database-v1 google gapic api isolated-python v mac

@@ -1,0 +1,1 @@
+commandr commandr argument argument command valu function function command-lin default default paramet multiple-valu parameter-nam gener gener e decor decor decor main usage-help functool keyword boolean special parser exampl exampl option option type type special-meta name automat set set updat updat script

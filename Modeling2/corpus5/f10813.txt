@@ -1,0 +1,1 @@
+astropy-healpix bsd licens healpix astropi maintain cdeil astrofrog python statu code packag

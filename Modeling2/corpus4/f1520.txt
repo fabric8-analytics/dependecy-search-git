@@ -1,0 +1,1 @@
+sphinx-autobuild sphinx document simply-press-makefil server set document document document ad automat script compat file file sphinx-autobuild-watch initial-build port add watch browser default multipl command use use makefil e path livereload line folder directori directori packag packag python

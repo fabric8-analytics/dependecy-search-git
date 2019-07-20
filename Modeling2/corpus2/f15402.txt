@@ -1,0 +1,1 @@
+pynmea2 python nmea gps parse parsing floats-dd-decimal-degrees messages message like data mmmm sentences sentence properties

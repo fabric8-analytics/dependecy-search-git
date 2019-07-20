@@ -1,0 +1,1 @@
+c7n-org account run run multiple-aws-accounts-azure-subscript cn variabl variabl config-fil exampl script subscript script-gener addit addit addit polici polici folder-not inform gener gener gener like gcp

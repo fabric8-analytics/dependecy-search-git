@@ -1,0 +1,1 @@
+pytelemetri lightweight commun protocol embed telemetri remot program control publish data topic python publish-subscrib array call send transport provid futur frame implement devic add-group line c-implement interfac command serial

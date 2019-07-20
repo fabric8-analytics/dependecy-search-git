@@ -1,0 +1,1 @@
+django-cms-themes theme django-cms-themes contrib installed simply-install file templates

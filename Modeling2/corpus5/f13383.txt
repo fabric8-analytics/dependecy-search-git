@@ -1,0 +1,1 @@
+ingestor extract use inform structur standard format etl document excel mail file supported-fil provid ingestors-extract-useful-inform result type support process status statu spawn line text successfully-failur success-ind stop checksum component-tak failur

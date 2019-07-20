@@ -1,0 +1,1 @@
+superlance superlance utilities use supervisor process control system supervisor monitoring readme processes process added fixed patch plugin options option separated superlance line bug friessnegger adds add allows-multiple check checks documentation status python pythonic message email emails batiz-benet allow correct correctly installation install events restart restarted

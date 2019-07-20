@@ -1,0 +1,1 @@
+devpi dev log python default setup autolog-setup solution-cod color info-error-warn quick

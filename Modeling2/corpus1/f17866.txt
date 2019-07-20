@@ -1,0 +1,1 @@
+django-instant django websockets centrifugo centrifugo-push-events install-instructions-quick-example client websockets multi-sites-realtime-application handle handles

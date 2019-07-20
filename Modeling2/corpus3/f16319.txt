@@ -1,0 +1,1 @@
+geonode-elasticsearch-app elasticsearch provide provide dsl-additionally-provides py

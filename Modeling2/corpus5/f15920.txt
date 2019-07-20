@@ -1,0 +1,1 @@
+python-docx creat modifi word document python docx offic openxml add fix documentation-fix featur tabl style paragraph-charact default properti pictur text extract-object run document-templ test cell font align issu file size page-break layer contain release-history-revert e api-class imag interpret py section break row pillow

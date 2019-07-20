@@ -1,0 +1,1 @@
+django-storage-swift file file url url contain django-storage-swift fals allow allow access access access base base code auth set set permiss permiss server default true content content requir requir get get type type-adminurl openstack upload v public public

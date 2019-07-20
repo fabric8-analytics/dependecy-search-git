@@ -1,0 +1,1 @@
+django-polymorph improv django model inherit automat downcast orm admin formset polymorph onetoonefields-featur foreignkeys-manytomanyfield foreignkey-manytomanyfield-onetoonefield-descriptors-filtering-ord code-block

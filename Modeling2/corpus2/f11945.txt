@@ -1,0 +1,1 @@
+citeproc-py csl citation html rst bibtex xml citeproc-py-alt-pypi punctuation currently installing install installed tests test version versioning files-lxml-installation file text packages archives references et output subsequent release handle fixed-handling fixes added major-version changes change cite macros macro parser parsers api names

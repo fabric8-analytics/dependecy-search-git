@@ -1,0 +1,1 @@
+kibana config import export mappings index mapping-cache refresh named install-use v searches search py entry periodic periodically current installing pattern

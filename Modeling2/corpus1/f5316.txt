@@ -1,0 +1,1 @@
+pgdbconn object oriented layer psycopg connect interact postgres databases python postgres connection connect connections license object libre information higher postgres requirements

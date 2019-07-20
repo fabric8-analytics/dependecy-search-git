@@ -1,0 +1,1 @@
+whitenoise whitenoise-alt serve headers static-file-serving traffic contained files auto-configuration service-especially formats accept web

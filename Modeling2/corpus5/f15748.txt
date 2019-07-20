@@ -1,0 +1,1 @@
+pyscreenshot screenshot exampl instal sec version-supported-python-vers installation-install-pip document gnome-screenshot pillow imagegrab end scrot-imagemagick-pygtk pyqt pysid pil check

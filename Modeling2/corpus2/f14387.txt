@@ -1,0 +1,1 @@
+pytest-reqs tests test-plugin plugins installed install license dependencies files file patterns options option-running run reqs environment environments current currently e versions version

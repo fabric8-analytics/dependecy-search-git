@@ -1,0 +1,1 @@
+django-registration-email django template django-registration templates-settings set set email email form url user user extra success-url successful todo link

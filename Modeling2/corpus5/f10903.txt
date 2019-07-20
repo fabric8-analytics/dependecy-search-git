@@ -1,0 +1,1 @@
+sentinelsat search download copernicu sentinel satellit imag esa remot sens imageri geograph data open gi code product text queri sentinelsat-alt searching-download g-search python-api footprint geojson-sentinel-cloud url user-password-footprint date producttyp use descend file uuid import limit exit-h-help hub document dhu bug

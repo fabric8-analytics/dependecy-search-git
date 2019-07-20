@@ -1,0 +1,1 @@
+python-lirc lirc cython remote ir infrared use-load install installing lirc v added installing pypi-install use structured structure configure configurations lircrc-configuration lirc

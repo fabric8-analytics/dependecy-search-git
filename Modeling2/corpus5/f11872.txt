@@ -1,0 +1,1 @@
+flake8-tupl flake tupl licence-bsd plugin fix issu flake-tupl bug block line-str

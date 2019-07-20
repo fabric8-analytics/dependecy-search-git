@@ -1,0 +1,1 @@
+pyvips python binding libvips use cffi python image processing image manipulation image processing image image libvips test instal install installation test-suite binding doc program works-programs work work pypi pypy mode binary pyvips version build building python probably pipeline pipeline control line line pixel window x-faster note use useful compiler compile e old-code

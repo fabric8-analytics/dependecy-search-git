@@ -1,0 +1,1 @@
+logtool log time form argument method logtool-method fals product possibl return str create-infinit default consistent-str

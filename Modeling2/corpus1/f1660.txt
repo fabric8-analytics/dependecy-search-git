@@ -1,0 +1,1 @@
+foundations foundations usage gpl-v objects modules-defining strings defined python

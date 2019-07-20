@@ -1,0 +1,1 @@
+docopt-subcommands command line docopt subcommand programs program directly example examples usage basic handler-function functions string

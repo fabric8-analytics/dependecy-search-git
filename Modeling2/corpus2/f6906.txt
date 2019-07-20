@@ -1,0 +1,1 @@
+unitypack python deserialization library unityd asset format disunity unity files file objects object unityd-assets formats extracted extract extraction extractable classes class unity-packs packed pack yaml text data works work make heavy stripped output license licensed bit-signed requests

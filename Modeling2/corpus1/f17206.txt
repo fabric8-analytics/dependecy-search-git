@@ -1,0 +1,1 @@
+xlsxwriter worksheets worksheet-png formatting python cells cell file-format write-text workbook images image bold writing-files standard excel xlsxwriter optimization

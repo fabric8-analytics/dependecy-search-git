@@ -1,0 +1,1 @@
+glance-store team license-apache source version-documentation core glance

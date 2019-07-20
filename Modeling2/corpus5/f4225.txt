@@ -1,0 +1,1 @@
+bundletest juju charm bundl test runner default file executable-fil script reset-us use setup deploy execut virtualenv json list packag fail directori teardown run python zero root exampl requir better-runtim remote-sourc option

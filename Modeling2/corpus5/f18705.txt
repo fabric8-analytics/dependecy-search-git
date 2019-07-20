@@ -1,0 +1,1 @@
+pytest-pycharm pytest py test pycharm note-make-sur selecting-debug code script virtual choos directory-appli left run

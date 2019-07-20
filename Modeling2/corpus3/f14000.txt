@@ -1,0 +1,1 @@
+scrapy-deltafetch scrapy spider middleware ignore request page contain item see previous crawl request request item scrapy-deltafetch containing-items spider-middleware crawl crawl crawl middlewares contain support support state-reset

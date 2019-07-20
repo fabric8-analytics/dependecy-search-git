@@ -1,0 +1,1 @@
+docx2html convert docx ooxml file html project deprec favor http github com openscienceframework pydocx format imag list name docxhtml head roman string tabl paragraph run function image-tag hyperlinks-list tags-handl formatted-vers style miss fix case handl level strip longer emf content

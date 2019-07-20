@@ -1,0 +1,1 @@
+pyepics python-interface devices device simple-set camera-amplifier persistent-connection caget write

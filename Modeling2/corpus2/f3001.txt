@@ -1,0 +1,1 @@
+django-i18next django in internationalisation code-block-sh locale locally demo python forces mail tag gpl-lgpl html author gmail installation-install installer

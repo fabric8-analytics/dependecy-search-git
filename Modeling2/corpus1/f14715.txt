@@ -1,0 +1,1 @@
+slowclap working clapper portaudio need loop command depenencies-usage-command detection-loop

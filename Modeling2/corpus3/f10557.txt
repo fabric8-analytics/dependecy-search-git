@@ -1,0 +1,1 @@
+hs-restclient python client http www hydroshare org rest api python rest api client api client hydrology hydroshare hydroinformatics hydrology reproducible science token authenticate authentication authenticate hydroshare running-https run client sign-security rest

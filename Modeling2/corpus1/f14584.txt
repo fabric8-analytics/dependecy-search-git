@@ -1,0 +1,1 @@
+flask-iniconfig flask code sections section coerce properties property configuration contents type types python use useful uses staging note cause calling called methods method safeconfigparser files file

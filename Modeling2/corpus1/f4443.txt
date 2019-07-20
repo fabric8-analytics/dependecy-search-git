@@ -1,0 +1,1 @@
+sqlalchemy-postgres-copy copy command offers ci exports exporting permission copyright-notice holders event shall unknown-classifier language license copy copies alpha

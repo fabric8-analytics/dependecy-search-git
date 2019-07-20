@@ -1,0 +1,1 @@
+minorminer minorminer heuristic tool minor embedding given minor target graph tries find mapping embeds minor target optionally line cmake-option optional-parameters following-lines repository-run build-command building-block commands library examples example installation-install graph graphs problems problem annealers

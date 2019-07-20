@@ -1,0 +1,1 @@
+vent light weight platform built autom network collect analysi pipelin use flexibl set popular open sourc tool technolog python base extens leverag docker contain provid api cli framework prototyp process deploy rabbitmq redi syslog elasticsearch gpu schedul tui devop vent-network user instal installation-option-run plugin simply-run support awesom instanc

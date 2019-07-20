@@ -1,0 +1,1 @@
+python-gssapi gssapi kerberos support c memory oriented mechanisms mechanism project pythonic interface binding bindings including credentials authentication

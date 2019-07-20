@@ -1,0 +1,1 @@
+publicationstatsapi biblioteca para consumo de api public stat servic client lib como em

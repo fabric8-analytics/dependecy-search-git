@@ -1,0 +1,1 @@
+pulsectl pulseaudio python-puls instal list pulseaudio-libpuls string use volum version sink pip output like desc default git channels-volum code level commit ad index applic packag pulsemix descript player e-g analog-stereo valu method user file current card unix thing path example-import updat bind c chang cli change-ev set event

@@ -1,0 +1,1 @@
+text-unidecode unidecode port python-ports isounidecode

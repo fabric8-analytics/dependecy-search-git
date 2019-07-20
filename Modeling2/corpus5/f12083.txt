@@ -1,0 +1,1 @@
+nomencl name convent label config pars token string instal persistent-object state-object python-compat function format file yaml code support arbitrary-user-defined-nam rule definit window wpzoom usag icon licens syntax

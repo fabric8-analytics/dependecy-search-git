@@ -1,0 +1,1 @@
+slack-logger slack log logger log slackformatter-sh python id-e message message code

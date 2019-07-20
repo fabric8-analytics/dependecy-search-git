@@ -1,0 +1,1 @@
+azure-mgmt-cognitiveservices parameter parameter enum model microsoft-azure properties-operation resource-manager features-model release sku services-management-client argument argument breaking-changes string skus wheel bugfixes complete completion code change change availability available add service

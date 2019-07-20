@@ -1,0 +1,1 @@
+mesos-cli mesos code bash task task command command local configure configuration configure mesos config required-locally script debug-scripts debug new follow follow match match match specific-hosts file file master requires-multiple complete completion id id tail make make slave slave json option d normally-require host event instal install-note normal exist

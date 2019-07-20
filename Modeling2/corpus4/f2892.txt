@@ -1,0 +1,1 @@
+nose-mocha-report default nose-mocha-report

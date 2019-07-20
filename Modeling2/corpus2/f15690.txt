@@ -1,0 +1,1 @@
+c7n-org account run running multiple-aws-accounts-azure-subscriptions cn variables variable config-file example scripts subscription script-generates additional addition additionally policy policies folder-note information generation generate generating like gcp

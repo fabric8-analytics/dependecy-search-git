@@ -1,0 +1,1 @@
+django-sirtrevor block block default default django-sirtrevor widget image-uploads uploaded-images myapp set setting project total app option installed-apps-setting model model mit install

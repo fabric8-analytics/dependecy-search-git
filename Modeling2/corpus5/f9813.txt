@@ -1,0 +1,1 @@
+dialogo django comment pinax-com version-add contribut return usage-templ test signals-hookset test-requir python-versions-document set requir project-templ licens context-us human free creat remov overrid source-platform compat

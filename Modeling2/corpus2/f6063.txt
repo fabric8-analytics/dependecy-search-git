@@ -1,0 +1,1 @@
+pyramid-celery paste pyramid celery message queue amqp job task distributed ini code configuration configure worker running-workers tasks run arguments argument like likely use uses exceptions time times scheduled scheduling schedule scheduler celeryconfig additional handle python example examples defined define

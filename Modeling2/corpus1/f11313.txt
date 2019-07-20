@@ -1,0 +1,1 @@
+django-taggit-autosuggest autosuggested taggit-autosuggest autosuggesting-tags models model tag tagging tagged e admin settings set setting file files css request demo manage-py managers

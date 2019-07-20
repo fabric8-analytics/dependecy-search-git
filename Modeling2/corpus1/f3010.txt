@@ -1,0 +1,1 @@
+django-mass-edit make bulk changes django admin interface django admin stanislaw-adaszewski project custom-adminsite let running errors unit-test fields field new-maintainers

@@ -1,0 +1,1 @@
+django-bmemcached bmemcached memcached use addon

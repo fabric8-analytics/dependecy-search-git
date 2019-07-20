@@ -1,0 +1,1 @@
+una-django-cassandra-engine django cassandra engine backend driver wrapper database nonrel cqlengine models model-stored databases license licensed installation storing connection change-setting destroying rafa

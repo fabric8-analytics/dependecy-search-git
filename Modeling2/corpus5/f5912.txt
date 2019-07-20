@@ -1,0 +1,1 @@
+pyseri python serial port access librari provides-backend appropriate-backend-project-homepage-download-pag linux-bsd license-c-chri serial-port-extens

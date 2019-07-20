@@ -1,0 +1,1 @@
+pywin32 build pywin window instal release-instal python note support noting-commit chang version recent setup command com new py issu msvc test old python-extens

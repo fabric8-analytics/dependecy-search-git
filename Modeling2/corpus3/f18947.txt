@@ -1,0 +1,1 @@
+pyqg quasigeostrophic model python alt-pyqg documentation fourier dynamic fluid spectral kernel code binder doi-pypi doc pyqg documentation dynamic fluid fourier-transform spectral kernel source link

@@ -1,0 +1,1 @@
+plugit framework enhanc portabl integr web servic requir user interfac enabl fast creation micro frontend provid command gener develop flask multipl overview ebu use proxy-serv core copyright applic implement django

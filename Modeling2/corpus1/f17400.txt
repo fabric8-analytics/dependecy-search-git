@@ -1,0 +1,1 @@
+elasticsearch1 use python-elasticsearch-client license licensed connection like pythonic documents documentation defined defining nodes-persistent-connections persistence document-data dsl common software way pluggable language-governing level

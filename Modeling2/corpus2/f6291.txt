@@ -1,0 +1,1 @@
+pyexcel-text plain text code tabulate tag data simple-grid updated-read supported support json-html sheet rst plugin added dimensional simple output removed

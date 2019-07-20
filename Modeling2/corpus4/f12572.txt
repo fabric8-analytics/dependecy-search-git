@@ -1,0 +1,1 @@
+spark-testing-bas test test spark-testing-bas memori sbt base kafka make releas releas parallel scalacheck e-g page

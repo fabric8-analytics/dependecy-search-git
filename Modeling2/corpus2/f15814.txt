@@ -1,0 +1,1 @@
+tastypie-client tastypie rest django requests api

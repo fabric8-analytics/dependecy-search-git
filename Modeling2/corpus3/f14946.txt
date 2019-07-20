@@ -1,0 +1,1 @@
+pyhamtools com pyhamtools test test clublog api license license source source callsign include include radio dependency manager convenience redis dxcc compatibility compatible key python g currently xml-file file

@@ -1,0 +1,1 @@
+xstatic-jquery-quicksearch jquery quicksearch xstatic package package packaging easy-install

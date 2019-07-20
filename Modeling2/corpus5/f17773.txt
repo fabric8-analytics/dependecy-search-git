@@ -1,0 +1,1 @@
+neovim vim fork focus extens usabl c lua nvim text editor cross platform api licens contribut wiki featur maxim default includ cmake-bas base page build packag manag python list bundl linux debian rubi data

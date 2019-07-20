@@ -1,0 +1,1 @@
+django-bootstrap-pagination django bootstrap pagination templatetag urls url-view bootstrap-pagination usage paginate paginator paginated page additionally additional extra classes index arguments argument make makes stable class-names links link tags tag versions version range-defines installation install installed named previous defined define

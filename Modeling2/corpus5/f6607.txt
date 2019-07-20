@@ -1,0 +1,1 @@
+pygogo a python log librari with super power code structur bash usag pypi handler custom field new prefer severity-format sever csv doc basic licens instal method method-mak make test use messag fix v error formatt version travis-versions-pypi remov requir text-csv

@@ -1,0 +1,1 @@
+psycopg2cffi port cffi speed improv fix messages-fix bugfix python django support releas instal compat error issu psycopg test ad august silent parser lookup juli run-test faster long-float-doubl van-tellingen

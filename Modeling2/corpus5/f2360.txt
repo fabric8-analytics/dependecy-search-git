@@ -1,0 +1,1 @@
+ctk-cli python interfac inspect run cli modul defin commontk d slicer command line parser cross platform ctk host plugin execut model xml python-interfac

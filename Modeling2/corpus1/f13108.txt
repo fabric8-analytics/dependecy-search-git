@@ -1,0 +1,1 @@
+flask-discoverer flask extension enables resource introspection publication api based service flask-discoverer configuration added flask

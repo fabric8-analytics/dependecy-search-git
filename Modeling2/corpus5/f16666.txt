@@ -1,0 +1,1 @@
+u-msgpack-python msgpack serial deseri object unpack type msgpack-python objects-seri timestamp-typ string pack format support timestamp messagepack-seri utf-str packing-funct ext byte support-key serialized-byt exampl file float-precis float streaming-seri file-umsgpack stream map key respect encount invalid pure compat

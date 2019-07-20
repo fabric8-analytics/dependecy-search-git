@@ -1,0 +1,1 @@
+sphinxcontrib-apidoc file apidoc modul modul build sphinx-extens configur configur configur sourc files-lik document document api-document option option autodoc source-directori extens path path dir python layout gener gener gener gener chang chang let

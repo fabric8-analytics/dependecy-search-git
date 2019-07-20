@@ -1,0 +1,1 @@
+forecastiopy weather forecastio forecast io rest darksky darksky net api python data weather request request request well human issue issue license current currently like available create return return thanks docstrings-typos docstring quick start start alert forecast forecastio

@@ -1,0 +1,1 @@
+testrail testrail indepth-exampl examples-folder-configuration-cr testrail-python-librari environment-vari instanc allow

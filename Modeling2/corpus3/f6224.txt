@@ -1,0 +1,1 @@
+jupyter-pip python jupyter ipython javascript nbextension deployment pip install package extension notebook-extension-writers jupyter-pip installable-specifically install-time automatically-note

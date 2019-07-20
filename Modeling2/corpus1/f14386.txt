@@ -1,0 +1,1 @@
+geventconnpool connections connect code tcp-connection-pool keepalive use remote protocols-like based-applications open opening opened library-uses-exceptions protocol ack acks levels level application exception libraries initialization thread note filesystem command new authentication authenticate aws peer service discarded discards

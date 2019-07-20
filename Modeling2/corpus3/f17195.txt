@@ -1,0 +1,1 @@
+django-bootstrap-ui aim powerful django app ease integration popular bootstrap ui framework http getbootstrap com python django bootstrap template template django-bootstrap-ui theme support support default-theme-code continue continuously-integrated framework-python integration example tag tag documentation bootswatch valid versioning

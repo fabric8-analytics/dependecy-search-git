@@ -1,0 +1,1 @@
+quarri alt mode base minecraft-protocol login instal travis-ci pypi

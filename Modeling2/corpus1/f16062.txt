@@ -1,0 +1,1 @@
+django-file-resubmit django form filefield resubmit widgets widget files django-file py-examples license-copyright copy copies licensing thumbnail thumbnails free person persons cache including included example notice configuration

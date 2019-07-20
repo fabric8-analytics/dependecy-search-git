@@ -1,0 +1,1 @@
+getdist mcmc kde sampl densiti estim plot file instal chain named-paramet parameter-nam mcmc-sampl py samples-including-correl plots-margin latex option like x gui set d pyside-opt give includ converg python sudo select ini depend mcsampl user optim xxx bounds-optim correl row n texliv function number burn weight

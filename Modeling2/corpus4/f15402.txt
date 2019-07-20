@@ -1,0 +1,1 @@
+pynmea2 python nmea gp pars pars nmea nmea floats-dd-decimal-degre python messag messag like data mmmm sentenc sentenc properti

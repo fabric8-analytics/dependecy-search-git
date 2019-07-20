@@ -1,0 +1,1 @@
+pyqode-cobol codeedit pyside pyqt code editor widget cobol test tests alt pyqode-cobol installation-testing document python coverage code install paragraphes paragraph support mode syntax procedures pypi

@@ -1,0 +1,1 @@
+coverage code coverage testing width-alt support supported tidelift coverage-py-code python downloads licensed license new versions-status-docs-ci pypy pypi hooks tideliftlogo html widths measures measurement format

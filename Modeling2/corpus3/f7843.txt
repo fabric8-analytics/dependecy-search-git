@@ -1,0 +1,1 @@
+simple-settings django flask bottle tornado setting configuration conf set python-simple-settings setting-file alt code object object load file example fix class status require require require new module module type type lazysettings

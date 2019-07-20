@@ -1,0 +1,1 @@
+python-paginate support supported web-frameworks

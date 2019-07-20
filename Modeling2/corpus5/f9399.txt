@@ -1,0 +1,1 @@
+httpie-asap-auth asap exampl file variabl privat uri auth

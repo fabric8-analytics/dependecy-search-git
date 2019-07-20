@@ -1,0 +1,1 @@
+pyremotecv python library connect remotecv server facial feature detection opencv remote zeromq socket

@@ -1,0 +1,1 @@
+django-oidc repo name django-openid-connect-oidc-authentication-provider default default provider code library ops op url url flow add ad connectivity parameter parameter registration client

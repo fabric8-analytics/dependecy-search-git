@@ -1,0 +1,1 @@
+pgextra pgextra index tabl tabl total-indexes-s python-pgextra queri statement statement run run version updat updat instal instal vacuum-stat lock stat test test namedtupl namedtupl make hit scan scan postgr option-origin

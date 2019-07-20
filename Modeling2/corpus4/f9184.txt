@@ -1,0 +1,1 @@
+sphinxcontrib-vers sphinx version version version branch tag version version version building-vers alt-build-statu changelog-sect x

@@ -1,0 +1,1 @@
+pysdl2 instal ctypes-instead-instal installing-packag pysdl packag

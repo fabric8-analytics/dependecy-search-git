@@ -1,0 +1,1 @@
+identify files identify-file return binary-text add tags-identifying appropriate-tag matches executable identified directory

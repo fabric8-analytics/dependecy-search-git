@@ -1,0 +1,1 @@
+flask-heroku-cacheifi flask heroku cloud cach memcach redi awesom caching-addon flask-heroku cache-configur use got interfac easi addon-provid document applic redisgreen provid required-c-head configur automat

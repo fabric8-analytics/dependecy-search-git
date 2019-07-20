@@ -1,0 +1,1 @@
+django-ckeditor-improved ckeditor ckeditors-inline admin image py cs inlines

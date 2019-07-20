@@ -1,0 +1,1 @@
+xdg xdg base directory specification python dependency dependency file file cache use variables-defined variable base

@@ -1,0 +1,1 @@
+pyqode-uic pyqode qt ui compiler alt license licensed pypi qt-designer-ui tracker

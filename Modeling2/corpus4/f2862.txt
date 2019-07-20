@@ -1,0 +1,1 @@
+django-merch payment stripe authorize-net-paypal-eway-braintree-pay api-gateway

@@ -1,0 +1,1 @@
+confduino arduino install installing installed installation alt version libraries arduino-library-programmer supported-python-versions pip pyunpack programmers

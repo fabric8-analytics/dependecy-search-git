@@ -1,0 +1,1 @@
+tornado-cors makes easier add cors support tornado apps tornado cors tornado-cors corsmixin license licensed copyright copy copies options including included documentation person persons notice distribute origin

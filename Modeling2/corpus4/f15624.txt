@@ -1,0 +1,1 @@
+scrapy-djangoitem scrapi extens write scrape item use django model django-model field field scrapi p model instal instal test test v alt set set item item installation-start tests-work project project start provid provid class way way crawler version wheel-fix work mysit like

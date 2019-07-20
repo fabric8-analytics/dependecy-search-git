@@ -1,0 +1,1 @@
+kivy licensed licenses license user users platform-python ios android api apis supports support supported dev installation-documentation projects based irc pull widgets fonts-roboto novel-ideas extensive-widget-library webchat prototyping make making dynamic libraries

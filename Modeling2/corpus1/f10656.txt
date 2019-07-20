@@ -1,0 +1,1 @@
+natural-keys models key django-natural-keys useful-model-methods support supports class creating serializer-classes create-instances serialization serialized rest-framework method nested instance field fields form forms complex naming values generated use uses automatically

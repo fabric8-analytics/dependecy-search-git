@@ -1,0 +1,1 @@
+flake8-deprec pep flake deprec flake-deprecations-plugin plugin best chang python project project gforcada fix utf-flake-deprecations-plugin fals ad best requir requir plugin add alexmul file-self new project project

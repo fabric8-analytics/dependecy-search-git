@@ -1,0 +1,1 @@
+django-private-media private medium xsendfile permissioning permission provided-privatemediastorage-storage-class default django-private staff server-useful provide let like use allow

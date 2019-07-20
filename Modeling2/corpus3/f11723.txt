@@ -1,0 +1,1 @@
+django-dynamicsites-lite site django-contrib-sites identified-dynamically

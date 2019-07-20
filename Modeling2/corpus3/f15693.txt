@@ -1,0 +1,1 @@
+pymorphy pymorphy sqlite inflection inflect django-lazy speedups-cython aot-dictionaries setup

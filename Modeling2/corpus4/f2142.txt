@@ -1,0 +1,1 @@
+google-cloud-speech api cloud-speech-api global-us enabl enabl pypi-vers

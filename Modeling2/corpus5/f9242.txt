@@ -1,0 +1,1 @@
+jsonmodel valid person type field json-model schema surnam import requir class string age-car code file additionalproperti cat document nicknam python pattern minlength validator-ad fix model valu data renam gener compar regular properti compat true directori

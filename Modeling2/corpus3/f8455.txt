@@ -1,0 +1,1 @@
+cornice-swagger web service documentation document generated-document generate generator generator allow allow api support schema schema parameter parameter add-pyramid cornice-swagger-pypi-docs internals-fix fix type type colander-custom compliance merge spec coverage remove remove path path doc field field

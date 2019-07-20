@@ -1,0 +1,1 @@
+django-munin django applic simpl munin integr view basic perform database-performance-numb includ graph add total metric custom server user conf

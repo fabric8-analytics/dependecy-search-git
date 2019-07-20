@@ -1,0 +1,1 @@
+django-modalview classes example new-class-based-views django-modalview view header base app button modal plugin

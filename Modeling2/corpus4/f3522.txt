@@ -1,0 +1,1 @@
+emac file file gnu-emac bug bug tree-holds-vers copyright configur make configuration-requir doc instal instal instal contain lisp use use use version x problems-contain tool list list platforms-requires-tool extens extens platform requir manual softwar display

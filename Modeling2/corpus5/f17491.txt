@@ -1,0 +1,1 @@
+django-vinaigrett translat django model data use gettext languag test code-python model-data file instal valu version support add field installing-add updat regist context

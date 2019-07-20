@@ -1,0 +1,1 @@
+pep8-naming naming convention checker python flake pep naming named n-class-names pep-naming-conventions code codes decorators convention scope variable pip

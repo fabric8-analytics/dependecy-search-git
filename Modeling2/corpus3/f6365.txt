@@ -1,0 +1,1 @@
+mailjet-rest mailjet api v v python wrapper api-documentation versioning version version mailjet example example refer reference send

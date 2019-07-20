@@ -1,0 +1,1 @@
+qstk quant-software follows-copyright warranties-including redistribution redistribution follow strict provide product quantsoftware-toolkit source prior-written indirect-incidental-special bsd

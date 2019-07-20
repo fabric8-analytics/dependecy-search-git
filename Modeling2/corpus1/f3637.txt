@@ -1,0 +1,1 @@
+os-collect-config metadata files-json svg file os-collect-config change changed install configuration ec collects access-key path paths

@@ -1,0 +1,1 @@
+django-avatar avatar django avatar-alt user-avatar file-storag

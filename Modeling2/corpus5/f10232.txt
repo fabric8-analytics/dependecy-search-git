@@ -1,0 +1,1 @@
+django-js-error-hook class base view gener js error hook javascript-error add set simpli

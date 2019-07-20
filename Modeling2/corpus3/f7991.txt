@@ -1,0 +1,1 @@
+streamingxmlwriter lightweight pythonic standard compliant stream xml writer sax streaming-xml alt acsone pythonic python stream example attribute encode declaration

@@ -1,0 +1,1 @@
+sphinxcontrib-disqus sphinx disqus sphinxcontrib-disqus-embed-comments project-adheres

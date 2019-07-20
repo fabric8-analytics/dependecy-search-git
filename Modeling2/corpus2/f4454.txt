@@ -1,0 +1,1 @@
+django-crypto-fields django fields encryption security code fields-python encryption-keys add-encrypted-field-classes key table tables adds pii support supported identifiers identified supports-unique analysis class data level settings set source research secure issue issues lookup lookups sets-rsa automatically

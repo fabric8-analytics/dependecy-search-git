@@ -1,0 +1,1 @@
+django-staticmedia django utility templatetag static medium generate generate generate generation fix fix application static-media django-staticmedia directive directive directly template template path path like url url optionally server site-level tab-delineated absolute

@@ -1,0 +1,1 @@
+mongoctl manage mongodb server replica set use json configuration mongodb command installation instal install installation shell-commands cluster management manage manager manage server server support support support cluster-configuration typically port define define python mongoctl note configuration configure command-line

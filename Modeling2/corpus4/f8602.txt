@@ -1,0 +1,1 @@
+django-google-map simple-appl valu valu basic-hook field address templat admin

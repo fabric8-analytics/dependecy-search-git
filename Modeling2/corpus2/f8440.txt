@@ -1,0 +1,1 @@
+django-synctool syncing sync synced data code python requirements requires app basic

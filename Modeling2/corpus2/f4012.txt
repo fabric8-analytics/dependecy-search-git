@@ -1,0 +1,1 @@
+async-notifications emails celery run code template send sended async-notifications-email-notification django project use settings set widget widgets add python default note text integration integrate context mail e user

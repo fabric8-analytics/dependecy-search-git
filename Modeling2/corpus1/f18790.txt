@@ -1,0 +1,1 @@
+django-chartit2 django charts chart models model create-charts added django-chartit licensed license licenses plotted plots plot plotting axis column columns javascript rainfall data pivot pivoted support supporting max def load places integerfield testing test

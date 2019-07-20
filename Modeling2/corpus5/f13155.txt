@@ -1,0 +1,1 @@
+django-smoketest smoke test framework django b smoke-test output automat x support asserts-support production-environ run report like-writ mount assert usual error code major data databas exception-funct level destruct file right format method quickli applic monitor function unittest smoketest client-mak make instead user json caveat

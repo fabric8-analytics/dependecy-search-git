@@ -1,0 +1,1 @@
+semidbm semidbm semidbm supported-python-versions alt-latest-version single-data-file support support value key-value key size size doc post platform pure

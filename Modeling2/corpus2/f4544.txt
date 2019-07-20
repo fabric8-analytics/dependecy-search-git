@@ -1,0 +1,1 @@
+pydeepl deepl api translate translation python code languages language en es

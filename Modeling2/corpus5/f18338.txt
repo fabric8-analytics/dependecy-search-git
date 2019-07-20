@@ -1,0 +1,1 @@
+fitbit requir python alt coverag integr test

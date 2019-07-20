@@ -1,0 +1,1 @@
+tastypie-msgpack usag simpli

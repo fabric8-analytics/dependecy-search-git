@@ -1,0 +1,1 @@
+django-tabbed-admin tab code django-tabbed-admin add-tabs height-px python configure configuration setting setup ui inlines recommanded attribute attribute alt

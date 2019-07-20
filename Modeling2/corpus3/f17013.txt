@@ -1,0 +1,1 @@
+project-generator-definitions definition project generator http github com project generator project generator definition mcu uvision iar coide target target use us uvision file file project yaml-mcu definition definition information flash defines define define inside specific proper properly attribute attribute device device

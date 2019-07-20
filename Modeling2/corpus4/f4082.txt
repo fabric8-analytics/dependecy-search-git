@@ -1,0 +1,1 @@
+imapcli imap client email mail imapcli imap python-vers test test test server server interact interact current-vers interact-funct use-python use use function function pars pars livetest featur tests-build-x current mailbox groups-io unintend file project-hom implement handl imaplib detail branch sourc zone gmail-fastmail new uid method code imap python python support

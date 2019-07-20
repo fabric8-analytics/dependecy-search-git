@@ -1,0 +1,1 @@
+flask-fanstatic resource static-resources flask-fanstatic app apps js-jquery template-g need need need provide provide html jinja blueprint blueprint

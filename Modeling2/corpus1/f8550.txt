@@ -1,0 +1,1 @@
+limp environment dependencies-setup import imports ideas view-codacy documenting-granularity small-reusability

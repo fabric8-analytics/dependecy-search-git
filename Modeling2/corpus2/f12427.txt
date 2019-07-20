@@ -1,0 +1,1 @@
+valuedispatch dispatches value singledispatch like api valuedispatch-singledispatch-like

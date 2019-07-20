@@ -1,0 +1,1 @@
+mdfreader data file channel channel module-imports-mdf-files need requirement require require optionally optional argument mdfreader list list compression compress x scipy command interface-requires-pyqt module excel conversion mdfconverter eta exist exist panda method method xlwt import import convert convert compile compilation netcdf read reading io hpy graphical

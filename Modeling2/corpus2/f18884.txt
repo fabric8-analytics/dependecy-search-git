@@ -1,0 +1,1 @@
+django-downloadview file stream download filefield imagefield x accel redirect sendfile mod xsendfile offload files code download-models document documentation model urls-import-url objectdownloadview django example

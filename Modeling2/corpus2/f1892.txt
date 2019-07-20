@@ -1,0 +1,1 @@
+python-masakariclient module license

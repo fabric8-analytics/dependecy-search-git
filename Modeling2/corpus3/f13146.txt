@@ -1,0 +1,1 @@
+drf-writable-nested writable nest model serializer django rest framework drf restframework rest framework django rest framework serializers drf writable nest nest model related mixin mixins model-serializer following-relations direct-reverse serializers validation django instance instance field

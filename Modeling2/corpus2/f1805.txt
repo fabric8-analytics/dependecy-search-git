@@ -1,0 +1,1 @@
+twine pypi code uploads upload uploading packaging package security securely console keyring-support build building supports python-packages password passwords executing option options variables variable allows allowing certificate certificates repository repositories developer development connections verified-connection verify command correctly sign signed

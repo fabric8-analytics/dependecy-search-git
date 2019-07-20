@@ -1,0 +1,1 @@
+uwsgidecorators-fallback uwsgi api python decorator fallback run outside uwsgi uwsgi outside uwsgi synchronously import-errors error

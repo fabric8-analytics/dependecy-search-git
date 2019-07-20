@@ -1,0 +1,1 @@
+webassets asset-management-application merges-minifies compress

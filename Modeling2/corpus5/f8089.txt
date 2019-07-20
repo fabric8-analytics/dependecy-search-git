@@ -1,0 +1,1 @@
+django-cms-them theme contrib instal simply-instal file templat

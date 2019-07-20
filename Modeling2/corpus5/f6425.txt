@@ -1,0 +1,1 @@
+precommit-hook thank automat oh-thank code check automatically-check

@@ -1,0 +1,1 @@
+nodeenv instal environ local-instal node-js-virtual-environ file version packag creat use-nodeenv default use option new local command virtualenv make fix-fix fix ad installation-directori improv npm support virtualenv-python prebuilt-packag packages-deactiv script resourc setup tar creation pip modul x renam char deactiv window directori tox addit src method remov pull

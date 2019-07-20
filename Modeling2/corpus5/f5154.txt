@@ -1,0 +1,1 @@
+tastypie-queryset-cli tastypi client django rest api model-api filter

@@ -1,0 +1,1 @@
+jsonrpclib-pelix class specif notif jsonrpclib json-rpc-specif method-thread handle-notification-request librari thread error request support thread-pool use requir pool client python custom pars propos object handl manual-pars server softwar marshal ci need follow work manual xml sampl batch addit read getter modifications-ad

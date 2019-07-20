@@ -1,0 +1,1 @@
+django-includ django postgr sql optim perform model includemanager-class relat user email instal extension-instal json extens includequeryset licens

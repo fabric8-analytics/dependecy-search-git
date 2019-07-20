@@ -1,0 +1,1 @@
+blmath blmath numeric numerical contains transforms transform numerics-functions geometry function code provides reference linalg operations inputs input value numpy issue issues polygonal coordinates points point todo license licensed bsd represents messages including includes matrix look github space object rotation

@@ -1,0 +1,1 @@
+flask-cloudy flask object objects files container containing contains local-file cloud-storage-providers url uploaded path upload-download public overwrite use useful example downloaded west audio new extension provider-str provides provide key allowed-extensions directory mardix cloudfiles allow allows bool create secret application

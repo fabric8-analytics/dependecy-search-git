@@ -1,0 +1,1 @@
+legendarium python library handle scielo bibliographic legend legendarium legendarium-python-library legendarium-alt-documentation template cookiecutter develop

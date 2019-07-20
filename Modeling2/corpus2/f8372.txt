@@ -1,0 +1,1 @@
+cherrys redissession-class type supports-types required-dependencies fully-supported framework storage

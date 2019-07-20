@@ -1,0 +1,1 @@
+django-addons django-addons addon add configuration configure install project project setting installation-updates update pypi py

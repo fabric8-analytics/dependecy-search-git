@@ -1,0 +1,1 @@
+blmath numer contain transform numerics-funct geometri function code provid refer linalg oper input valu numpi issu polygon coordin point todo licens bsd repres messag includ matrix look github space object rotat

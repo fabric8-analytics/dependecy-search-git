@@ -1,0 +1,1 @@
+aws-encryption-sdk aws encryption sdk kms encrypt encrypts encrypting code encrypted-data-keys supported-python aws-encryption-sdk-alt performance master-key-provider use uses useful cmm cryptographic installation installed install files file message provides provided providers provide boto credentials managers manager support pre-existing multiple

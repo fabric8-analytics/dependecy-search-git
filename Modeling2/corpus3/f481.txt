@@ -1,0 +1,1 @@
+js-deform deforms resource resource js-deform need need include include include need-css form schema add import jquery widget-requirements-including fanstatic-dependency require requirement require widget tinymce change colander package package changes-depend thanks-icemac pyramid

@@ -1,0 +1,1 @@
+zorg-gpio gpio driver control sensor output devic zorg support hardware-support provid compon purpos statu code python

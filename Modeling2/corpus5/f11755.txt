@@ -1,0 +1,1 @@
+doxypypi doxygen filter python document doxygen-filt code like function docstr addit syntax exampl shell interfac tag class style-interfac make use tags-mark make-input area project batch name consum differ express doxypi support section follow mark regular line output

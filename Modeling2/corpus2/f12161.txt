@@ -1,0 +1,1 @@
+pg4nosql postgres no sql wrapper database json version table tables databases relational query queries nosql-like-database methods adds add data-type update-method saving-object save normal way argument fixed fixes result example examples new fields field access python cansik copyright python-versions-license build-status-code execute called row

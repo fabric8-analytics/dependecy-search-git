@@ -1,0 +1,1 @@
+mysql-connector-python-rf mysql db c-client

@@ -1,0 +1,1 @@
+django-kronos tasks-kronos task extra commands command way variables variable works work working things thing request-receive line lines crontab tasks-kronos command task django-management-commands fixed extra works work project projects working-directory crontab crontabs manage request-receive modules module caused settings

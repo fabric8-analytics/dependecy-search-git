@@ -1,0 +1,1 @@
+starcluster cluster computing-clusters starcluster eb elastic-compute command amazon file keypair ec config start-command template template share share copy-files start mykey hadoop setup automatically text virtual scheduler copying node node condor setting set set create create create simple instal install instal storage instances-support iso web instance

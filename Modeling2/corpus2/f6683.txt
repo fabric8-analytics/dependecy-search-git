@@ -1,0 +1,1 @@
+mpld3 matplotlib version mpld interactive interactivity python features plots plot source mplexporter json exhausive location multiple feel library d examples environment-variable tick-specification renderings directory

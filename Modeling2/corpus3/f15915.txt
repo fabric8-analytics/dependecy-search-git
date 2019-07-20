@@ -1,0 +1,1 @@
+hpfeeds channel hpfeeds channel-users-decide support-arbitrary-binary-payloads authenticate

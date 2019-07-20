@@ -1,0 +1,1 @@
+pygal-maps-ch svg chart graph map swiss

@@ -1,0 +1,1 @@
+pyrobase python utility library paver unittests build release tasks version travis-ci module modules documentation violations directory helpers helper general check test tests copyright-c project gmail-com

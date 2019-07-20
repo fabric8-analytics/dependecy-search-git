@@ -1,0 +1,1 @@
+nold nonlinear dynam system chao lyapunov hurst expon rescal rang dfa detrend fluctuat analysi sampl entropi correl dimens measur lyapunov-expon et sample-entropi function numpy-bas code contact stationari term time-seri random-numb matplotlib

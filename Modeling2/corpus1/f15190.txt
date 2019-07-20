@@ -1,0 +1,1 @@
+osmium osm openstreetmap osmium libosmium versions-different c osmium-needs version applications license mac commit topf need needed examples example external doc pyosmium contrib-fineprint osmcode-org-github-issue-tracker-osm additionally libosmium-installation installed install

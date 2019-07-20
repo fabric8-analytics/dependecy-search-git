@@ -1,0 +1,1 @@
+django-permissions django authorization permissions bugfix roles role issue permission alpha django-permissions beta-added changes changed adds add removes removed implementations implementation content

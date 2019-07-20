@@ -1,0 +1,1 @@
+gaphor gtk diagram uml mbse modeling installer installation installed diagramming diagrams modelers model models modeling-tool background-install-usage-contributing use create creating created environment environments macos linux item items packaging packages package make select selected dev windows window different application provides pygobject people-emoji class development

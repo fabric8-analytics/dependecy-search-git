@@ -1,0 +1,1 @@
+xstatic-bootswatch bootswatch xstatic package package packaging easy-install

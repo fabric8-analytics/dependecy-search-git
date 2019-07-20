@@ -1,0 +1,1 @@
+django-appconf apps app code settings setting set defaults default django class e make note import target

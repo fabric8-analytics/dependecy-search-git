@@ -1,0 +1,1 @@
+flask-breadcrumbs flask breadcrumbs extension adds support generating site breadcrumb navigation invenio metadata testing test release released improved improvements list allows coverage deprecated

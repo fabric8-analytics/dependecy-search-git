@@ -1,0 +1,1 @@
+bitex wip plan method api api class-method interfac interfac exchang exchang class bitex order endpoint endpoint standard formatt authent attribut output queri queri object object like-object provid provid format format format implement rest base based-websocket consid section includ account

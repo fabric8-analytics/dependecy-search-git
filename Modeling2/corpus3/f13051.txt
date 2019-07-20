@@ -1,0 +1,1 @@
+sqlacodegen sqlalchemy name name relationship constraint relationship-detection sqlalchemy-model-code detects detect declarative key-constraint class class case usage url table table produce numeric

@@ -1,0 +1,1 @@
+fxos-appgen generates installs fxos apps mozilla permissions permission options optional option access fxos-app optionally-install file files installed description success successfully sdk line successful-downloads readwrite running run directory checkout working sms download

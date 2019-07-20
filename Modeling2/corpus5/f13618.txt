@@ -1,0 +1,1 @@
+dsmr-parser client set serial python code telegram modul type int-str-decim block read

@@ -1,0 +1,1 @@
+sanicmongo style-document-object

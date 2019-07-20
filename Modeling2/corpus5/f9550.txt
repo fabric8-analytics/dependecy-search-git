@@ -1,0 +1,1 @@
+ps-crud extens pyramid sacrud provid templat crud support bug question licens suggestions-idea

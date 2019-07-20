@@ -1,0 +1,1 @@
+tokenlib generic support library signed token based auth schemes authentication tokens opaque-unforgeable mac-access expiry unicorns given secret level data customize fail failing hash hashing added-custom-valueerror default grained info

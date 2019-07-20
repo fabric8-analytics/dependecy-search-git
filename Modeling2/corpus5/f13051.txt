@@ -1,0 +1,1 @@
+sqlacodegen sqlalchemi name relationship constraint relationship-detect sqlalchemy-model-cod detect declar key-constraint class case usag url tabl produc numer

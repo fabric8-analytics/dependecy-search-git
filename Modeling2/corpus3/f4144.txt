@@ -1,0 +1,1 @@
+sphinx-materialdesign-theme sphinx license design install theme version

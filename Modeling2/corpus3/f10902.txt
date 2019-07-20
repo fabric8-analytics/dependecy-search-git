@@ -1,0 +1,1 @@
+django-encrypted-fields make field field make-upgrading-pre-existing new-ones-getting create

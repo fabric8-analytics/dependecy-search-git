@@ -1,0 +1,1 @@
+django-sorting-bootstrap sort view basic-usag header mini field tag

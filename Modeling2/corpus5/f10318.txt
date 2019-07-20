@@ -1,0 +1,1 @@
+pyfarmhash instal python-farmhash use function hashwithse msc licens hash string-form cd cc provid bracket

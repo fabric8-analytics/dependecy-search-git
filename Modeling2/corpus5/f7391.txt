@@ -1,0 +1,1 @@
+pyteamc use teamciti rest api python new code py variabl modifi set set-get test test-legaci new-api build-statu latest-vers

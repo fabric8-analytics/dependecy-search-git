@@ -1,0 +1,1 @@
+actdiag diagram generator add-options text fix-bugs-support actdiag alt feature feature support optional blockdiag-interface license docutils set set simple color-attribute image diagram-image easy node node

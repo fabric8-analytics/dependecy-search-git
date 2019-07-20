@@ -1,0 +1,1 @@
+factory-boy test fixture replacement python factory boy factory fixture code-block test test use-factories factory-boy-alt value support support random-values object object randomize building build build supported-python-versions specific replacement include include include replace-static e-mail mail run run message discover case sh license pycon us debug mongo version

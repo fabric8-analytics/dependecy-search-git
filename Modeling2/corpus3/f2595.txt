@@ -1,0 +1,1 @@
+django-breadcrumbs breadcrumb django-breadcrumbs url url middleware flatpages flatpage view view object support support cache request-object context add add flatpagefallbackmiddleware breadcrumb django-breadcrumbs set add request

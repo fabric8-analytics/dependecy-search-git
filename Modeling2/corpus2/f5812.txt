@@ -1,0 +1,1 @@
+python-periphery gpio spi led pwm ic mmio serial uart embedded linux beaglebone raspberrypi rpi odroid testing tests test required licensed license require-interactive-probing-e python-periphery-linux setup including included python peripheral peripherals interface interfacing

@@ -1,0 +1,1 @@
+django-compat forward backwards compatibility layer django django-compat compatibility heavy x compatible-objects mark tag backported backport versions specific-closing-tags add anticipate following close new-function install installing py object-specifically uses use useful resources newer existing source

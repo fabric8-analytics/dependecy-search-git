@@ -1,0 +1,1 @@
+astropy-healpix bsd license healpix astropy maintain cdeil astrofrog astropy healpix python status code package

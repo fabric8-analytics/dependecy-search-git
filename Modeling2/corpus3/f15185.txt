@@ -1,0 +1,1 @@
+python-rsdclient openstack sub-commands configuration command run manager-api option python use password

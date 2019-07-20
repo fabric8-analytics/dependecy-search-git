@@ -1,0 +1,1 @@
+django-classbasedsettings setting classbased class base setting set class class code-block python file file django ll property extra declare declarative modification modification call call meta normally normal py callable simple

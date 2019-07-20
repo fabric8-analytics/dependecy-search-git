@@ -1,0 +1,1 @@
+algoliasearch-django seamless integration algolia django project pyalgolia search backend hosted cloud full text faceted index indexed set settings-restrict-indexing model models algolia-search-api application applications js tags time setup tests like field fields errors raise json user g commands command multiple-indices auto use

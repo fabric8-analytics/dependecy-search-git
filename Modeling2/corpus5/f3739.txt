@@ -1,0 +1,1 @@
+django-ar-organ provid multi user account django applic organ model project url group-invit function backend-url group addit agnost backend test code configur python base ownership set file current registr view usage-overview updat bugs-doc-upd ideal

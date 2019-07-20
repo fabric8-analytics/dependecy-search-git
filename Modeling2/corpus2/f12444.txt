@@ -1,0 +1,1 @@
+pyvrml97-accelerate vrml scenegraph accelerate fields accelleration extensions

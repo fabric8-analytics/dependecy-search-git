@@ -1,0 +1,1 @@
+django-test-coverage django test coverage reports report reported reporter options-reporters tested-apps tests option app-zoo djangos modules module test-coverage py-usage-simple app-foo

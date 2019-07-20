@@ -1,0 +1,1 @@
+django-trix basecamp trix rich text editor widget django python django trix editor trix form forms field fields trix-widget text-editor

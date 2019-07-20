@@ -1,0 +1,1 @@
+django-appdata extendable field use django model apps app django use us build additional model model form form container container code incompatible function source-community extend extend extendable version versions-python

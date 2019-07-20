@@ -1,0 +1,1 @@
+glog log python style-logging checks messages message like-loggers logger code c check-macros-assert styled library uses use behaviours assertion asserts setup py trace hopefully hours gflags

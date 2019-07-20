@@ -1,0 +1,1 @@
+flask-locale translations translate translation file uses-files locale use create excel plural quick strings string loading loads verb-conjugation verbs csv e translated import form forms q py db python sevdi validators c email data sql singular

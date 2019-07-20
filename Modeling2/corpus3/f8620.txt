@@ -1,0 +1,1 @@
+windows-curses curse support key resize pdcurses compatibility sigwinch

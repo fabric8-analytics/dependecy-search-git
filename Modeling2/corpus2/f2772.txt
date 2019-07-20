@@ -1,0 +1,1 @@
+eve-swagger swagger extension eve powered restful apis code example python resource image-resources license target description-fields alt field source png like version versions schema make

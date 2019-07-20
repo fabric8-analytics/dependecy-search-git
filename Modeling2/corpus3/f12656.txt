@@ -1,0 +1,1 @@
+unittest-data-provider use try pytest parameterize instead see url unittest dataprovider snippet-install-import unittest-module feature example

@@ -1,0 +1,1 @@
+cmsplugin-zinnia django blog weblog zinnia cm plugin apphook entri compat provides-plugin fix-bett settings-entri menu django-cm default url templat custom-html set render provid model v initi

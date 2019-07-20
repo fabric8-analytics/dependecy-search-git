@@ -1,0 +1,1 @@
+fastzbarlight zbar qr code reader fastzbarlight bar trial reader wrapper benchmark library

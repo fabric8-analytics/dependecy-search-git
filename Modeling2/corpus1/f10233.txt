@@ -1,0 +1,1 @@
+docrep docstrings docs docstring napoleon numpy restructured text target targets image-alt-documentation python-module documented conda supported

@@ -1,0 +1,1 @@
+schematics python data structures humans validation datastructures types schema serialization deserialization coverage validate validating person type website message messages models-import model-code alt api database custom protocols py

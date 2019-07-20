@@ -1,0 +1,1 @@
+elasticstack search index index-map view map field views-haystack configurable-index document django specif analyz haystack field-bas test version default rel backend configur related-attribut form attribute-nam add contain exist simpli includ ngram name elasticsearch fix set chang method arguments-method argument manag ad

@@ -1,0 +1,1 @@
+hcsr04sensor read read distanc distanc sampl sampl pin-valu gpio-pin valu use use use ultrasonic-sensor pi-hcsrsensor cm measur measur measur wait-tim sound highli request-new hcsr support support accuraci tracker pump deep usag board varianc basic py version exampl handl handl manual

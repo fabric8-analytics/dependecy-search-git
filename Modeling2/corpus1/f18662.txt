@@ -1,0 +1,1 @@
+pygc globe meridians straight ruler great circle calculations python using vincenty formulae http en wikipedia org wiki vincenty formulae point points formulae great-circle available technical-manual positions rainsford vincenty

@@ -1,0 +1,1 @@
+django-opensearch contains django-opensearch default search author author licensing license source-code content content software readable python file text

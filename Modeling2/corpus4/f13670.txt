@@ -1,0 +1,1 @@
+djangocms-flash plugin flash requir

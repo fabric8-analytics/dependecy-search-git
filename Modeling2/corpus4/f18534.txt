@@ -1,0 +1,1 @@
+geonode-announc fork django announc compat django announc announc site site user user anonym

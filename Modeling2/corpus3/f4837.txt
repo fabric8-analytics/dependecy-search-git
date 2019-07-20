@@ -1,0 +1,1 @@
+winstats windows-stats counter perfmon test performance status

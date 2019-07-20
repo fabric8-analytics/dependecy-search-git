@@ -1,0 +1,1 @@
+sphinx-gallery sphinx extension automatic generation example gallery python sphinx extension gallery extension gallery example documentation sphinx sphinx-gallery like-seaborn scipy width block-bash sphinx-gallery dependency installation-install instal instal developer development documentation seaborn

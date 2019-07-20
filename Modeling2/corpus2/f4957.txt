@@ -1,0 +1,1 @@
+pypirc pypi configuration license-apache

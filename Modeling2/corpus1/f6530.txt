@@ -1,0 +1,1 @@
+pywebhdfs directory file hadoop-webhdfs requires delete list including attributes

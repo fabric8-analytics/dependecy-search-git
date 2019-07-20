@@ -1,0 +1,1 @@
+lightfm python implementation lightfm hybrid recommendation algorithm machine learn recommender python matrix factorization learn to rank recommender system lightfm recommendation recommendation recommend model model feedback development rank rank need-help k code quickstart use us high-quality user-metadata help user item item

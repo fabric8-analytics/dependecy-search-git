@@ -1,0 +1,1 @@
+ecos lightweight conic solver second order cone program interface solver-ecos interface-repositories cone cone-programs repository matlab bound license license direct technical slide mixed follow bibtex second embotech solve solve julia added-code-complexity-ca michael generalize general

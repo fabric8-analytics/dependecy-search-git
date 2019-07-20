@@ -1,0 +1,1 @@
+django-anymail django email backend webhook amazon se mailgun mailjet postmark sendgrid sendinblu sparkpost mandril esp transact mail use-esp transactional-esp messag anymail-django-email support alt quickstart packag includ mailgun-mailjet extra use code normal end simplifi

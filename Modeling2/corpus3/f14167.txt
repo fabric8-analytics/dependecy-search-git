@@ -1,0 +1,1 @@
+django-chartjs django chart chartjs highchart ajax class base view chart chart-js django-chartjs line project example example class

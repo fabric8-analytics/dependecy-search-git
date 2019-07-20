@@ -1,0 +1,1 @@
+breakfastserial arduino firmata arduinos arduino firmata component component event lead led button button value underlying-event automatically get pin speed set set use library breakfastserial sensor soon process

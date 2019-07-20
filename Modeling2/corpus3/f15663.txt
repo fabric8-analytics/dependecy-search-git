@@ -1,0 +1,1 @@
+k5test library set self contain kerberos environment base code mit krb gssapi test test unit-tests contained-kerberos requires-allows require plugin

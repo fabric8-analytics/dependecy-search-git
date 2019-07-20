@@ -1,0 +1,1 @@
+dicttoxml version xml-string element fix changes-fix chang function item issu ad object type convert attribut debug data-typ like-object python supports-item valu thank name list argument updat string dict syntax set request window includ compat default support code start releas note custom pypi str ryan licenc except instal

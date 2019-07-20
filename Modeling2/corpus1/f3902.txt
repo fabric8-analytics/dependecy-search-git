@@ -1,0 +1,1 @@
+django-downtime downtime django use app settings set sets installed-apps simple deployment templates template requests request dot looks looking install mode middleware middlewares date django-downtime-looking upgrades-official supports-versions date

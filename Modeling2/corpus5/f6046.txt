@@ -1,0 +1,1 @@
+edc-prn class util support prn form django edc

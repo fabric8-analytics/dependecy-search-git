@@ -1,0 +1,1 @@
+scout-pi version new-vers client basic-inform ye usage-report scout

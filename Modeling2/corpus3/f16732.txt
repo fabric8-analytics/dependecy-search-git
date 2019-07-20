@@ -1,0 +1,1 @@
+glmnet-py glm glmnet ridge lasso elasticnet model model stanford tibshirani friedman j r python version glmnet gcc gaussian library library sep start start start core descent recommend jiang qian linux path regularization-path statistic statistical fang fortran matrices-additionally-cross vol

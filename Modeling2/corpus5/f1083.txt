@@ -1,0 +1,1 @@
+django-inline-ord order inlin model admin class app installed-app reorder instal test media drag-drop-reord file import list-kudo record new-record make

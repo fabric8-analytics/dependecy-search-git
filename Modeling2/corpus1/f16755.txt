@@ -1,0 +1,1 @@
+drf-compound-fields rest framework rest apis services fields compound types type keys individual test-coverage allows allowing allow project license types type typed test tests project values validation objects object fields collect individual keys errors error loosen framework serializers serializer

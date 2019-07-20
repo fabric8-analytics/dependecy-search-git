@@ -1,0 +1,1 @@
+django-amazon-ses django email backend uses boto interact amazon simple email service ses django aws amazon ses email django amazon ses email services-aws versions version django email code-bash messages message credentials credential ses send-emails python profile testing test-configure configuration service access boto providers provide provided

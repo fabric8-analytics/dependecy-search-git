@@ -1,0 +1,1 @@
+commandr commandr arguments argument commands value functions function command-line default defaults parameters multiple-values parameter-names generation generated e decorator decorated decorators main usage-help functools keyword boolean specially parser example examples optional options types type special-meta named automatically sets set update updates script

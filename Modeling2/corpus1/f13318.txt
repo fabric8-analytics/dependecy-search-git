@@ -1,0 +1,1 @@
+skiff digitalocean api library v api changes change creating note-droplet domains domain notes droplets-create-alternatively images image methods method local actions action keys key dictionary test skiff-python requests-testing update specific request id-enable string delete

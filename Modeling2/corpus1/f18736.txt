@@ -1,0 +1,1 @@
+django-admin-enhancer django admin foreign app django-admin-enhancer apps-works display simple django applications application enhance enhancement enhanced enhancer-alt cms-support filer sh status controls deletion

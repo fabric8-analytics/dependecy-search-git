@@ -1,0 +1,1 @@
+mapclassify classification schemes choropleth mapping gis choropleth map classification visualization spatial statistics geovisualizaiton breaks classification jenks sampled classifiers classifier instance feature mapclassify pysal source

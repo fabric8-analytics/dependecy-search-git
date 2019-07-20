@@ -1,0 +1,1 @@
+pydaqmx daqmx nation instrument data acquisit nidaq nidaqmx pydaqmx version driver nidaqmx-driv bug add python object improv improv support support support string string pierr proper properli main acquisit function function name ni subclass packag

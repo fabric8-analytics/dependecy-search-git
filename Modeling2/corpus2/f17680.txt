@@ -1,0 +1,1 @@
+django-compressor processes processed process base files file configurable configurability css custom-processing-steps template templates htmllib-based compilers compiler tags tag browser response filters filter future-expiration html-code step

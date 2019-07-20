@@ -1,0 +1,1 @@
+simpeg simul paramet estim geophys python packag gradient base context applic finit volum invers linear algebra partial differenti equat optim geoscienc model electromagnet magnetotellur direct current resist induc polar richard open scienc scientif comput problem multiphys alt-simpeg bibtex-cod featur discretization-optim cite statu

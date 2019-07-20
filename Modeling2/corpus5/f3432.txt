@@ -1,0 +1,1 @@
+pythonselect tool set current python version macosx window command pyw instal activepython komodo support b new-command issu experiment py binari

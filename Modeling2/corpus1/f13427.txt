@@ -1,0 +1,1 @@
+duckduckgo2 api source safesearch-boolean duckduckgo useragent st install-run installation

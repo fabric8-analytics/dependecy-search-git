@@ -1,0 +1,1 @@
+velruse oauth openid social auth facebook google pyramid rest authentication authenticating provide providing provides provided velruse identity-providers provider-sources website-user-authenticate websites api handle widgets time source-locally application-handles ldap registration-widget applications simplify

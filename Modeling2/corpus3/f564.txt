@@ -1,0 +1,1 @@
+consolemsg consolemsg-semantically-colorifies function

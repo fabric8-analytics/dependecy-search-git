@@ -1,0 +1,1 @@
+mesopi python wrapper mesowest environment data api weather api climat mesowest meteorolog function function station mesowest observation-st observ observ data addit retriev retriev network valu type type keys-valu version statistics-network key metadata obtain licens simpli john variabl variabl weather object time paramet line-window pure

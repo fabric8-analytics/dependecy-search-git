@@ -1,0 +1,1 @@
+django-coffeescript coffeescript files file default cache contrib inline compile compiled compiler add compilation mode use-django-coffeescript setting set settings staticfiles change changes scripts root

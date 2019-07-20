@@ -1,0 +1,1 @@
+django-rq-wrapper django management command multiple workers one command auto reload workers django rq autoreload worker management-command django installed installation-add added options

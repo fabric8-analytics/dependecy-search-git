@@ -1,0 +1,1 @@
+django-actionview django gener view

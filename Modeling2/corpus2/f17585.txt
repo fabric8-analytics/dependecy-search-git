@@ -1,0 +1,1 @@
+murano applications project application-catalog cloud license

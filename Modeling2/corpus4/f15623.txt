@@ -1,0 +1,1 @@
+requests-hawk hawk authent strategi request python librari authent token hawk request hawk project project auth use use code instead paramet paramet server credenti session default hkdf need need paramet paramet use use project project requests-hawk auth code credenti algorithm instead python server session request bash key properli encod

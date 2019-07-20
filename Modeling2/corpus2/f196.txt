@@ -1,0 +1,1 @@
+pyramid-jwtauth authentication token jwt json pyramid code feel access accessing like likely header requests request license ajkavanagh plugin dev pyjwt package challenge ability dropped fine work works wichert wiggy version

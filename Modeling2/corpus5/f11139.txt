@@ -1,0 +1,1 @@
+pytest-transl test translat file pytest package-code-bash simpli ci word packag languag use case installation-instal yaml aspel

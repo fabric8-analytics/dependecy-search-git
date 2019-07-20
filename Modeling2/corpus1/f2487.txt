@@ -1,0 +1,1 @@
+kids-cache caching cache-alt functions singletons decorator decorators stats-functionality usages method function-methods-property-classes-support valentin-lab properties-singleton-patterns objects object default-usage currently current library work works simple class pattern pypi argument arguments-lazy platform added

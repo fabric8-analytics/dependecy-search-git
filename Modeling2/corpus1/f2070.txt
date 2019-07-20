@@ -1,0 +1,1 @@
+django-admin-sortable2 django license licensed classes class admin-sortable detailled models model inlines list offers offer base additional coded

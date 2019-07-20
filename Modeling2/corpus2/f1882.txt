@@ -1,0 +1,1 @@
+pyteaser takes installing install installation-requires automatically-installed-note sentences sentence text

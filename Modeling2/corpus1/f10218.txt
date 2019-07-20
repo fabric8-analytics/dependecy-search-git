@@ -1,0 +1,1 @@
+jackrabbit rabbitmq messagequeue amqp consumer pika

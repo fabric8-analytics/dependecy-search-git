@@ -1,0 +1,1 @@
+booleanoper booleanglyph versions-booleanoper version contour code booleanoperationmanag glyph clipper packages-cython pypi

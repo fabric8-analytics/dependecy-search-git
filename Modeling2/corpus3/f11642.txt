@@ -1,0 +1,1 @@
+djangocms-forms djangocms form djangocms-forms-alt form require require instal install key default-template site cm recaptcha width html add add cs restart-urlpatterns

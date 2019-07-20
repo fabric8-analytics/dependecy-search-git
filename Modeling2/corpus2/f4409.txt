@@ -1,0 +1,1 @@
+marisa-trie license licensed like trie-pyversions methods method python lookup current file files appveyor trie support supported thanks license-wrapper rebuild-cython improved improvements fixed string small benchmark bundled update-benchmarks faster-fix inttrie arbitrary updated removed issue issues work files-pickling-works version versions

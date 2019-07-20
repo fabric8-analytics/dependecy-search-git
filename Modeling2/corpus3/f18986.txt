@@ -1,0 +1,1 @@
+django-csv-exports installation install model model permission level adminmodel-permission admin adminmodels export export csv-exports

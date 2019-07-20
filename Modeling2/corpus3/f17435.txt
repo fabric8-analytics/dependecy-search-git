@@ -1,0 +1,1 @@
+os-dpm dpm base hypervisor hypervisors dynamic-partition holds-common

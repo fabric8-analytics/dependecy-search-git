@@ -1,0 +1,1 @@
+pylibftdi devic ftdi-devic pythonic-interfac interfac supports-python includ includ support support licens codedstructur serial io wrapper bit bit unicod easier thing wrapper-provid cross-platform driver-ftdxx provid provid file pylibftdi bitbangdevic libftdi

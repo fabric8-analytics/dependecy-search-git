@@ -1,0 +1,1 @@
+django-next-please pagination paginate paginator page class self def view view django query

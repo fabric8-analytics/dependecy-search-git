@@ -1,0 +1,1 @@
+pyside2 qt pysid build versions-follow instal c-parser bindings-vers librari contribut variable-llvm tracker

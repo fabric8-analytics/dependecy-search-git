@@ -1,0 +1,1 @@
+jinja2-pluralize jinja filter pluralize django inflect filter filter software-bsd-license jinja-pluralize filter filter stable-status block rst

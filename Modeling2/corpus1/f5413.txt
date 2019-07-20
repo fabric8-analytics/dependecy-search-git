@@ -1,0 +1,1 @@
+minoshiro async python library searching japanese media anime manga lightnovel library async asyncio python python api api wrapper postgresql sqlite sqlite mal anilist kitsu anidb myanimelist asyncawait existing-databases-requirements-requires documentation base simply install installs python pythonic postgresql

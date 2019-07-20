@@ -1,0 +1,1 @@
+gspreadsheet wrapper around wrapper get google spreadsheet look like dictreader csv spreadsheet spreadsheet add python usage change change save save save use-case user

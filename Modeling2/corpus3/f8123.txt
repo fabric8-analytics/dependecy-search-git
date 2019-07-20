@@ -1,0 +1,1 @@
+pytest-cookies cookiecutter pytest alt code python-testing project project test tests-cookiecutter gitter-pypi-pyversions-license instance plugins plugin directory base image issue issue related useful-information

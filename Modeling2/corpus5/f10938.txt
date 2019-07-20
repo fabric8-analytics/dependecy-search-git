@@ -1,0 +1,1 @@
+gmshtranslat pars gmsh msh mesh gener node element order tag rule-rul defined-example-condition-nod action integ nodal integer-numb condit use file python number group physical-group follow defin hexahedron initi line hexahedrons-inform mutual box function inform usag initially-read reads-lin syntax implement variabl

@@ -1,0 +1,1 @@
+pyimpute gi geospatial geographic raster vector zonal statistic machinelearning prediction predict spatial-data raster raster predictions-based load variable new-functionality learn learn installation instal install observation level python classifiers-loads provide provide metric function change save matthew target basic-example example pyimpute classifier

@@ -1,0 +1,1 @@
+menuinst cross platform menu item installation platform-menu-item platforms menuinst-cross-platform-apis

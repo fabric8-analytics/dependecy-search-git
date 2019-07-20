@@ -1,0 +1,1 @@
+swagger-spec-validator validates example-usage-validate specification swagger-spec-validator spec

@@ -1,0 +1,1 @@
+python-google-spreadsheet google docs spreadsheets api google-spreadsheets-api make list spreadsheet python oriented file variables install installed-gdata

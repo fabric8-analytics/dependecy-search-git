@@ -1,0 +1,1 @@
+alfred-workflow-packager alfred workflow package export workflow-packager files configuration-file project set setting script directory settings-export running run utility configure configures install installed exporting exported packaging resources bundle released releases release version versioning list listed

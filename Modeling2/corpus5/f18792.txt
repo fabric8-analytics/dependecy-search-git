@@ -1,0 +1,1 @@
+django-guardian per object permiss django python code admin run use document ci migrat instal

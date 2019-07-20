@@ -1,0 +1,1 @@
+remoteobjects object restational model basic-http-verbs objects object support return-appropriate api apis module editing status-codes correct subclassable subclass subclassing coding python

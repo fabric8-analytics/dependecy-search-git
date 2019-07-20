@@ -1,0 +1,1 @@
+cdflib cdf maven lasp pd gsfc write-cdf valu variabl epoch fals record attribut number specified-epoch data-format-fil function type tt time string byte second file write mm-ss encod var class compon use correspond compress rang date mmm-yyyy compliant np spars month numpi instal prereq python getvers command specifi following-command form comput entri return complex

@@ -1,0 +1,1 @@
+nwalign3 sequenc bioinformat align needleman wunsch matrix score score extend-scor gap current

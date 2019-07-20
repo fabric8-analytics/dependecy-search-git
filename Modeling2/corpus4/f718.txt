@@ -1,0 +1,1 @@
+django-taggit simpl tag django django-taggit-alt

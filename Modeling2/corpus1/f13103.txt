@@ -1,0 +1,1 @@
+cocos2d applications application python sprites linux actions action games game menus run like cocosd hardware apis api sample samples tutorials tutorial object objects maps-support starting current purposes package collision collisions flow-control

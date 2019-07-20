@@ -1,0 +1,1 @@
+doit-py doit install coverage license documentation

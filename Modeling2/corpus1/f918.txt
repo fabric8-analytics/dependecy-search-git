@@ -1,0 +1,1 @@
+hgtools version versions versioning hgtools setuptools code packages release releases python vcs use uses setup parameter parameters package-data files support bug provides provided provide follow following currently current tagged tags tag example interface line-interfaces project util pass passed function functionality revision plugin repo

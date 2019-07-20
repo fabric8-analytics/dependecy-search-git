@@ -1,0 +1,1 @@
+popit-python deprec python bind connect popit api version instal run test logging-requir

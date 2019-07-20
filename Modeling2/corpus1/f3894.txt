@@ -1,0 +1,1 @@
+whs-commons-patterns provides-collection class

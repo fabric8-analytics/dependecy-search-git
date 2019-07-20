@@ -1,0 +1,1 @@
+django-geoposition installation install files setting-installed settings-file set forms admin-form-widget-image images maps map value prerequisites api pointofinterest poi position use

@@ -1,0 +1,1 @@
+django-xmlrpc django servic xmlrpc returns-string-arg return instal pass def-test releas git simpli

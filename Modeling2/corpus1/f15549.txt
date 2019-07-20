@@ -1,0 +1,1 @@
+pelican-gravatar-plus gravatar pelican

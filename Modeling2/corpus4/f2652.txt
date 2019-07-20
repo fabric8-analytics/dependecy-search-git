@@ -1,0 +1,1 @@
+pytest-allure-adaptor test test allure-pytest def code alt step step sever sever environ class report countri host assert stori stori case case statu bar automat target

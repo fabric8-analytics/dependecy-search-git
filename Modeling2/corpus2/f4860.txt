@@ -1,0 +1,1 @@
+ipcalc module-allows ip-subnet cidr

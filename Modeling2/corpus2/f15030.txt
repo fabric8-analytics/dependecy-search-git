@@ -1,0 +1,1 @@
+pylast python interface last fm libre lastfm music librefm scrobble scrobbler scrobbling tests testing test supports support python-interface compatible network networks-like examples example services simple

@@ -1,0 +1,1 @@
+sqlize-pg sql query builder sql-query queries methods method argument arguments introduction sqlize selecting select-looks look main inserts inserting clauses clause tables files deletion deleting names named-placeholders placeholder supports support todo-reporting report way

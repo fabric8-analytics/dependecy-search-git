@@ -1,0 +1,1 @@
+ldappool default connector-pool connector ldap connection connect connection connect max uri uris separate useful use us configurable timeouts timeout transparent

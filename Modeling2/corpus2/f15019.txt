@@ -1,0 +1,1 @@
+django-autoslug-iplweb django field slug auto unique transliteration in version use useful python examples example lesser note licensing license software free preserve

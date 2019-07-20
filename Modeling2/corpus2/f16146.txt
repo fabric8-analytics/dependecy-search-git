@@ -1,0 +1,1 @@
+bme680 raspberry pi temperature fix fixed gas python-code-bash library set ic bme sw installing install

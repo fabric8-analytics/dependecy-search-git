@@ -1,0 +1,1 @@
+ctypes-bitfield sample bitfield register memory cache cached ctypes-bitfield data bitfields register register cache-line byte byte tune tune access access access example line effectively cacheline turn turn behavior aug method work work turning-requests remotestruct remotestructs request request scheme implementation implementation fetch library rob-gaddi-highland performance

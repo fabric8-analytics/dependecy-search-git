@@ -1,0 +1,1 @@
+wxgoodies hotkeys dynamic-accelerator

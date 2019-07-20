@@ -1,0 +1,1 @@
+pyango-view install tool-goopytrans-supports jd-jlabs python

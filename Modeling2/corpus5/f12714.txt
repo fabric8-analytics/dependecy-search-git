@@ -1,0 +1,1 @@
+flask-social-blueprint flask social oauth authent provid exampl creat login model url requir googl code oauth-bas client setup frame limit image-demo app new demo gae like need

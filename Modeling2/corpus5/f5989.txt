@@ -1,0 +1,1 @@
+djangocms-spa run django cm project singl page applic spa djangocm partial api context python templat custom default-templ text code content mode allow set self render implement like

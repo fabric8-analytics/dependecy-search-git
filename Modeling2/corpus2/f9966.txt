@@ -1,0 +1,1 @@
+jmbo-banner jmbo banner app template-partial-adding tag serve-ads-figure-align-center-alt accepts container containing banners hotfix use contents add style-content url urls styles templates block-images image migrations photosize photosizes buttons button tests missing-migration remove ads removed-dependency code dfp list allows components create created django-compatibility

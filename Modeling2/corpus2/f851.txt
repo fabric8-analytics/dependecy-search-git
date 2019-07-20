@@ -1,0 +1,1 @@
+django-hotrunner tests django-test fixed apps app hotrunner run running runs features previously set settings setting copy copied xunit-style-xml-output integrate continuous-integration

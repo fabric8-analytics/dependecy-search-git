@@ -1,0 +1,1 @@
+nosecolor nose test color install

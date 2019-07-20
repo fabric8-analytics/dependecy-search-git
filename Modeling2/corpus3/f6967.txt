@@ -1,0 +1,1 @@
+pysynthetic code synthetic writing-python-classes-shorter class block getters

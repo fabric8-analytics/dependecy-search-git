@@ -1,0 +1,1 @@
+django-sortable-listview extension django listview provides sorting sorting sorted sort-buttons django-sortable button direction default defaults templates suggestions versions bootstrap example dev sure

@@ -1,0 +1,1 @@
+django-npm-mjs django package take care npm js es dependencies mjs browserify javascript files file setting settings set django-npm app apps module modules version versioned imported importing imports import run add transpile similar folder

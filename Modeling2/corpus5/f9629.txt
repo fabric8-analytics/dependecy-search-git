@@ -1,0 +1,1 @@
+django-next-pleas pagin page class self def view django queri

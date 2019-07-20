@@ -1,0 +1,1 @@
+pasteuwsgi uwsgi install installed python-paste-plugin reload option point points app options-address application ini plugins main hg directly port paster

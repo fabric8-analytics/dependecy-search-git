@@ -1,0 +1,1 @@
+rubber python client elasticsearch django support rubber elasticsearch requests request like models model object response-objects-responses python-client django usage clients instance instances configure document documentation configuration-http error index indexing json testing tests

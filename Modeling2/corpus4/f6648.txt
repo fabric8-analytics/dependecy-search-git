@@ -1,0 +1,1 @@
+adafruit-dht adafruit-python-dht-sensor sensor sourc black version raspberri ubuntu releases-pag make

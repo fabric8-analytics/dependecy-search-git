@@ -1,0 +1,1 @@
+django-s django email backend amazon simpl servic dkim sending-email send set manag key configuration-set deliveri option exampl complaint boto settings-py-altern bounce-complaint bounc setup record configur pydkim mail use requir file add daili stat utc report smtp verifi edg featur aw event file-cr time run features-lik easi altern getting-go check request dn creat

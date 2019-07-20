@@ -1,0 +1,1 @@
+pyperclip clipboard copy paste clip xsel xclip module modules install installed sudo usage

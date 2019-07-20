@@ -1,0 +1,1 @@
+ftptool file host subdirs-files directories directory foo connecting f returns return mirror subdir objects object connect-ftp download downloading renaming renamed rename delete-mirroring proxy proxies recursively instance working deleting higher-level like

@@ -1,0 +1,1 @@
+projectq projectq quantum-computing-alt code emul qubit qubit simul simul simul simul simul oper oper architectur compil compil compil classical-computers-emul gate-oper python program-cod classic imag imag gate thoma e-g source-softwar direct specif specif level licens program algorithm algorithm exampl exampl notat oracles-instead

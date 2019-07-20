@@ -1,0 +1,1 @@
+django-debug-toolbar-django13 template django-debug-toolbar request middleware panel panel add current-request example tag output template-paths-sql-queries-including query customize custom logging-output currently configuration signal signal include include configurable-set path file file setting set

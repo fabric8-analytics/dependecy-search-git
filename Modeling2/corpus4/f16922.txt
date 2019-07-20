@@ -1,0 +1,1 @@
+algoliasearch-django seamless integr algolia django project algolia pyalgolia search backend host cloud full text search facet search django index index set settings-restrict-index model model django algolia-search-api applic applic js tag time setup test like field field error rais json user g command command multiple-indic auto use

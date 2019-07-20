@@ -1,0 +1,1 @@
+qpth fast differentiable qp solver pytorch deep learning pytorch optimization quadratic programming machine learning qp-solver

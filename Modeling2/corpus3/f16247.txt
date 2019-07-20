@@ -1,0 +1,1 @@
+sphinxcontrib-docxbuilder sphinx extension builder docx openxml output sphinx-docx directive directive generation image python extension-generate block extension functionals function hg history file file list sphinxcontrib-docxbuilder bold-environments document-source numbered number environment set need

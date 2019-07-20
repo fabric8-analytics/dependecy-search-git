@@ -1,0 +1,1 @@
+django-adaptor csv xml django adaptor django model-inst

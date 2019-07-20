@@ -1,0 +1,1 @@
+pgextras pgextras index table tables total-indexes-size python-pgextras queries statements statement run running version update updated install installed vacuum-stats locks stat tested test namedtuples namedtuple make hit scans scan postgres option-original

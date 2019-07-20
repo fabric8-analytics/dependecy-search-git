@@ -1,0 +1,1 @@
+django-extensions-shell django-extensions-shell-alt follow documentation setup install instal django-extensions-shell-alt release release documentation changelog repository setup

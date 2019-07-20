@@ -1,0 +1,1 @@
+zodbpickl fork python pickl modul work zodb alt support constructed-data use base code string exampl load packag python-vers pickle-binari ad fix modules-adding-support supporting-c implement add data remov version bug-zodbpickle-slowpickl patch unpickl

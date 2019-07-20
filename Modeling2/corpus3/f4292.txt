@@ -1,0 +1,1 @@
+fabricio code fabric-docker registry registry command execute-following-bash-command infrastructure infrastructure service service deploy deployed tag tag deploying-container fabricio container install instal example example detailed detail image image local locally execution execute macos python build building test test test

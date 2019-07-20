@@ -1,0 +1,1 @@
+django-generate-scaffold django generate scaffold based tests contribute-propose-new-features date test-suite views installing install-add generic generate generating generated github

@@ -1,0 +1,1 @@
+django-shop-ajax files adds add shop-ajax cart urls url usage

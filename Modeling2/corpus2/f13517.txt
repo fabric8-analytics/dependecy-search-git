@@ -1,0 +1,1 @@
+libmc fast light weight memcached client c python golang lib plus cache memcache default implementation implementations implementions libmc-build server license licensed project projects supported support value values memcached-client-library memory hash hashing com thread threaded gevent environment request requests issue code douban command extremely libraries timeout

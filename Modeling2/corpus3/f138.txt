@@ -1,0 +1,1 @@
+monolithe generic extendable code generator specification rest cli python repository-contains files-containing-json-data-describing handles-git-repositories file describes vanilla

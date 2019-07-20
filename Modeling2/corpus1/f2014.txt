@@ -1,0 +1,1 @@
+flask-weixin type alt flask-weixin message-types id sender data location status

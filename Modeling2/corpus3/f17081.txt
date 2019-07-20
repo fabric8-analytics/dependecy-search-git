@@ -1,0 +1,1 @@
+versionfinder version git pip pkg resource setuptools instal install test test tests-testing git release package version python-package issue issue intend alt-github-forks-target travis distribution make return return rst change change developed development develop fork url request request repo clone usable pep pytext serialize command bug bug versionfinder tag

@@ -1,0 +1,1 @@
+django-auditlog django-auditlog release releases-make changes changed changing version versions license licensed easily idea ideas existing open opening makes pull

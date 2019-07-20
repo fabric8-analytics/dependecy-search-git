@@ -1,0 +1,1 @@
+python-dbusmock mock upower mock-objects python-dbusmock test test test d-bus method object template template methods-properties actual actually real server server self case-code session program program parameter idle-time api convenience-functions m functionality way way add useful use true timing cases-simulates like com documentation environment environment org process

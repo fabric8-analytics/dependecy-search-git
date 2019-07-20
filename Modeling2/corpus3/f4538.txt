@@ -1,0 +1,1 @@
+noaho memory text use-noaho python keywords us unicode overlapping-aho-corasick-trie cython matching-key-searches keyword-matches overlap configuration configuration license install installation char char lacking-overlap array array setup-py modify modify c payload hashtable hashtables probably insensitive boundary package branching make dict lack test short search search

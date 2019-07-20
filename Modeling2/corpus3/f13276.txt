@@ -1,0 +1,1 @@
+django-contrib-comments comment framework django model model supporting-python-added comment updated-translations support translatable translation customized-comment custom customization fix keyword migration migration migrate packaging package drop email entry

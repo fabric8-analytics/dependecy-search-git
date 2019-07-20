@@ -1,0 +1,1 @@
+copyright file licens line license-copyright comment-block templat use autodetected-specifi process quiet valu descript autodetect-languag languages-curr current block python c testing-faq

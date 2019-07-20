@@ -1,0 +1,1 @@
+django-reusableapp reusable-django-app app egg setup-pi instal egg-bas install-reusableapp set e setuptool site dir use

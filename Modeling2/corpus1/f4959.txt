@@ -1,0 +1,1 @@
+os-virtual-interfacesv2-python-novaclient-ext virtual extension

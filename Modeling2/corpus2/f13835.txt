@@ -1,0 +1,1 @@
+backports-abc backport recent additions collections abc stdlib module py python currently-provides patches patched provides provide provided abcs support requiring-patching code names based-require

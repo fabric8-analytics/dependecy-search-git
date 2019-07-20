@@ -1,0 +1,1 @@
+django-shop-configurableproduct django shop product field field admin product product set custom-set size models-cproduct model

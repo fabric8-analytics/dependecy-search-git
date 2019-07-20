@@ -1,0 +1,1 @@
+nagioscheck strives development-guidelines developer

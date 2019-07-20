@@ -1,0 +1,1 @@
+bottleneck bottleneck arrays endian numpy-array-functions function license benchmark install installed unit-tests window windows dtype dtypes gohlke et

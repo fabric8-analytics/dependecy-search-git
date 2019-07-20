@@ -1,0 +1,1 @@
+rupo poetry generation generator mode modes-sampling sample generate-model-path stress model rhyme-pattern beam

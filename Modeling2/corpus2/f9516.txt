@@ -1,0 +1,1 @@
+cloudstorage storage amazon aws s azure rackspace cloudfiles google gcs minio cloud-storage python pythonic files file support supported services service code-block add files-google driver tests test local-file python-package fix fixed fixes travis code exception set api features

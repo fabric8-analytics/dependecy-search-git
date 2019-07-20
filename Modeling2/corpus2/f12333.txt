@@ -1,0 +1,1 @@
+django-djangui djangui scripts-script default file files settings setting set users user group groupings groups ways way url command commands tasks added true django storage project-adding boolean locally local projects login-registration argparse instance registrations options option existing configuration argument

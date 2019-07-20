@@ -1,0 +1,1 @@
+azure-mgmt-containerservic model paramet features-model profil new-paramet azur cluster add-managed-clust resource-manag service-manag api api-vers breaking-chang bugfixes-fix-invalid group managedclust packag releas added-oper argument enum-typ count type class chang code preview add incorrect mgmt default http-session

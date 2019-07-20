@@ -1,0 +1,1 @@
+django-users2 django users user-model email django-users-alt password emails-passwords-validators install installed activation activate active domains com templates new automatically specified specify auth options optionally option validator migrations migrate models set setting sets settings field

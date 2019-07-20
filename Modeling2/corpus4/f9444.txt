@@ -1,0 +1,1 @@
+sphinx-autodoc-napoleon-typehint statu type type docstr docstr direct direct sphinx use-python project

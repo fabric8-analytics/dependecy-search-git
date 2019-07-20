@@ -1,0 +1,1 @@
+roguehostapd hostapd fork including wi fi attacks providing python bindings ctypes wifi hostapd python attack rogue-ap use development-version debug form developed project include beacon python-ctypes message messages

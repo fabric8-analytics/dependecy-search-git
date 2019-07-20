@@ -1,0 +1,1 @@
+gwpy package analysing characterising gravitational wave data python waves gpl license status domain providing provides friendly

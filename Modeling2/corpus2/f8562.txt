@@ -1,0 +1,1 @@
+threaded python threadpool processpool executor decorators way reduce copy paste code threading multithreading asyncio pooling development threads thread testing test tests packaged-tested versions-note automatically alt coverage shutdown manipulations decorator functions function functional usage loop package free

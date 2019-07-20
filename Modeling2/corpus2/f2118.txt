@@ -1,0 +1,1 @@
+plim mako templates ruby slim jade pyjade pyramid flask haml pyhaml html fixed hotfix-fix-incorrect attributes version-feature added unicode blocks block values-change line lines newlines newline sys python requirements requires require html-mako-markup preprocessors longer error bugfix tag parser public explicit expanded

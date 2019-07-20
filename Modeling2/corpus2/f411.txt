@@ -1,0 +1,1 @@
+nolds nonlinear dynamical system chaos lyapunov hurst exponent rescaled range dfa detrended fluctuation analysis sample entropy correlation dimension measures measure exponents lyapunov-exponent et sample-entropy functions numpy-based code contact stationary term time-series random-numbers matplotlib

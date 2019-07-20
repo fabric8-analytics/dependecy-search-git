@@ -1,0 +1,1 @@
+easysetup easy setup setuptools create creates create create directory documentation py build default usage setup requirement file file license license reference-rst easysetup inside code-bash shippable option install installation application application assumes test source pyexe branch

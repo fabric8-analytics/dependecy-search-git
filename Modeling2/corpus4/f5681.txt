@@ -1,0 +1,1 @@
+edc-report report class use reportlab django edc reportlab edc reportlab

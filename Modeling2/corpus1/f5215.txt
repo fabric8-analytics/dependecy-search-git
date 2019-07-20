@@ -1,0 +1,1 @@
+django-jsonschema django jsonschema converts django forms json schema compatibile representations django json schema django schema

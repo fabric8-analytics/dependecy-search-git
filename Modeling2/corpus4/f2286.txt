@@ -1,0 +1,1 @@
+sanic-jinja2 support support jinja sync app app async flash flash request need

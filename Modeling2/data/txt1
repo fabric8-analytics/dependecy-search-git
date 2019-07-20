@@ -1,0 +1,30 @@
+11
+
+
+5
+I've built up a large database of banks in MongoDB. I can easily take this information and create indexes with it in whoosh. For example I'd like to be able to match the bank names 'Eagle Bank & Trust Co of Missouri' and 'Eagle Bank and Trust Company of Missouri'. The following code works with simple fuzzy such, but cannot achieve a match on the above:
+
+from whoosh.index import create_in
+from whoosh.fields import *
+
+schema = Schema(name=TEXT(stored=True))
+ix = create_in("indexdir", schema)
+writer = ix.writer()
+
+test_items = [u"Eagle Bank and Trust Company of Missouri"]
+
+writer.add_document(name=item)
+writer.commit()
+
+from whoosh.qparser import QueryParser
+from whoosh.query import FuzzyTerm
+
+with ix.searcher() as s:
+    qp = QueryParser("name", schema=ix.schema, termclass=FuzzyTerm)
+    q = qp.parse(u"Eagle Bank & Trust Co of Missouri")
+    results = s.search(q)
+    print results
+gives me:
+
+<Top 0 Results for And([FuzzyTerm('name', u'eagle', boost=1.000000, minsimilarity=0.500000, prefixlength=1), FuzzyTerm('name', u'bank', boost=1.000000, minsimilarity=0.500000, prefixlength=1), FuzzyTerm('name', u'trust', boost=1.000000, minsimilarity=0.500000, prefixlength=1), FuzzyTerm('name', u'co', boost=1.000000, minsimilarity=0.500000, prefixlength=1), FuzzyTerm('name', u'missouri', boost=1.000000, minsimilarity=0.500000, prefixlength=1)]) runtime=0.00166392326355>
+Is it possible to achieve what I want with Whoosh? If not what other python based solutions do I have?

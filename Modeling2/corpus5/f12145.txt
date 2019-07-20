@@ -1,0 +1,1 @@
+social-auth-cor openid authent version document implement

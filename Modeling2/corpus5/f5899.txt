@@ -1,0 +1,1 @@
+django-filt filter instal install-git baskoopman

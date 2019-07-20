@@ -1,0 +1,1 @@
+heroku-bouncer oauth default heroku-bouncer session session token-default user user rack-middleware api use us data token version versions-require secret secret require require request request strictly resource requests-ruby configure configuration secure security lambda authenticate authentication-e get

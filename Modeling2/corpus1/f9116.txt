@@ -1,0 +1,1 @@
+brewer2mpl alt colors color-palettes palettable target colors color-maps map python useful use containing keyed key objects brewermpl future

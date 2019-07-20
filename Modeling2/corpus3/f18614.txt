@@ -1,0 +1,1 @@
+pyface pyface trait capable windowing framework python trait qt wxwidgets pyqt wxpython gui framework gui pyface-traits toolkit wxpython code editor editor pyside

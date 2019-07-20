@@ -1,0 +1,1 @@
+azure-mgmt-containerinst model model paramet group oper new-paramet added-operation-group features-add microsoft-azur manag management-api container-instance-cli chang chang api breaking-chang fix class enum-typ argument argument type instanc complet complet metadata packag http-session code valu valu imag imag

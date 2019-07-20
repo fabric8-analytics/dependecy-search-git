@@ -1,0 +1,1 @@
+django-ckeditor-improv ckeditor ckeditors-inlin admin imag py css inlin

@@ -1,0 +1,1 @@
+django-partial-index index add-uniqu support add multipl row fix databas modelform model class-bas sqlite-databas job tabl usag postgr kept class queri deprec condit requir ad gener definit make runsql

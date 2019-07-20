@@ -1,0 +1,1 @@
+xcffib xcb xpyb cffi x windows support supported string strings xcb-proto generated generator error tests test requests request functionality function connection-errors python developers development uses use packed pack trivial synthtic headers additional additionally e code checked need-libxcb

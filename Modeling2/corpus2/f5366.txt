@@ -1,0 +1,1 @@
+minion hello-world-versioning major-version-bump-contributing uses contribute specifically

@@ -1,0 +1,1 @@
+django-jcrop django-jcrop feature thumbnails thumbnail

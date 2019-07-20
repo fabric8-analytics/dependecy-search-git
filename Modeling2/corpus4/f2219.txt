@@ -1,0 +1,1 @@
+pyramid-mail pull support support python sending-email test file code content-send-email messag messag testing-us object add requir requir allow allow drop drop encod default-sendmail pyramid option option option attach attach attach send depend depend depend depend manag manag manag ad includ includ includ header header except use issu set set text imail handl handl handl

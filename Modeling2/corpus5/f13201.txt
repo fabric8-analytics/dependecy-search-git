@@ -1,0 +1,1 @@
+inmanta-sphinx sphinx domain inmanta doc document inmanta-sphinx-extens extens option sphinxcontrib-inmanta

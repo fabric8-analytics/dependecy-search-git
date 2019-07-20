@@ -1,0 +1,1 @@
+intervals intervals python code objects-interval-initialization open method formats format use uses factory-methods ranges range endpoints endpoint coercion initialized initializing given closed initialize-half operators-operator rules intervals

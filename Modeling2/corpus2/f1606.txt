@@ -1,0 +1,1 @@
+baresql sqlite sql list lists python pypi users tables table basic bsqldf q dataframes dataframe uninstall pip installation install import support pandas objects-list versions-installation version fix py cte example examples true-bsqldf object

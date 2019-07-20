@@ -1,0 +1,1 @@
+guesslang languages-c detects detection detect installation install language web stable source-code python guessing documentation shell windows tensorflow java ruby-rust-sql-scala-shell

@@ -1,0 +1,1 @@
+singleton-decorator singleton decorator unittest test test-runs unit-tests object object wrapper code instance require-separate-instances singleton run run simple test test test code-block decorate decorate class class singleton-decorator object object wrapper easily separate

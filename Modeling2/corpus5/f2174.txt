@@ -1,0 +1,1 @@
+tatsu gener python parser grammar variat ebnf librari walker ast licens input left languag compil rule ritchi github request enhanc code-block-python peg speer paul algorithm text keyword pars program fury-circleci pypi generated-ast basel-shishani donat packrat dragon issu cyclomatic-complex siemer-sjbrownbitbucket warth-et doc changelog string

@@ -1,0 +1,1 @@
+pyresis python package ship resistance propulsion power estimation metres estimate-propulsion dimensions dimension

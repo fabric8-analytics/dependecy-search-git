@@ -1,0 +1,1 @@
+mplcursors install pip matplotlib-pypi mplcursors-interactive matplotlib pytest

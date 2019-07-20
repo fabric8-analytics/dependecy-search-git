@@ -1,0 +1,1 @@
+elasticsearch5 license license python-elasticsearch-client connection like use pythonic document documentation define define nodes-persistent-connections persistence document-data dsl common software pluggable language-governing level

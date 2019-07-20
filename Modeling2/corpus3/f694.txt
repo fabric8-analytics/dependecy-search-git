@@ -1,0 +1,1 @@
+dic development design ioc di dic support instance injection inject instances-lifetime thread relationship class-custom realise python class component component

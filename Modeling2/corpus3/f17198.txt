@@ -1,0 +1,1 @@
+django-tag-parser micro library easily write custom django template tag django django template tag template-tags django-tag template code-block custom class class parse parse syntax python like function functionality dynamically dynamic contribute contribution needed-use need

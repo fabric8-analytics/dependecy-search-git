@@ -1,0 +1,1 @@
+channel developer friendly asynchrony django security django-channels channel new websocket support underlie start guaranteed effort deprecate deprecation-policy task termination

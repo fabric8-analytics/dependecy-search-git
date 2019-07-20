@@ -1,0 +1,1 @@
+sparsesvd singular valu decomposit svd spars numpi sparsesvd-spars packag matrix mat scipi x semant wrapper need csc kardo instal

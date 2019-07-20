@@ -1,0 +1,1 @@
+pyjson5 data high cpython escaped-sequences- ampersand contain valid-json serial returns-ascii-data

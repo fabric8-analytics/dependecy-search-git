@@ -1,0 +1,1 @@
+django-nested-inlin django fix fix instal instal deprec

@@ -1,0 +1,1 @@
+mapnik2 buildout instal mapnik-bind librari deploy pycairo recipe-minitag path python refresh compil releas environ egg say config support standart

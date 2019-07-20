@@ -1,0 +1,1 @@
+gpmap python api managing genotype phenotype map data genotype phenotype maps networkx evolution genetics object objects installation install example examples genotype-phenotype run way gpmap fro-development developers

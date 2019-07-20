@@ -1,0 +1,1 @@
+zorg-emic python driver controlling emic text speech module zorg emic emic computing driver getting-started version status

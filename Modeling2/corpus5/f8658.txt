@@ -1,0 +1,1 @@
+opentimestamps-cli opentimestamp client timestamp bitcoin cryptographi provides-timestamp calendar file git-commit compat verifi develop use commit provid backward-compatible-way issu opentimestamps-client-command term e digest backend gitpython http unicod commit-mak ot support tool node backward way reveal requir make

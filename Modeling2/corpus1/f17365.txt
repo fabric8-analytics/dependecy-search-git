@@ -1,0 +1,1 @@
+django-cache-utils cached caching django-cache-utils decorator decorated invalidation invalidated supports support memcached gracefull parameter hash function o effect

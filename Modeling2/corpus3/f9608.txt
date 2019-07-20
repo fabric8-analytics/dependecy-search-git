@@ -1,0 +1,1 @@
+django-easycart django shopping cart basket trolley easycart cart django optional-requirements-python pull customizable option clone components-views source venv tox session easycart cart session resource optional issue customizable

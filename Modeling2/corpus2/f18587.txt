@@ -1,0 +1,1 @@
+django-shannon django media s storage

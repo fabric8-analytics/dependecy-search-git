@@ -1,0 +1,1 @@
+kubernetes swagger openapi kubernetes

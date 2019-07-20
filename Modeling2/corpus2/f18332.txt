@@ -1,0 +1,1 @@
+django-gravatar2 django gravatar avatar template-code templates-configuring py-basic-usage-use configured gravatars https contributing-feel secure helper defaults default

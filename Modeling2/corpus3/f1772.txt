@@ -1,0 +1,1 @@
+foursquare foursquare api pythonic endpoint request request-venues code foursquare-python endpoint-coverage user user venue test test test api access-authenticated method oauth todo raw token license authentication-redirect checkins checkin redirect feel foursquare

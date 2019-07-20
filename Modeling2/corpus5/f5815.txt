@@ -1,0 +1,1 @@
+django-uwsgi-cach alt statu imag target-requir set badg requir rais bsd-licens django target support supported-vers katz timeout travis-appveyor version cach

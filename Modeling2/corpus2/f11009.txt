@@ -1,0 +1,1 @@
+appdirs small python module determining appropriate platform specific dirs e g user data dir application directory log cache names app-use win version versions issue issues dirs-appdirs windows unix pr fixes-fix support add case py paths-supports user-data behaviour xdg mac make roaming use optional option default

@@ -1,0 +1,1 @@
+pyaib easi use python framework use gevent write irc bot bot bot pyaib simpl plugin plugin exampl licens licens bit

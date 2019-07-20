@@ -1,0 +1,1 @@
+djangocms-table django cms plugin creating tables requires contains

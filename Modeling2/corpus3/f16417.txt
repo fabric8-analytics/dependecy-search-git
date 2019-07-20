@@ -1,0 +1,1 @@
+metacsv metacsv metacsv attribute attribute variable variable code data-reading improve yaml format format format like-syntax coordinate allow allows allow python documentation update conversion conversion update-names name eventually special automatic header header csv separation separate xarray container container automatically-strip relic operation strip version read

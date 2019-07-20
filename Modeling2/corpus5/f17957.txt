@@ -1,0 +1,1 @@
+django-queued-storag provid proxi django storag backend allow upload file local eventu serv remot alt configur target

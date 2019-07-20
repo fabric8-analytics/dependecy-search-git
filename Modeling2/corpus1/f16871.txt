@@ -1,0 +1,1 @@
+pywinpty python bindings winpty pseudo terminal library python winpty pty console wrapper bindings windows winpty pty pseudoterminal pseudotty pywinpty-python package compile compiler compilation following-packages installation install installing library conda w-installed environment follows follow winpty contribution input question-backers outputs output-pipes

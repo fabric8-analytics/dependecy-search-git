@@ -1,0 +1,1 @@
+django-utils2 utility django-utils slug base source-directory automatic travis library

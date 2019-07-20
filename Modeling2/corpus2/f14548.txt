@@ -1,0 +1,1 @@
+pgnparser chess game pgn parser python pgn-parser tags games file huge-files termination white

@@ -1,0 +1,1 @@
+rqalpha extendable replaceable python algorithmic backtest trading framework supporting multiple securities quant python backtest finance ricequant ta lib rqalpha trading stock futures rqalpha alt mod sys version tushare code rqdata api

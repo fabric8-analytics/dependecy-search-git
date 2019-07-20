@@ -1,0 +1,1 @@
+theastrologer horoscope api installation installing-dependencies features

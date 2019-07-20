@@ -1,0 +1,1 @@
+tmuxipi tmux config-curr instal

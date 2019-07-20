@@ -1,0 +1,1 @@
+gui2py guipy desktop sample minimal structure platform file kiss building include include git tools-designer installation-instructions gui-framework python

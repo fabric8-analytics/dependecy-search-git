@@ -1,0 +1,1 @@
+django-prices django field price module python price money currency currency django django-prices field template template localize locale

@@ -1,0 +1,1 @@
+xstatic-patternfly patternfly xstatic package package packaging easy-install

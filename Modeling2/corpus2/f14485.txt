@@ -1,0 +1,1 @@
+mozdef-client mozdef client library events msg sending-event severity send mozdefevent message messages generic certificate certificates test testing syslog set setting summary aws-support code details-hostname sqs supports previously previous pytz log tags-tag category python

@@ -1,0 +1,1 @@
+moretool overli reusabl essenti python tool itertool functool oper collect iter iter function filter map repeat queri tupl list set dict simpledict frozen struct dictset dictzip simpledictset simpledictzip camel decamel isidentifi identifi python setup

@@ -1,0 +1,1 @@
+skeleton mai improve var vars example examples method methods development added py variables variable basic changes add new string project python fix user time pip distribute package virtualenvwrapper

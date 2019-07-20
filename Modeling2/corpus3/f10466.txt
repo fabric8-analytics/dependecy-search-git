@@ -1,0 +1,1 @@
+sphinx-nameko-theme version theme sphinx license license nicer

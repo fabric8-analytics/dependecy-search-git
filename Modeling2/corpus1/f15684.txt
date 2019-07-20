@@ -1,0 +1,1 @@
+horizon openstack dashboard horizon follows standard deprecation release horizon-openstack developers development based-project docs projects building build specifications building build openstack test tests py uses use docs doc locally sh django-based local-development run running settings set tracking packages html sphinx node

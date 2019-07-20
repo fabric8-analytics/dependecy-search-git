@@ -1,0 +1,1 @@
+django-factory value test test default-values model-attributes models-creation-methods django-factory field field generate generate generate generator generator generates generation instance instance method particular user user class class currently admin active-people explicitly prefers foreignkeys allow longer inter attribute pas passing pass instead know future correctly

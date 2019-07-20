@@ -1,0 +1,1 @@
+pyrpo hg git bzr svn generators generate-reports report shell-command commands wes bug bld-makefile print-help parse parsing py environment minimal

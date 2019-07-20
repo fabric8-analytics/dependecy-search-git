@@ -1,0 +1,1 @@
+xstatic-jsencrypt jsencrypt xstatic packaged package packaging easy-install

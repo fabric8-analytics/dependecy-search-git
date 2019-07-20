@@ -1,0 +1,1 @@
+recsql utilities numpy sqlite sql csv numpy q sqlarray docs-recsql doc rec sqlarrays-r arrays array documentation sql convenience problems installed install installation simple-implementation

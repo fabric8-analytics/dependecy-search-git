@@ -1,0 +1,1 @@
+zope-componentvocabulari zope compon architectur vocabulari add app test releas configur decor

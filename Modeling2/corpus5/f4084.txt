@@ -1,0 +1,1 @@
+pyglobalshortcut shortcut hotkey qxtglobalshortcut libqxt qt pygs-alt licens test pyqt environ packag binary-packag futur py python instal pypi-vers c platform-glob ctrl

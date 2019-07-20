@@ -1,0 +1,1 @@
+django-permissions-widget django permiss widget admin user requir backward-compat autocomplet line

@@ -1,0 +1,1 @@
+tnetstring netstring serialize alt status prefixed extra follow note programmer translate encodes encode encode file version serialization hello encodes encode encode tnetstring-data netstring typed-netstrings type like level check base python function tnetstrings syntax

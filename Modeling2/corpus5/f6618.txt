@@ -1,0 +1,1 @@
+zope-configur zope configur zcml test automated-test packag modul python-drop chang support allow add modules-list doctest except remov run change-act instal list attribut deprec use fix document jython ad compat name stop string make util version direct directives-us autom user set previous

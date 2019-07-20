@@ -1,0 +1,1 @@
+fix-yahoo-finance panda alt-python pythonic finance-market-data use us yfinance software code multiple ticker ticker backward-competability

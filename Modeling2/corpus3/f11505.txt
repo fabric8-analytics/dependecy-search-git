@@ -1,0 +1,1 @@
+brazilnum brazil brasil cnpj cei cpf pi pasep cep identifier identify-firms validate validation code number number correct correct correctly establishment cnpj-cei-cpf function function firm check-digit random integer integer digit zero note br identification-numbers-python

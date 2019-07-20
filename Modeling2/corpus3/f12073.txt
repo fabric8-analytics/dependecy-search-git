@@ -1,0 +1,1 @@
+bugs-everywhere bug bug git root generate sphinx generated-files get directory version documentation numpydoc bazaar

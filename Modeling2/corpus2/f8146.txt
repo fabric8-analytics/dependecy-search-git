@@ -1,0 +1,1 @@
+dynts python package timeseries analysis manipulation timeserie r test coverage depending dependencies dependent dsl running-tests numpy ply packages status-pypiversion-master end ends requirements requires rpy types type cython run backend-depending server versions version backends

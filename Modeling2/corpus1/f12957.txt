@@ -1,0 +1,1 @@
+pyrestcli pyrestcli model api rest-apis object objects data-models test tests authentication like base based instead list let django create creating creates created custom straightforward

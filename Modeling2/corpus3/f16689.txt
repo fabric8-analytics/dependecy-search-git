@@ -1,0 +1,1 @@
+webassets-webpack webpack webassets django asset pyramid asset webpack asset file require config license filter webassets

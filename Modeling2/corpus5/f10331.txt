@@ -1,0 +1,1 @@
+django-prettyjson django prettyjson json jqueri configur enabl line-configur standardjson object objects-dict tag depend fix widget-fix ad widget initi pars css string allow

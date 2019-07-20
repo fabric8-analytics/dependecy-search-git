@@ -1,0 +1,1 @@
+mbdata code musicbrainz-database-tool schema sh data solr schema-upgrad test relationship map api model creat structur instal run mbslave development-serv key set python setup badg develop start

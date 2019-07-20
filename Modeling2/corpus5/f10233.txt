@@ -1,0 +1,1 @@
+docrep docstr doc napoleon numpi restructur text target image-alt-document python-modul document conda support

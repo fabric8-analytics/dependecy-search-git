@@ -1,0 +1,1 @@
+dd bdd binari decis diagram boolean networkx dot variabl file instal libraries-cudd wheel-fil python bdd-comput cython-bind function functions-defin wheel comput defin bdds-multi librari useful-function compil level parser build environ garbag requir use option line licens current binary-decision-diagram cython modules-impl implement

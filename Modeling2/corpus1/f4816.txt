@@ -1,0 +1,1 @@
+django-sorting-bootstrap sort sorts sorted django-sorting-bootstrap view views basic-usage headers header mini field fields tag tags

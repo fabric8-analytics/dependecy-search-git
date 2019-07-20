@@ -1,0 +1,1 @@
+stackdistil openstack notif event extract transform object condens plugin data plugin-map python-dictionari type config document glob basic map class

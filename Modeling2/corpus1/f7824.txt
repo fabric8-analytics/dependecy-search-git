@@ -1,0 +1,1 @@
+iso-639 pycountry languages iso iso iso code codes alt compatibility compatible attribute attributes version-gh license pypi status external

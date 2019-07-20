@@ -1,0 +1,1 @@
+alembic-autogenerate-enum migrat postgresql enum enum g private-db downgrad

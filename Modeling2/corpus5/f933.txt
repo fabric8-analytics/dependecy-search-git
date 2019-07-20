@@ -1,0 +1,1 @@
+atomicwrit file python-atomicwrites-atomic-fil api base parameter-windows-support flag free atom movefileex use internal-buff

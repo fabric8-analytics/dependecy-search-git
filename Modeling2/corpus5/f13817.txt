@@ -1,0 +1,1 @@
+scielo-django-extens scielo django extens dev extensions-common

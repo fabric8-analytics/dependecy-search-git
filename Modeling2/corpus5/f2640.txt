@@ -1,0 +1,1 @@
+py-flag flag bit set bitfield bool arithmet flags-typ code python python-defin class defin type alt valu data function instanc pickl integ like-function follow auto-assign modul attribut oper assign object singl e method error verbos onlin use properti member note variabl serial separ iter combin block string signatur classmethod introspect

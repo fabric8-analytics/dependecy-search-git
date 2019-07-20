@@ -1,0 +1,1 @@
+snap-plugin-lib-pi snap telemetri plugin metric snap-plugin writing-plugin flag valu diagnost diagnostics-custom-config use buffer superclass contain unload collect version write collector architectur grpc type framework telemetry-framework

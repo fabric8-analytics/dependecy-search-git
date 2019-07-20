@@ -1,0 +1,1 @@
+ucsmsdk python sdk cisco ucsm version documentation-instal uc api instal support fix oper method server event add xml object simplified-ev handl queri simplifi respons array releas test object-meta use ad get runtime-memori connect remov run b run-multipl newer check

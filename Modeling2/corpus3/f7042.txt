@@ -1,0 +1,1 @@
+artifactory python client artifactory file file disable disabled directory cert-verification artifactory-build python restrict pas match global globally artifact artifact package

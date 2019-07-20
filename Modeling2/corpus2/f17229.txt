@@ -1,0 +1,1 @@
+ploy-ec2 plugin ploy provision amazon ec instances installation installed install macro volumes volume macros-fingerprint-verification-automatic optional options console recipe variables instance automatically fschulze ec-ploy-installation fix fixed macros-fingerprint b error ssh checking check-status set settings moved stop stopped start started code

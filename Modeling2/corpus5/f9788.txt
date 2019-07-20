@@ -1,0 +1,1 @@
+optcomplet complet bash-complet script specifi parser-specifi string

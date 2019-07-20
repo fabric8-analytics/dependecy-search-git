@@ -1,0 +1,1 @@
+pygeoif gi spatial wkt geometri point points-polygon attribut return python geojson-lik instanc shape area valu featur object zero ring linear-r linear exampl test space polygon line dictionari class add orient instances-geometrycollect interfac ci jzmiller sign

@@ -1,0 +1,1 @@
+pyscf library libraries-libcint compile compilation compiler e-g document documents solver higher documentation-installation mkl sun module installed installing install set settings setting python framework hpy lib file packages package cmake optimizer pyberny error guide manner j problems problem optimized-integral release releases f-integrals x

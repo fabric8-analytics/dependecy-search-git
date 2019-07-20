@@ -1,0 +1,1 @@
+social-auth-app-flask flask social-auth-flask version project

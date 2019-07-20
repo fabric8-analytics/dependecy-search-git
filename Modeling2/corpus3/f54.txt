@@ -1,0 +1,1 @@
+distob object numpy-arrays array distribute distribute remote-objects engine ipython-parallel-engines proxy class class pypi make make python ndarrays ndarray index cluster allows allow dict pre feature method method depend depends ordinary ufuncs ufunc

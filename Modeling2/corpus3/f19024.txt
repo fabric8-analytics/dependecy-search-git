@@ -1,0 +1,1 @@
+adafruit-libraries adafruit include python-code warranties-including source copyright strict reserve provide provide indirect-incidental-special damage damage kevin git

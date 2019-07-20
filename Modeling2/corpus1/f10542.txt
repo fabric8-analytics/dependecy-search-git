@@ -1,0 +1,1 @@
+everest rest web wsgi pyramid python database framework backends backend installation-installing installer install resource resources requests request pylint file test domain rest core standard configuration configuring resource resources installation-installing installer-install data framework test testing-file requests request layer domain rest standard-crud complex

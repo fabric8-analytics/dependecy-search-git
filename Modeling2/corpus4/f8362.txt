@@ -1,0 +1,1 @@
+dj-sso-client sso login applic set set set option storag default api user-model-cod store store store add provid python exampl local local

@@ -1,0 +1,1 @@
+python-lambda-local run aws lambda function local machine python virtualenv python-lambda directory command machine-prepare-development file-event version-run lambda-local context command-code sample-make arguments

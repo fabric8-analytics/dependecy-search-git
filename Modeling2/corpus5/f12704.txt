@@ -1,0 +1,1 @@
+django-datatables-view django datat view datatable-column column return filter views-pi code filter-queryset method json use definit list

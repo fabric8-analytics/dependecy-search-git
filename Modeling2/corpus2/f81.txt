@@ -1,0 +1,1 @@
+django-mini django databases database-adds python command alternatively development running-management-commands module developers-run use admin

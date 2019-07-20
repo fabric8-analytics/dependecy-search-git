@@ -1,0 +1,1 @@
+ubi-read ubi ubif file file ubi block script script imag ubifs-imag path block-includ option option extract-data set set set output extract extract directori error error includ includ run run list-copi p offset-specifi errat assum node node remain latest e-g verbos use use script

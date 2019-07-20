@@ -1,0 +1,1 @@
+navigator create-simple-interactive-command-line-tools-example example navigator

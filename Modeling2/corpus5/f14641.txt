@@ -1,0 +1,1 @@
+django-tastypie-hmacauth django tastypi authent hmac sha server valu request api client hash data parameter-value-public-key secret user-id like hmac-authent django-tastypi parameters-ord python order m installation-cod time accept inform instal hashlib import sent

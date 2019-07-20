@@ -1,0 +1,1 @@
+fastkml gi kml googl map openlay alt version featur differ earth fast shape dateutils-pip pygeoif support geometri add alt-test test handl supports-python ian-le document lxml fix tessel travi valu namespac ifi py case remov human tox

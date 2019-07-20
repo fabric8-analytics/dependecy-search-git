@@ -1,0 +1,1 @@
+django-fernet-field fernet symmetr encrypt django model field alt django-fernet pypi pypi-contribut django alt lookup get support support version work work pypi pypi

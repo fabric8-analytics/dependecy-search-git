@@ -1,0 +1,1 @@
+pymavlink python mavlink interface utility license lesser-general-public pymavlink use mdef-usage documentation directory parameter python-library use useful

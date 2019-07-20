@@ -1,0 +1,1 @@
+django-html5-boilerplate python django django-projects hbp new-project file templates template including included include related relative dhbp static-files javascript-includes urls installation install probably html-boilerplate fabric-scripts licensing license script

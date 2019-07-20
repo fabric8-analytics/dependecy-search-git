@@ -1,0 +1,1 @@
+django-djconfig djconfig global works define regular

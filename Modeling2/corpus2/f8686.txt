@@ -1,0 +1,1 @@
+kallikrein matchers matcher specs spec-classes instance instances class typed type types logical logic messages message modules matched match matches subclassing subclasses functional function looks special possible framework containing contain expectations expectable expects strings string uses use impure-version checks checked check simply

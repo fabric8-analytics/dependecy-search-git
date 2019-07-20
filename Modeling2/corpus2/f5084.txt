@@ -1,0 +1,1 @@
+django-simple-audit revisions versioning history audit thanks django tracking dinie audited auditing installation install installed settings set py add improve-tests improved code mm use

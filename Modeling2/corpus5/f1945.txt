@@ -1,0 +1,1 @@
+netifac address interfac netifaces-linux addr network-interfac en gateway python configur lo configured-rout default ethernet rout instal develop sens result style valu good like tar system mac regular manner obviou ipv buildstatu network winbuildstatu number hope version

@@ -1,0 +1,1 @@
+django-aggtrigg aggregat trigger count min maxdatabase index postgresql django create-triggers import apps app created-use add apple manage new-manager table models model

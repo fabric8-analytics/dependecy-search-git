@@ -1,0 +1,1 @@
+easyprocess subprocess interfac python-subprocess program stop-program stop run stdout replac support exampl print timeout version-support document string version code ms sh chain localhost

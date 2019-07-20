@@ -1,0 +1,1 @@
+coverage-env-plugin environment configuration

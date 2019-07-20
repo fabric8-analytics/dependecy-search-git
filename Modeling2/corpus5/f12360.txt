@@ -1,0 +1,1 @@
+python-rapidjson python wrapper around rapidjson json serial parser librari code support look encod version like status-build lele immedi licens ken copyright bash target fix valid handl new instanc use install-cod allow coding-utf like-inst valu document object configur instal float-valu base wheel arbitrary-encod float implement miyaguchi-minor start

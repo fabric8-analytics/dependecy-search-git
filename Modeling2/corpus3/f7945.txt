@@ -1,0 +1,1 @@
+fabulaws python tool create interact ephemeral aws resource fabulaws application-simple-example let simply

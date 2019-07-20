@@ -1,0 +1,1 @@
+django-cor collect django util compliment develop email py tools-modul documentation-view

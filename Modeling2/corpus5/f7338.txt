@@ -1,0 +1,1 @@
+jsonlib2 json fix ad detect python improv string error object modul correct correctli support encod valu allow escap unicod use deserializer-detect corrects-seri object-impl decod error-report remov serial sequenc test implement data api type domain report rais prevent memori deseri map default jsonlib order non add invalid

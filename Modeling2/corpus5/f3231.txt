@@ -1,0 +1,1 @@
+edc-visit-schedul defin data collect schedul crf requisit clinic trial manag system research edc health informat django visit python code visit-schedule-add-data-collection-schedul model contain

@@ -1,0 +1,1 @@
+pgmagick graphicsmagick imagemagick graphics boost image python package packages example version pgmagick support supported imagemagick macosx animated

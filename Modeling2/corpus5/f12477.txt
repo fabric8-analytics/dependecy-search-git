@@ -1,0 +1,1 @@
+ploy-ans plugin integr ansibl ploy ansible-ploy playbook playbook-set encrypt option group instal default id instanc set file-encrypt includ key task recip command return use role separ file new fschulze-fix ansible-ploy-inventory-instal add host playbooks-directori b plugin-provid ad hosts-includ variabl code path method provid allow connect fix yml list configur support work

@@ -1,0 +1,1 @@
+pytest-mock thin wrapper around mock package easy use py test pytest mock pytest mock test-code-block-python mocked mock mock test method method pytest-mock use useful us assertion assert version module console assertion-errors internal-traceback catch introspection confuse patching-api function function functionality like black undo e underlie undoing-patches stub

@@ -1,0 +1,1 @@
+nefertari nefertari rest api framework sitting top pyramid elasticsearch python pyramid web wsgi bfg pylons pyramid rest api elasticsearch api

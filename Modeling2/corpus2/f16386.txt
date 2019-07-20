@@ -1,0 +1,1 @@
+bcdata gis geospatial data bc databc download britsh columbia cli data-available wfs downloads tools bcdata-python package columbia-geographic usage requires required dataset provides filter-provided module

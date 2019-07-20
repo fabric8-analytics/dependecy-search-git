@@ -1,0 +1,1 @@
+normalize type typed classes-types python-objects api properties-attributes property-attribute class data object normalize normal normally normalization coercion feature feature declarative-meta collection collection function rich-comparison constructor constructor basic database marshal marshal marshal optionally optional level level call

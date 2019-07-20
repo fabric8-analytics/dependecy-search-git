@@ -1,0 +1,1 @@
+libthumbor imaging face detection feature thumbor thumbnail imagemagick pil opencv extension

@@ -1,0 +1,1 @@
+recordclass namedtuple structclass arrayclass class recordclasses object objects supports support supported add memory like-classes-mutable default based fixed python instances instance new-base type types typing changes-fix creation create created creating issue make sizeof change example-quick n-p protocol special structclasses reference cycles cycle fields field fast

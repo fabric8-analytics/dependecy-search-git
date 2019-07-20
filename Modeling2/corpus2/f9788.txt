@@ -1,0 +1,1 @@
+optcomplete completions bash-completion script specify parser-specifies strings

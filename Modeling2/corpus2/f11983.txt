@@ -1,0 +1,1 @@
+edc-navbar simple navbar class clinicedc edc projects clinical trial management system navbars travis-codecov-downloads-edc-navbar installation template

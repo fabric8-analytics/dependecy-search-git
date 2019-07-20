@@ -1,0 +1,1 @@
+gocardless-pro gocardless directdebit payments sepa bacs code pro-python-client api bank badge customers customer mandates mandate tested tests test access

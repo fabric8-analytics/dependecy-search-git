@@ -1,0 +1,1 @@
+wagtail-them site specif theme loader django wagtail templat set exampl default myapp config defin

@@ -1,0 +1,1 @@
+django-react-templatetag quick way add react compon django templat django reactj django templat compon compon django-react test test contribut contribut includ get licens build-status-pypi-version-figure-alt-django

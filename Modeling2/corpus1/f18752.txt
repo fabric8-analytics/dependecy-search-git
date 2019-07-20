@@ -1,0 +1,1 @@
+python-mpd2 mpd commands command python-mpd documentation document building support supported latest-source installing install build-status distributions package packages protocol joerg simply enhanced-features porting-txt

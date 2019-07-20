@@ -1,0 +1,1 @@
+django-ckeditor-filebrowser-filer django filer based ckeditor filebrowser file manager python alt added url urls fixed fix versions version install installed add documentation status license

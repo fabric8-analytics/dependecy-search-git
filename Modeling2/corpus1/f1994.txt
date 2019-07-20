@@ -1,0 +1,1 @@
+wtforms flexible forms validation rendering library python wtforms python html validation forms provide provided provides wtforms framework frameworks flask library libraries integration integrations integrating integrates test forms form load models web db django crash

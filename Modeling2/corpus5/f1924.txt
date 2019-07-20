@@ -1,0 +1,1 @@
+siread sportid orient bosco si-set card station punch sicard control sireaderreadout mode protocol sireadercontrol fals class event

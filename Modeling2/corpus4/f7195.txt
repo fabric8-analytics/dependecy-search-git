@@ -1,0 +1,1 @@
+pyepic python-interfac devic devic simple-set camera-amplifi persistent-connect caget write

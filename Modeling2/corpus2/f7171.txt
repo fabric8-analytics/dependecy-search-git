@@ -1,0 +1,1 @@
+sphinx-jsonschema sphinx json schema schemas json-schema support supports version allow allows-restructuredtext display py path copyright cross extension extensions add adds format formatting referencing requests

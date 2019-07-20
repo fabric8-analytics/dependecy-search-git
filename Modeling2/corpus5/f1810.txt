@@ -1,0 +1,1 @@
+sklearn-crfsuit scikit learn inspir api crfsuit crfsuite-alt interfac scikit-learn model joblib ad python crf-model train attribut document file

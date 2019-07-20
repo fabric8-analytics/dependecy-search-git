@@ -1,0 +1,1 @@
+django-debug-toolbar-mongo panel debug debug-toolbar-mongodb-panel like pymongo stack

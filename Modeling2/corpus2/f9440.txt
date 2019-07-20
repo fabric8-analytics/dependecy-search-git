@@ -1,0 +1,1 @@
+djmako django mako templating template-loaders copyright mako-templates loader including os cache redistribution redistributions use strict particular provided directories directory settings set project indirect special root

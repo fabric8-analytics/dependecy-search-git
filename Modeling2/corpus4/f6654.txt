@@ -1,0 +1,1 @@
+pico conic optim convex optimizationlinear program quadrat program second order cone program semidefinit program exponenti cone program optimization-solvers-pico solver sourc gpl packag packag packag python-interfac included-y form instal instal instal instal program program develop develop develop contributor like level code free-cvxopt pdf licens

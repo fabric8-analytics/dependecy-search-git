@@ -1,0 +1,1 @@
+zbarlight simple wrapper zbar python qrcode reader qr code background-color foreground image images block codes

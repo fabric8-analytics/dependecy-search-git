@@ -1,0 +1,1 @@
+geoio imag file object image-format geospatial-data installation-code-python python instal conda accessing-digitalglob handl class meta gdal packag base import access inform easi spectral-process includ

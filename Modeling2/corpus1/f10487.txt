@@ -1,0 +1,1 @@
+django-delegate django delegate queryset manager method dispatch syntax sugar manager-queryset methods chaining chain subclass subclasses-work works delegate delegate

@@ -1,0 +1,1 @@
+hpack header hpack-http-header-encod api table-s size improv improv improv improv compatible-ad contribut contribut contribut contribut improvement-decod chang chang python compression-chang bugfix decod decod compress encod encod new peer remov remov integ maximum-allow compat request feature-request tsujikawa-initi allow allow form non-funct fix fix

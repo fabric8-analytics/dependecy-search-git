@@ -1,0 +1,1 @@
+speedtest-cli speedtest net test alt version latency-report python certain report inconsist

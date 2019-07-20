@@ -1,0 +1,1 @@
+django-admin django admin extens disabl delet add chang

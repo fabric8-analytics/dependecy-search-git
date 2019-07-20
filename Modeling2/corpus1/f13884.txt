@@ -1,0 +1,1 @@
+aioprometheus prometheus monitoring metrics metrics metric-collector examples applications application code console-example license formats format python service updater update updating collectors aiohttp typical decorator line package aioprometheus endpoint

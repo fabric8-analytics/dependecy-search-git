@@ -1,0 +1,1 @@
+sphinxcontrib-mermaid mermaid john code sphinx html end-note optionally option module namespace text config file file embed forest-width external alice include flowchart mermaid john code html sphinx support diagram diagram bugfixes bugfix autoclasstree config note module text namespace jun path file file thanks generate generation optionally option embed external

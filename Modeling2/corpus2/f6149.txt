@@ -1,0 +1,1 @@
+django-socialregistration django facebook twitter oauth openid registration foursquare linkedin github enables-developers user enables

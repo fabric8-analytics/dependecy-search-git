@@ -1,0 +1,1 @@
+flask-csp flask csp header policy-head csp-add report default-polici src self-unsaf valu edit custom-valu security-polici

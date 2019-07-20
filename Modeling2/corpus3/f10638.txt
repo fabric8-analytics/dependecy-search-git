@@ -1,0 +1,1 @@
+transifex-client translation localization internationalization transifex client installation install installers instal locale local localization download build make license tool-getting documentation environment large distribution distribute servers-like version

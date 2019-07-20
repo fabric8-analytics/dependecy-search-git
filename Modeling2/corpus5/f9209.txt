@@ -1,0 +1,1 @@
+pytest-rerunfailur py test plugin run fail n time elimin flakey failur pytest rerun flaki runs-test reruns-fail code failures-alt true-fals python flag class version like line def exampl add pr thank fix ad fixes-fixed-issu backward changes-drop-support support result packag use option

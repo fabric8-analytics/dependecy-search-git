@@ -1,0 +1,1 @@
+django-testrecorder tool automatic test creation django application

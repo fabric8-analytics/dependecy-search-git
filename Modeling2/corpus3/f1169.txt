@@ -1,0 +1,1 @@
+pyebnf rule rule description-left pyebnf ebnf directive directive node parser import import source-code ascii value base base whitespace implement implement implementation recursion-e grammar parse mean meaning compress compress input-usage identity special specially recognizes recognize

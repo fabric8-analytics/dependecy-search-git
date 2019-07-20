@@ -1,0 +1,1 @@
+pifacedigitalio pifac digit raspberrypi openlx v-ad instal chip board updat deinit-board interrupt version piface-digit fix new py class command modul doc pifacecommon

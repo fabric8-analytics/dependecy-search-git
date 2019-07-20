@@ -1,0 +1,1 @@
+mapnik2 buildout installed installation install mapnik-bindings libraries library deployments pycairo recipe-minitage path python refresh compilation release environment eggs egg say config support standart

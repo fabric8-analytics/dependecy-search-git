@@ -1,0 +1,1 @@
+django-shorturls url urls model models django code set settings-define defined site make improved redirect redirecting ve templates template block currently kaplan use django-shorturls site including-easy-support real differ models model-remember instance-alternatively class ids-defaults

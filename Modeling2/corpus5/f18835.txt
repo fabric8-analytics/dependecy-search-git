@@ -1,0 +1,1 @@
+rpi-ws281x spi led pi control gpio use pcm-controller-channel wsx pwm-independent-channel support limit output-pin rgb dma audio frequenc color strip-typ new fix line program gener filesystem config driver warn requir

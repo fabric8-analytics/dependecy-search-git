@@ -1,0 +1,1 @@
+django-facebook-auth authentication authenticates authenticate django-facebook setting set south requires-celery installation-package instal token add

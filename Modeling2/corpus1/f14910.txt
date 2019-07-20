@@ -1,0 +1,1 @@
+drf-json-api drf json api json-api specific support supported supports specification-build resources resource-types type renderer partial developed body features recommended recommends

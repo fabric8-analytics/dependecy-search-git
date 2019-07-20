@@ -1,0 +1,1 @@
+uwsgitop worker color color uwsgi-stats press memory-management stat request request statistic us use display displayed usage pid r

@@ -1,0 +1,1 @@
+pywebview gui webkit html web pywebview web window gui-window documentation sirokov html component application additional-libraries project license support

@@ -1,0 +1,1 @@
+aldryn-apphooks-config aldryn apphooks config models-import model class-newsblogconfig apphooks-config-namespaces django apphook setup application-namespace applications following integrated version versions defining define defined views view apphookconfig status admin baseapphookconfig

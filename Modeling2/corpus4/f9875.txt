@@ -1,0 +1,1 @@
+django-appmedia symlink build appmedia django project media app app-fil js command set set

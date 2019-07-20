@@ -1,0 +1,1 @@
+tensorboard-logger log tensorboard events without touching tensorflow logged logs logging step installation installed variables variable right fixed different negative usage images-fix file files values value use library directory directories required travis example image

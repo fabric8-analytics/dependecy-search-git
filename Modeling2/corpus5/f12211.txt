@@ -1,0 +1,1 @@
+django-fsm-log automat log django fsm add statelog transit transitions-fix manag usag admin ad decor support cach record run compat immedi

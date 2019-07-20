@@ -1,0 +1,1 @@
+entrypoint2 argpars decor optpars signatur command line modul document flag function version entrypoint automatic-flag cli-gener autodoc gener install-pip instal automat

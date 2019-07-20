@@ -1,0 +1,1 @@
+pave clutter-files-like provides-common-tasks task function

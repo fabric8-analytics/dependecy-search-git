@@ -1,0 +1,1 @@
+django-thumbnailfield django app field image thumbnail thumbnail method generate-thumbnails django-thumbnailfield-alt process file file version version generate automatically-remove support status

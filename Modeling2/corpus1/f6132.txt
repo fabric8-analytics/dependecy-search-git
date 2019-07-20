@@ -1,0 +1,1 @@
+autoenv directory based environments environment cd shell extension shell scripts bash zsh environments file files autoenv environment-variables alternatives alternative variable envs sourcing source-activate authorized-env quality null aur activating-virtualenvs authorize mac-os use

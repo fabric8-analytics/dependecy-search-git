@@ -1,0 +1,1 @@
+hid libhidapi pyhidapi-installation install directory hidapi-shared hid-o python run running follows line following-lines

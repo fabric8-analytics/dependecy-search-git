@@ -1,0 +1,1 @@
+django-taggit-templatetags2 django taggit tag tagcloud taglist default test list templatetag django-app tagcanva instal testing-clon model includ html urls-pi item templat static url applic import px

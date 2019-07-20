@@ -1,0 +1,1 @@
+azure-mgmt-machinelearningcompute management manager feature microsoft-azure code version package release compatibility service orchestrator

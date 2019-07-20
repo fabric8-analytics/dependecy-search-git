@@ -1,0 +1,1 @@
+bitsets order set finite immutable bit string array map field python set ordered-set order integer alt object object bit code instance instance bitsets-pypi-version-license method pool certain package possible string-boolean array string efficient cython version bitfield

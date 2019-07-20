@@ -1,0 +1,1 @@
+hbase-thrift database hbase thrift

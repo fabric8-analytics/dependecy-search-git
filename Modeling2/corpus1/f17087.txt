@@ -1,0 +1,1 @@
+flask-potion flask-potion json-apis api-schema relations relation resources resource sqlalchemy backends backend validation features self stores store versioning version pagination permissions

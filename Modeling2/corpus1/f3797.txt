@@ -1,0 +1,1 @@
+confpy option value files example examples configuration-options-code-block-python configurations configured description descriptions useful-setting-values testing tests test confpy-config-file pattern keyword set type types module modules currently current running run license repository use loaded loading loads load generating generate generator flag flags named

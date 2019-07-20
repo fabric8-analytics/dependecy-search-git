@@ -1,0 +1,1 @@
+appdir small python modul determin appropri platform specif dir e g user data dir applic directori log cach user directori name app-us win version version issu issu dirs-appdir dir window unix pr fixes-fix support add case modul py paths-support user-data behaviour python xdg version version mac cach make win roam use option option default

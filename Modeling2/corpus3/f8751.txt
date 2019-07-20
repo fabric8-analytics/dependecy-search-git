@@ -1,0 +1,1 @@
+python-vitrageclient install python license license tags-change vitrageclient tool detailed

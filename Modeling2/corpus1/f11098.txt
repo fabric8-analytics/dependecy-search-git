@@ -1,0 +1,1 @@
+django-ignoretests2 py fixed fix fixes django change-pypi

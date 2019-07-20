@@ -1,0 +1,1 @@
+fitsio read reading python file file table write string string use us image image array array table-extensions column column row compress compress compression version version fitsio order order support support row-sets numpy notation test feature gzip source include latest-release cfitsio shape extension set

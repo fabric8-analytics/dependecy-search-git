@@ -1,0 +1,1 @@
+django-supervisor django supervisord process process-manag option command file supervisor manag config configur task project program automat directori section make program-default reload exampl script individu provid app-specif statu app run default

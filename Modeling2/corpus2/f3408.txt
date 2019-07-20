@@ -1,0 +1,1 @@
+pyutilib-component-core utility components class-declare classes-interface declared interfaces framework license management managers plugin plugins list googlegroups txt provide package-provides data

@@ -1,0 +1,1 @@
+jsonrpclib class class method use jsonclass library library argument propose json-rpc-specification support support python jsonrpclib config command version batch object object notification notification require require par parse specific distribution-requirements dump dump error error test test test distribute list list xml manual-parsing ve reading read getter manually

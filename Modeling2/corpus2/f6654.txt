@@ -1,0 +1,1 @@
+picos conic optimization convex optimizationlinear programming quadratic second order cone semidefinite exponential optimization-solvers-picos solver source gpl package packages packaging python-interface included-yes form install installation installing installed program development developers developer contributors like level code free-cvxopt pdf license

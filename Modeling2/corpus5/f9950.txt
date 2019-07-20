@@ -1,0 +1,1 @@
+django-extra-field field imag exampl licens framework coordin baseimagefield string file latitud version instal presentableprimarykeyrelatedfield softwar python allow language-govern readm pointfield list base

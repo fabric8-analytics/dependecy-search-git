@@ -1,0 +1,1 @@
+puremagic file match-files confidence signature python magic-numbers platforms code-bash c matches faster mime number license cross-platform-compatible detect identification comfortable types type usage run like likely compatibility

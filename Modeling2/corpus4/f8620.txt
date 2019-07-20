@@ -1,0 +1,1 @@
+windows-curs curs support key resiz pdcurs compat sigwinch

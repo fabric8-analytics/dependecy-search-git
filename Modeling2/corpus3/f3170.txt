@@ -1,0 +1,1 @@
+pyshtools spherical harmonic spectral estimation slepian function wigner symbol legendre function gravity field magnetic field install installation shtools fortran-python pyshtools macos code-bash-pip dev harmonic doi-paper spherical-harmonic clone git multitaper-spectral brew

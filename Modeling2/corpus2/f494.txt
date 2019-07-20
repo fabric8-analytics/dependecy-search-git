@@ -1,0 +1,1 @@
+minidb person age db objects object query queries querying store stored stores email p database c optionally optional id-attribute columns-attributes table syntax output-sql example examples way ways debug column simply looks let save saved class

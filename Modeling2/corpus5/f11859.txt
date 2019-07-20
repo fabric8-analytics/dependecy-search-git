@@ -1,0 +1,1 @@
+mariadb-dyncol mariadb column data python nest dynamic-column encod support sql limit supports-str example-code-block type type-map client string map exampl fix use releas function valu version whilst-impl implement

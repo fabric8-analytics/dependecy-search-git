@@ -1,0 +1,1 @@
+pyramid-hawkauth hawk access auth plugin pyramid authent token hawk request sign plugin pyramid-hawkauth use use id credenti hawk-access pyramid access tokenlib callback header request signed-request releas

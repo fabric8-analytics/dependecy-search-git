@@ -1,0 +1,1 @@
+django-development-fabfil django fabric develop environemnt deploy project project-root django-develop

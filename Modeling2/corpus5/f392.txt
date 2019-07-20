@@ -1,0 +1,1 @@
+haigha amqp python client event rabbitmq test connect ch asynchronous-amqp applic bug application-cod support world-appl queue use rabbitmq-event-libev requir code messag simpl directori mode transport guest ssl-allow improv protocol improved-error implement exchang

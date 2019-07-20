@@ -1,0 +1,1 @@
+django-appengine-toolkit django appengine toolkit configuring configures configure configuration needed need file files contained containing contain app apps appengine-toolkit storage url-enviroment cloud projects project-dependencies setting settings set sdk

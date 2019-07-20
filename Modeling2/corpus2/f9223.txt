@@ -1,0 +1,1 @@
+flask-compressor file code-bash css-files flask python install installation installed processors processor available assets asset bundles bundle helper defaults folder default content contents requirements required jsmin c-laurent hash-md templates template

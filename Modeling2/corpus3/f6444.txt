@@ -1,0 +1,1 @@
+djangorestframework-httpsignature http-signature-package py httpsignature authentication authenticate example request-date installation-installing install instal hmac-sha curl class package request problem signatureauthentication h message message httpsig parse

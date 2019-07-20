@@ -1,0 +1,1 @@
+mrq mr queue distribut worker task python use redi gevent job task-queu worker-queu simpl featur dashboard like dequeuing-multipl test integr bound-cpu right strategi easi greenlet perform command-lin instal leak dequeu creat one file

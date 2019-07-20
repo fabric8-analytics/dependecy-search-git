@@ -1,0 +1,1 @@
+pybasex basex rest http xpath xml database python python-adapter basex-rest-interface

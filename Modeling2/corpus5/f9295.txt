@@ -1,0 +1,1 @@
+pygame-cffi cffi base sdl wrapper copi pygam api dev depend requir x run machin failur libsdl discuss bundled-set

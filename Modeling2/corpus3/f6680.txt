@@ -1,0 +1,1 @@
+restfulie crud http good step forward use resource become restful another step make use hypermedia base service restfulie gem allows quickly restfulie rest http hypermedia step-forward

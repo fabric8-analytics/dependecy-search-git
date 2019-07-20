@@ -1,0 +1,1 @@
+django-geojson django geojson collect helper de serial geo object gi documentation-status-authors-vers makinacom fix thank support-fix bug-fix add option view chang field featur new-featur version properti serializing-properti use python default deseri compat map list code cr abil tag spatial py miss

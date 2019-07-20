@@ -1,0 +1,1 @@
+django-voic url djangovoic depend south comment user-feedback simon model install-r add default instal origin includ brand

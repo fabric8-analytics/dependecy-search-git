@@ -1,0 +1,1 @@
+cchardet cython chardet charsetdetect x-iso windows alt ibm encoding encodings euc centraleurope supported support jp gb build-status code-block speed-universal iso fix uchardet build builds code-block-python encoding-detector result add detected detect improve v results-cpu r function behavior lto remove speed universaldetector

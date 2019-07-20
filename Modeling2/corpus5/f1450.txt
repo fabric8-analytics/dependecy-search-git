@@ -1,0 +1,1 @@
+flask-appbuild flask automatic-permiss target imag support databas list field select chart user multipl valid base-valid application-develop base exampl custom login select-datepick detailed-secur role model bug new chang deprec author crud-gener db group data detail

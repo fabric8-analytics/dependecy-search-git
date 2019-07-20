@@ -1,0 +1,1 @@
+python-hmac-auth python sdk http github com bazaarvoice jersey hmac auth python-hmac authentication authenticator request request library jersey client-libraries getting-started client api python-hmac library library request request authentication authenticator

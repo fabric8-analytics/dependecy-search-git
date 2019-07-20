@@ -1,0 +1,1 @@
+django-chronik job run cron-job email chroniker-django server-environ time manag improv e set schedul platform improved-log management-command project admin-cr document creat ll relat allow log python-packag local add version command specif automat databas depend librari

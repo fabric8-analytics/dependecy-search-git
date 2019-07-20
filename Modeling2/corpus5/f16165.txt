@@ -1,0 +1,1 @@
+django-git-info django-git repositori resides-usu instal add

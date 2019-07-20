@@ -1,0 +1,1 @@
+azure-mgmt-containerservice model parameter features-model profile profile new-parameter azure cluster add-managed-clusters resource-manager service-management apis api-version breaking-changes bugfixes-fix-invalid group managedcluster package release added-operation argument argument enum-types count type class change change code preview add incorrect mgmt default http-session

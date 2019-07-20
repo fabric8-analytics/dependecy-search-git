@@ -1,0 +1,1 @@
+pyephem orbital orbiting stars star compute computed planet planets dates date high-precision-astronomy-computations mars objects object precisely ephem xephem installing install installers time formats format determine coded code bodies body transit user ephemeris particular convert location weather-conditions

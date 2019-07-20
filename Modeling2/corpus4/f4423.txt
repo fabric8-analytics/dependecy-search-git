@@ -1,0 +1,1 @@
+django-servic django model admin rest api servic api branch django-servic app admin usag delet requir requir servic local

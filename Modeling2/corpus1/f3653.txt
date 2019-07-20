@@ -1,0 +1,1 @@
+django-osm-field openstreetmap osm django geo geoposition branch ensure field build packages package added django field fields change changes changed branch documentation fixed sources ensure package build-python-packages

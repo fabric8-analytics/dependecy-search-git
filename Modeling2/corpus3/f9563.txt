@@ -1,0 +1,1 @@
+gapic-google-cloud-language-v1beta2 google gapic language-api isolated-python block

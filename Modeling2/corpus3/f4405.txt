@@ -1,0 +1,1 @@
+snapshottest test test snapshot-testing snapshot apis api example write write new app ensure frequently code component automatically image image-stored license django code test test apis api snapshot write write travis-pypi-snapshot-testing new app frequently ensure component image-stored image automatically coverall

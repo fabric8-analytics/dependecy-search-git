@@ -1,0 +1,1 @@
+flask-babelplus flask localization localization additional babel multiple-language flask-babelplus-adds localization localization code-python

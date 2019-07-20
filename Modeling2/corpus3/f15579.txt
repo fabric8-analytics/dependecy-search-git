@@ -1,0 +1,1 @@
+atlassian-python-api atlassian python rest api wrapper atlassian jira confluence bamboo api rest python bitbucket jira service desk portofolio atlassian jira confluence bitbucket bamboo crowd portfolio servicedesk jsd rest api code alt contribution contribute build python module checked make use example example pypi print

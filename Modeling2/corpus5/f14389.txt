@@ -1,0 +1,1 @@
+django-localized-nam django app name local ln format following-format model set new english like properli make

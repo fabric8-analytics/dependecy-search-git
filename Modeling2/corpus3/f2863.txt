@@ -1,0 +1,1 @@
+django-mmc app monitoring management command django django management command monitoring code setting bash log image-alt python command script script management-commands email email log-changelist configuration configure screenshots inject installation install detailed target date-notify notify

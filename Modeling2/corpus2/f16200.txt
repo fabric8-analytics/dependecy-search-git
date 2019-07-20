@@ -1,0 +1,1 @@
+setuptools-scm blessed package manage versions scm tags version versioning code metadata configured configuration git number numbers file tagged tag installation installed install python volatile reason reasons directory followup like supported support supporting use uses e-g issue-trackers-chat

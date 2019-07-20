@@ -1,0 +1,1 @@
+django-cursor-pagination cursor based pagination django django pagination ordering ordered pages page django-cursor-pagination use records offsets large-offset determinate field fields largely instead totally-determinate rest-framework django-cursor-pagination ordering ordered based reverse

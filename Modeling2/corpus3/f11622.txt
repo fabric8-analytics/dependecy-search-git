@@ -1,0 +1,1 @@
+django-select2 django-select-version example field changelog dependency

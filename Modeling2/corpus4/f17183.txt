@@ -1,0 +1,1 @@
+pyfakef test test file os shutil glob mock unittest fake filesystem unit pyfakef test test test python version version-releas file releas support support support support contain contain usag document document librari librari develop develop class style run run c fork contribut contribut function function john

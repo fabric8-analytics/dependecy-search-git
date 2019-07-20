@@ -1,0 +1,1 @@
+mosaik-pypow grid transform node power-grid branches-lines-transform bus-branch-model type trafo entiti buses-nod new line p e chang voltag exampl connect tap r json-fil format use contain model input-file-format sheet code hous max pqbu id addit python world pp pq activ consum releas option current b true xlsx load length rel eid public gridfil start u vl pv neg

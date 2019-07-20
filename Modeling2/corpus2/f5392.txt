@@ -1,0 +1,1 @@
+django-two-factor-auth django test tests tested authentication authenticate authenticator python migrations target transifex push py make code translated translation translations translators translate source user users git messages github upload alt generator projects project pull license licensed update

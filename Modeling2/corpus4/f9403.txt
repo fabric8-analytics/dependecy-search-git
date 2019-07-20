@@ -1,0 +1,1 @@
+py-cpuinfo int bit-str arch-x run raw linux os tsc cpuinfo bsd windows-haiku cpu-info solari untest dmesg-unix cache-s python l version bug bug instruct instruct intel bit flag line exampl format cpl-dtes-dtherm-dts-ept field program python gets-cpu

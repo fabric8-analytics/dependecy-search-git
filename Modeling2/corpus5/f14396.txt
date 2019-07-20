@@ -1,0 +1,1 @@
+kafka-python apach kafka consum produc messag valu consume-lz-compress encoded-valu level-messag compress python msg b partit broker key check encod support partition-assign group serial snappi kafkaproduc group-requir serialize-json protocol unreleas foobar instal version import assign requir metric custom-leadership v kafkaconsum header topic

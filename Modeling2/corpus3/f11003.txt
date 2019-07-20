@@ -1,0 +1,1 @@
+django-tagulous django tag tag tag tag support support tagged-models model django-tagulous customisable install-simple categorisation-admin feature syntax

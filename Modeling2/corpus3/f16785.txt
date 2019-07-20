@@ -1,0 +1,1 @@
+djangocms-gmaps djangocms gmaps map djangocms-gmaps-alt map-markers plugin plugins setting set instal install width require require django marker add template location form form allow center info

@@ -1,0 +1,1 @@
+django-stored-messages store django messages project backend stored message python added apps-code rest-api version fixed app-integrates storage redis integration instructions instruction features

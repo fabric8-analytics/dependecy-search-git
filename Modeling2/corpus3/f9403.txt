@@ -1,0 +1,1 @@
+py-cpuinfo int bit-string arch-x run raw linux o tsc cpuinfo bsd windows-haiku cpu-info solaris untested dmesg-unix cache-size python l version bug bug instruction instruction intel bit flag line example format cpl-dtes-dtherm-dts-ept field program python gets-cpu

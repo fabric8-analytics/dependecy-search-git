@@ -1,0 +1,1 @@
+localconfig configuration config configparser data type support simplified-interface dot-notion com script-named install-let case-insensitive str start

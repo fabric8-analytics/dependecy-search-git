@@ -1,0 +1,1 @@
+edc-consent add base class securely handle inform consent django participant icf consent consent consented-subjects consent-add-classes model model code python version subject infant infant class bound bound add data field field identify identifier identify todo age installation study period require require require specimen specimen validity valid validators validates

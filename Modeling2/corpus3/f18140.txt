@@ -1,0 +1,1 @@
+azure-mgmt-devtestlabs parameter features-model new-parameter id added-operation operation management manage group plan-id resource-manager microsoft-azure update disk disk vm virtualmachinesoperations package provide wheel add-providers artifact artifact changelog-release state library library code-examples

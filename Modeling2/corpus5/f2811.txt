@@ -1,0 +1,1 @@
+trueskil rate player alice-bob

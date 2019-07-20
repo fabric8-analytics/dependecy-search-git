@@ -1,0 +1,1 @@
+exifread exif image metadata photo tag tag exif process processing information python ifd file file line specification specific publish easily archive dictionary pas ignore image option

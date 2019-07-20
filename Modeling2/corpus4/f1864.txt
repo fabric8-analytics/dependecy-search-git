@@ -1,0 +1,1 @@
+optlang optlang sympi base mathemat program languag optim sympi mathemat program heurist optim optlang solver solver optimization-problem object object interfac mathemat licens licens problem-formul depend gitter statu appveyor symbolic-math formul qp

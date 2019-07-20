@@ -1,0 +1,1 @@
+django-google-maps simple-application values value basic-hooks field address template admin

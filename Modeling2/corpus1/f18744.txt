@@ -1,0 +1,1 @@
+bumpr version bump release tag code bump-r-alt version versions command commands file test line block configuration support hooks supported-python-versions use code bump-r-alt fix fixes readthedoc-hook file files optionnal version ensure command commands added-option configuration optional readthedocs releaser release handling customization custom diff run documentation

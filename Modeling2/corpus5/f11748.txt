@@ -1,0 +1,1 @@
+sphinxcontrib-imag imag html-imag add sphinx-thumbnail pictur direct option patch latex

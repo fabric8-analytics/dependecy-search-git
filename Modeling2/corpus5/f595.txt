@@ -1,0 +1,1 @@
+django-admin-sort model sortabl sort order chang inlin filter support templat custom-view extra-filt use-vers valu static exampl migrat working-exampl work code field need object licens project addit sampl child line view consid version key backward data base automat form ad javascript enabl app-altern instanc adminsort class parent

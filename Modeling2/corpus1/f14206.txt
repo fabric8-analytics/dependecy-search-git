@@ -1,0 +1,1 @@
+django-singletons model models admin homepage installation install installed ex important import editors-generally singletonmodel

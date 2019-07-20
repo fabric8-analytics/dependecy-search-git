@@ -1,0 +1,1 @@
+django-localized-field implement local model field use postgresql hstore django languag code package-requires-python usag packag translat required-opt uses-widget base type option file concurr automat exampl widget set romania

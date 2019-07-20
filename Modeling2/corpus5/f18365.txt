@@ -1,0 +1,1 @@
+django-object-act action admin attribut make defin start add tool demo changelist instead version stable-vers templat custom instal default

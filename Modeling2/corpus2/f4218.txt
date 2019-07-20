@@ -1,0 +1,1 @@
+pyhadoopapi hdfs file files client option commands cluster-status options-output service applications application jobs job oozie apis api knox simple-command outputs configuration configured proxy e proxies-cli web workflow authentication json-properties logs flask property upload-copy shows tracker library

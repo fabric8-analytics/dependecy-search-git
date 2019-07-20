@@ -1,0 +1,1 @@
+django-authority django app provide generic per object permission django auth app helper create custom permission check permission object-permissions add django versioning-added-support py-migrate user fix fix fix user-models migration query query form e file version-example python currently model bob article article add add approve approval object

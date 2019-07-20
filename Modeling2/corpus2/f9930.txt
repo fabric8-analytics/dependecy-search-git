@@ -1,0 +1,1 @@
+pynest nest thermostat api f version info software default email-nest password license target-temperature devices-structures device-structure set

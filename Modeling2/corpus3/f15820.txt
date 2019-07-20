@@ -1,0 +1,1 @@
+funcsigs function-signature parameter parameter object object functionality function python attribute directive directly direct pypy pypi ci boundarguments file funcsigs-documentation class class alt-current license callables callable annotation currently args version pep

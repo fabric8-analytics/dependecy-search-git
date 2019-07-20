@@ -1,0 +1,1 @@
+django-monitor django moderation model model moderation moderate moderate moderate model-objects django-monitor admin installation install instal python import location permission object requirement require class-mymodel data user user path myadmin detailed detail related

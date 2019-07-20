@@ -1,0 +1,1 @@
+dxfwrite dxf cad tabl dxf-r entiti line-point-polylin text spline mtext exampl com object ellips color point code version-bugfix test ad py new tests-unicod dxf-r-draw draw viewport license-chang clothoid python point-polylin bezier curv header bit refactorings-mov insert attdef-attrib-block-circl use xref refactor

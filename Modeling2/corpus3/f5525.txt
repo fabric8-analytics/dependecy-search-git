@@ -1,0 +1,1 @@
+fakeredis-fix redis-py test test fakeredis python client set set setting r server bar scripting-script config reasonable debug use run run object import baz hash-hincrbyfloat-string-incrbyfloat-bitop contributing-contributions

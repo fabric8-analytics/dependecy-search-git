@@ -1,0 +1,1 @@
+vslack python class makes sending messages slack using incoming webhooks dead simple python slack incoming webhooks messages send incoming-webhooks-installation-install webhook-uri bot-message url-feel-free existing vslack

@@ -1,0 +1,1 @@
+dtw-c dynamic time warp dtw dtw trg features-org frame mat mcd-distance feature frame-x shiftm-winlenm np default

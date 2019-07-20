@@ -1,0 +1,1 @@
+libsnmp instal class entities-map theoret type librari python

@@ -1,0 +1,1 @@
+cymem cython memory pool raii style management python c cython-memory function functions collected class useful use python-object objects nested-structs struct custom fast sparse function-code collected-alt

@@ -1,0 +1,1 @@
+logshipper setup distutils defaults message messages action actions rabbitmq-sends match matches send sending key value improve class virtual log logs steps step accepted-values accepts named

@@ -1,0 +1,1 @@
+aws-xray-sdk aw xray sdk use modul issu patch trace segment support manag segment-subseg subseg aws-x-ray-sdk django import record applic lambda recorder-dis sqlalchemi disabl web guid aiohttp environ set serverless instrument test function automat api gener help configur bug

@@ -1,0 +1,1 @@
+ceph-deploy deploy ceph minim infrastructur use ssh access host instal run cluster installation-depend new-releas key releas make featur disk node initi packag directori osd config-fil initial-set mon line client requir tree command-lin version test partit monitor tool creat develop set client-configur current command option configur e fine extra default want depend

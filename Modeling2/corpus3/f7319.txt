@@ -1,0 +1,1 @@
+coverage-badge coverage badge shield coverage badge badge-image-alt text different target

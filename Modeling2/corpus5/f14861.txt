@@ -1,0 +1,1 @@
+djorm-ext-cor core-modul django-orm contaisn

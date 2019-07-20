@@ -1,0 +1,1 @@
+django-bootstrap4 bootstrap integration django python author authors issue issues templates template license lead pull-requests request upgrade upgraded fix fixes fixed development develop-branch author-developed branches jquery text texts pagination form adopt-black setting-remove authors-rst settings use widget version started history

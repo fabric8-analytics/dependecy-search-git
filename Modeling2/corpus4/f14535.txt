@@ -1,0 +1,1 @@
+flask-scrypt scrypt hash password-hash instal instal instal gener gener salt salt

@@ -1,0 +1,1 @@
+django-seri serial field object custom objects-model class provid todo model includ deseri represent api nest customizing-encod relationship datatyp parsers-provid test support exampl copyright instanc redistribut note depth strict format follow method parser declar valid use valu string-date-tim strings-dat metadata tom encod

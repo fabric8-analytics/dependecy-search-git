@@ -1,0 +1,1 @@
+djangocms-admin-style django cms admin style theme tailored needs addon python running install-run installed source css-styles djangocms-installation admin-style-pypi notification notifications

@@ -1,0 +1,1 @@
+idutils small python library validate persistent identifiers used scholarly communication license refseq identifier-scheme block schemes cern pubmed-id features free versions changes-version-adds-support fixes tests test supported-schemes-isbn arxiv configuration developments invalid-dois file doi-handle gnd socket-timeout change https handling handles

@@ -1,0 +1,1 @@
+zinnia-theme-foundation zinnia theme foundation python package provide theme built zurb foundation django blog zinnia django blog weblog zinnia theme skin foundation zinnia-theme-foundation package version django icon icon

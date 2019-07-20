@@ -1,0 +1,1 @@
+py-solc python wrapper around solc solid compil ethereum py blockchain version instal like json-compil solidity-compil use format import path project linux suit installation-cod line-us solc-build

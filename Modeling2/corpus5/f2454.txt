@@ -1,0 +1,1 @@
+grako languag grammar new-languag gener licens parser-generators-gener program python time memoiz memoization-allow like includ peg-pars o-g-r semant cache-allow code m include-files-rul input analytics-script problem lookahead model express expressive-pow power ga hand-craft differ com sourc ebnf file make translat support

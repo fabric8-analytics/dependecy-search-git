@@ -1,0 +1,1 @@
+django-photologue test ci-tested image python package

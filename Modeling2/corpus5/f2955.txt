@@ -1,0 +1,1 @@
+pyramid-zcml web wsgi pylon pyramid test direct depend configur drop add-support fix fix-compat compat python-drop action scaffold-compat use scaffold based-act behaviour misconfigur alia releas collect templat dev deprec

@@ -1,0 +1,1 @@
+nine python migrat compat six to futur write-python method import replac codebas differ string modul compatibility-modul write longer final need want return add function print instead list object start mean

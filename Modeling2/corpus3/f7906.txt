@@ -1,0 +1,1 @@
+django-tabination django tab tabination django tab tab version version versioning base target tox license configuration environment software support support pypi pypy alt different width

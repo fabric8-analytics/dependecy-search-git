@@ -1,0 +1,1 @@
+cmdtree support generating generate commands like sub-command cli level-api run hello python help start-note

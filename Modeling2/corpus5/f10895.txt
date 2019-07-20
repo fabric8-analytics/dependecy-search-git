@@ -1,0 +1,1 @@
+django-drf-file-gener django py arquivo file django-drf-file-generator-alt-document para gener python gem-build

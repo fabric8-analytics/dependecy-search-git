@@ -1,0 +1,1 @@
+common shall copyright mit-license notice event hellkamp-permission

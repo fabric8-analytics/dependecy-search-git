@@ -1,0 +1,1 @@
+django-redis-cach add cach adds-support redis-django-cach version run latest-vers key requirements-run requir client alt connect protocol includ python class-import server pickl socket import custom-method keyspac aliv set fix unix-socket exampl updat drop default going-forward-backward thunder

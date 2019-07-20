@@ -1,0 +1,1 @@
+autobreadcrumbs crumb crumb view view template template autobreadcrumbs url url ressource title title tag tag link link link current setting set setted breadcrumb breadcrumb contain contain contains apps app return return correctly correct websites-django namespace list website-like

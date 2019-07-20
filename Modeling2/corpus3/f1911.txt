@@ -1,0 +1,1 @@
+bashate pep-equivalent control-blocks things-consistent project project humble-beginnings line long-lines bash

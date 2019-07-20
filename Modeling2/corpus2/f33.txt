@@ -1,0 +1,1 @@
+delocate libraries wheel wheels library-dependencies architecture required-architectures installation installed install code tells python warning like likely directory copy copies copied requires osx distribute distribution-kindly version versions released depends depending dependency

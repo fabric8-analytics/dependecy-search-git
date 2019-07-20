@@ -1,0 +1,1 @@
+django-model-report django model report highchart chart foreignkey

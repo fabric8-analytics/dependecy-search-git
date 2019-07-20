@@ -1,0 +1,1 @@
+django-extra-views formset class classes inline-formsets code-block views view inlines status-django alt generic functionality success define quick common-design fields field code formsets search searching uses use add adds examples-defining convert converting e override sortablelistmixin like example application-design lookups lookup

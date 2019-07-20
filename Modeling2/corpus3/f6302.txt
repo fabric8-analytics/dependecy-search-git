@@ -1,0 +1,1 @@
+mmh3 utility hash murmurhash mmh-python bit memory support support version version performance performant value value fix issue thanks-add x error thank sign issues-sent following-revision improve hashes-byte eugene domain tweak guava usage robust-hash robustness-improvement byte integer integer change change murmurhash result result result bugra o gcc

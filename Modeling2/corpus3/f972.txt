@@ -1,0 +1,1 @@
+scout-py version new-version client client basic-information yes usage-reporting scout

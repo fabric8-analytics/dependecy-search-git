@@ -1,0 +1,1 @@
+setuptool offici project repositori build system cpan pypi distutil egg packag manag python-packaging-us upgrad

@@ -1,0 +1,1 @@
+azure-batch-apps added adding configuration configure class apps job jobs pool pools file files authentication authenticates authenticate changes changed management azure applications application release module installation install including auth-config account service services tokens aad-token client download

@@ -1,0 +1,1 @@
+django-mp-tran admin setup

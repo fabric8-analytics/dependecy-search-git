@@ -1,0 +1,1 @@
+deepy deep learn neural network natural language processing model model base example visualization deep-learning deepy machines-example network network recurrent-visual highly auto-encoders theano raphael machine clean-high cg encoder char initialization-schemes computational complex

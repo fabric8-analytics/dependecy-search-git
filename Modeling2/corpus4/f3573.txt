@@ -1,0 +1,1 @@
+sw-django-rest-auth add authentication-servic py auth token permiss permiss servic admin

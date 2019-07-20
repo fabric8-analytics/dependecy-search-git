@@ -1,0 +1,1 @@
+elasticsearch open source distribute restful search engine elasticsearch java search engine use python-elasticsearch-client license license like connection version version pythonic document documentation define define nodes-persistent-connections document-data persistence dsl way common software pluggable language-governing level

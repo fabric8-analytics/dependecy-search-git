@@ -1,0 +1,1 @@
+django-google-analytics-app add celeri track html specifi

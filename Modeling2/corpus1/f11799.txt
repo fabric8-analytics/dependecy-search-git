@@ -1,0 +1,1 @@
+jira python jira library easiest way automate jira python jira api atlassian jira rest web installation install installed jira-python-library development developing testing test atlassian bountysource fork requirements virtualenv source github integration sync pyenv feeling

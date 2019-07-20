@@ -1,0 +1,1 @@
+django-tastypie-crust resource resources license methods projects project example pasting stackoverflow tests dependencies tastypie

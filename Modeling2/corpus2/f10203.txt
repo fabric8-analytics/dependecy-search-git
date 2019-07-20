@@ -1,0 +1,1 @@
+sphinxcontrib-soliditydomain sphinx solidity domain contrib documentation generator plugin

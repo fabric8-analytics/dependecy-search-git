@@ -1,0 +1,1 @@
+django-redis-cache add cache adds-support redis-django-cache version run latest-version key key requirements-run require require client client alt connection connection connect protocol include python class-importing server pickle pickle socket import custom-method keyspace alive set setting set set fix unix-socket example update drop default going-forward-backward thunder

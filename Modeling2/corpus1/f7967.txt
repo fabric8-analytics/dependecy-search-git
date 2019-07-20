@@ -1,0 +1,1 @@
+adafruit-ads1x15 driver ti ads bit differential single ended adc pga comparator adafruit arduino atmega-mhz-x ended sda-scl tested attiny

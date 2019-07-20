@@ -1,0 +1,1 @@
+azure-mgmt-eventhub operations add features-added-operation microsoft-azure manager model models bugfixes parameters rule rules new-parameter package packaged eventhub-management-client enum list change changed breaking-changes apis argument arguments api-version properties code release configs fix http-session wheel count

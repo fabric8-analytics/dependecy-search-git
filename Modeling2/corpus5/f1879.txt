@@ -1,0 +1,1 @@
+flask-simplelogin flask login messag custom simpl auth error jwt access valid password requir view exampl logout app api default code flask-login strikeout authent pass validators-pass validator-pass var function

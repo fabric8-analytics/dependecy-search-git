@@ -1,0 +1,1 @@
+sqlalchemy-sqlany sqlalchemy driver sap sybase sql anywhere sap sybase sqlanywhere sqlalchemy sqlalchemy database databases python license licensed sap interface port ip following sql dialect

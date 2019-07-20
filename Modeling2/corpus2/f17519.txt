@@ -1,0 +1,1 @@
+django-oscar-paypal paypal integration django oscar used without python ecommerce payment fix fixes packaging remove transaction transactions paypal-package use sandbox released support target th-add integrated bankcard queries issues issue key address shipping rights-reserved-redistribution contract-strict liability copyright-holders owner business-interruption substitute-goods

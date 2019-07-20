@@ -1,0 +1,1 @@
+pickleshar file system base databas use python pickl persist ipc shelv object instal shelve-lik code-s load

@@ -1,0 +1,1 @@
+pygments-style-solarized pygments style solarize syntax highlight pygmentize pygments-style-solarized com install history solarizedlight git request

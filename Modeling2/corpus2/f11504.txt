@@ -1,0 +1,1 @@
+django-code-deploy deploys code instances using fabric testing logging example deploy deployed deploying instance method methods dev set restarted complete step db-env jenkins e topopps organized infrastructure fabfile access web django

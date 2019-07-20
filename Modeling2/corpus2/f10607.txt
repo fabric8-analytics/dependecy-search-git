@@ -1,0 +1,1 @@
+sqlize sql query builder sql-query queries methods method argument arguments introduction main clauses clause look select-looks selecting inserts inserting tables files names deletion deleting named-placeholders placeholder todo-reporting report way apart

@@ -1,0 +1,1 @@
+django-appmedia symlinks builds appmedia django projects media apps app-files js command settings setting

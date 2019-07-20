@@ -1,0 +1,1 @@
+invenio-theme invenio standard theme invenio invenio-copyright-c-cern release version-released theme setting invenio flash easy jinja

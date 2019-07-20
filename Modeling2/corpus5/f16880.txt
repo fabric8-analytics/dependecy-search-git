@@ -1,0 +1,1 @@
+django-rast django raster allow creat tile map servic tm algebra end point web python base requir geodjango postgi backend framework webmap slippi gi gdal celeri geo spatial

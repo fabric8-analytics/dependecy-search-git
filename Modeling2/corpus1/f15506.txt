@@ -1,0 +1,1 @@
+pybufr-ecmwf pythonic bufr library python-module pybufr-ecmwf interface md license licensed eccodes usage level file files direct directly significantly tests testing unaltered wmo api gmail-com mac-osx generation object-oriented

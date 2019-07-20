@@ -1,0 +1,1 @@
+pylandau simple landau distribution definitions used python langau pdf x import energy numpy y installation install gaus

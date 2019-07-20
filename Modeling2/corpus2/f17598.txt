@@ -1,0 +1,1 @@
+marshmallow lightweight library converting complex objects simple python datatypes serialization deserialization validation marshalling serde schema rest json api marshal alt deserialize development security supporting dependencies input sponsors-support donation donate sponsor standard professionally-supported libraries project-exists-thanks thank existing professional

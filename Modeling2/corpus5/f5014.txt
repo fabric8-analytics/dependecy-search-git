@@ -1,0 +1,1 @@
+djangoajax ajax django json code usag target pypi-packag

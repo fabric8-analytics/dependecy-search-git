@@ -1,0 +1,1 @@
+xdis bytecodes python-versions-xdis bytecode-disassembler version routines routine running disassemble disassembly code usage-run magic-numbers-including setup tested testing tests const module load install installation installed

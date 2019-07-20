@@ -1,0 +1,1 @@
+cld2-cffi cld cffi language languages code codes cld-cffi-python alt text build installing install installed list detection detect detectable normalized provide html latest bindings bytes

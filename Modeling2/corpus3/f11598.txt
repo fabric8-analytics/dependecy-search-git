@@ -1,0 +1,1 @@
+hachoir-metadata create file read hachoir-metadata-extracts audio file-formats extractor extractor option optional qt program mime video rate py use asf-format type ogg doc extract real python string-length string support support support gif-jpeg compute information information riff-parser like matroska command line display add dpi image gtk mov mode mode

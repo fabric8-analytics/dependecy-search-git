@@ -1,0 +1,1 @@
+fitsio read python file tabl write string use imag array table-extens column row compress version order support row-set numpi notat test featur gzip sourc includ latest-releas cfitsio shape extens set

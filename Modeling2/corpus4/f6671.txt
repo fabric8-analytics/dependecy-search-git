@@ -1,0 +1,1 @@
+django-abstract-templ reusabl templat

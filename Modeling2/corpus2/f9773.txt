@@ -1,0 +1,1 @@
+django-events django pinax jquery ui datepickr events

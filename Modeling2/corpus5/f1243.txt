@@ -1,0 +1,1 @@
+python-digit digit digitword multiple-digitword provid test repres server base true cowbul self class methods-properti directori mode init integ place fals digitwordanalysi e compar string object

@@ -1,0 +1,1 @@
+pyscaffold install installation pyscaffold git-installed file file project version version e packaging package package coverage alt-travis-image target new-python-project test tools-sphinx image configuration configure template template tool py like management manage additional pep pytest complete completely default xml coverall

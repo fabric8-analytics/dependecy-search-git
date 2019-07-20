@@ -1,0 +1,1 @@
+mysolr python-solr support support-facet document document document instal instal mysolr facet

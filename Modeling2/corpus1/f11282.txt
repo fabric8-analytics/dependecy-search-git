@@ -1,0 +1,1 @@
+pymstranslator translator translate translations basic-translation method methods python-client key-microsoft api goal settings setting repeated issue implementation implemented e cached caching object

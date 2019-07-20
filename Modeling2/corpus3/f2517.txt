@@ -1,0 +1,1 @@
+django-ping endpoint status setting set basic-configuration installation install monitoring stack

@@ -1,0 +1,1 @@
+django-jenkins pyunit unittest testrunner hudson jenkins django pylint pep pyflakes csslint scsslint jshint coverage reporters report create-reports running run runs settings set installation installed install command creates created extensions xml continuous python tasks task flake version versions reporter compatible-report sloccount tool lint-tools usage compatibility

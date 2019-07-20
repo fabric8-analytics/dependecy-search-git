@@ -1,0 +1,1 @@
+wikiciteparser parses wikipedia citation templates python python-library-wraps-wikipedia

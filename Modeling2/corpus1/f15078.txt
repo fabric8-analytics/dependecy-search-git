@@ -1,0 +1,1 @@
+pysqlcipher python bindings sqlcipher c install installed installing e f bundled d text amalgamation conn b execute o pysqlcipher test sqlcipher stocks python x-embedded database

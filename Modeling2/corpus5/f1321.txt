@@ -1,0 +1,1 @@
+django-nin django code version alt version-check mail test processor sh check

@@ -1,0 +1,1 @@
+django-babel tool use babel django extract file code-block local number-formatting-extract directori input setuptool translat valu format templat packag python render method need section filter date framework int option fix add compat command ad template-tag name middlewar

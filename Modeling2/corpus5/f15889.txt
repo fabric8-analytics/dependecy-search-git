@@ -1,0 +1,1 @@
+django-filemanag simpl standalon file manag browser django project set templat base-templ featur upload-bas upload name defin stabl develop

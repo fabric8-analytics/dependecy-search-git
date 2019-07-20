@@ -1,0 +1,1 @@
+django-session-csrf csrf protection django without cooky alternative-implementation server web thread instance post-requests header http-headers alternative-implementation server make-sure header header web thread instance decorator decorate

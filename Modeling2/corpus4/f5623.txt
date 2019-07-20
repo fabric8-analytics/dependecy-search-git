@@ -1,0 +1,1 @@
+chardet2 iso window gb-euc jp hebrew thai-requir

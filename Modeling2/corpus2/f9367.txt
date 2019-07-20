@@ -1,0 +1,1 @@
+django-debug django application debug orm sql

@@ -1,0 +1,1 @@
+django-admin-list-filter-dropdown django admin filter dropdown filtering-sidebar-gets-long-cluttered dropdowns

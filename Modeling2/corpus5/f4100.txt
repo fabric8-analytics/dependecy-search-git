@@ -1,0 +1,1 @@
+geobricksdbm db datasourc follow method exampl default-exampl collect field tabl provid contain usernam connect postgresql-mongodb class test vendor

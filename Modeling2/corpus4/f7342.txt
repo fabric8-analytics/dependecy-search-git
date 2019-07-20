@@ -1,0 +1,1 @@
+django-stronghold stronghold stronghold default default django-views-default view-publ set url url settings-fil optionally-set file decor decor test test option name name view stronghold django-views-default code default default set set set test test base decor decor path name

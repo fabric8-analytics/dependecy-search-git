@@ -1,0 +1,1 @@
+sphinxcontrib-golangdomain package-contain

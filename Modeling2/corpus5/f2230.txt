@@ -1,0 +1,1 @@
+python-qbittorr torrent qbittor api wrapper download qb version file-torr paus list pause-resum pausing-resum file write method document authors-maintain path info

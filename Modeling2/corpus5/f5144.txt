@@ -1,0 +1,1 @@
+fdt python file dts-dtb-file option version pydtc infil installation-code-bash command o statu instal pad issu branch path output auto directori

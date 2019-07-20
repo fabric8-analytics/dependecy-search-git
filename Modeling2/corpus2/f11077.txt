@@ -1,0 +1,1 @@
+pyrtf rtf rich text format documentation reports pure-python-module images

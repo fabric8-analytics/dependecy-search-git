@@ -1,0 +1,1 @@
+mongo mongodb pymongo orm document document remove minimalistic setting

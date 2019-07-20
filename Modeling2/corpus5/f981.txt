@@ -1,0 +1,1 @@
+django-fab-deploy django default project command test thank support root instal deploy fix-config management-command removed-test requir user initial-support ubuntu-serv fix improv mysql-us mihailenco-bett domain remov manag script server ssh custom probabl branch kwarg apach call host line longer non fail argument

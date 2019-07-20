@@ -1,0 +1,1 @@
+progressist minimalist pythonic progress bar python progress bar progress bar default type python-formatting eta throttle throttle pythonic-progress-bar integer total second second remain remain place template-string line float

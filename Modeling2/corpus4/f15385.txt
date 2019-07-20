@@ -1,0 +1,1 @@
+supay daemon daemon start stop statu spawn process processs effective-way

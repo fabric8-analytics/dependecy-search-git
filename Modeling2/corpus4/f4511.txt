@@ -1,0 +1,1 @@
+singleton singleton thread safe

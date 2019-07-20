@@ -1,0 +1,1 @@
+django-fluent-dashboard module module django dashboard admin setting set application application package package optional-cache configurable configure configure block-python configuration-add contribute contribution default dashboardmods px additional option formats-absolute add

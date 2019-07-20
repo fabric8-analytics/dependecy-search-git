@@ -1,0 +1,1 @@
+dlipower switch-python-module-alt-documentation-status webpowerswitch switch

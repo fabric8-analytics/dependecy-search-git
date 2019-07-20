@@ -1,0 +1,1 @@
+serenata-toolbox pip module containing code shared across serenata de amor projects data science brazil corruption alt datasets dataset python-installation toolbox-installable install development developer bash version html make py-develop latest existing practices status includes-issues documentation cd rst

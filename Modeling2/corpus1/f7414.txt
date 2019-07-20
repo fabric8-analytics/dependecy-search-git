@@ -1,0 +1,1 @@
+djtables tables users paginated-table djtables django request requests class-userstable html page sorting sort model models template software uses use useful license example usr project paginating pagination projects-provide provides body similar

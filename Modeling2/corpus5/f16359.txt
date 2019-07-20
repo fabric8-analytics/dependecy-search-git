@@ -1,0 +1,1 @@
+django-good-practice-exampl django good practic exampl list display instal packages-instal

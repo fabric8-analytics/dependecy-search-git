@@ -1,0 +1,1 @@
+djorm-ext-hstore hstore code library django instal install instal python extension extension string-keys key-value manager test orm-field database database string value field

@@ -1,0 +1,1 @@
+django-autotransl translat set command autotransl instal messag code bash travi

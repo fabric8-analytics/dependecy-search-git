@@ -1,0 +1,1 @@
+pylibftdi device ftdi-devices pythonic-interface interfacing supports-python include include support support license codedstructure serial io wrapper bit bit unicode easy thing wrapper-provides cross-platform driver-ftdxx provide provide file pylibftdi bitbangdevice libftdi

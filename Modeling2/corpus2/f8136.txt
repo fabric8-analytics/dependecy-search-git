@@ -1,0 +1,1 @@
+cmsplugin-filer-image-translated django image multilingual in filer cms plugin usage latest-stable

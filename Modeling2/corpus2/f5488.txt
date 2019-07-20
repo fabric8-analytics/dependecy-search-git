@@ -1,0 +1,1 @@
+chemspipy chemistry cheminformatics chemspider rsc rest api properties-installation-install provides chemical license licensed

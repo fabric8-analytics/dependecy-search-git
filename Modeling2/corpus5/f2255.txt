@@ -1,0 +1,1 @@
+django-meta pluggabl app allow django develop quickli add meta tag opengraph twitter googl plu properti html respons python metatag social network seo optim alt django-meta-gitt version method statu content check github bitbucket-repositori

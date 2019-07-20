@@ -1,0 +1,1 @@
+django-markdownx comprehens markdown plugin built django markdownx editor python imag upload drag drop ajax support preview format-support pypi multipl modif size format statu document upscal

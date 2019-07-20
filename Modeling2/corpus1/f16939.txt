@@ -1,0 +1,1 @@
+fudge python module replacing real objects fakes mocks stubs etc testing replacing-real-objects complete-documentation objects object playback-actions

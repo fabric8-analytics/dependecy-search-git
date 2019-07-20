@@ -1,0 +1,1 @@
+pinax-eventlog event logger log ad supported-django updat support document pinax signal fix contribut add app use data fixed-templ set licens python make jsonfield manag creat singl free name human wrap remov project-templ view requir work admin releas compat interfac content content-object object source-platform pinax-eventlog-provid

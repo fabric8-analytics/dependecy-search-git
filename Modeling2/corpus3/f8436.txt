@@ -1,0 +1,1 @@
+django-bootstrap-static django jquery bootstrap-static-files-latest-version font-awesome target code-block package change change include image-alt

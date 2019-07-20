@@ -1,0 +1,1 @@
+django-jsonbfield postgresql jsonb field support django django postgres jsonb lookups lookup key keys jsonfield-class fieldlookup contrib operator operators operations querying query

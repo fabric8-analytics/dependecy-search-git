@@ -1,0 +1,1 @@
+setuptools-green creates test command run test use green test runner development test setuptools-green licence test setuptools-green script command provide

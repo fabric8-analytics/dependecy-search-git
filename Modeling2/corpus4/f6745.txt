@@ -1,0 +1,1 @@
+ioctl-opt ioctl ctype ctype ioctl lambda-length c defining-hidraw-ioctl code code defin x python python h-define-eviocgnam ior import ioc shadow descriptor

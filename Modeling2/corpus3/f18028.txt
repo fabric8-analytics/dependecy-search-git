@@ -1,0 +1,1 @@
+django-sorting sort pagination django sort sort list context-processor processor tag tag different like sort tag tag use-django-sorting-allows middleware easy

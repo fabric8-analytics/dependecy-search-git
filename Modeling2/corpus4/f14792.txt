@@ -1,0 +1,1 @@
+django-compon app installed-apps-setting-lik set compon exampl

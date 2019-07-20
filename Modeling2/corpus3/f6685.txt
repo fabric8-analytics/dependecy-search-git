@@ -1,0 +1,1 @@
+django-jasmine django javascript test django-jasmine add test test url url test-directory tag improve improve license license html-fixtures template template jquery install develop development specs-installation obvious file file settings-installed spec error error set matcher matcher

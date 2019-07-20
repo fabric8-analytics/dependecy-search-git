@@ -1,0 +1,1 @@
+flake8-blind-except flake except exception block blocks-catching-specific exceptions code better like likely catch catches considered-bad

@@ -1,0 +1,1 @@
+pydm python display manager epics pyqt designer pydm-python-display building build environment-variable installed install installing sparse wrapper wrappers widget widgets happen happens-automatically make-simple scripts script

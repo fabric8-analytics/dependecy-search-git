@@ -1,0 +1,1 @@
+impyla python db api client impala hive hiveserver protocol cloudera hadoop sql hdfs mpp spark pydata pandas distributed pep hs impyla-python-client including include data testing interface feature patch running-tests project-features api-pep bugs bug clients release releases descriptive run sqlalchemy start compliant following-environment good committed commit narrowly

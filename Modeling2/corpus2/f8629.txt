@@ -1,0 +1,1 @@
+python-logstash test-logger added version messages message handlers loggers logging-handler default type types passing passed field fields info host json import codec values value classes class tcp true

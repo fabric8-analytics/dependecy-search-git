@@ -1,0 +1,1 @@
+solid-i18n django languag issu set v url use-default-languag add case support exampl prefix fix prefer use statu requir requirements-python content path note site start

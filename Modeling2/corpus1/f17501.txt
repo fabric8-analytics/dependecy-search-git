@@ -1,0 +1,1 @@
+invenio-app wsgi celery cli applications invenio flavours invenio applications invenio-copyright release version-released invenio fix headers flask cern

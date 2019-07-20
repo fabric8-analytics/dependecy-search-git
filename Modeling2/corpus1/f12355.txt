@@ -1,0 +1,1 @@
+pyfluidsynth fluidsynth audio python note-use notes version versions example generating generated generate generates code returns return works work sound array arrays object objects folder function functions generally sequencer sequence-actual timing time romberg-license noteoff patches parameters parameter generally synthesizer contains-python patches-set

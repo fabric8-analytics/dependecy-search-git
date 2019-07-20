@@ -1,0 +1,1 @@
+adafruit-python-dht python librari read dht seri humid temperatur sensor raspberri pi beaglebon black adafruit-python-dht-sensor sensor sourc black version raspberri ubuntu releases-pag make

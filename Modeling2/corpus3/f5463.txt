@@ -1,0 +1,1 @@
+gludb generalize learn utility database library python database developer tool dynamodb mongodb datastore google cloud datastore sqlite postgresql database versioning backupsqlite dynamodb cloud datastore mongodb datastores datastore store dynamodb stores-supported support gludb boto mongodb backup backup need need automate data state

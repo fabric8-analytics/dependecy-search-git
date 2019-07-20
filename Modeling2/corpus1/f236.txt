@@ -1,0 +1,1 @@
+collections-extended collections alt hashable version class classes license pypi pypy michael-lenzen python

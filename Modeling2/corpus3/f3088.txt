@@ -1,0 +1,1 @@
+zopfli compress block block zopfli optimize-lz-compression true forward default pyzopfli split splitting split keyword boolean file file optimal value value status gzip

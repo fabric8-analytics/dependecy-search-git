@@ -1,0 +1,1 @@
+ofxtool ofx open financi exchang ofx python data financi format format standard-format depend depend standard extens extens extensions-contain contain request case case serial section section model model version version checked-test major major-item quicken-microsoft tracker github

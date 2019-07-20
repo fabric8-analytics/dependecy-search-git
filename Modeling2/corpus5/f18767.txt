@@ -1,0 +1,1 @@
+dronekit-sitl sitl runner dronekit set version simul ardupilot vehicle-binari build avail port consol ports-inst issu command exampl resourc gplv mac linux platform description-h-help python

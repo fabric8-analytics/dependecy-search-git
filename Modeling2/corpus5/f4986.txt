@@ -1,0 +1,1 @@
+flatbuff memori effici serial librari json parser marshal rpc zero copi mmap cross platform c plu java sharp go python rust javascript typescript grpc protobuf runtim

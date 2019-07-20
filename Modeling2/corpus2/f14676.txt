@@ -1,0 +1,1 @@
+django-easy-pjax django pjax template templates sites-alt-build add license site page repository url urls settings-code-block set separated incompatible string strings example examples filter filters project quality-projects permalinks blocks busting settings-code ascii query-string compatibility support

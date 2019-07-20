@@ -1,0 +1,1 @@
+puput django blog app implemented wagtail blogging cms setup image weblog

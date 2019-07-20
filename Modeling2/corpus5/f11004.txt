@@ -1,0 +1,1 @@
+python-hdf4 hdf netcdf numpi python pyhdf hdf-version instal vgroup scientif dataset sd array

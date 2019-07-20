@@ -1,0 +1,1 @@
+crash crash interactive cratedb command line interface cli sql shell autocompletion crate db data client shell version version shell-alt help contribute contribution contribution rst crash installation install executable problem cli

@@ -1,0 +1,1 @@
+rackspace-novaclient metapackage install python novaclient rackspace extension install-python rackspace-novaclient o instal

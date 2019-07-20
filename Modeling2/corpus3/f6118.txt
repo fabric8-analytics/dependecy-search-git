@@ -1,0 +1,1 @@
+django-json-dbindex json dbindex database index postgresql django apps app index directory database-index trgm django-json site drop drop

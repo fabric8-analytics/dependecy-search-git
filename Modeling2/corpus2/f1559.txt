@@ -1,0 +1,1 @@
+django-url-methods provide various methods work urls used django trusted html model url django-url

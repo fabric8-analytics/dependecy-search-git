@@ -1,0 +1,1 @@
+aiocoap coap rfc support network multicast-support librari document python-coap-librari run item test server c standard-docu gener secur draft fetch handl code tool concurr twist public client instal implement licens loops-lik depend observ pep standard loop

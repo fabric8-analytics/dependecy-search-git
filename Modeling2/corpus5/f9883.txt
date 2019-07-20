@@ -1,0 +1,1 @@
+pybid python tool queri manipul bid dataset api relat instal discuss bug request usag offici pip officially-support support oper including-mac requir licens paper term conform

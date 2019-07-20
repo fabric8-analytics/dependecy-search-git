@@ -1,0 +1,1 @@
+social-auth-core openid authentication social-auth-core versioning documentation document implements implement

@@ -1,0 +1,1 @@
+django-hvad translatable translated django release releases models queries query package-coverage-build-model-translations included-translation-enabled languages uses use language-aware key branch branches querysets features enabling default-returns queryset-methods instance instances returning title french example examples including

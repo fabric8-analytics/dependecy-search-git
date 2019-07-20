@@ -1,0 +1,1 @@
+django-cron write cron business logic python class let app rest enables django project schedule cron task track success failure manages contention via cache etc basically take care boring work django cron python django-cron like success app source

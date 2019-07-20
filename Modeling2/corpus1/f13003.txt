@@ -1,0 +1,1 @@
+flask-bower default flask-bower like versions version replace-flasks-function packages package url replacing functions extensions extension files file javascript-dependency

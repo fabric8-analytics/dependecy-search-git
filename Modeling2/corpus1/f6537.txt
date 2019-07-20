@@ -1,0 +1,1 @@
+pigar requirements tool pigar python-project-requirements versions version installed installation install py directory upgrade import imported code way regular version fixed python-versions package packages generate-requirements project directory-pigar make file files searching search py issue add import imported-module use sorted sort modules removed

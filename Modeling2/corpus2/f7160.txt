@@ -1,0 +1,1 @@
+ezodf odf opendocumentformat openoffice libreoffice document documentation prefixes prefix-declaration add declarations cpython-compatibility existing example examples dependencies version added documents file open opening odf-files support supported alpha filename template rows row license simple objects opendoc ubuntu-bit newdoc span python create cpython changed

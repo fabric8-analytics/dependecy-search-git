@@ -1,0 +1,1 @@
+django-monitor django moder model model-object admin instal python import locat permiss object requir class-mymodel data user path myadmin detail relat

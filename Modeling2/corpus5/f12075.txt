@@ -1,0 +1,1 @@
+openupgradelib librari support function call odoo migrat script alt featur statu fix records-add-rename-field history-fix-set-defaults-new field compatibility-imp-load renam updat remov log modul coverag openupgrad model version default version-instal py compat instal load argument filter translat import attach txt upload docstr doc allow use

@@ -1,0 +1,1 @@
+pygeoip deprecate pure python api maxmind binary geoip database deprecate obsolete archive geoip longer-supported installation install bug python code bug

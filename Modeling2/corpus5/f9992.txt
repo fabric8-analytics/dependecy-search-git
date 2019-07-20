@@ -1,0 +1,1 @@
+pyqt-distutil hook ui-fil fix python command add pyuic-json-fil instal code-block pyrcc extens e skip thank follow remov pyqt-distutils-alt function pypi improv licens handl instead

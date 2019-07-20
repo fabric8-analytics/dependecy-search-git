@@ -1,0 +1,1 @@
+schwifty iban parsing validation iban bic python swift bics bic codes code schwifty validate validation specification ibans iban country-specific number registry installation install valueerror invalid bank

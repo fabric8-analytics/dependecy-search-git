@@ -1,0 +1,1 @@
+pyahocorasick aho corasick python string-search key-str automaton key test written licens aho-corasick time visual compil match sourc librari includes-visu like-tri efficient-librari build valu larg domain report anti structur better effici perform case api jan set pre-defin suffix includ document system setup messages-propos contribut users-alphabet questions-contribut linux

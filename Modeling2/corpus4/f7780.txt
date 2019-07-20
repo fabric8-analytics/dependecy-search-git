@@ -1,0 +1,1 @@
+python-bidi bidi unicod layout exampl exampl default string unicod algorithm test r requir requir upper-cas line-util fals base base test test implement direct direct python-bidi exampl exampl doc fix returning-default implement-overrid string unicod overrid return requir requir algorithm py document document specifi specifi upper-cas

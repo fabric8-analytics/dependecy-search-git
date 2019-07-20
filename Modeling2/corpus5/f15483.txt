@@ -1,0 +1,1 @@
+bioread scienc research physiolog biopac convert librari file-format channel reading-biopac-fil usag acqknowledg acq sampl data compress format matlab great event ve attributes-event-mark read scale debug requir marker name number use scipi header dataset entire-dataset character-cod entir copyright-c delimit packag

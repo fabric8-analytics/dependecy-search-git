@@ -1,0 +1,1 @@
+pyexcel-pyg draw chart use pyexcel data via pygal svg python test test test test licens develop develop develop pyexcel-pyg instal instal pip-cod coding-document rst requir requir updat updat ci gener meta accept clone changes-git chang

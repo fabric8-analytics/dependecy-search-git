@@ -1,0 +1,1 @@
+sqlize-pg sql queri builder sql-queri method argument introduct sqlize select select-look look main insert claus tabl file delet name named-placehold placehold support todo-report report way

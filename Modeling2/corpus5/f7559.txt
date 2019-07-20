@@ -1,0 +1,1 @@
+django-ded django dedal project use add url exampl fix changed-url drop

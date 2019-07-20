@@ -1,0 +1,1 @@
+minimal-snowplow-tracker snowplow python-analytics git docker event-tracker software language-governing

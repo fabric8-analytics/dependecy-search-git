@@ -1,0 +1,1 @@
+pygame-cffi cffi based sdl wrapper copies pygame api dev dependencies dependency requirements requires required x run running machines failures libsdl discussion bundled-set

@@ -1,0 +1,1 @@
+salesforce-bulk python interface salesforce com bulk api heroku connect job operations operation csv pk-chunk data authentication authenticate returning returns reasons records record password concurrency alt

@@ -1,0 +1,1 @@
+python-pcr string unicode-charact template-str differ utf-mod encod charact subject use intern matched-subject match templat buffer regex mode distutil stackless base

@@ -1,0 +1,1 @@
+ribosom plugin set declar neovim-python host manual

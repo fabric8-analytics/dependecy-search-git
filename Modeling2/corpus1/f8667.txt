@@ -1,0 +1,1 @@
+tmdeploy please use https github com tissuemaps tissuemaps instead deployment cloud ansible installation command line tool virtual machine amazon web services google compute engine openstack ansible playbooks ansible container docker docker compose container deployment deploy-ansible

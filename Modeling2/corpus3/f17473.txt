@@ -1,0 +1,1 @@
+lemon-publications utils create publication like django apps faster publication

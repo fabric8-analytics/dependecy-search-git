@@ -1,0 +1,1 @@
+cfn-resource-provider base class aws cloudformation custom resource provider property property types-self schema string string cloudformation type value method method base-class returnsecret

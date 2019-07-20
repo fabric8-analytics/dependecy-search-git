@@ -1,0 +1,1 @@
+flake8-logging-format flake extension validate lack log format string microcosm pass-non-constant-data log log log log passing sensitive use support support whitelist whitelisted

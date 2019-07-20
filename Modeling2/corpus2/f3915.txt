@@ -1,0 +1,1 @@
+django-bootstrap-admin apps bootstrap add admin app adds

@@ -1,0 +1,1 @@
+flask-heroku-cacheify flask heroku cloud cache memcache memcached redis awesome caches caching-addons flask-heroku cache-configuration use useful redis got interface easy addon-providers documentation application applications redisgreen provider required-c-header configuring automatic automatically

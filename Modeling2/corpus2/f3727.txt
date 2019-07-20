@@ -1,0 +1,1 @@
+pytest-runner test testing-requirements tests-require requires required requirement requiring setup usage standalone consider avoid index-url options optionally like dependencies debugging example examples

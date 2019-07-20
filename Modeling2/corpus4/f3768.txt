@@ -1,0 +1,1 @@
+django-generic-flatblock classifier-develop model django author flatblock license-mit develop

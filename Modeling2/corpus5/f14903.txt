@@ -1,0 +1,1 @@
+cabot-alert-hipchat hipchat plugin cabot cabot-hipchat-plugin user monitor

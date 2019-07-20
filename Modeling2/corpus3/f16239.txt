@@ -1,0 +1,1 @@
+django-registration2 registration moderation registration registration registrant user user activation default default different backend backends run limit-signals register register register sent

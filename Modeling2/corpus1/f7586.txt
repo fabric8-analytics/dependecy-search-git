@@ -1,0 +1,1 @@
+brotlipy python bindings brotli compression library authors brotlipy information simply-try authors brotlipy information erroring extra-error-checking simply-try bytestring-instead provided library

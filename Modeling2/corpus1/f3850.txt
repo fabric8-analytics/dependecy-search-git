@@ -1,0 +1,1 @@
+django-production-ready app production ready install installed-apps app setup-py install installed add production py

@@ -1,0 +1,1 @@
+pyvmomi vmware vsphere api python bindings esx version versions releases release released project projects community support supports supported getting testing tests test developer development manage management alt freenode

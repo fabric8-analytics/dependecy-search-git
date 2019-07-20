@@ -1,0 +1,1 @@
+sorl-thumbnail-serializer-field serializer version rest-framework versions-thumb make example code build

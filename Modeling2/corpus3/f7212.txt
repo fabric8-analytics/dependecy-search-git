@@ -1,0 +1,1 @@
+django-ckeditor-filebrowser-filer django filer base ckeditor filebrowser django file manager filer python ckeditor django ckeditor filebrowser filer django filer ckeditor filebrowser alt add django-ckeditor-filebrowser-filer url url fix fix version version install instal add documentation status license

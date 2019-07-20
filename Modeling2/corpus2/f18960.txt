@@ -1,0 +1,1 @@
+django-render-partial django view based-views calling variable-called variables fully write

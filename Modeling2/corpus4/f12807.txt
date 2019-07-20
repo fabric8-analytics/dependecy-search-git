@@ -1,0 +1,1 @@
+spyder-report spyder plugin render markdown report use pweav backend spyder alt spyder-report backer coverag statu opencollect licens donat monthly-don month alt report coverag statu licens

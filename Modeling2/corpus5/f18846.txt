@@ -1,0 +1,1 @@
+pydot-ng python interfac graphviz dot languag compat nad graph visual pydot-python ero instal modul requir

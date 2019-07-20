@@ -1,0 +1,1 @@
+django-summernote simply integrate summernote editor django project django summernote wysiwyg django-summernote set setting support-admin file file editor example database additional attribute attribute setup option option environment-add

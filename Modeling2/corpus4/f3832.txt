@@ -1,0 +1,1 @@
+nsetool nse quot market data live stock nsetool fast nseindia main

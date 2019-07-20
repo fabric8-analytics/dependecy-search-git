@@ -1,0 +1,1 @@
+python-dwca-reader python package read darwin core archive dwc files biodiversity informatics python biodiversity biodiversity standards gbif dwc alt-documentation-status

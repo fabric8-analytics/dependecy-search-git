@@ -1,0 +1,1 @@
+django-qrauth setting set settings django-qrauth site sites code-scanning proxy header authenticated correct correctly installation-step-install-redis user-authentication interfaces interface email users page scan web-server access signed sign signing determined e injections device make urlconf templates security secure urls url background session

@@ -1,0 +1,1 @@
+wagtailmodeladmin extens wagtail help make admin area littl customis cm model util class list customisable-listing-pag app add menu-item experi page view version attribut support simpl extend user simply-extend method item-avail need exampl preview text hook easili instead set user-experience-simpl

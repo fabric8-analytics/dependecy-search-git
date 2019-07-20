@@ -1,0 +1,1 @@
+traittyp interact interpret shell web trait

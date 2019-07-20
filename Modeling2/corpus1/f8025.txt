@@ -1,0 +1,1 @@
+popit-python deprecated python bindings connect popit api popit api version installation install installed run running tests test bindings binding logging-requirements

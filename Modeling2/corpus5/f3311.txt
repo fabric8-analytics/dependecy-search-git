@@ -1,0 +1,1 @@
+mathmakerlib add number fix-numb patch object version unit digit clocktime-object accept pypi siunitx dot modul latex default point requir develop mathmakerlib-requir mark cakes-sophi scale behaviour cecillon statu zero codecov geometr polygon decor angles-decor remov angl

@@ -1,0 +1,1 @@
+django-cart problem django-cart main-problem app migrat type simple-appl

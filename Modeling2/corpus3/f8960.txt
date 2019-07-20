@@ -1,0 +1,1 @@
+spdx-lookup spdx license database lookup query license

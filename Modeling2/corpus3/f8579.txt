@@ -1,0 +1,1 @@
+repoze-who-plugins-browserid authentication repoze browserid csrf audience assertion-audience assertion check check verify verifier request request plugins-browserid default default plugin refer referer login logins update python-reference use us verification cookie file pyvep postback host fix initial independent et separated-list navigator strict

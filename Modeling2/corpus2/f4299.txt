@@ -1,0 +1,1 @@
+naima license clause-bsd-style python-package

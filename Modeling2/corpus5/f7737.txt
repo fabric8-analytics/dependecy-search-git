@@ -1,0 +1,1 @@
+pytest-vari plugin provid variabl pytest test fixtur yaml json hjson py code alt file foo dictionari file-specifi human-json-yaml instal version specifi follow

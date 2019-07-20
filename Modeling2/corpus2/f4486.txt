@@ -1,0 +1,1 @@
+django-environ django environment variables factor url urls alt file files environment-variables django-environ-pypi variable mail code dj python env foo make making value coverage supports supported feature-support build path settings set issues issue branch license licensed similar email dict-bar dummy float cache database databases memory baz package packages

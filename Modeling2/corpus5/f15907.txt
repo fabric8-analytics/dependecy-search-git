@@ -1,0 +1,1 @@
+recordclass namedtupl structclass arrayclass class object support add memori like-classes-mut default base fix python instanc new-bas type changes-fix creation creat issu make sizeof chang example-quick n-p protocol special refer cycl field fast

@@ -1,0 +1,1 @@
+urbandictionary urban dictionary python api wrapper

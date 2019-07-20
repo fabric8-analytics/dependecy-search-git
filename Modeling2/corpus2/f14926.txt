@@ -1,0 +1,1 @@
+django-payments universal payment handling django payments python stripe paypal google wallet sofort sagepay braintree paribas

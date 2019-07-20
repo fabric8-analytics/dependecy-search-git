@@ -1,0 +1,1 @@
+staticmap small python based library creating map images lines markers polygons static map image osm map markers marker optional lines line parameter installation install licensed license pixels pixel based base color tile width data-openstreetmap padding

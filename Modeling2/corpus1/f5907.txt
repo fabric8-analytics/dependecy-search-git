@@ -1,0 +1,1 @@
+pykep pykep scientific library providing basic tools research interplanetary trajectory design interplanetary mission analysis astrodynamics aerospace space keplerian math physics interplanetary pykep providing keplerian solver algorithmic tools astrodynamics flanagan library-providing

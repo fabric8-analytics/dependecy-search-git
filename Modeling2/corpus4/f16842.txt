@@ -1,0 +1,1 @@
+django-admin-util admin alt target imag support statu exampl supported-vers mixin requir expand inner travis-appveyor version packag packages-django

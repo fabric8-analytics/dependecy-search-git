@@ -1,0 +1,1 @@
+django-websocket-request support django request respons lifecycl automat handl websocket messag key websocket-request agnost patch provid js demo exampl author jwt live-demo rest-framework

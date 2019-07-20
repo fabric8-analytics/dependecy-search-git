@@ -1,0 +1,1 @@
+awsume utility easily assuming aws iam roles command line plugin plugins awsume-aws-assume exporting exports profile profiles credentials export-commands shell installation installable installer installed install assumed-role python removed removes variables linux add refresh refreshing

@@ -1,0 +1,1 @@
+trionyx django customer-admin trionyx trionyx customer-admin run

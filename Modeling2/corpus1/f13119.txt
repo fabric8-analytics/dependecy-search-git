@@ -1,0 +1,1 @@
+django-gulp django works current-working-directory settings set setting-like toplevel new ignored starting js files gulp watch-finished bower new watches watching runserver static copying yes py users

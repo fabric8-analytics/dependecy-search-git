@@ -1,0 +1,1 @@
+django-picklefield django pickl model field object chang version pickled-object-field ad encoded-pickl supported-python-vers django-picklefield-alt support lookup valu encod data thank updat serial default perform test argument pickledobjectfield use databas like miliauska space work problem edit string origin true null ascii restructur

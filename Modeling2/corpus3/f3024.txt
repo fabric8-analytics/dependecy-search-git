@@ -1,0 +1,1 @@
+pynuodb nuodb scalable cloud database nuodb-python-alt api code driven e documentation cpython package

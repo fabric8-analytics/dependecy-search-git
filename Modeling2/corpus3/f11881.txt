@@ -1,0 +1,1 @@
+vcf-annotate-polyphen tool annotate human vcf file polyphen effect measure vcf annotate polyphen vcf-annotate-polyphen annotate annotation command-line variant variant example

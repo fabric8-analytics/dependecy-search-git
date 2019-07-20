@@ -1,0 +1,1 @@
+django-tastypie-hmacauth django tastypie authentication hmac sha server values requests request apis api client hash hashing hashed data parameter-value-public-key secret user-id like hmac-authentication django-tastypie parameters-ordering python order m installation-code time acceptable accepted information install hashlib import important sent

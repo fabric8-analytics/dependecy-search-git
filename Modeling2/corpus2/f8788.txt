@@ -1,0 +1,1 @@
+nose2django nose django testing python-acknowledgements installation-code-block-bash-create tests test required nosedjango pattern patterns like runner django-tests setting directory v configurations-settings optionally-set entry code-block-bash correct correctly setup configuration py options

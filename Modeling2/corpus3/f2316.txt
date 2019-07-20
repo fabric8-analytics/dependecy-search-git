@@ -1,0 +1,1 @@
+simple-locations simple-locations common-location-package geographical support type

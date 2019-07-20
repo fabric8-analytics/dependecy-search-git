@@ -1,0 +1,1 @@
+dronekit-sitl sitl runner dronekit dronekit-sitl set setting version versions simulator simulate simulation simulated ardupilot vehicle-binaries build builds available port console ports-instance issues commands command example examples resources gplv mac linux platforms platform description-h-help python

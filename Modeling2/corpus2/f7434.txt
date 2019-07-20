@@ -1,0 +1,1 @@
+pytest-faulthandler py test plugin activates fault handler module testing pytest debugging faulthandler python finish-requirements anaconda appveyor tests block-console-change

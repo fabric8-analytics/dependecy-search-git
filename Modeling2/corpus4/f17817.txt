@@ -1,0 +1,1 @@
+social-auth-app-pyramid pyramid social-auth-pyramid version project

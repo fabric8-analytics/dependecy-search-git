@@ -1,0 +1,1 @@
+diskimage-build ubuntu image-build disk-imag trusti licens reserved-licens softwar language-govern build copyright support

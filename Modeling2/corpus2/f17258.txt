@@ -1,0 +1,1 @@
+sphinxcontrib-apidoc file apidoc module modules build sphinx-extension configuration configured configure sources files-like documents document api-documentation optional option autodoc source-directory extensions path paths dir python layout generation generates generate generated changes change let

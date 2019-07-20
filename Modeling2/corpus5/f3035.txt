@@ -1,0 +1,1 @@
+alemb sqlalchemi migrat migration-script script database-migrations-tool databas construct new ddl alter tabl changing-column columns-ad direct directli workflow operations-lik command graph sql oper defin edit current grunt chang minimalist schema environ gener file

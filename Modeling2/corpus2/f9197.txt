@@ -1,0 +1,1 @@
+spinnstoragehandlers host based storage handler classes spinnaker software stack python depends package-provides-classes data-storage

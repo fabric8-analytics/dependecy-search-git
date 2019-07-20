@@ -1,0 +1,1 @@
+django-jquery django jquery staticfiles installation instal py jquery

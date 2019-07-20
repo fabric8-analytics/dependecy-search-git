@@ -1,0 +1,1 @@
+infrared plugin based framework aims provide easy use cli ansible based projects infrared plugin infrared ansible infrared customized alternative experience use projects project

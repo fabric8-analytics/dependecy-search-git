@@ -1,0 +1,1 @@
+solar-radiation-model solar radiation model python service provides satellital images filter architecture dev library libraries issue level c github tracker dev-gmail requirements

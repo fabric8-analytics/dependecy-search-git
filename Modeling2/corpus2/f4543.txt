@@ -1,0 +1,1 @@
+django-refinery django refine filter models querysets forms allow django-refinery-allows filters filtering project-documentation-requirements class required background fields queryset example-usage create creating created examples bugs bug custom expanded expand new

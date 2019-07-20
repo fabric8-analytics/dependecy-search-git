@@ -1,0 +1,1 @@
+frozen-flask freeze flask application set static file python flask static site generation frozen-flask license flask-freezes

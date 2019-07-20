@@ -1,0 +1,1 @@
+django-wordpress-auth-lite django integration wordpress authentication sourcecode installation installed wordpress-auth middleware php-python login py wp constants wordpress-auth-introduction-allows keys middleware installation installed dependencies

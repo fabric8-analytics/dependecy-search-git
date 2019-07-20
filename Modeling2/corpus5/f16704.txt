@@ -1,0 +1,1 @@
+pyrtlsdr radio librtlsdr rtlsdr sdr python file dongl dependencies-windows-linux gener support dll py rtlu-based-sdr simpl asynchronous-read-support read rtlsdraio featur base plot client librari bit copyright v new syntax certain-usb modul licens devic sampl e code import server-cli devices-support serial-numb number power stream statu alt c path

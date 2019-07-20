@@ -1,0 +1,1 @@
+azure-mgmt-servicebu add oper features-added-oper model microsoft-azur management-cli migrat resource-manag new-parameter-migr paramet enum packag chang argument bugfix config breaking-chang rule api code http-session list set properti releas dead format

@@ -1,0 +1,1 @@
+django-userprofiles profile profiles registration email form forms default django-userprofiles setting-defaults changing changes change user users automatically address addresses settings set adds add

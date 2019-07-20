@@ -1,0 +1,1 @@
+heat data analytics gpu tensors distributed high-performance-data highly installed installation install heat-helmholtz-analytics distributed-tensor license python learnings learning mpi computations computing computational computation version pytorch scalable notebook-tutorial science project performance memory use package

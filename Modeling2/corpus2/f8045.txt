@@ -1,0 +1,1 @@
+django-yamaps django yandex maps integration python template

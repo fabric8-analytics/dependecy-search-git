@@ -1,0 +1,1 @@
+django-facebook-auth authent django-facebook set south requires-celeri installation-packag instal token add

@@ -1,0 +1,1 @@
+apiclient api client urllib keepalive threadsafe http rest tiny-framework rate-limiting github make urllib small changes-bonus extra-juicy include add good-api-client-libraries request request like changes-bonus todo rate readme decouple codebase example example library threadsafely-reuses

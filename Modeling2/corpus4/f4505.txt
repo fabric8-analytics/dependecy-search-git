@@ -1,0 +1,1 @@
+gui2pi guipi desktop sampl minim structur platform file kiss build includ includ git tools-design installation-instruct gui-framework python

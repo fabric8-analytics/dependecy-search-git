@@ -1,0 +1,1 @@
+wsql python asynchron databas adaptor webscal sql mysql cluster async c asyncio asyncsql devel version-thread thread support

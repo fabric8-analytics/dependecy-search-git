@@ -1,0 +1,1 @@
+lsqfit fitting fit numbers number uses use libraries library-gsl gaussian package dimensional c data priors efficient complicated

@@ -1,0 +1,1 @@
+miflora plant sensor bluetooth low energi ble librari miflora-librari backend gatttool-pygatt btlewrap bluez home bluepi giga-bas package-mak mqtt-client

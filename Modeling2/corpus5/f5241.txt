@@ -1,0 +1,1 @@
+proto-google-cloud-speech-v1beta1 librari deriv

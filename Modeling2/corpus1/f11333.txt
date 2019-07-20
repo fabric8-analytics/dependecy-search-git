@@ -1,0 +1,1 @@
+django-safe-project django project module django installed installation install key named

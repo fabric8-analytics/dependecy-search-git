@@ -1,0 +1,1 @@
+django-unslashed django slash remove trailing unslash remove slash path urls slash slashed trailing-url-slashes django commonmiddleware rationale-web foo-com commonmiddleware-code-feature django example alt

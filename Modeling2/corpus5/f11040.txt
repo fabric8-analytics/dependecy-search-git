@@ -1,0 +1,1 @@
+proto-google-cloud-monitoring-v3 deriv librari

@@ -1,0 +1,1 @@
+pipreqs pip requirements imports generate-requirements-txt-file fixed fix-duplicated output-add import option remove-package use project packages mapping mappings duplicates duplicate ej-lee requirements-txt modules module kxrd-exclude requirement comments shin update-proxy environment pip-freeze clean

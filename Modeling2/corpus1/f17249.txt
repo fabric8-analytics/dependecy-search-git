@@ -1,0 +1,1 @@
+asyncpgsa wrapper around asyncpg use sqlalchemy sqlalchemy python asyncio postgres support-sa supports sqlalchemy-backwards-incompatibility asyncpg library orm change changes changed version dot-notation incompatible objects object example examples install doesnt removes removed

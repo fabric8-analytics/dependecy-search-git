@@ -1,0 +1,1 @@
+glogcli glog server configur password graylog-instal messag command instal source-command queri featur default softwar

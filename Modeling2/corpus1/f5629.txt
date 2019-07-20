@@ -1,0 +1,1 @@
+modern-package-template projects project-automatic use-distribute modern-package-template followed following automatically pypi included include use-distribute buildout modern-package-template projects project add remove-setup credits readme-txt release-date followed following pypi

@@ -1,0 +1,1 @@
+urwid curse ui widget scroll listbox user interface text layout console ncurses text simple include including-applications loop loop widgets-include display test test test application boxes-buttons displays-support box programmable widget version

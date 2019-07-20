@@ -1,0 +1,1 @@
+smmap slide memori map manag python-implement file implement memory-map large-fil region like bit offset author sourc limit licens github git root continu file-descriptor

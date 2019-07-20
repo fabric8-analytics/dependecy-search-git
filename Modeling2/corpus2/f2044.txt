@@ -1,0 +1,1 @@
+scipy-stack scipy stack numpy pandas jupyter install

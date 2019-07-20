@@ -1,0 +1,1 @@
+readchar stdin code alt python characters character bash license licensed install-readchar venv installation download read reads reading request travis-coveralls downloads-tests pip pypy pypi tested strokes stroke

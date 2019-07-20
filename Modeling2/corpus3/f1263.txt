@@ -1,0 +1,1 @@
+feature lattice morphology phonology learn fca feature-set python features-pypi-version-license alt use-sets graphviz lattice code definition definition order concept concept simple string string person-number version intersection file quickstart-load load

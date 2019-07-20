@@ -1,0 +1,1 @@
+gcovr utility report code-coverage-reports install installation installed end gcovr-generate html begin badge gcov documentation summary license readable-summaries different line generating generates alt quickstart development build

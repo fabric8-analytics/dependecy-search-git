@@ -1,0 +1,1 @@
+django-pods apps app note default-settings style package packaged defaults

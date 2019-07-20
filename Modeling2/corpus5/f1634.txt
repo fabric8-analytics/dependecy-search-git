@@ -1,0 +1,1 @@
+c7n polici cloud-custodian resourc tag run manage-aw alt filter type-ec encrypt action requir metric manag support output provis keys-descript native-serverless environment-abs event addit project event-sourc log sourc environ user script key file yml volum yaml-configuration-fil usag licens docker time-compli account instal

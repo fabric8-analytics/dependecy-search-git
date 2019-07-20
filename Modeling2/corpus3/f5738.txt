@@ -1,0 +1,1 @@
+cfnlint aws cloudformation linter yaml json resource property property cloudformation supported-resources support current feature

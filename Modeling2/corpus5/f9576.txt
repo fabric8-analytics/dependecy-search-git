@@ -1,0 +1,1 @@
+ansible-lint best practic checker ansibl lint ansible-lint-rul task code rule-set file role skip follow multipl playbook-fil alt bash list commit argument yaml playbook modul exampl module-key remov tag deprecatedvariablerul line custom-set key git descript valu action run contribut configur

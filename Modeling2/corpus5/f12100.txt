@@ -1,0 +1,1 @@
+flask-whooshe flask sqlalchemi whoosh licens beta quickstart join applic link

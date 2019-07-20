@@ -1,0 +1,1 @@
+django-chat django-chat install installed installation-sourcecode-sh

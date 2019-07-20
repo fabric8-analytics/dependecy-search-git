@@ -1,0 +1,1 @@
+penman nlp semantics amr node nodes serialized-graph f graphs-encoded language serialization serialize module penman include included e-g usage generation restricted restrict restrictions regular choice string encode sentence relations requirements required require status-master penman format

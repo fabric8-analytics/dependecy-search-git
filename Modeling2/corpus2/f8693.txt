@@ -1,0 +1,1 @@
+jujuresources manage binary resources charms juju-resources mirrors mirroring mirror network charm config http-server line

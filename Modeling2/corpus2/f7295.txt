@@ -1,0 +1,1 @@
+django-braces reusable generic mixins django python braces class based views cbvs cbv forms supported supports installed docs-installation-install versions version requirements required easy

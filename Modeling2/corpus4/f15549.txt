@@ -1,0 +1,1 @@
+pelican-gravatar-plu gravatar pelican

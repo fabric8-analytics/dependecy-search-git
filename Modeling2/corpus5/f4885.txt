@@ -1,0 +1,1 @@
+bureaucrat deploy example-deploy bureaucrat-build build sampl deployfil

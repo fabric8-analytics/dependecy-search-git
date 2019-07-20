@@ -1,0 +1,1 @@
+django-user-roles simple role based user permissions django set settings setting user example-basic-usage

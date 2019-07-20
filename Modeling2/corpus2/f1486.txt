@@ -1,0 +1,1 @@
+querylist querylists lists list installation installed install site sites dot tested test tests developers development objects data dicts dict verbose compatible conditional betterdict betterdicts provides provided easily c-thomas use code

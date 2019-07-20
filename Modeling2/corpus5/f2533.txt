@@ -1,0 +1,1 @@
+tl-renam renam file interactive-renam transform directori name specified-fil interact replac number path argument option-argu option read case oper d sentenc mode song follow followed-sl substr charact local slice document chang current index

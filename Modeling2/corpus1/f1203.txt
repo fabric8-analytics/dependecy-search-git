@@ -1,0 +1,1 @@
+httplib2 small fast http client library python features persistent connections cache google app engine support originally written joe gregorio supported community python network http http client caching cache caches cached supports support supported http compression redirects-automatically socket requests request update checkout-unit

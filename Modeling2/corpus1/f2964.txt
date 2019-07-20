@@ -1,0 +1,1 @@
+django-hstore postgresql hstore support django django hstore schemaless insertion need-dynamic-columns serialized-column ll nice additional includes data serialized-column need-dynamic-columns sqls-insertion nice

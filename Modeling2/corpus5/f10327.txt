@@ -1,0 +1,1 @@
+python-crontab cron job new-crontab function support modul variabl time valu log cronit command time-restrict object allowed-values-speci yes-hour hourli hour extra date-object-run schedul run method write api unit aix linux management-frequ use case restrict cases-allow month monthli manag descriptor format

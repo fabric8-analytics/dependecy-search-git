@@ -1,0 +1,1 @@
+rotunicode python library converting string ascii unicode chars maintaining readability code-block-pycon ascii-characters license licensed strings software catching version-copyright application applicable installation install installing

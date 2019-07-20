@@ -1,0 +1,1 @@
+pymacaroons-pynacl contribute license license

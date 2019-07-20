@@ -1,0 +1,1 @@
+psycopg2-managed-connection code-python transaction transaction test postgresql development-testing psycopg-managed-connection open open underlie developer manager

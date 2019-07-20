@@ -1,0 +1,1 @@
+mongodict key value database mongodb dictionary like python set memory serialize-deserialize serializer-deserializer installation install values directory version uses use

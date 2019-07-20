@@ -1,0 +1,1 @@
+pysam python modul read manipul sam bam vcf bcf file lightweight wrapper htslib c api one power samtool bcftool tabix conda pysam-build-status-doc channel instal efficiently-larg non option level genom access line provid support

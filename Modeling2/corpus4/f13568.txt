@@ -1,0 +1,1 @@
+sorl-thumbnail-serializer-field serial version rest-framework versions-thumb make exampl serial code version versions-thumb rest-framework make build

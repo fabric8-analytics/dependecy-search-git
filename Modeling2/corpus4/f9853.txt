@@ -1,0 +1,1 @@
+mpi4pi scientif comput parallel comput messag pass interfac mpi mpi python instal commun commun mpipi parallel block process interfac l-dalcin array array-object object softwar collect blocking-nonblok c target-syncron r operations-remote-memori reduct scatter send openmpi

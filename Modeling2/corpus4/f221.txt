@@ -1,0 +1,1 @@
+django-tastypie-crust resourc resourc licens method project project exampl past stackoverflow test depend tastypi

@@ -1,0 +1,1 @@
+thumbor-riak thumbor riak basho images installation install hashing crop module database document imaging store

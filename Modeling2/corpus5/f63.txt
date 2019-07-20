@@ -1,0 +1,1 @@
+django-rq-wrapp django manag command multipl worker one auto reload rq autoreload management-command instal installation-add ad option

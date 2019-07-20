@@ -1,0 +1,1 @@
+cmsis-svd licensing license provide provide provide cmsis-svd-repository description targetting-arm hardware-descriptions appropriate-license target register register tooling-based svdconvert bit reference pull pull aggregate aggregate svds view information build build building svd k python data generally pull developer development quirks-install starting-place

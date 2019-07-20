@@ -1,0 +1,1 @@
+django-markdownx comprehensive markdown plugin built django markdown markdownx editor python django django markdown markdownx django markdownx editor image upload drag drop ajax image django support markdown preview format-supported pypi multiple python modification size formats status documentation upscaling

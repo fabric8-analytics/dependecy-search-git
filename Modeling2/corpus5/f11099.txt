@@ -1,0 +1,1 @@
+django-pages-cm simple-content-manag doc

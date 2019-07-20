@@ -1,0 +1,1 @@
+python-pppd ppp-connect connect instal pppconnect sudo code remot local licens usr-bin path

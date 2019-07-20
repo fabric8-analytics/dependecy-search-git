@@ -1,0 +1,1 @@
+git-lint linter support configur line ad v-fix lint linting-fil linters-css fix hook default use changing-lin python improved-default improv pre-commit-hook py modified-fil tool command repo script script-run execut run function c version code problem better display option option-instal instal hg warn modifi mercuri chang help like issu provid main mainli argument html

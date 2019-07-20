@@ -1,0 +1,1 @@
+pythonselect tool set current python version currently macosx python pythonselect windows window command pyw installed install activepython komodo python support b windows window new-command pythonselect installed install issue komodo experimental py macosx binaries

@@ -1,0 +1,1 @@
+mpu6050-raspberrypi mpu raspberry installation instal instal install repository python package pi-example

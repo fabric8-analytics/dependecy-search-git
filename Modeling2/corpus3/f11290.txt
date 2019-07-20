@@ -1,0 +1,1 @@
+pyroaring e python installation instal code install-pyroaring bash compiler compilation compile compile note set set build ordered-set use us commit version bit bit give bitmap bitmap right right command command croaring c test test wheel wheel constructor support

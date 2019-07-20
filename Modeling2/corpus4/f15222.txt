@@ -1,0 +1,1 @@
+snakeoil python librari implement optim version common python function python repo-test pypi-test-coverage-doc github mock instal pypi-test virtualenv releas latest setup-pi test mock

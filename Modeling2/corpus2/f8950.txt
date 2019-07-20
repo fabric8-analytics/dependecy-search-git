@@ -1,0 +1,1 @@
+python-openstackclient commands command-line export-os openstack version options optional apis api identity getting contributing contribution release shell project change changes url specifications specific help

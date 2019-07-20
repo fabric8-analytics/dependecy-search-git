@@ -1,0 +1,1 @@
+pyexcel-xlsx wrapper librari read manipul write data xlsx xlsm format use openpyxl python test pip-cod coding-document instal develop huge licens rst requir make detect instanc ci gener file clone git testcod constraints-font unix-system updat ad remov tested-pass io supported-instal support pass passing-stream stream limit setup import column chang start

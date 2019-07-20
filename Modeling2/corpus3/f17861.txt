@@ -1,0 +1,1 @@
+invenio-assets invenio medium asset management module invenio asset npm collect invenio provide release version-released invenio provide asset

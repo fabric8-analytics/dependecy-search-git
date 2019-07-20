@@ -1,0 +1,1 @@
+flake8-quotes flake lint quote flake-extension warning warn configuration-file configurations-appropriately code single double

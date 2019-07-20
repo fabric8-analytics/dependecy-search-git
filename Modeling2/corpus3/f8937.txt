@@ -1,0 +1,1 @@
+django-shop-simplevariations url django-shop simplevariations simplevariation admin variation variation create add import create-product like price price option option installation instal value endwith cart

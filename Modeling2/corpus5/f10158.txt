@@ -1,0 +1,1 @@
+macholib mach o dyld p fix add patch issu ad issue-bug-fix python-cod command path releas version lc load-command support binari featur valu use file links-releas linker macho header com byte standalon org function x endian type new gmail py tool option user antoin problem better mach-o-head dorsey name link dump mmacholib

@@ -1,0 +1,1 @@
+embedly response url urls embed obj embedly-python client objects object type-u key error oembed need versions version simple words setup git requests request requested link-querystring example title

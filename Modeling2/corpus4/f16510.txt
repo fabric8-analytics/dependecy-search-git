@@ -1,0 +1,1 @@
+dj-static static serv serv use applic simple-django file file actual frontend wsgi static django serv serv wsgi-serv

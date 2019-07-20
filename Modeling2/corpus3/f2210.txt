@@ -1,0 +1,1 @@
+xstatic-objectpath objectpath xstatic package package packaging easy-install

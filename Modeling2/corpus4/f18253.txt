@@ -1,0 +1,1 @@
+django-publ pdf-upload-rss-feeds-support django-publ public features-automatically-creates-list individual-author

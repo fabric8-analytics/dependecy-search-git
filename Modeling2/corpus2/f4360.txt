@@ -1,0 +1,1 @@
+tensorly tensor learning python machine decomposition algebra regressions methods tensors code tl installing installed install perform tucker import mode started numpy unfold pip reference refer detailed reshape-unfolded simple backend backends note volume-abs git

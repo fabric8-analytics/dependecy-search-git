@@ -1,0 +1,1 @@
+fabulaws python tool creating interacting ephemeral aws resources application-simple-example lets simply

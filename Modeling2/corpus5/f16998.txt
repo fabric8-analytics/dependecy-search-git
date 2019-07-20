@@ -1,0 +1,1 @@
+django-bak gener url list-view list templat model field generate-views-forms-urls-admin app file html attribut set base requir code form sets-default py-fil add default tart creat confirm-requir chang nullbooleanfield alter change-pag object page running-quickli run line line-length decrease-databas relat link

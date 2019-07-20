@@ -1,0 +1,1 @@
+pyobjc-framework-opendirectory pyobjc opendirectory cfopendirectory framework framework c

@@ -1,0 +1,1 @@
+quack quack build submodule module dependencies quack modules module copy-file profiles profile task tasks repository git-repositories-code configuration-yaml-provide branch version-new note-depending optional specific-commits tag commit dependencies-execute complexity setup configurations executing disadvantages-pypi project

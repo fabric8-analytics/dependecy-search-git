@@ -1,0 +1,1 @@
+manage-server-pow wol wake on lan server wol-ssh instal install-manag option powermanag power-manag sp host public-key network broadcast mac add

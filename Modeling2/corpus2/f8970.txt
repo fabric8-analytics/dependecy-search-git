@@ -1,0 +1,1 @@
+python-levenshtein string levenshtein comparison edit distance strings levenshtein-python-c-extension fixed documentation string-similarity stringmatcher-py code added unicode compatibility compatible layout license class history generates generation maintainer blocks-extract similar functions functionality generally general

@@ -1,0 +1,1 @@
+pytablewrit tabl csv excel javascript json ltsv markdown mediawiki html panda restructuredtext sqlite tsv toml alt depend format python tabular-data-formatting-align align code support block output write configur elasticsearch-html text json-latex sampl separated-valu separ

@@ -1,0 +1,1 @@
+django-extra-fields fields field image example license licensed framework coordinates baseimagefield strings string file latitude version install presentableprimarykeyrelatedfield software python allow allowed language-governing readme pointfield list base

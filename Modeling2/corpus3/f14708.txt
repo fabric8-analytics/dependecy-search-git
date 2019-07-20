@@ -1,0 +1,1 @@
+rtorrent-python rtorrent pp project aim support support requirement add xmlrpc rtorrent extremely-unintuitive credit support support installation install branch requirement xmlrpc-interface interfacing recommend todo

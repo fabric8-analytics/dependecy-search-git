@@ -1,0 +1,1 @@
+pastescript web wsgi setuptools framework command line setup command-line-tool-note-paste

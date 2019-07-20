@@ -1,0 +1,1 @@
+django-inlinecss django app useful inlining cs primarily e mail html cs inline style email inlining-css file core selector email-generation acknowledgement

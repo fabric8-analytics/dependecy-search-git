@@ -1,0 +1,1 @@
+djorm-ext-filtered-contenttypes filter indexed-server proper-index filtering-function ext-filtered-contenttypes create create support functionality changelog-support migration execute unique compound

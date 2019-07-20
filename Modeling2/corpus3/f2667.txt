@@ -1,0 +1,1 @@
+vamp function audio-feature python-vamp-plugin plugins function-basic level module code output structure chroma queen interface sets-structured wrap information frame sdk frame-arrays array contains setting london

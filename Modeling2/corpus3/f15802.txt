@@ -1,0 +1,1 @@
+azure-mgmt-servicefabric management manager microsoft-azure release package preview code-shell

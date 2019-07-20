@@ -1,0 +1,1 @@
+django-beautifulsoup-test tests test-testcase

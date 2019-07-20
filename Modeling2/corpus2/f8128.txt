@@ -1,0 +1,1 @@
+prospector pylint pyflakes pep mccabe frosted static code analysis prospector-alt optional options documentation running run output useful uses use complete completely strictness coding pre django automatically license section tool tools starting-point pointing python possible

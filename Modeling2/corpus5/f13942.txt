@@ -1,0 +1,1 @@
+fedmsg-atomic-compos compos http projectatom io rpm ostre fedora repositori updat json-configuration-compos releas code f fedora-updates-rawhide-branch configur install-git repo branch line instal python

@@ -1,0 +1,1 @@
+azure-mgmt-containerregistry model features-model parameter new-parameter registry registry manage azure run run support support resource-manager management-apis add added-operation rules-bugfixes-rename enum credential credential source argument argument update sku version change change image api apiversion-preview code breaking-changes context rule wheel package http-session

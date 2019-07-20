@@ -1,0 +1,1 @@
+django-static-sitemaps settings setting django-static-sitemaps default defaults sitemap-xml set-different gzip python index files file use useful run running details detailed command-celery url urls site sites new-compatible template directory app false www

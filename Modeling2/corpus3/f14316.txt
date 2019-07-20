@@ -1,0 +1,1 @@
+azure-mgmt-iothub model parameter operation new-parameter wheel-features-model manager add operation-type bugfixes-fix microsoft-azure management-client add add change change breaking-changes str argument argument enum-types certificate certificate code complete completion apis api package compatibility compatible date http-session

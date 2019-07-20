@@ -1,0 +1,1 @@
+pyvmomi vmware vsphere api python bind esx version releas project commun support get test develop manag alt freenod

@@ -1,0 +1,1 @@
+i18n in gettext pybabel translation automatically files file gettext translations translation translated translating translator translate applications application message-catalog import extracting-messages existing new catalogs tries useful use hierarchy directory called calls supported-languages ones-supports extract extracted

@@ -1,0 +1,1 @@
+python-money money currency python-money currency currency-class class design design defines define type substraction application application reducing-code float

@@ -1,0 +1,1 @@
+downhill adadelta adam esgd gradient descent nesterov optimization rmsprop sgd theano gradient gradient theano loss print matrix y import-downhill u optimization optimize optimize v update batch rmsprop np error tt-float monitor monitor rand b func

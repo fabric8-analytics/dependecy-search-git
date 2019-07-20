@@ -1,0 +1,1 @@
+django-reversion-extras django reversion extras reversion reversion extras django reversion reversion-extras-alt extra create generic variables model

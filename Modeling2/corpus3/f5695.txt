@@ -1,0 +1,1 @@
+colorspacious colorspace color standard-colorspaces-srgb alt m uniform-cam tests-license test-status space value colour numpy simply ieee nose dependency documentation g deficiency base

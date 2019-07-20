@@ -1,0 +1,1 @@
+scikit-neuralnetwork deep neural network without learn cliff classifi regressor compat scikit test code librari featur library-impl python deep-neural-network-implement type build layer underli activ d continu discret consid like latest dataset normalization-dataset automatically-get implement offici get api document

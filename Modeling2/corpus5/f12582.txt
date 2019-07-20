@@ -1,0 +1,1 @@
+singletonifi singleton singletonify-install-usag

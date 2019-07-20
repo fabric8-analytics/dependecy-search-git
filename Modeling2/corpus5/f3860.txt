@@ -1,0 +1,1 @@
+gprof2dot time function time-insid profil recursive-funct python graph optim profiling-c-cod label default call run result output gprofdot menu-select total linux called-includ like note gprof symbol color inform debug tool requests-exampl right includ tool-oprofil window xperf choos attent download threshold-us request usage-exampl make graphviz granular finer processing-issu

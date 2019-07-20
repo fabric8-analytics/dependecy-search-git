@@ -1,0 +1,1 @@
+intbitset python c based extension implementing fast integer bit sets set sets c class integers integer additionally library intbitset cern software testing tests memory additional-specific place ma marshalling

@@ -1,0 +1,1 @@
+django-floppyforms floppyforms development requirements testing tests test installation install authors-gregor creator-bruno-reni widgets adding added widget-renders templates template thanks gregor context fix fixing fixed custom supported support form-rendering render status default

@@ -1,0 +1,1 @@
+pytest-console-scripts pytest test test script script mode mode testing-python configure configure configuration line real run run run license code-block source-software instal installation install

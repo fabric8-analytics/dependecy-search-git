@@ -1,0 +1,1 @@
+django-fake-model django fake model tests test status-simple-library fake-model-alt models decorator-yourmodel added docker django-fake-model-alt-code pip tox download fix cookiecutter

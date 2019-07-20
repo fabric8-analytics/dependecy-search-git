@@ -1,0 +1,1 @@
+wicken metadata companion library paegan data model metadata iso ogc netcdf lxml xml ncml metadata object data licensed license classes class encoding example xpath software namespace mapping mappings iso element language

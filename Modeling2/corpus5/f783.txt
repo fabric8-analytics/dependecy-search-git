@@ -1,0 +1,1 @@
+django-fortunecooki reusabl django applic store fortun cooki fixtur test python status-pypi-vers python-vers

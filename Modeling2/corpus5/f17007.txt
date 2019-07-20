@@ -1,0 +1,1 @@
+cyglfw3 glfw-prefix include-path cyglfw-python build opengl manag compat code instal

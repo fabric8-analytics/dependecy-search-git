@@ -1,0 +1,1 @@
+flask-heroku-rqify flask heroku cloud cache memcache memcached redis awesome uses-redis flask-heroku directory applications application use automatic-rq-configuration processing process file automatically-configuring python queueing queue line provider providers locally local redisgreen

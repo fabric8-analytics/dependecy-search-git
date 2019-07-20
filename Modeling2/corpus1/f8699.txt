@@ -1,0 +1,1 @@
+elasticsearch-dsl elasticsearch-dsl query tests test python like running-queries defining-mappings examples code defined-classes search-example level documents document documentation license licensed run way application applicable guide destructive cluster client matching match persistence installation install language-governing mapping connection class

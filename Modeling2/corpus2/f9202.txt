@@ -1,0 +1,1 @@
+wsme typing types better-type web rest documentation framework extension extensibility extensible easy protocols protocol python simple supporting supports optionnaly dependencies install

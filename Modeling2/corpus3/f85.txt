@@ -1,0 +1,1 @@
+mongo-connector mongodb data stream pipeline tool yougov adopt mongodb mongo connector mongo mongodb solr elasticsearch mongo-connector mongodb documentation manager manager project follow replica-set invocation solr start start mongod-replset replicates replication support support development

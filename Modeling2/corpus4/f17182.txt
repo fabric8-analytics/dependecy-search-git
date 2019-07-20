@@ -1,0 +1,1 @@
+birdhousebuilder-recipe-supervisor buildout recip supervisor birdhous conda anaconda option option buildout-opt default servic recipe-supervisor-alt-travi user configure-servic myapp directori ad conda monitor set set set start start start prefix updat updat files-fix instal instal instal instal instal configur second anaconda program folder kill kill

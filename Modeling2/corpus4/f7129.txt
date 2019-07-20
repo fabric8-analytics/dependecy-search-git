@@ -1,0 +1,1 @@
+cfn-resource-provid base class aw cloudform custom resourc provid properti properti types-self schema string string cloudform type valu method method base-class returnsecret

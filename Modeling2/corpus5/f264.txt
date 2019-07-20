@@ -1,0 +1,1 @@
+django-easyconfig py instal config exampl file python copyright chang environ form class com use comment

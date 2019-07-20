@@ -1,0 +1,1 @@
+roscreat templat style wizard shortcut creat ro packag stack ro roscreat stack cpp pkg creating-ros-packages-stack catkin catkin instal instal creat build build build version set shortcut edit tfoo packag test

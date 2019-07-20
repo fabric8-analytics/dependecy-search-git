@@ -1,0 +1,1 @@
+clldutils utilities clld apps without overhead requiring pyramid rdflib et al clldutils-utilities

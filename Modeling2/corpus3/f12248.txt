@@ -1,0 +1,1 @@
+django-sayit sayit assembly use status tests-image test

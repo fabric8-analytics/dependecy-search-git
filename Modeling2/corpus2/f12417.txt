@@ -1,0 +1,1 @@
+easyimap returns return header attachments attached ssl connect uid changes alt id ids raw versions imap limit latest-version mailobj-change unseen read email separated type encoding

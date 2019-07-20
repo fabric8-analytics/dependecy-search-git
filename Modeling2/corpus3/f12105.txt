@@ -1,0 +1,1 @@
+celery-with-beanstalk requirement require version follow follow extension

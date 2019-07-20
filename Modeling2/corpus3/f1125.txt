@@ -1,0 +1,1 @@
+geobricksspatialquery geobricks postgis gi statistic geostatistics spatial spatial query spatial

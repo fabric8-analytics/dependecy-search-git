@@ -1,0 +1,1 @@
+eulexistdb utilities accessing searching objects exist db xml database using idiomatic python xpath xquery exist db xquery alt eulexistdb provides license dependencies depends development developer code db manager management software classes class module instance instances database object-oriented index requirements require requires

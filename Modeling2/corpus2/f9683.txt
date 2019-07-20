@@ -1,0 +1,1 @@
+requestium integration layer requests selenium automation web actions python interface requests-selenium methods method automatizing-web site sites adds add session making-xpath element loading-elements-makes-cookie process automatically automatic cookies integrated integrates working evaluated time heavy new writing write code driver phantomjs loaded loads copyright-tryolabs

@@ -1,0 +1,1 @@
+passpie passpie credential credential database command command text status version file repository license configuration-file password password output configurable outputs-install complete completion change option verbose image gitter

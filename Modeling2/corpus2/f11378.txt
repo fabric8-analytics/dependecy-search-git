@@ -1,0 +1,1 @@
+djangocms-icon django cms icon adds capabilities implement font svg icons plugins project python addon icon-pypi setting sets set settings fonts additional addition installation install-run file files parameter ckeditor ckeditors running version custom plugin prefix second template contributing contributions

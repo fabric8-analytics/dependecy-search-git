@@ -1,0 +1,1 @@
+django-urlcrypt usage set urlcrypt settings-py template-advanced-lib urls url default

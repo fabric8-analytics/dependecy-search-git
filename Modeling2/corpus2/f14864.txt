@@ -1,0 +1,1 @@
+kafka-scanner high level kafka scanner code basic-example ssl python-consumer

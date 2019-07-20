@@ -1,0 +1,1 @@
+backoff python librari provid function decor configur retri asyncio asynchron synchron except exponenti code backoff-function-decor valu event log python-network falsey handler time wait-gener jitter gener conditions-optional-keyword-argu default number poll option architectur condit network exampl arg tri argument-specifi resourc use specifi

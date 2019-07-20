@@ -1,0 +1,1 @@
+gnippy license license python-library

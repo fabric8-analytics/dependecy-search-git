@@ -1,0 +1,1 @@
+jack-client jack audio low latency multi channel client port port python jack-audio-connection numpy midi pip instal installation install installers useful use mygreatclient output function function connection connect connect cpython release want library library package outport c input register true

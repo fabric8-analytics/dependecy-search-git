@@ -1,0 +1,1 @@
+wordfilter small-module-meant pull-request false-negatives slang aka-racist-sexist-ableist english

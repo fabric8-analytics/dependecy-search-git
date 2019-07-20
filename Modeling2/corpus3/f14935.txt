@@ -1,0 +1,1 @@
+pyramid-redis redis configurable configure configuration-requires requirement blocking-connection-pool

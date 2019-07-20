@@ -1,0 +1,1 @@
+pympler development tool measure monitor analyze memory behavior python objects running python application pympler python installing installation installed index reported reports wishes python profiling statistics pympler separate memory-behavior tool tracker provides

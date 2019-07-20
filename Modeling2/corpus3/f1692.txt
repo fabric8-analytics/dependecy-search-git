@@ -1,0 +1,1 @@
+django-email-confirm-la template template model model code-block-bash user confirm confirmation classifier-development copy copy topic developer documentation person person include include copyright notice django-email-confirm python confirmation distribute license

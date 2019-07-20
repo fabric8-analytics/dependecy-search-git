@@ -1,0 +1,1 @@
+pyclipp polygon clip intersect union offset boolean clipper vatti librari function cython sourc b clippers-preprocessor scale version enabl point packag ad bug-fix numer properti mode differ convers exampl x jamiebull-travis-ci written

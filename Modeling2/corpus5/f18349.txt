@@ -1,0 +1,1 @@
+django-munigeo reusabl django applic store access municip relat geospati data

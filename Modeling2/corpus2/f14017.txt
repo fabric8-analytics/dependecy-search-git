@@ -1,0 +1,1 @@
+pynlpir nlpir ictclas chinese segmentation nlp support supports latest getting encoded python pynlpir-build text code fixes-error adds license codes version updater updates functions functionality encoding tests test use uses word packages package documentation includes included segment-text segmenting pypi release

@@ -1,0 +1,1 @@
+django-versioned-static-url code version uniqu

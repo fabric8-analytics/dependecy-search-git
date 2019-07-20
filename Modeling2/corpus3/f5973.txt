@@ -1,0 +1,1 @@
+hookery class hook hook handler class-methods registering-hook-handlers instance instance python method functionality function function strategy hookery-code-block hookable dictionary argument register register register generate generator user h hook-registration minimally-invasive-hooks handler handler class class

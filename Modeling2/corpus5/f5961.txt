@@ -1,0 +1,1 @@
+jinjasql simplifi creation mainten complex sql queri use jinja base templat languag python builder inject sql-queri filter dictionari paramet name bind automatically-binds-paramet statement loops-filt string jinja-templ tabl loop need multiple-t licens needs-manu manual safe busi object constructor prone engin class like autoescap evalu

@@ -1,0 +1,1 @@
+django-popolo django base implement opengovern context compliant popolo data specif django applic python open govern django-popolo class class primari government-data releas test test md web id numer django includes-class class-popul slug releas entiti sql-orient main base

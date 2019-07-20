@@ -1,0 +1,1 @@
+django-subcommand2 django subcommand updat

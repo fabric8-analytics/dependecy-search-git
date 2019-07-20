@@ -1,0 +1,1 @@
+uflash instal command devic default-instal hex-fil python micro-bit linux version script flash kernel flag repositori workflow develop util probabl updat documentation-upd work add beta latest-vers micropython-runtim refactor fix code-instal test modul thank relat bug-rel swap address help detect carlo

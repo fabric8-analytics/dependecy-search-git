@@ -1,0 +1,1 @@
+hocr-tool hocr ocr line line file file test html comput comput page page contain contain contain edit edit eval-comput segment segment output output unit-tests-run instal instal instal word word including-layout-information-charact image-directori virtualenv-available-program extract-g program e imag includ text text evalu evalu core compon compon merg merg run

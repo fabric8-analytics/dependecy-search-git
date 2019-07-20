@@ -1,0 +1,1 @@
+django-object-permiss permiss instal implement setup-pi app backend creat later add user user-gr grant

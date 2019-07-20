@@ -1,0 +1,1 @@
+nose2 successor nose based unittest python nosetests nosetest library testing tools framework tool unit test unittesting tests alt-build-status pypi join-discuss-nose understand use coverage

@@ -1,0 +1,1 @@
+sqlbridg autobahn websocket wamp rpc pubsub twist databas sql postgr mysql sqlite sqlbridge-autobahn-databas exampl queri db postgres-mysql-sqlit connect watch oper command sqlcmd topic script dsn updat note like call simpl support com mode line demonstr ascii new loginchang creat valid return sqlrouter

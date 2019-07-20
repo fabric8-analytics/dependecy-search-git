@@ -1,0 +1,1 @@
+erppeek odoo openerp xml rpc xmlrpc use use odoo interact line line librari depend data model model releas local ci

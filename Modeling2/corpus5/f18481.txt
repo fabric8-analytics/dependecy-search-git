@@ -1,0 +1,1 @@
+qtconsol interact interpret shell instal jupyter-qt-consol pyqt addit document pdf feel support highlighting-graph note

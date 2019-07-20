@@ -1,0 +1,1 @@
+pywinusb hid usb usag pywinusb-hid-cont sourc devic event feel project instal code python-packag install-command limit main command mayb data window fix fixed-issu report hids-pi events-usag example-sourc exampl handl page set close closing-event-handl releas api ad thread pnp encod open handler

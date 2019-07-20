@@ -1,0 +1,1 @@
+django-bootstrap-them support multipl bootstrap theme django file instal configur

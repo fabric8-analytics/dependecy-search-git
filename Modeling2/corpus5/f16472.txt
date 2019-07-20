@@ -1,0 +1,1 @@
+gapic-google-cloud-speech-v1beta1 googl api gapic-librari isolated-python vbeta

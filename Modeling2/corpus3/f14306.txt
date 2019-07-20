@@ -1,0 +1,1 @@
+django-pg-fts django postgres postgresql pgsql full text search ft

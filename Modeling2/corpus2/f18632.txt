@@ -1,0 +1,1 @@
+dragonmapper chinese mandarin transcription pinyin zhuyin ipa convert bopomofo hanzi characters readings dragon-mapper provides-identification conversion-functions ask version-fix add adds change-log-fixes-reading changes read python-library documentation vowel characters-pinyin bugs bug code file files removes identifying identifier alphabet-identify features

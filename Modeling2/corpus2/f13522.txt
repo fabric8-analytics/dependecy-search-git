@@ -1,0 +1,1 @@
+pybossa-client dead simple python client pybossa library helping-material-note-categories-actions task-presenter create new framework

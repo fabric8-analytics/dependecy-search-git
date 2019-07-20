@@ -1,0 +1,1 @@
+django-hashid-field django hashid field code integ lookup-set allows-lookup id set allow support model python allowed-us serial salt explicit explicitli autofield type framework-seri use object auto key valu drf error global develop version case-corrupt exampl string bash gener

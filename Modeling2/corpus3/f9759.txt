@@ -1,0 +1,1 @@
+django-templates-macros macro templates-macros template pypi file variables-renders-like-alternatively

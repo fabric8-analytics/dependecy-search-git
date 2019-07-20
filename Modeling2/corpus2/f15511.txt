@@ -1,0 +1,1 @@
+django-mail-queue django mail queue mail-queue-looking way problems dot email emails failed

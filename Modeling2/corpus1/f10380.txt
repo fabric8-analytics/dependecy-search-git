@@ -1,0 +1,1 @@
+edx-celeryutils tools support working celery django edx alt edx security description entry supported support pr getting alt task edx tasks-django description release security add-logging change-log entry changes versions versioning supported support unreleased retried retries persistonfailuretask

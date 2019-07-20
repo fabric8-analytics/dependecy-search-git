@@ -1,0 +1,1 @@
+filedepot storage file s gridfs mongodb aws sqlalchemy wsgi file fix depot-file-storage support multiple provides-support storages-supporting mongodb provide provide provide sqlalchemy previously easy uploaded-content resolutions-better upload response get

@@ -1,0 +1,1 @@
+django-redis-statu app display requir

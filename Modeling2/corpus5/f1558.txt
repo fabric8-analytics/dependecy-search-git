@@ -1,0 +1,1 @@
+impacket releas support python protocol instal py licens msrpc protocol-implement tcp level need secureauth teo plain inform implement smb test run version setup oriented-api r-domain html-report cfg

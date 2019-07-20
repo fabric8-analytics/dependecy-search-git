@@ -1,0 +1,1 @@
+flake8-string-format flake format paramet p support standalon error entri python keyword index ll unindex alt pxx miss

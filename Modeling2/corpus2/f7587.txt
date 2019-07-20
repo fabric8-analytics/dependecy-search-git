@@ -1,0 +1,1 @@
+django-treebeard efficient tree implementations django structure python test tests tested-code model models different adjacency supported supports versions sqlite

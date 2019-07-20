@@ -1,0 +1,1 @@
+pyramid-ipython ipython bind pyramid pshell venv shell

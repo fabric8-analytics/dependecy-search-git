@@ -1,0 +1,1 @@
+js-fineupload chang need jquery-plugin-vers fineupload

@@ -1,0 +1,1 @@
+setuptools-green creat test command run test use green test runner develop test setuptools-green licenc test setuptools-green script command provid

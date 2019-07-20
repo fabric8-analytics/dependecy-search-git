@@ -1,0 +1,1 @@
+django-bingo sets set template-folders options optional option add additional-templates settings-py stopped shared like use time django

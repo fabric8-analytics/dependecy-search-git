@@ -1,0 +1,1 @@
+aaargh aaargh application-argument version arguments app help python-module add command-line-applications hi greet-default library libraries greeting greetings issue issues providing-defaults commands examples example printing print repeat design installation install bye cmd-def-hello provide subcommand subcommands cement-opster usage arg args overrides override h modules

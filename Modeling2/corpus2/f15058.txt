@@ -1,0 +1,1 @@
+atari-py packaged slightly modified version https github com bbitmaster ale python interface installation install installed binary run make updates

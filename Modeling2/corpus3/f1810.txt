@@ -1,0 +1,1 @@
+sklearn-crfsuite scikit learn inspire api crfsuite crfsuite-alt interface scikit-learn model model joblib add crfsuite-alt scikit-learn python crf-models interface train training attribute attribute model joblib documentation file

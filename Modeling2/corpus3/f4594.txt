@@ -1,0 +1,1 @@
+pysmash test test smash-gg-api pysmash documentation-running run score hammer python-bindings

@@ -1,0 +1,1 @@
+pyexcel-pygal draw charts using pyexcel data via pygal svg python testing tests test tested license develop development developer pyexcel-pygal installation install pip-code coding-documentation rst requirements required update updated ci generating meta acceptance clone changes-git change

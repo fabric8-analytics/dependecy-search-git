@@ -1,0 +1,1 @@
+h5io read write simple python objects using hdf python installed install package packages latest-code dependencies licenced travis codecov

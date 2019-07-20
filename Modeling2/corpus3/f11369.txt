@@ -1,0 +1,1 @@
+solrclient solrclient simple python library solr built python support late feature solr solr query basic test test test python index index query-responses feature response management manage support json stream result well data enhancement optional request request

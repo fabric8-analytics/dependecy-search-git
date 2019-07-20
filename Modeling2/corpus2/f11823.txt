@@ -1,0 +1,1 @@
+flask-allows flask authorization permissions permission permissioning simple code release version fix added-requirement requirements require deprecation deprecated deprecate permission-decorators permissions-making decoration returned returns context add easier make sdist prevent class ones public

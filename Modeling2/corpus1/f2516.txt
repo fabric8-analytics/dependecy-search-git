@@ -1,0 +1,1 @@
+rfc5424-logging-handler python logging handler syslog rfc python-rfc-syslog-logging-handler documentation compliant like package bom utf added python-rfc-syslog-logging-handler changed changes file log documentation fixed level compliant message messages better-input set settings making make ids id package

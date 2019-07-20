@@ -1,0 +1,1 @@
+django-hyperadmin django admin power rest hypermedia api hateoa client applic resourc relnam respons agnostic-media-typ url add json use delet format text-html basic list control

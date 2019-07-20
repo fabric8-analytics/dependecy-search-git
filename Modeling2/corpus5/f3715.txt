@@ -1,0 +1,1 @@
+django-private-view deprec site wide login protect public view includ add views-sit copyright redistribut provid direct directli list fix explicitli strict non urlconf activ make special julien-phalip frontpag post-packag prone-deprec packag christi

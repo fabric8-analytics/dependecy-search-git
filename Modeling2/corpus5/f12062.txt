@@ -1,0 +1,1 @@
+azure-batch-app ad configur class app job pool file authent chang manag azur applic releas modul instal includ auth-config account servic token aad-token client download

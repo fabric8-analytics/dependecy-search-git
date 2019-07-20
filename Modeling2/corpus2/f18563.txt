@@ -1,0 +1,1 @@
+reno note manage-release-notes documentation changes change bugs development developers version bug-fixes manager managing supporting supports multiple branch branches features feature new number fix builds conflicts tags

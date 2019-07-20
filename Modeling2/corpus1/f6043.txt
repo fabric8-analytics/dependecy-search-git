@@ -1,0 +1,1 @@
+pysasl support supporting mechanisms mechanism advertise-supported responses issuing challenge-response protocol protocols valid-advertising issue-authentication-challenges sasl-client running run advertised checking server-library installation install

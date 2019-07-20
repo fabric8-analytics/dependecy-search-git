@@ -1,0 +1,1 @@
+cmsplugin-gallery-filer galleries gallery-filer templates template install installation-features feature plugin uses-django settings setting bugs use method configuration-create images adds-simple add

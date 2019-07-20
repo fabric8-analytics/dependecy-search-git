@@ -1,0 +1,1 @@
+django-pgjsonb json index indexes supports-indexing fix lookups lookup value values add decode decoder path paths supported postgres-jsonb-fields-support field contained contains contain multiple django gin earthdistance-plugin exact postgresql like raw operator operation operate options specific use

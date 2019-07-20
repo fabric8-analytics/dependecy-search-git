@@ -1,0 +1,1 @@
+django-vanilla-views django vanilla-views-gives view unneccesarily

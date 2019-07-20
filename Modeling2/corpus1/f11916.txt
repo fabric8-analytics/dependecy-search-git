@@ -1,0 +1,1 @@
+gears-uglifyjs uglifyjs compressor gears uglifyjs project add

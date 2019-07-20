@@ -1,0 +1,1 @@
+unittest2pytest helps rewriting python unittest test cases pytest tests run running licence local goebel manual fixers particular uses-context unittestpytest-helps handles use line v context managers transformed transformations-internal add fixes fix assertraisesregexp

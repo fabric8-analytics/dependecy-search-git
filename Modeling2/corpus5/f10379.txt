@@ -1,0 +1,1 @@
+singledispatch singl dispatch gener function genericfunct decor backport function-decor class implement cpython registered-implement def-fun-arg-verbos regist python releas print type version test branch float method librari code number true compat abc automat convers base end

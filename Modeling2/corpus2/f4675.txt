@@ -1,0 +1,1 @@
+svgpathtools svg path bezier parse display paths svg-path compute function contains-functions code formatting format containing convert arc-length color segments segment tools bzier-curves oriented orientation smooth precision read numpy use alt elements method methods

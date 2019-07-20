@@ -1,0 +1,1 @@
+sphinxcontrib-aafig package-contain automatically-select usag

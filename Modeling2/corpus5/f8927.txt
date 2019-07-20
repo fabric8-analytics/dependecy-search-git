@@ -1,0 +1,1 @@
+django-dbtempl admin loader add template-load code templat dbtemplat

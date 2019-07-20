@@ -1,0 +1,1 @@
+django-rules-light fresh approach security django conceptually simple rule registry dictionnary manage callbacks addition allows logging malicious uses provide middleware class decorator autodiscovery templatetags debug views features make enjoyable status production stable rules acl rbac including getting python list-ask documented-patches documentation querysets run

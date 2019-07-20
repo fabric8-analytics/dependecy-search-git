@@ -1,0 +1,1 @@
+staticserve wsgi web http static content webapps staticserve-image-alt-build-status-target easy-way convenience-method compatible compatability compat-issues-fixed python virtualenv-changelog-history-fix-manifest files file ad added test tests static-content

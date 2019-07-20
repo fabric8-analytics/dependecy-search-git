@@ -1,0 +1,1 @@
+django-urlcrypt usag set urlcrypt settings-pi template-advanced-lib url default

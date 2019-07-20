@@ -1,0 +1,1 @@
+structpp wrapper around python standard struct module provide bitfield namedtuple decoding struct-introduction python-module based adds-support struct decoding-structs module string

@@ -1,0 +1,1 @@
+dockermak file imag build exampl build-autom step dockerfil step-autom defin docker-mak fields-notes-example-command-lin use note new command layer dockermake-yml-defin cach contain definit rel usual differ take addit field featur private-git make python gener c specif directori ignor includ

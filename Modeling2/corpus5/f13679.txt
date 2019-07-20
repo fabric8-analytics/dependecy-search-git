@@ -1,0 +1,1 @@
+rss2email rssemail smtp packag mail run instal email use new-source-packag html-mail default true server options-default chang custom list file task com version post-chang linux sendmail feed utf-get request send post

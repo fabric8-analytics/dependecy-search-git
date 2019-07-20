@@ -1,0 +1,1 @@
+pysensors sensors hardware monitoring sensors python sensor-chips example adapter temp shell tested test pypi pypy chip pci broad-regular labels label features feature fan source

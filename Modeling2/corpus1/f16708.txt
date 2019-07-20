@@ -1,0 +1,1 @@
+invenio-jsonschemas invenio schema registry invenio json schema jsonschema invenio cern

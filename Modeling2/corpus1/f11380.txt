@@ -1,0 +1,1 @@
+django-multilingual-model languages language-currently translation translated translations models code codes current django-multilingual-model simple versions version default defaults yield translationinline soon function functionality key py return

@@ -1,0 +1,1 @@
+django-mongodbforms fields supported-field documents document documentation forms form mongodbforms mongodbform embedded set settings intfield code inside supports position-argument arguments simple widget widgets object

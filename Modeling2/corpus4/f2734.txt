@@ -1,0 +1,1 @@
+setuptools-scm-git-arch scm vc version tag git archiv adds-support usage-add commit commit

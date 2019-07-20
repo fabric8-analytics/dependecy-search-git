@@ -1,0 +1,1 @@
+python-simple-hipchat v thanks api methods method added integrations instantiate python core

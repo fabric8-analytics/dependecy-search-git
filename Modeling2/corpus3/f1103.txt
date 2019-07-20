@@ -1,0 +1,1 @@
+aiohttp-auth user user acl authenticate authenticate authentication-middleware auth group group policy policy request request permission permission allow allow allow view view access provide provide function ticket ticket mechanism mechanism session cookie cooky simple value address number required-decorator example

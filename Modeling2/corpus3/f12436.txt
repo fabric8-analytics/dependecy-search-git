@@ -1,0 +1,1 @@
+cmudict cmudict-python data source alt-latest-pypi-version open versioned coverage

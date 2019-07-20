@@ -1,0 +1,1 @@
+ps-crud extension pyramid sacrud provides templates crud ps-crud support bugs bug question bugs bug sacrud license licensed suggestions-ideas

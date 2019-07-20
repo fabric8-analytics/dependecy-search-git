@@ -1,0 +1,1 @@
+django-multiselectfield django multiple select field choices python-versions code-block version separated render model-field models-py configure configured example supported-python-versions adding improvements added-support code-block-bash tests test improved-rendering thanks fixed fixes fix compatibility compatible file

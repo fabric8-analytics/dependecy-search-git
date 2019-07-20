@@ -1,0 +1,1 @@
+django-admin-steroids fields field-formatters dollars modeladmin implementation implement implemented selected selecting select dollar-value search test classes class-values development-tests ajax ajaxfieldfilter trivial number numbers screen snakes urls url list adds add

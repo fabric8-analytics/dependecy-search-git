@@ -1,0 +1,1 @@
+pydal pure python database abstraction layer sql pydal databases python-database different joins webpy license nested dialect dialects little-taste sql different pydal python-database databases

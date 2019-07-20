@@ -1,0 +1,1 @@
+django-statictempl alt django file settings-fil version licens set error paramet use-templ languag type middlewar statu command static templat process format

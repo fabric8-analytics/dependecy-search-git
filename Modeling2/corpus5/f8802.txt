@@ -1,0 +1,1 @@
+pep8-nam name convent checker python flake pep n-class-nam pep-naming-convent code decor scope variabl pip

@@ -1,0 +1,1 @@
+svgwrite svgwrite svg example example documentation version-bugfix add value value element py set example example python set-markers element-animate-accepts svgwrite use new like marker encode move test test paint text change change doc path xml-output draw license create-svg-drawings documentation-send em create require require class prefix parameter separate profile

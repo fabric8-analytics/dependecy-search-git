@@ -1,0 +1,1 @@
+python-vote-core library election methods schulze-method aka vote voting representation single usage methods schulze-method aka vote voting c ballots count-ballot software example pypi-release single representation

@@ -1,0 +1,1 @@
+python-boleto boleto mantido por trustcode yes pyboleto projeto boletos banco version bancos-implementados code implementado implemented implementations sw testing tests index writing distribute distribution

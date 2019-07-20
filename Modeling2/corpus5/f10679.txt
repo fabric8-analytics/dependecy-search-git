@@ -1,0 +1,1 @@
+django-res django size crop option py imag thumbnail test

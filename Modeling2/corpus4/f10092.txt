@@ -1,0 +1,1 @@
+django-docopt-command command django-docopt-command step-manag manag string string write write

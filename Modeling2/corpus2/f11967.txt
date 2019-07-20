@@ -1,0 +1,1 @@
+django-timepiece multi user django application tracking people time projects project supported support set monthly-summaries local-settings directory add group pypi pull mobile paid hours hourly locally compress status g requirements required path template templates

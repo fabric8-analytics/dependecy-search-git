@@ -1,0 +1,1 @@
+python-bidi bidi unicode layout example examples default string algorithm tests r required requires upper-case line-utility false base based test implementation directional direction docs fix returning-default implement-overriding override returns py documentation documentations specify specifies

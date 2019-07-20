@@ -1,0 +1,1 @@
+django-factory-boy factory boy django fixtures objects django-factory contrib factories model models keyword default app

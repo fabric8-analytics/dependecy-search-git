@@ -1,0 +1,1 @@
+wagtailplus django wagtail cms wagtail-plus featuring-link-storage version management manager

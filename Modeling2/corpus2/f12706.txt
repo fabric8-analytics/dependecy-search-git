@@ -1,0 +1,1 @@
+cmsplugin-nivoslider theme themes nivo migrations migration image images south nivoslider django-filer version configured slider-plugin easily-upload

@@ -1,0 +1,1 @@
+csrmesh bluetooth csrmesh qualcomm csr btle devic addressing-devic x network network csrmesh led protocol requir requir require-authent authent ofb packet packet data posit posit id homebrit address endian number number implement object constant send send hash bluepy-pycryptodomex byte byte reverse-engineered-implement csrmesh

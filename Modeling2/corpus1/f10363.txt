@@ -1,0 +1,1 @@
+django-generic-positions django positioning model models django-generic-positions use add drop-position-field aware following element usage app

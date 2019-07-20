@@ -1,0 +1,1 @@
+aioodbc librari access odbc databas asyncio sqlite mysql postgresql async await oracl python pyodbc requir docker test odbc-databas thread pep instal pull uvloop aiomysql aiopg thank ad cursor fix connect support basic motor version

@@ -1,0 +1,1 @@
+pytest-django unittest test tests version-target alt python-versions pytest-django project compatibility compatible existing style

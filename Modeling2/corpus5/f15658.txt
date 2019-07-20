@@ -1,0 +1,1 @@
+poll enter circuit-breaker-simpl retri pattern trip logic add instal attempt

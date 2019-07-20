@@ -1,0 +1,1 @@
+yaco configur serializable-dict-lik y

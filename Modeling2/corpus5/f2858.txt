@@ -1,0 +1,1 @@
+fileconfig configur ini file inherit alias code python config-file-sect section alt creat instanc string fileconfig-pypi-version-licens class-creat differ use parser directori version specifi parameters-specifi paramet delimit

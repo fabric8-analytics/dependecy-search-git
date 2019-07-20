@@ -1,0 +1,1 @@
+axelrod-fortran python wrapper librari around tourexec fortran axelrod second tournament match usag origin p v-tag add player-kr axl-p champion strategi strategies-origin player rank licens

@@ -1,0 +1,1 @@
+plantmet openerp modul librari manag multisit energi gener plant editmet deprecated-script statu script-instal migrat fix python curv meassur mongotimecurv abstract meter subcommand install-chang code meassures-fix changes-met production-rights-commmand

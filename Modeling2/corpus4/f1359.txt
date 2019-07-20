@@ -1,0 +1,1 @@
+codacy-coverag develop coverag project project commit commit sbt-codacy-coverag report report scala-cod file file git java owner integration-token integr build build support support fail extra debt sourc sourc ci request request-sha authentication-mak bitbucket-stash simpli replac replac codacy-coverag project project alt owner run run token version

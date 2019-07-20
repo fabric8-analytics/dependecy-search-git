@@ -1,0 +1,1 @@
+pdoc modul document gener installed-modules-instal file submodul submodule-load load variabl link special-vari syntax sourc docstr messag line directori module-pdoc variables-docstr includes-modul code special-attribut attribut public-document python qualifi speak pull method html exampl immedi includ use way

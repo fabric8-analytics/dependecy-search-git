@@ -1,0 +1,1 @@
+django-git-submodules submodule django-git-submodules development package package app apps instal install

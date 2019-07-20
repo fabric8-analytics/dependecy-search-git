@@ -1,0 +1,1 @@
+python-for-android turn python application android apk packaging kivy including include-support dev version recipes recipe new apks license api pull changed change changes user users channel mailing novel-ideas multiple-architecture documentation e include building android-build toolchain

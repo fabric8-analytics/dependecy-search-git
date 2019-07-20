@@ -1,0 +1,1 @@
+inexactsearch like search instal string word averag approxim weight soundex-algorithm approximate-string-search

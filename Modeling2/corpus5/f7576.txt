@@ -1,0 +1,1 @@
+azure-mgmt-iotcentr microsoft-azur manag packag model releas code-shel oper paramet version api

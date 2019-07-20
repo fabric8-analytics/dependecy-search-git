@@ -1,0 +1,1 @@
+pytest-translations test translation file pytest package-code-bash simply ci word word package language test test test use case installation-install yaml aspell

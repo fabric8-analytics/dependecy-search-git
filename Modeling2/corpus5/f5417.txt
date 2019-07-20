@@ -1,0 +1,1 @@
+pinax-team app django site support open invit applic team pr add membership templat supported-django user contribut project-templ set settings-model model requir document version-requirement-fix signals-views-change-log-contribut versions-documentation-instal free human licens view-tests-upd updat instal chang creat issu remov test

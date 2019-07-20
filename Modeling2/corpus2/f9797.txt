@@ -1,0 +1,1 @@
+djangocms-apphook-setup library help auto setup apphoks first project run django cms python application djangocms apphook alt setups instance instances page pages apphook-setup-gitter apphooks add adds supported support versions version default following status creation license-utility configuration-options option time-extra

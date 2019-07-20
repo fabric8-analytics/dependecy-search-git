@@ -1,0 +1,1 @@
+cmuclmtk cmu sphinx languag model train vocabulari dictionari vocab dict api python instal x mac

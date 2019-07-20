@@ -1,0 +1,1 @@
+pycmdmesseng format format arduino pycmdmessenger-python-class send send send command command string string exampl separator-default float float cmdmessenger-seri type type class directories-exampl separ sketch int pass pass pass number main automat linux commun known ad directori integ escap byte byte machin test test support support

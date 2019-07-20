@@ -1,0 +1,1 @@
+apikit package-contain pager auxiliari

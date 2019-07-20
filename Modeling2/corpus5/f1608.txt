@@ -1,0 +1,1 @@
+update-copyright file files-author copyright-upd project line licens updat git-backend vc separate-project-installation-packag year author-nam blurb separ packag alias instal test layman like forward program add-wtk path rawconfigpars john-do net py depend name backend

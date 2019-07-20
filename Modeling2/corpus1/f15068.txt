@@ -1,0 +1,1 @@
+js2py python-javascript-translator translate translates translated translating translation js-library supports support supported jspy type types sum limitations file files cases statement pyjs example examples eval evals setattr table parse parsing strict javascript python-code

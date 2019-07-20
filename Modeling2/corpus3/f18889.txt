@@ -1,0 +1,1 @@
+minibelt iterable iterables path string string function function iteration-tools dict dicts encode write-path return return return json python duplicate useful use default file-utility variable hashable look want want anytime edge mode error error decode include include object object window exist exists datetime

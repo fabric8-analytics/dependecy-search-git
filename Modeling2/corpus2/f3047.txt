@@ -1,0 +1,1 @@
+django-feature-flipper set simple feature flipper template tags easily extended django features feature-flipper flags flag flippers user users extend templates

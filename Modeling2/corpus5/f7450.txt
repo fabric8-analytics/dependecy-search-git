@@ -1,0 +1,1 @@
+django-inline-wrestl list django-list sort order order-field tree-fold collaps including-add button grappelli make text imag adminlistcollaps exampl django admin-list tabl

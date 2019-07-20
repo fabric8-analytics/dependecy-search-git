@@ -1,0 +1,1 @@
+property-caching decorators caching properties objects cache property-caching-cached properties sets decorated object

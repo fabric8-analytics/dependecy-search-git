@@ -1,0 +1,1 @@
+translat command line add make-transl translated-mymemori refactor provid command-line-installation-cod instal remov python-pypi document bash lang chang file use doc cli appli commit simpl

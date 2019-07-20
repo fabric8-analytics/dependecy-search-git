@@ -1,0 +1,1 @@
+daemonocle daemon daemonize fork unix cli daemons daemonizes automatically command-line basic common child code contents python creating create click like v-added versions-fixed-bug longer file files mode created bugs version custom immediately immediate process processes

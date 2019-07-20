@@ -1,0 +1,1 @@
+pyserial-asyncio asyncio extension package pyserial python serial asyncio extension build linux alt extension serial

@@ -1,0 +1,1 @@
+eigenc eigen type eigen-c function array functions-return numpy-array layout return valu use default cython way make instead make-explicit explicitli storag different-us refer map templat major correspond exampl data usag contain definit differ copi python call directli direct write

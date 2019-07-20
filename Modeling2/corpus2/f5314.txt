@@ -1,0 +1,1 @@
+sphinx-csv-filter sphinx plugin extends csv table restructuredtext directive add row filtering options crate rows help option row-filtering-options contributing contributions contribution run rst dict row-filtering problems

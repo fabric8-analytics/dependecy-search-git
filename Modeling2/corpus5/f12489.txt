@@ -1,0 +1,1 @@
+junitxml run junitxml-result file test-suit output version test line pyjunitxml bug compatible-xml use python

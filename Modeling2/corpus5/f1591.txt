@@ -1,0 +1,1 @@
+rupo poetri gener mode modes-sampl sampl generate-model-path stress model rhyme-pattern beam

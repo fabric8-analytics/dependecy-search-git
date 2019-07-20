@@ -1,0 +1,1 @@
+pyramid-layout wsgi pylon web pyramid pyramid-layout fix different-layouts panel panel remove remove error added-configure-zcml allows allow dependency depends event way configuration initial

@@ -1,0 +1,1 @@
+dialogos django comment pinax-comments version-add contribute contributing contribution returns usage-template tests testing signals-hookset test-requirements python-versions-documentation settings setting requirement project-templates license context-user human free creating remove override overrides source-platform compatibility compatible

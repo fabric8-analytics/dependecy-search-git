@@ -1,0 +1,1 @@
+django-bootstrap3 django bootstrap author version issu templat licens python support fix thank travis-tests-fix bug test form improv tag better-ad add set class render set-default remov improved-pag pypi-vers branch default requir button new document css-class text file help-text-remov label field make fro btn unicod switch warn html use paramet drop pull typo valu

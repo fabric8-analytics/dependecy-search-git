@@ -1,0 +1,1 @@
+mpu6050-raspberrypi mpu raspberri instal repositori python packag pi-exampl

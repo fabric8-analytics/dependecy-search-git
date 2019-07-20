@@ -1,0 +1,1 @@
+fileconfig configuration ini file inheritance aliasing files code python config-file-sections section alt created instances instance string strings fileconfig-pypi-version-license class-create different use uses inherit inherited parser directory versions specify parameters-specified parameter delimited delimiter

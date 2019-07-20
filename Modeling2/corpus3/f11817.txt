@@ -1,0 +1,1 @@
+hashring target alt status image run travis-appveyor support

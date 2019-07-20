@@ -1,0 +1,1 @@
+qtpy provides uniform layer support pyqt pyside single codebase python spyder qt gui project contributions contributing contribute license abstraction development developed namespace module modules

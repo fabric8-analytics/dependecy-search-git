@@ -1,0 +1,1 @@
+asciimatics ascii ansi art credits titles animation curses ncurses windows xterm mouse keyboard terminal tty color colour crossplatform console including-coloured simply list listed python level-console screen-text sample samples code colour-terminals feel marshmallow enhancements enhancement versions e-g target support supports software-foundation alt features

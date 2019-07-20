@@ -1,0 +1,1 @@
+pupynere netcdf data array math fixed added-fix variables variable file-objects writing-netcdf-files write writes allow allows object attributes record records handle handles essentially

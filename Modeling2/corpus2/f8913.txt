@@ -1,0 +1,1 @@
+django-cryptocoin currencies-default add sending sended confirmation confirmations crypto commands command template create invoice signal btc bitcoin exchange cryptocoin cryptocoins app apps coins coin currency seconds nvc

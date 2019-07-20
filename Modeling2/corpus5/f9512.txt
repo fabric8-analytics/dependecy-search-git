@@ -1,0 +1,1 @@
+django-simple-math-captcha field question value-field form captcha use django-simpl requir class widget valu uses-sha licens key key-unit run

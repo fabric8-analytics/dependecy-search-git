@@ -1,0 +1,1 @@
+django-rules-light fresh approach secur django conceptu simpl rule registri dictionnari manag callback addit allow log malici use provid middlewar class decor autodiscoveri templatetag debug view featur make enjoy statu product stabl acl rbac includ get python list-ask documented-patch document queryset run

@@ -1,0 +1,1 @@
+loafer asynchronous asyncio message dispatcher tasks microservices easy message pypi status sqs docs version code features-encourages improve improvements message messages handlers handler version add minor-fixes fix-requirement-versions error errors refactor loafer-pypi code docs initial sentry enable update easy tasks build-status requirements requires services service boto

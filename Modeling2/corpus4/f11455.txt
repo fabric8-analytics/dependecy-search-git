@@ -1,0 +1,1 @@
+set-package-attribut modul import import import set-package-attribut inside-packag set brief

@@ -1,0 +1,1 @@
+django-autotranslate translate translates translation setting settings set django-autotranslate command autotranslated installation messages code translate translates translation django-autotranslate bash setting settings set command autotranslated travis

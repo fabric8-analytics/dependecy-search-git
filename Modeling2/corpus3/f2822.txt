@@ -1,0 +1,1 @@
+django-maintenancemode-2 database django-maintenancemode site site add page page maintenance-mode pattern pattern ignore ignore use useful project table table setting set set version version log log staff optional optionally test test test

@@ -1,0 +1,1 @@
+bonobo extract transform load python data processing automation parallelization alt writing write transformations bonobo-data issues transform-load complexity-developers development documentation tools tool integration

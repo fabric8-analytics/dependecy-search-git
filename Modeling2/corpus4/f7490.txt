@@ -1,0 +1,1 @@
+pymata-aio firmata arduino protocol implement implement python-asyncio pin redbot standardfirmata support support compatible-impl pymata-aio interfac applic applic encod encod api api json protocol librari transient-input support support python-asyncio pin standardfirmata pymata encod encod enhanc base page redbot non transient-input api api

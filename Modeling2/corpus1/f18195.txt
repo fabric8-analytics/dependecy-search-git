@@ -1,0 +1,1 @@
+pilkit processors pil images image python-imaging pilkit prepares format formats stable code included including updated-friendly module

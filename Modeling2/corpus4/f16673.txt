@@ -1,0 +1,1 @@
+pyqtgraph pure-python-graph librari

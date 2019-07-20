@@ -1,0 +1,1 @@
+django-haystack haystack search list familiar version requirements licensed-plays easily-met like

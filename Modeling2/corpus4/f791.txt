@@ -1,0 +1,1 @@
+nose-django-querycount test unittest nosetest nose plugin django queri querycount django set set counts-queri query-count run run test test usag later xml runner

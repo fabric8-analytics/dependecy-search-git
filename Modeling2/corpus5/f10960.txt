@@ -1,0 +1,1 @@
+swiglpk simpl swig bind gnu linear program kit python scientif comput optim symbol model languag glpk depend api glpk-pypi

@@ -1,0 +1,1 @@
+django-flatcontent django flatcontent intend flatpages like app small chunk content edit django admin template template add django-flatcontent-alt status like

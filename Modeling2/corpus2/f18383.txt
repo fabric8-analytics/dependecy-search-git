@@ -1,0 +1,1 @@
+djangocms-reversion2 django cms plugin adds page reversion logic diff view pages trash bin revision versioning version history blueshoe basket revert image page-drafts editors editor djangocms create status code features feature release alt revisions unwanted changes

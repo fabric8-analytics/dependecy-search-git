@@ -1,0 +1,1 @@
+audioread fix file backend ffmpeg decode-audio-fil thank formats-gstream windows-avoid python decod window open properli current library-curr add use format version raw-bit channel byte script transpar initi object occasion data durat crash option input bit standard output modul christoph

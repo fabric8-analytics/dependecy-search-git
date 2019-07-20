@@ -1,0 +1,1 @@
+asset python package pkg resource asset resolve lookup loader asset package-asset package data-files load load load function function install-code python instal chunk chunk file detail detailed plugins plugin method method test test read mypackage-foo error stream txt et xml cs callfoo

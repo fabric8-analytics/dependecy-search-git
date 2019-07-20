@@ -1,0 +1,1 @@
+gnupg module-allows-easy-access x

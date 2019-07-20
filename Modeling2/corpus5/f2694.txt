@@ -1,0 +1,1 @@
+django-bingo set template-fold option add additional-templ settings-pi stop share like use time django

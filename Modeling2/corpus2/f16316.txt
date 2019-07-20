@@ -1,0 +1,1 @@
+django-nested-inline django fix fixed installation install deprecated

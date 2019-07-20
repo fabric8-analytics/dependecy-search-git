@@ -1,0 +1,1 @@
+django-react-templatetags quick way add react components django templates django reactjs django templates components component django-react tests test contributing contribute include getting license build-status-pypi-version-figure-alt-django

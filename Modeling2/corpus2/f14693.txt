@@ -1,0 +1,1 @@
+django-generic-scaffold v add template templates django url urls code class classes use uses configure configuration configured names python views view api model-named following follow creating created models scaffold scaffolding scaffolded scaffolds version versions create-crud explicitly explicit usage example fix function form defined define defines

@@ -1,0 +1,1 @@
+ckanext-rq backport rq background jobs ckan versions installation installed install version python-versions alt development config redis job ckanext-rq-background-jobs plugin setting settings travis-ci activate reload sudo

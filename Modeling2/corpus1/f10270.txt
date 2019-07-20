@@ -1,0 +1,1 @@
+zzzeeksphinx sphinx sqlalchemy base sql documentation site classes-bases config configs theme templates template related relatively features feature include includes including adapter sidebar pulled pull available capabilities capability pages-like py page provides provide-highlighted api class scss

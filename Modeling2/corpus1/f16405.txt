@@ -1,0 +1,1 @@
+vec-noise perlin-noise generating generation generate example python included-examples implemented implementation functions function multiple considerable includes shader-implementations native-code package packages shaders programs textures texture use-fast uses casey-duncan pseudo-random-matrix combining-multiple-octaves cgi

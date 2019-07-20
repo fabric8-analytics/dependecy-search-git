@@ -1,0 +1,1 @@
+django-mysqlpool django database backend mysql provides pooling ala sqlalchemy connection-pooling threaded threads thread pools-mysql-connections pool backends closing close specific specifically point-sounds main conncurrent issue configure configuration service services arguments pooled smartfile closed mysqlpool file files source-project total

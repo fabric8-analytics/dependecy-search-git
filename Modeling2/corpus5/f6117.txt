@@ -1,0 +1,1 @@
+aiclib python urllib base nvp client object queri entiti command use wrapper verb typic return param

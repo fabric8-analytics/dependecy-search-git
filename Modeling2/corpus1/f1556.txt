@@ -1,0 +1,1 @@
+pip-utils package packaging pip pypi package packages licensed dependents dependencies dependency dependants-list badges-version-license-wheel target versions e site python installation install installed pip tests packages package-dependents dependencies dependency dependants-list license licensed pip installation install installed e python site requirements tests gmail

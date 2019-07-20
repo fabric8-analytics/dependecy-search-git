@@ -1,0 +1,1 @@
+spur-loc shell subprocess process error stdout-stderr-encod standard-output connect command allow code run-command store run

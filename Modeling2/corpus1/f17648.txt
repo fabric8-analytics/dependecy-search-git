@@ -1,0 +1,1 @@
+kinto-redis kinto redis storage cache permission backends web services kinto-redis backends backend tests quota-management kinto-redis storage backend cache-backends tests features delete deleted value bytes optional

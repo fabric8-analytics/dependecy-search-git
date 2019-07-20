@@ -1,0 +1,1 @@
+bluepi bluetooth smart ble low energi fix releas merg released-vers add sensortag py-instal return error support instal make scan document uuid ad public allow updat bluez peripheral-class scanner code bluepy-python servic string-decoding-error file bltedisconnecterror sensit use bug base issu except line method characterist workaround date better improv

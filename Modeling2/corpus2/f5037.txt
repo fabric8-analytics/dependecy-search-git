@@ -1,0 +1,1 @@
+edc-dashboard core classes dashboards clincedc edc projects e g listboard subjectdashboard clinical trials trial management system django dashboard and templates

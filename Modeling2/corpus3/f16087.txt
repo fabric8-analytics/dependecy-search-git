@@ -1,0 +1,1 @@
+django-categories-i18n translatable category model django django model translation category django-categories simple model block

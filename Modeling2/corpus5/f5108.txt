@@ -1,0 +1,1 @@
+django-admin-gener gener sourc run image-alt-test-statu test

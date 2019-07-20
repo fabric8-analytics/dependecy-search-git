@@ -1,0 +1,1 @@
+thumbor-memcached thumbor memcached provides storages using memcached backend memcache memcached thumbor storage thumbor-memcached image versions versioning file discovery make installing installed

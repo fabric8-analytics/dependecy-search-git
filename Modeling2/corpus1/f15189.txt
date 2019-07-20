@@ -1,0 +1,1 @@
+hardware python module hardware detection classification cards infos-memory-settings-processor filter raid-hard-drives-ipmi homepage-features linux

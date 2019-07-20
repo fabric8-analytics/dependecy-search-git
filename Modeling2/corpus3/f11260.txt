@@ -1,0 +1,1 @@
+publicsuffix2 domain public suffix suffix dns tld suffix suffix-list-module publicsuffix copy copy domain data file file late copyright-c provide provide provide license license web name include include include k person person cache cache cached version version notice initializer class branch-stable development take david-wilson function

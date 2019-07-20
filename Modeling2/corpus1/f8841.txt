@@ -1,0 +1,1 @@
+ckanapi-exporter export dataset metadata ckan excel compatible csv ckan csv export excel api column columns api csv-files title titled extras query pattern patterns names naming named update-extra ckan file datasets uk exporting-dataset fields field export ckanapi-exporter senior line losser whitespace demo transformations transforming json data case

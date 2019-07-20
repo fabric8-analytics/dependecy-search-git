@@ -1,0 +1,1 @@
+plyara parse yara rules operate easily yara yara rules parser yara parser lexer ply python python malware analysis yara plyara-alt python parses parsing parsed object version-parse-yara-rules rule include included bulk line usage maintained code valid-json indicators-updating

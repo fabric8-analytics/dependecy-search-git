@@ -1,0 +1,1 @@
+dj-database-url use database urls django application supported-databases django database-url supporting support connection connections connects connecting file environment paths path use sqlite open-source gis unix usage database databases django connections connection-dictionary environment usage currently enable

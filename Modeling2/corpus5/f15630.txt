@@ -1,0 +1,1 @@
+webium page object pattern implement librari python http martinfowl com bliki pageobject html allow extend webel class custom control like link button group selenium webdriv usag stabl controls-like-link

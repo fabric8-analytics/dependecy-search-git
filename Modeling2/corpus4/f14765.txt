@@ -1,0 +1,1 @@
+django-vanilla-view django vanilla-views-g view unneccesarili

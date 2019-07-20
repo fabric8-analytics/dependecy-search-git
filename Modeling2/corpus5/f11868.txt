@@ -1,0 +1,1 @@
+cmsis-svd licens provid cmsis-svd-repositori descript targetting-arm hardware-descript appropriate-licens target regist tooling-bas svdconvert bit refer pull aggreg svd view inform build k python data gener develop quirks-instal starting-plac

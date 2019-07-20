@@ -1,0 +1,1 @@
+python-slugifi applic create-slug decod unidecod packag slugifi

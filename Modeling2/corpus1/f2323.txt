@@ -1,0 +1,1 @@
+pysndfile soundfile audiofile version format formatting fixed fix pysndfile soundfile-formats sndfile writing writes write files reading read reads libsndfile sf different-sound-file clipping methods method methode data changes-moved change changed long setup interface added roebel large cue scaling sets set functionality function recipe pointer-replaced python ircam difference

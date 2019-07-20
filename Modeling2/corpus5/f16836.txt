@@ -1,0 +1,1 @@
+django-staticfiles-webpack django webpack asset build static file js-entry-point-bundl point configur term mayb

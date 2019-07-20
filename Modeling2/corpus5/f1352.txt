@@ -1,0 +1,1 @@
+ironic-discoverd node openstack-iron enrolls-nod introspect use hardware-introspect ramdisk discoverd set network requir configur state correct-st instal ipmi-address driver default log port correctli power operator-instal credentials- tftp troubleshoot pxe-boot discoveri plugin make file dhcp receiv nic process locat new enrol data access packag boot

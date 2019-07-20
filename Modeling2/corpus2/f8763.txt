@@ -1,0 +1,1 @@
+mongo-orchestration mongo orchestration mongodb rest testing mongos server mongodb-configurations file servers-replica running run stop stopped json-configuration files-examples default defaults tests test start sharded shards port stdout example note mycluster socket addition additional help helpful

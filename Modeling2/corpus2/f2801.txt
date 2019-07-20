@@ -1,0 +1,1 @@
+sphinxcontrib-napoleon docstrings docstring google sphinx napoleon style styles sections section numpy uses file-use restructuredtext rewritten documentation files visually-dense space

@@ -1,0 +1,1 @@
+rdopkg power packagers package package packager packagers rpm-packaging rdopkg repos repo upstream fix fix management manage human tool tool python-projects manual integration-generic us use commit unit provide provide provide git spec rpkg-project development-serving

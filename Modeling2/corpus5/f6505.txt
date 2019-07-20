@@ -1,0 +1,1 @@
+pyvirtualdisplay xvfb xephyr x wrapper screenshot instal xvnc pip python exampl import environ xvfb-xephyr document include-exampl imag img version version-support

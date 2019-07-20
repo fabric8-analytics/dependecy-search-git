@@ -1,0 +1,1 @@
+annotator-store annotation annotations testing tests test django-annotator-store installation install installed alt use uses requirements required require requires e base based settings setting develop development configuration configure configured configurations-py pip make tag tagged documentation run running status permissions

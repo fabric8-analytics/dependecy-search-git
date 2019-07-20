@@ -1,0 +1,1 @@
+pyhs100 device set state bulbs-supported-devices command setting-color information api support property property bulb command-e-g plugs-switches plug-specific discover discover discover switch h energy-meter appropriate feel consumption library functionality function

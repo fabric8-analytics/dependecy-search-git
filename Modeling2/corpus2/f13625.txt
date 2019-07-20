@@ -1,0 +1,1 @@
+csrmesh bluetooth qualcomm csr btle device addressing-devices x network networks led protocol required requirements require-authentication authenticated ofb packets packet data position positive id homebrite address endian numbers number implementation object constant send sending hash bluepy-pycryptodomex byte bytes reverse-engineered-implementation

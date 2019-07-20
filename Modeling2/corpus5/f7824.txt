@@ -1,0 +1,1 @@
+iso-639 pycountri languag iso code alt compat attribut version-gh licens pypi statu extern

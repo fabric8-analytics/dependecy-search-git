@@ -1,0 +1,1 @@
+tastypie-queryset-client-p3k tastypi client django rest api tastypie-queryset-cli licens

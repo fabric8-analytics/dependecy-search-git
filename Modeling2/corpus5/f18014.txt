@@ -1,0 +1,1 @@
+zorg-network-camera modul use network camera zorg ip driver text network-camera light ocr method imag convert adaptor recognit provid device-adaptor devic

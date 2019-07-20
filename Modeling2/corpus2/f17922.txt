@@ -1,0 +1,1 @@
+invenio-records-rest invenio records rest api module release adds version-released-marshmallow schema-add schemas fixes v pid pids handle error-handling record-class errors classes-improved filter filtering improve

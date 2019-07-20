@@ -1,0 +1,1 @@
+django-tastypie-mongoengin mongoengin support django tastypi rest rest tastypi mongo mongodb mongoengin django mongoengin

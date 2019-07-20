@@ -1,0 +1,1 @@
+healpi python healpix map tool compil develop c-librari appli pixel packag acknowledg version openmp-support pixelated-data file project instal capabl issu refer apply-coordinate-transform public harmon format improv power directori pull howto librari projections-transform sky e-g coordin alt statu list k-m resolut capabilities-provid provid reineck scientif

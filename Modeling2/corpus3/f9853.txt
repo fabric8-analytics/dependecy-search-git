@@ -1,0 +1,1 @@
+mpi4py scientific compute parallel compute message passing interface mpi mpi python install communication communicator mpipy parallel block process interface l-dalcin array array-objects object software collective blocking-nonbloking c target-syncronization r operations-remote-memory reduction scatter send openmpi

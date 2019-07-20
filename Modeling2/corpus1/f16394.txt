@@ -1,0 +1,1 @@
+django-permissions-widget django permissions widget permission permissions admin user requirements backward-compatibility autocomplete line

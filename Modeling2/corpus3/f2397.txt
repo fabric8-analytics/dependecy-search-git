@@ -1,0 +1,1 @@
+spglib python installation install version version-badge distribution c

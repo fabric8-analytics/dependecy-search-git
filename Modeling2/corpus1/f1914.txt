@@ -1,0 +1,1 @@
+pyqode-python codeedit pyside pyqt code editor widget python pyqode-python test tests alt installation-testing pep mode coverage license licensed frosted jedi install configured code-completion-calltips

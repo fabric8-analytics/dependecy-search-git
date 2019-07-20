@@ -1,0 +1,1 @@
+ofxtools ofx open financial exchange ofx python data financial format format standard-format dependency depends standard extension extensible extensions-contained contains request case case serialize section section model model version version checked-test majority major-item quicken-microsoft tracker github

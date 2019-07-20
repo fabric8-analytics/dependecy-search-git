@@ -1,0 +1,1 @@
+django-session-security little javascript middleware work together ensure user active past x minute tab open otherwise display warn leave couple minute show kind activity like move mouse otherwise logout user django session user user django sessionsecurity activity security tab session app javascript minute sensitive inactive inactivity list-ask contrib

@@ -1,0 +1,1 @@
+easydict access dict values attributes works recursively mbtiles mapnik dicts like license attributes-works parsed-json makinacom work working fix access-dict thanks easydict-allows allow-setting accessed easydicts set

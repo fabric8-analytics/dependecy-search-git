@@ -1,0 +1,1 @@
+djangocms-teas plugin teaser requir

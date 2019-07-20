@@ -1,0 +1,1 @@
+btchip-python ledger hw python api install installed installing btchip-python c bip requirements requires dev building build hardware

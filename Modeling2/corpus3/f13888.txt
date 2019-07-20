@@ -1,0 +1,1 @@
+azure-mgmt manager azure package package management-bundle number version version shell installs instal install installation

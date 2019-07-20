@@ -1,0 +1,1 @@
+raphendyr-django-essentials django code important apps app import-update set template template essential-django log settings-useful color color deprecate deprecation function function colorized-log-formatter essential formatters-colored include include include class key create create add myapp use enum processor python exists exist exist require argument fg debug

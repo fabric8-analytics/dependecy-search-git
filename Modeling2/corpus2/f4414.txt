@@ -1,0 +1,1 @@
+pyramid-simpleauth auth configure configuration configured configuring pyramid email views view login base page redirect redirects named traversal route-names based-authentication useful use password routes templates template user users authenticate url pass passed easily factory username app

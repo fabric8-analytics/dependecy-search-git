@@ -1,0 +1,1 @@
+django-hyperadmin django admin powered restful hypermedia apis django hypermedia hateoas rest api apis clients client application resources resource django-hyperadmin rest relname responses response responsive agnostic-media-type url add json uses delete formats format text-html basic list lists control admin

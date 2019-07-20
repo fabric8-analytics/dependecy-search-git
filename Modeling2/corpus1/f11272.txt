@@ -1,0 +1,1 @@
+django-custard django models fields custom admin content types pypi target license image-alt-django runtime downloads

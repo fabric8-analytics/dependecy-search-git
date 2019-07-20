@@ -1,0 +1,1 @@
+diff-highlight mercuri git diff highlight diff-highlight add-highlight highlight-adds-word-highlight fix mercuri home text python word extens extens pager support

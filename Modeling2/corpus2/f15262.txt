@@ -1,0 +1,1 @@
+django-model-publisher handy mixin abstract class providing publisher workflow arbitrary django models model publish supports support user bugfix

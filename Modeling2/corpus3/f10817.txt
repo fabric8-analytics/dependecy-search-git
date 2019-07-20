@@ -1,0 +1,1 @@
+ccnmtlsettings common django setting django-apps variable variable setting set set file static-file statsd symbol-table flake cloudfront configuration require app related url

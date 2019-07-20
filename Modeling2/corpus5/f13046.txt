@@ -1,0 +1,1 @@
+gensim singular valu decomposit svd latent semant index lsa lsi dirichlet alloc lda hierarch process hdp random project tfidf wordvec instal bla softwar language-process r document process-input memori featur python-travis-wheel algorithm effici retriev trivial-streaming-api stream level comput includ numpi corpora optim rehurek-lrec corpu framework sojka-booktitl v

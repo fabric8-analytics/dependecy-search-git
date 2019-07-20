@@ -1,0 +1,1 @@
+django-bootstrap-datepicker-plus django bootstrap date picker time datetime range alt pickers date-picker px-height python status django-bootstrap code license licensed coverage version versions image date-picker-time format datepickers django-bootstrap-datepicker use options setting-option settings

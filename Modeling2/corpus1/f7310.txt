@@ -1,0 +1,1 @@
+cjklib character han-characters cjklib u documentation mysql database unicode build building edict sqlite stroke cedict installing install installer command-line-cjk-dictionaries tokyo dictionary operations cedictgr python directory package packaged language e multilingual-plane unihan

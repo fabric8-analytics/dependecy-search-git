@@ -1,0 +1,1 @@
+sphinxcontrib-docxbuild sphinx extens builder docx openxml output sphinx-docx direct gener imag python extension-gener block function hg histori file list bold-environ document-sourc number environ set need

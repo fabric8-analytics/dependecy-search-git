@@ -1,0 +1,1 @@
+django-parsley client side form validations django using parsley js parsley-alt validations validate validators form forms adds add attributes attribute admin note intrusive python-usage class-decorator decorate make custom

@@ -1,0 +1,1 @@
+wikitextpars mediawiki wikitext parser templates-templ python usage-cod tabl html tag list issu parser-functions-t links-wikilinks-list wikilink section perform usag method cell link extracting-cel bug execut extract pars start wikitext-pars main-reason function pattern limit limitations-syntax-el wiki similar known

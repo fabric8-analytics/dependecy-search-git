@@ -1,0 +1,1 @@
+azure-mgmt-containerinstance model models parameters groups operations new-parameter added-operation-group features-add microsoft-azure manager management-apis container-instance-client change changed api breaking-changes fix class enum-types argument arguments type instances complete completion metadata package http-session code value values image images

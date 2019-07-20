@@ -1,0 +1,1 @@
+flask-static-compress compress compress default static-compress-alt mode santo perform css trail page file file asset asset path

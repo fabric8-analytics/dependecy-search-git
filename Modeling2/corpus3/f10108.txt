@@ -1,0 +1,1 @@
+wikipedia-template-parser simple library extract data wikipedia template infobox-struttura-militare-man template template

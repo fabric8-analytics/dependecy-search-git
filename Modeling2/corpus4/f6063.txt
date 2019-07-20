@@ -1,0 +1,1 @@
+pyramid-celeri past pyramid celeri messag queue amqp job task distribut ini pyramid-celeri code configur configur worker running-work task task run argument argument like like use use except time time schedul schedul schedul schedul celeryconfig addit handl python exampl exampl queue defin defin

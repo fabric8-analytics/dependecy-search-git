@@ -1,0 +1,1 @@
+zorg-gpio gpio drivers controlling sensors output devices zorg zorg supports supported sensor devices hardware-support zorg-gpio provides components purpose status supports support supported devices gpio code provides python

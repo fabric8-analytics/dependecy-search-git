@@ -1,0 +1,1 @@
+eventifi lightweight modul asynchron event driven system python event driven websocket crossbar produc consum eventifi event event event servic run run host db way minimum databas tbd environ support busi python configur configur develop supported-drivers-crossbar driver type

@@ -1,0 +1,1 @@
+cgivar2gvcf file line command-lin suffix convers refer build twobit genom packag compress output option

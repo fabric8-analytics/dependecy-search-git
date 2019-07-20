@@ -1,0 +1,1 @@
+openslide-python openslide whole slide image virtual library installed install installing single-version-externally-managed-record-dev-null pillow-installation pil resolution

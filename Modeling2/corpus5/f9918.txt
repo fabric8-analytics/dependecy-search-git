@@ -1,0 +1,1 @@
+docopt shell interpret command line interfac descript languag bash argument parsed-argu pars test golang output docopts-docopt tested-build code version bit python-bas function exampl featur cli build gener releas pattern messag array sh folder associative-array base-bat lib legacy-support wrapper non work option options-msg-argv input special given read

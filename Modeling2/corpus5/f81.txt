@@ -1,0 +1,1 @@
+django-mini django databas database-add python command altern develop running-management-command modul developers-run use admin

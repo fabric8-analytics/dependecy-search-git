@@ -1,0 +1,1 @@
+django-app-namespace-template-load django templat loader version base previous-vers inheritance-short note origin instead namespac overrid namespace-templ

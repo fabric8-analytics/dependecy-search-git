@@ -1,0 +1,1 @@
+basicproperty descriptor property coerce propertied enumeration core-data

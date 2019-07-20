@@ -1,0 +1,1 @@
+django-mathjax mathjax easy integration django example settings code file config texjax

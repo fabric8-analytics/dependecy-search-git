@@ -1,0 +1,1 @@
+directory-constants constant values sharing among directory projects live urls url directory-constants settings setting pypi testing

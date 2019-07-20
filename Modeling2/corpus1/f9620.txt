@@ -1,0 +1,1 @@
+plumbum path local remote ssh shell pipe popen process execution color cli python pythonic code alt command commands plumbum-shell status platform like-programs programming program pypi ssh working manipulation application applications pipes piping

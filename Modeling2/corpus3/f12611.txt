@@ -1,0 +1,1 @@
+aldryn-translation-tools language translation translate slug slug language-tags admin result result model model like likely source source url url override override field field fallback-preferences meaning mean mixins mixin preference length parameter help helpful tag project project object object add pypi-version default version automatically-adds len-digit consistent

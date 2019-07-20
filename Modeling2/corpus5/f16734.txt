@@ -1,0 +1,1 @@
+django-tables2 html generic-view-mixin-example-start tabl forms-e-g show

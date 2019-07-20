@@ -1,0 +1,1 @@
+hid libhidapi pyhidapi-instal instal directori hidapi-shar hid-o python run follow line following-lin

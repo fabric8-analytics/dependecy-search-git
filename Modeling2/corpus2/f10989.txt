@@ -1,0 +1,1 @@
+django-simple-forum full featured forum easy integrate use python django application pip comment question answering installation install installed installing forum-alt-documentation key micropyramid aws sg email emails requirements github git release

@@ -1,0 +1,1 @@
+pyramid web wsgi pylon fix session changes-fix code type support chang ad except tests-adding-features-cod test pyramid-alt media-type-prefer typed-registri add error document python-web open defin allow extra-error avoids-open new instead certain-fil inadvert suppli debug longer ambigu tutori pickl argument set avoid featur prefer

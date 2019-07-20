@@ -1,0 +1,1 @@
+xstatic-angular-gettext angular gettext xstatic packaged package packaging easy-install

@@ -1,0 +1,1 @@
+django-permiss django author permiss bugfix role role issu permiss alpha django-permiss beta-ad chang chang add add remov remov implement implement content

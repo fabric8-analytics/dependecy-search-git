@@ -1,0 +1,1 @@
+aws-kinesis-agg aw build build python-kinesis-aggregation-deaggregation-modul modul aggreg aggreg aggreg file file lambda example-script deaggreg deaggreg record record data produc amazon aw make includ includ version tool base language-govern folder

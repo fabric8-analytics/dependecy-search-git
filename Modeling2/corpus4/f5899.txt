@@ -1,0 +1,1 @@
+django-filt filter django-filt instal instal install-git baskoopman

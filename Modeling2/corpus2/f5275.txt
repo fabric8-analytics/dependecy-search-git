@@ -1,0 +1,1 @@
+thumbor open source photo thumbnail service globo com imaging face detection feature imagemagick pil opencv http-x images image imaging-service

@@ -1,0 +1,1 @@
+jaydebeapi db api java jdbc bridg connect sql jpype jython python-db-api type fix cur thanks-licens version except support hsqldb make-us databas modul jdbc-database-driv code make chang sa conn handl jython-project execut way machin import set add classpath improv custom initi driver method compliant

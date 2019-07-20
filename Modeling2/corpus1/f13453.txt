@@ -1,0 +1,1 @@
+setuptools-rust setuptools plugin rust support python rust setuptools distutils setuptools rust build building builds extension rust-extensions param binding python commands command cargo use uses docker setuptools wheels wheel bool default rustextension dictionary debug manifest rustc files file example executable executes

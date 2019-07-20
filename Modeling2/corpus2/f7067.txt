@@ -1,0 +1,1 @@
+cmdline setting set sets command-settings logs log logging-configuration configured configure files file package packaged variable-configures environment-variables config argparse fashion python dashed standard-way ways named type

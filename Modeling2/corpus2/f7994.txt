@@ -1,0 +1,1 @@
+django-favicon-plus django favicon plus simple app allows upload image renders wide variety html link tags display tag links html-link-tags base x source-based google look-like images second different

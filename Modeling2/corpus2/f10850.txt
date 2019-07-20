@@ -1,0 +1,1 @@
+django-config-models configuration models django allowing config management auditing edx configured configuration-model security create created cached cache caches caching models-travis-codecov new newly versions versioning version change changes added add changed-updated-dependency update depending test pypi removed-testing remove unreleased use quality

@@ -1,0 +1,1 @@
+flask-googletrans flask translation translate ts-translate flask-googletrans json-file inside dictionary python cache cache googletrans google

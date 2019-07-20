@@ -1,0 +1,1 @@
+ofs simple python based abstraction library various blob storage including google local disk v backend backends use stores store tests test object-storage storing-bitstreams base common buggy boto-based remote py botostore support version

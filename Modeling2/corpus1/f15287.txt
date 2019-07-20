@@ -1,0 +1,1 @@
+emcee added fixed fix documentation document bug-fixes thanks license licensed python-ensemble-sampling compatibility compatible invariant-mcmc code multiprocessing-new ups removing improved load blobs arbitrary sample

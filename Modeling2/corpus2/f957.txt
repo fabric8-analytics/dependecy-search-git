@@ -1,0 +1,1 @@
+click-plugins register cli commands via setuptools entry points click plugin point plugins plugin-developer develop developing developers like code sub register-external-cli-commands python registered registers credit best command non-obvious lets commandline standalone-utility

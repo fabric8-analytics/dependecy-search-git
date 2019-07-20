@@ -1,0 +1,1 @@
+rpcq quantum rpc qc run run lisp test test python-instal qc instal instal unit-test messag messag server like languag processing-unit rigetti-quantum language-develop tag tag releas bind release-process develop zmq build build includ transport ci incomplet version success dependency-vers directori encourage-us depend depend

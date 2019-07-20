@@ -1,0 +1,1 @@
+eav-django django eav flexibl data model object entiti attribut valu schema type provided-model exampl entity-attribute-value-data-model shop code provid test creat queri choic case includes-cr python schemata pretti charfield handl certain maximum combin prioriti general-cas key e lesser free softwar impli implies-trad authors-fil complet author tabl name licens access

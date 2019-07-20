@@ -1,0 +1,1 @@
+orat databas orm code python model connect queri dictionari method column delet record dictionaries-json query-build key-column simpli tabl dbapi configur mode activerecord snake key specifi attribut automat use defin retriev updat build singl

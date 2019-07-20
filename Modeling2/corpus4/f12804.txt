@@ -1,0 +1,1 @@
+ase h simulation-environment-as import python scipi matplotlib simul run run bfg numpi nwchem opt code

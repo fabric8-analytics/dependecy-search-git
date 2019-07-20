@@ -1,0 +1,1 @@
+django-flatpages-tinymc flatpag tinymc wysiwyg flatpages-tinymc instal edit app

@@ -1,0 +1,1 @@
+natto-pi mecab japanes morpholog analyz nlp ffi bind python morphem code-block use node featur pars version test version-readthedoc project instal languag e automat constraint charact recommend make format detail os-window regular-express document sphinx notebook git copi copyright packag statu dictionari environ instanc twine

@@ -1,0 +1,1 @@
+bidict dict dictionari map datastructur bimap biject inject invers revers bidirect two way alt python doc-bidict supported-python-vers document voluntary-support version link fn-learn review releas pypi d code propos sphinx badg test io prefer simplic integr design run oper merrill-lynch venmo-cern test-coverag chang build codebas

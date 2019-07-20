@@ -1,0 +1,1 @@
+xstatic-jquery-migrate jquery migrate xstatic packaged package packaging easy-install

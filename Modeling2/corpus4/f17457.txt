@@ -1,0 +1,1 @@
+flake8-strict flake plugin check python code set opinion style rule flake plugin strict hang indent trail comma trail comma fix fix fix issu error error-cod python-cod line chang chang compat licens argument argument pars pars smarket function support support backwards-compat flake comma parser libto suggest list list major-minor-patch ad class

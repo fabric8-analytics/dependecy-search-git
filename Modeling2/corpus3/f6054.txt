@@ -1,0 +1,1 @@
+python-picard picard matrix python signal code image comparison installation install pip example-mne travis extend infomax np likelihood component

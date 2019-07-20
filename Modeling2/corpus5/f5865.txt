@@ -1,0 +1,1 @@
+clrmagic ipython cell magic use net languag c vb f jupyt notebook clr mono csharp pythonnet clrmagic-ipython-cel jupyter-notebook dupr-sdpython

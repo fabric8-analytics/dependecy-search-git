@@ -1,0 +1,1 @@
+pyxmlsecurity xml xml dsig security digital signature rsa release-date fix cet alt cest fix-bug bugs-fixed sha pkcs p support license use bugfixes python-xml dec reference reference sign signing mon cryptography wed element element test test version version versioning parser pem tool cmdline-tool yates-cryptographic avoid-logging ns-prefix

@@ -1,0 +1,1 @@
+gs100 jupyt ds gradescop ds-notebook

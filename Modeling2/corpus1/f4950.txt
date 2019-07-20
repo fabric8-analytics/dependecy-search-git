@@ -1,0 +1,1 @@
+pydht raspberry pi bcm gpio dht dht am adafruit adafruit included python warranties-including copyright source strict reserved providing provided code indirect-incidental-special kevin damages damage git

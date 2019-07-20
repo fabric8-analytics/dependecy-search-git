@@ -1,0 +1,1 @@
+ipdb pdb ipython python scripts-lik manager-implies-drop support script warning-context-manag compat code fiddl tool close gotcha add ipython-use-ipdb fix like sy drop context usage-cod use better nose-test ad bsd state dev test allow x-stop version function command allow-configur debugg configur vphilippon pdbdebugmod tab need

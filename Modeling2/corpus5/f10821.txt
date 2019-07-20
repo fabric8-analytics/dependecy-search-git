@@ -1,0 +1,1 @@
+awsrequest aw api gateway sign request sha-signed-http

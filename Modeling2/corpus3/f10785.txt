@@ -1,0 +1,1 @@
+seqseek easy access human reference genome sequence sequence file file chromosome chromosome seqseek human-reference-genome-sequences download download downloads test legacy explicitly nucleotide nucleotide access accession accession nc-test oligonucleotide-probes package support remove remove requirement specific

@@ -1,0 +1,1 @@
+uwsgi-task asynchron task uwsgi execut spooler paramet use follow work decor support mule python timer django-project timer-lik object exampl timeout make code case introspect e-g function valu relat

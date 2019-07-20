@@ -1,0 +1,1 @@
+django-admin-tool extend django admin includ extens dashboard navig menu django-admin-tools-alt imag python instal command collaps fix version ad issu templat support modul template-load requir remov release-adds-support requires-python user better use add chang removing-users-bookmark change-log loader app file compat instead index start enable-label theme novemb bugfix jqueri

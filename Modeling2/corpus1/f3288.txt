@@ -1,0 +1,1 @@
+qimage2ndarray qimage numpy ndarray image convert pyqt pyqt pyside supports supported support qimage qimages data e arrays tested testing image ndarray mask masked row python convenient handling handles recarrays gmx meine source-bsd scientific reference numpy alpha-channels arbitrary mask-modifications-masked-arrays supports supported create appropriate

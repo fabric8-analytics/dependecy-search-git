@@ -1,0 +1,1 @@
+lambda-uploader helps package upload python lambda functions aws aws lambda files configuration-file upload installation installed installing lambda-uploader vpc alternative-install command-line functions function expression-strings string make

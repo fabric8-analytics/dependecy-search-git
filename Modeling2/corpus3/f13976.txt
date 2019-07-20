@@ -1,0 +1,1 @@
+pygarrayimage allows support support interface texture texture

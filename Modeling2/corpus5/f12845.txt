@@ -1,0 +1,1 @@
+enforc typecheck valid test runtim type hint decor typed-namedtupl nested-typ support type-hint-enforc class callabl version configur current class-decorator-namedtuple-configur dev-enforc fix objects-curr featur covari list issu group check overview-installation-usage-featur object python previous-valu

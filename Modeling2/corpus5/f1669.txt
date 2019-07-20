@@ -1,0 +1,1 @@
+sphinxcontrib-jupyt sphinx extens gener jupyt notebook cell installation-code-bash python configur includ instal directli direct provid valu test copyright quantecon file follow execut use redistribut tests-demo product strict executable-block notebooks-status-doc reserved-redistribut written prior team special doc rst differ contain

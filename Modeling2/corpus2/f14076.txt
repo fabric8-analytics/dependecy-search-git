@@ -1,0 +1,1 @@
+pygments-lexer-solidity pygments lexer syntax highlight solidity sol ethereum lexer-solidity block blocks installation-usage import-lexers

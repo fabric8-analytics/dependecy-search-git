@@ -1,0 +1,1 @@
+django-review django reviews reviewed code rate users user like average-rating html-ratings-categories default update updating objects object form averages category steps step permission-checks customize custom check python following follows latest-stable examples example

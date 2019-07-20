@@ -1,0 +1,1 @@
+py-solc python wrapper around solc solidity compiler ethereum py blockchain versions version installation install installing installed installs like json-compilation solidity-compiler use format import path project linux suite installation-code line-use solc-build

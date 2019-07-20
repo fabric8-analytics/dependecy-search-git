@@ -1,0 +1,1 @@
+urlparse4 faster replacement python urlparse module urlsplit urljoin url parser urlparser parsing gurl cython speed performance urls differences differently different feel new pull code intel follow following focused cpython test testing tested tests-current currently basic dmoz docker-installed supports cases edge

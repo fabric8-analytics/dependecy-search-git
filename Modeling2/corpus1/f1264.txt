@@ -1,0 +1,1 @@
+eve-auth-jwt eve api rest oauth auth jwt token tokens eve jwt level roles role example audiences audience different require required-defines defined endpoints endpoint secret custom module token tokens jwt eve roles role audiences audience require level module required-defines defined access custom example

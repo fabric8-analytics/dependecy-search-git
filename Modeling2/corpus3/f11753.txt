@@ -1,0 +1,1 @@
+django-mandrill django mandrill email email backend email

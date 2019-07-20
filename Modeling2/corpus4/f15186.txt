@@ -1,0 +1,1 @@
+inherit purpos code test test genotyp genotyp depth mendelian domin famili autosomal-domin world offspr gener gener add support support link

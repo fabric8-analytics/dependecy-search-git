@@ -1,0 +1,1 @@
+django-uwsgi-cache alt status image target-requires settings badges requirements raises bsd-license django target alt support image status settings supported-versions katz timeout travis-appveyor version cache raises

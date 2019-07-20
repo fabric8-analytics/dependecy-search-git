@@ -1,0 +1,1 @@
+django-draft draft admin drafts django-draft current class apps accordingly

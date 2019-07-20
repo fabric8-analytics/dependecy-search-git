@@ -1,0 +1,1 @@
+autonomie-base web wsgi bfg pylon pyramid autonomie base provide provide base-software sqlalchemy formatting-utilities

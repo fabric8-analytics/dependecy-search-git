@@ -1,0 +1,1 @@
+django-secure setting settings good-choice-set guessing-asset-content-types protect ssl xss-filtering-protections version versions usage-add security tested tests test testing set added thanks coding little code-worked site sites works initial-release heller redirected redirects asset filtering avoid changes

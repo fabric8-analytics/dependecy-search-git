@@ -1,0 +1,1 @@
+django-elasticsearch-dsl django elasticsearch dsl properti attr index field map set example-cod model class python exampl search-class objectfield instanc add indic py instal processing-test test signal fix updat barseghyanartur cbinyenya support-objectfield relat

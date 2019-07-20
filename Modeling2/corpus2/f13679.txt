@@ -1,0 +1,1 @@
+rss2email rssemail smtp packages mailing run runs installing installation installed email emails use uses new-source-package html-mail default true server options-defaults change customizing customize custom list file files task com version post-changes linux sendmail feed feeds utf-getting request requests send sending posted

@@ -1,0 +1,1 @@
+flask-uwsgi-websocket uwsgi flask websocket instal flask-uwsgi-websocket-high app homebrew-instal python-instal rout includ level openssl normal automat

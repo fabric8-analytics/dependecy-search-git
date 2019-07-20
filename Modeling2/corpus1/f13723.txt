@@ -1,0 +1,1 @@
+pygmo contains sphinx documentation pygmo see actual code please use pagmo repository https github com esa pagmo pygmo python bindings pagmo c science math physics optimization ai evolutionary computing parallel computing metaheuristics provides scientific-library-providing multiobjective python parallel-computations

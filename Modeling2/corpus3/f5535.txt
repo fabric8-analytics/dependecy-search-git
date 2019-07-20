@@ -1,0 +1,1 @@
+django-appregister base base class class django exception level blocks-app model model admin

@@ -1,0 +1,1 @@
+flask-whooshalchemyplus indexed indexing indexable whoosh-index result add likely like v-feature methods-fix match matching query-results field fields searching text-search whooshalchemyplus method source set use explicitly-uses

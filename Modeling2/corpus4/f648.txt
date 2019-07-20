@@ -1,0 +1,1 @@
+flask-fanstat resourc static-resourc flask-fanstat app app js-jqueri template-g need need need provid provid html jinja blueprint blueprint

@@ -1,0 +1,1 @@
+symengine fast symbolic manipulation library written c math computer algebra plus repository libraries based-systems wrappers license licensed licenses automatically pull use uses installation install checks checking check development develop developer developing cmake reference malloc dependency depend dependence compiler file-python files e turns turn default code allow-easy

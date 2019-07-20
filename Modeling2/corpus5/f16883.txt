@@ -1,0 +1,1 @@
+beckett python beckett-hypermedia-api http-api fix rest occasion framework dictionaries-automatic-url

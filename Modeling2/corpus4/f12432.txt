@@ -1,0 +1,1 @@
+cythongsl introduction-d version-authors-thomas-wiecki windows-port quick-demo tool ideal-tool pernici com

@@ -1,0 +1,1 @@
+queries query-results queries-postgresql-simplified code pythonic psycopg connect connections connecting asynchronous api-support result featured-python-client tornado-connection session supported provided provides providing method methods features easy manager managers github based use uses licensed license version current currently

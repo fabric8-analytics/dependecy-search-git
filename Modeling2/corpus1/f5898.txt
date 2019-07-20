@@ -1,0 +1,1 @@
+repoze-who-plugins-openid openid repoze who identification authentication plugin enabling-logins information-read egg-work

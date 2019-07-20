@@ -1,0 +1,1 @@
+django-ajax-utilities pagination xhr tabbing utility django framework page tabbing tab pages-rendered ajax pagination paginator paginators link link template javascript py query-string-request query render render heavy content like use xhr follow follow

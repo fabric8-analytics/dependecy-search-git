@@ -1,0 +1,1 @@
+nosexcover coverage cover file nose

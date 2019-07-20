@@ -1,0 +1,1 @@
+django-config-model configur model django allow config manag audit edx configuration-model secur creat cach models-travis-codecov new newli version chang ad add changed-updated-depend updat depend test pypi removed-test remov unreleas use qualiti

@@ -1,0 +1,1 @@
+python-ironic-inspector-cli usual inspector api releas

@@ -1,0 +1,1 @@
+pyoai oai pmh xml archive changed changes client server servers datestamp datestamps added oaipmh oai-dc metadata compatibility compatible package python-implementation initiative initial status py implementing module fix fixed output kurze-uli compliant

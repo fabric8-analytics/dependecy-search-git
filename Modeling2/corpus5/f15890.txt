@@ -1,0 +1,1 @@
+wordseg word python-word-segment data-fil segment licens bigram process function languag ci test differ file softwar output documented-test respect mac-o line quickstart document contain

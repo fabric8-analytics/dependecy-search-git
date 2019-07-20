@@ -1,0 +1,1 @@
+django-click installation install django-click command management-commands write manage-py-helloworld django-click commands command add support example hello installation install code python retrieve-model test-suite compatible compatibility

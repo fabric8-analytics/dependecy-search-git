@@ -1,0 +1,1 @@
+odin data structure definition validation traversal mapping serialisation toolkit python structures serialize de json csv msgpack xml yaml resources resource alt codec validate api based base contrib documenting document documentation-coverage use protocols passing support cov supported-integration contributor-malcolm sup declarative fields field python-structures special

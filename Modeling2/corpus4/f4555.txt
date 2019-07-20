@@ -1,0 +1,1 @@
+pasteuwsgi uwsgi instal instal python-paste-plugin reload pasteuwsgi option point point app options-address applic ini plugin main hg directli port paster

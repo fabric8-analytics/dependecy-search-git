@@ -1,0 +1,1 @@
+django-mock-queries django orm mocking unit testing tdd code querysets django tests queryset-functions test-function functioning testing-features add method methods bash database-running aggregates aggregation feature run like local setting field-lookups new-settings create

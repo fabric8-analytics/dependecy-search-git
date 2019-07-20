@@ -1,0 +1,1 @@
+django-polymorphic-tree polymorphic mptt tree support model django django orm django admin django mptt django installation install instal node node python version version type test test test page page contribute contribution model-type-example main build admin todo model project project root support support

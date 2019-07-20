@@ -1,0 +1,1 @@
+django-debug-toolbar-django13 templat django-debug-toolbar request middlewar panel panel add current-request exampl tag output template-paths-sql-queries-includ queri custom custom logging-output current configur signal signal includ includ configurable-set path file file set set

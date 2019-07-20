@@ -1,0 +1,1 @@
+django-tables2-simplefilter filter filter filter table value value django-tables-simplefilter field list cs f selects selection template

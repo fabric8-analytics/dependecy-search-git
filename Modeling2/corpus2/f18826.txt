@@ -1,0 +1,1 @@
+django-radio quick-start management-application

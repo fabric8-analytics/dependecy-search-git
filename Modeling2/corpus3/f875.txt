@@ -1,0 +1,1 @@
+vcversioner version versioning file file version-information vcversioner vcs-tag tag tag tag project hook directory directory import-setup module module contain contain root root usage commit commits automatically use like tarballs tarball get g require require require requirement read revision revision follow duplicate duplicate duplicate specifically specific

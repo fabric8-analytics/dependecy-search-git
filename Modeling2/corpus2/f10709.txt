@@ -1,0 +1,1 @@
+gtfs serviceperiod sched db exit schedule bart stops-stop

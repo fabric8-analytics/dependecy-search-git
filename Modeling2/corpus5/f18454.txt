@@ -1,0 +1,1 @@
+pudb based-visu sourc use modul breakpoint loaded-modul cursor load python one makes-debug debug-cod tool visual keyboard termin ipython program-vari variabl pdb

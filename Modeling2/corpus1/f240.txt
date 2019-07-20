@@ -1,0 +1,1 @@
+django-shell-ipynb django ipython notebook shell notebooks django-shell-ipython-notebook installation install command commands based

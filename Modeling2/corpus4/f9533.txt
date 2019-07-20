@@ -1,0 +1,1 @@
+khayyam khayyam persian jalali date time datetim convers doc doc format test test test b fixing-test fix method method format-direct parsing-format c bug py added-alpha code includ beta remov remov python new jalalidatetim instead algorithm algorithm direct pypi pypi comparison type type ad readm io renam document document init

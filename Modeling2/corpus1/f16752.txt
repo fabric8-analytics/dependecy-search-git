@@ -1,0 +1,1 @@
+visvis visualization opengl medical imaging d plotting numpy visvis object-oriented license d objects-e-g example python-library visualization visualized matplotlib-like allows-easy python visvis functions function objects object-oriented plot plots d like vv required requirements-numpy shaded volshow easy

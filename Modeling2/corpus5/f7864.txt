@@ -1,0 +1,1 @@
+pyhdb sap hana connector pure python dbapi lob code instanc bash hana-databas exampl data method like procedur statement transact trace sql execut run pycon current provid run-test cursor cursors-cr connect creat network row charact test posit differ

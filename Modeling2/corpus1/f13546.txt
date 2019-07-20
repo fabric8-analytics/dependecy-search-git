@@ -1,0 +1,1 @@
+newrelic config newrelic license licenses new-relic-python-agent script ini performance-monitoring code wsgi services service environment proprietary user file slow generate generated monitor

@@ -1,0 +1,1 @@
+shopifyapi allows shopifyapi make developer request list

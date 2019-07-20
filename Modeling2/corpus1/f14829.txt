@@ -1,0 +1,1 @@
+drf-generators api rest framework generate scaffold code view model-python generate generating generator alt drf-generators views-serializers license default django function-style urls tutorial command serialization models apps app

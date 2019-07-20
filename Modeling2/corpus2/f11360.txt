@@ -1,0 +1,1 @@
+detectlanguage language identification detection api client detects detect-language-api detections-request-response simple languages-returns

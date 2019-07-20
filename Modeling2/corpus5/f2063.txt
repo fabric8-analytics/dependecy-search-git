@@ -1,0 +1,1 @@
+django-gener django slightli smarter fixtur content gener app content-gener create-object created-json file list management-command inherit manag user resourc path correctli correct use file-field support direct project test

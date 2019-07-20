@@ -1,0 +1,1 @@
+concept fca complete lattice graph join meet galois python code alt property property graphviz-packages object object formal-concept concepts-pypi-version-license package fca structure bitsets version file file dependencies-rendering-lattice stumme-editors path-quickstart depends king render shaker aachen

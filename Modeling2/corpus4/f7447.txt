@@ -1,0 +1,1 @@
+hazm lemmatizer-pos-tagger-shallow train word-token list persian

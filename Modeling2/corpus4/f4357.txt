@@ -1,0 +1,1 @@
+mujoco-pi mujoco physic engin detail effici rigid bodi simul contact mujoco py allow use mujoco python mujoco show packag packag robot robot object bodi support free usage-troubleshoot python version body-simul librari librari openai simul windows-support nativ dependencies-o depend like like ubuntu follow follow includ dynam add mainten bug licens render

@@ -1,0 +1,1 @@
+django-good-practice-examples django good practice examples list display installation install packages-installed

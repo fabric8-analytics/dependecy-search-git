@@ -1,0 +1,1 @@
+starlette little asgi framework shines python async websockets graphql http support high-performance asgi-framework required dependencies-requirements-python frameworks code independent test independently-run running application applications api auto access cpu example tasks

@@ -1,0 +1,1 @@
+django-reset-migrations django reset migrations migration reset-migrations deleted delete files options

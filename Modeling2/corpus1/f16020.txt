@@ -1,0 +1,1 @@
+genologics python interface genologics lims server via rest api genologics api rest clarity lims illumina examples lims file files python pythonic example-scripts versions version script instances instance epps simple entities attributes artifact cache current currently pull base basic-module lims

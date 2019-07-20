@@ -1,0 +1,1 @@
+flask-secure-head flask secur header polici pin default-policy-content-secur csp valu valu includesubdomains-x secure-head ex header-wrapp key-pins-hpkp prevent report updat updat option sha protect key hst type max rout note noopen contributor security-head

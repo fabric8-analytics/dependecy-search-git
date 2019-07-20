@@ -1,0 +1,1 @@
+pytmpdir class repres file system directori delet garbag collect readme-read auto-delet creat

@@ -1,0 +1,1 @@
+django-genericadmin django inlines inline-admins model-admin generic-models type relative relations content-types foreign-relation code-python make use uses useful fields field lookup interface example dandy-javascript

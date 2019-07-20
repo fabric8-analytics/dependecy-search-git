@@ -1,0 +1,1 @@
+ssh2 ssh ec aws ec-instance-instantly command-line instance

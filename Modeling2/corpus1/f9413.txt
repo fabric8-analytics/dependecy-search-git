@@ -1,0 +1,1 @@
+virtualenvwrapper virtualenv shell supported-shells include including release-includes use uses support supporting environments environment making makes make virtualenvwrapper permission doug python change incompatible-changes issues actions action notice copying copy copies user extensions dependencies varied-depending damages whatsoever project

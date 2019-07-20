@@ -1,0 +1,1 @@
+tox virtual environ isol test project tox-automation-project-command-lin run python autom configur overflow entri code pytest command continu instal develop creat

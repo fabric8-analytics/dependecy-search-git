@@ -1,0 +1,1 @@
+restlib2 rest django http hateoas resource api django-restlib-http request web-resources make make simple-apis request-response-process object object create data related pragmatic embed stack stacks-processes need need client-applications processing decrease encode layer

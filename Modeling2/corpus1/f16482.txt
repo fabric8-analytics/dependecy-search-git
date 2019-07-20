@@ -1,0 +1,1 @@
+octave-kernel octave kernel ipython plots octave-kernel inline-plotting code plot-settings default defaults environment jupyter backend available-options config command set setting configuration configured configurable

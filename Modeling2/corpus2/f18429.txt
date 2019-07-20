@@ -1,0 +1,1 @@
+django-setuptest simple test suite enabling django app testing via python setup py tests e-g provide module modules dependencies command coverage reports output sample app-testing pep added support supports option refactored settings setting south detection-refactor restart restarts restarting detected style-approach patches patch patching needed needs

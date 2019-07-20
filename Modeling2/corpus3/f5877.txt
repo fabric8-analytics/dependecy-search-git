@@ -1,0 +1,1 @@
+pylstar lstar code python state state-machine message automaton alt protocol inference infer transition transition follow follow black pylstar license license request adequate target target copyright georges-bossert network-server servers-sample play play use us letter bash

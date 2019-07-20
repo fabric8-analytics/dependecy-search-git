@@ -1,0 +1,1 @@
+imread versions supported reads reading version-fix-bit file add format-support tiff tiffs imread-read-image-files images png writing write-patch python patches multi function-imsave-writes gohlke saving save better debug-mode functions jpeg number ray-jones-options-framework-allow frameworks

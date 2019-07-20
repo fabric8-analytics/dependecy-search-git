@@ -1,0 +1,1 @@
+bitstruct bit field bit parsing bit unpack bit pack installation-code python example bits bit install change changes legacy integers integer string data text-implement test tests

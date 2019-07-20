@@ -1,0 +1,1 @@
+django-mama-cas auth authentication cas django single sign on sso install installed installation django-single code coding tests test documentation upgrade upgrading preferred contributions contributing contribution github-pull including include file-development mama logout security

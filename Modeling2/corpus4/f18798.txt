@@ -1,0 +1,1 @@
+sdeint stochast differenti equat sde sode algorithm algorithm equat equat numerical-integr integr integr function function stochast nois repeated-integr g ito implement implement m method method stratonovich burrage-p approxim approxim strong independ maruyama time give speed x platen add timeseries-unicod pre-releas matrix implicit eqn bug

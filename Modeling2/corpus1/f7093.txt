@@ -1,0 +1,1 @@
+azure-mgmt-redis models parameters new-parameter model-rediscreateparameters microsoft-azure enum enums added-operation rule-operations package code resource-manager version breaking-changes management-client redis argument arguments features add change changed release fix fixes complete completion apis api list http-session rules

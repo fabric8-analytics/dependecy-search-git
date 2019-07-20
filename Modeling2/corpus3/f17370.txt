@@ -1,0 +1,1 @@
+pyiosxr io xr iosxr cisco networking device lock-config license devices-running connect connection license-copyright load load commit commit configuration based-autorollback xml-agent jasinska lock parameter command command usage make

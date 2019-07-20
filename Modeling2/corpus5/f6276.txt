@@ -1,0 +1,1 @@
+astromodel likelihood model fit spatial

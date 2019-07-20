@@ -1,0 +1,1 @@
+django-star-ratings star ratings django models single template tag python compatible rates rated model rating-stars add settings set setting py status fields field tags object push-releases contains releasing release handles different aligned widget myrating defaults default customize custom use useful uses dispatched

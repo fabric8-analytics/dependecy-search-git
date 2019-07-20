@@ -1,0 +1,1 @@
+django-chartit2 django chart model create-chart ad django-chartit licens plot axi column javascript rainfal data pivot support max def load place integerfield test

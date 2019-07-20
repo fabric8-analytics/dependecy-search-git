@@ -1,0 +1,1 @@
+theano math numerical symbolic blas numpy gpu autodiff differentiation bugs bug expressions compute computing computationally optimize optimizations large evaluate intensive-computations features release x-faster verification-includes foreman frederic transparent perform dimensional

@@ -1,0 +1,1 @@
+python-lirc lirc cython remot ir infrar use-load instal v ad pypi-instal use structur configur lircrc-configur

@@ -1,0 +1,1 @@
+pamqp python versions requirements required requires use-version license

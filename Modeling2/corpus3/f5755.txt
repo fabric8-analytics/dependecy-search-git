@@ -1,0 +1,1 @@
+django-datatable columns-column table base base model option option data django-datatable-build tag search searching-sorting python app apps pas reference instance simple sort finally

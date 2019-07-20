@@ -1,0 +1,1 @@
+djangorestframework-camel-cas djangorestframework camel case licens python framework-json test line

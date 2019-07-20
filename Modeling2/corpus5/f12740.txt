@@ -1,0 +1,1 @@
+coreapi-cli interact command line client core api

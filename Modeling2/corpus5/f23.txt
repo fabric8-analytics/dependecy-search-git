@@ -1,0 +1,1 @@
+django-activitysync django social activ applic twitter reddit googl reader django-act provid item set python activitysync settings-py-instal twitter-reddit like creat instal templat manag management-command run add-support support admin interfac

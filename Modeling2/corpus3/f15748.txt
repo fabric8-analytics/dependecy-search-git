@@ -1,0 +1,1 @@
+pyscreenshot screenshot pyscreenshot example example instal instal sec version-supported-python-versions installation-install-pip documentation screenshots gnome-screenshot pillow imagegrab end end scrot-imagemagick-pygtk pyqt pyside pil check checked

@@ -1,0 +1,1 @@
+pywin32-ctypes limited subset pywin implement use ctypes cffi python cffi ctypes installation install note development develop additional documentation winapi pywin python usage

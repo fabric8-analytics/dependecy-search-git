@@ -1,0 +1,1 @@
+mrq mr queue distribut worker task queue python use redi gevent worker job job task task-queu queue worker-queu worker simpl featur featur dashboard like redi dequeuing-multipl test test integr integr bound-cpu right strategi mrq easi greenlet greenlet perform perform command-lin instal instal instal leak leak leak dequeu dequeu creat creat one file python

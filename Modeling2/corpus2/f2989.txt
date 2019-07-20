@@ -1,0 +1,1 @@
+requests-futures code python-http-requests sessions session additional pickle pickling request futures future example small workers saving memory hooks working shifting-work shifted large processing processes

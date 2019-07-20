@@ -1,0 +1,1 @@
+aocutils opencascade pythonocc cad industrial-strength-d-cad-modeling-kernel-install-code aocutils coding-utf pip backend-minor require-wx required requirements

@@ -1,0 +1,1 @@
+django-extensions repository collecting global custom management extensions django framework documenting alt translations-documentation getting source project projects list supports support models translation requirements requires run minutes-eric install installing

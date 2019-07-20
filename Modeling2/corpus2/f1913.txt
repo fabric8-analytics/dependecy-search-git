@@ -1,0 +1,1 @@
+google-cloud-datastore low level protobuf based java python client libraries cloud datastore check google first clients cloud-datastore python-client-libraries repo level-java issues issue requests version md rpc library automatically samples queries steps documentation strong-consistency managed-schemaless

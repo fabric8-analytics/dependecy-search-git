@@ -1,0 +1,1 @@
+pluginmanager plugin manager framework architecture pluginmanager add instances instance plugin plugins class classes filter filters quickstart file functionality function disable climate

@@ -1,0 +1,1 @@
+dawg-python dawgs benchmarks benchmark contributors contributions contributing extension extensions ideas words c like-constructor slower-memory trie-current package running run runs constructor pypy pypi maintained bugs bug license licensed compatible compatibility internally internal use support-initial usage

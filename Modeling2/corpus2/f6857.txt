@@ -1,0 +1,1 @@
+protoc-java-resource-names-plugin generated generation generating versions versioning version libraries library gapic-proto-compiler-plugin

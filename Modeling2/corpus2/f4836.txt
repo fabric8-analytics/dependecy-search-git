@@ -1,0 +1,1 @@
+bambou low level rest communication library vsp style apis bambou-bends provides copyright-c-alcatel permitted-provided including materials code source particular-purpose

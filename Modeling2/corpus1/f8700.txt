@@ -1,0 +1,1 @@
+cirq python framework creating editing invoking noisy intermediate scale quantum nisq circuits quantum circuits nisq quantum algorithms quantum computing alt-cirq simulators simulate simulator simulation circuit quantum-circuits qubit google-product status m release change new-releases breaking-changes python break

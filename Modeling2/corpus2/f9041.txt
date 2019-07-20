@@ -1,0 +1,1 @@
+fastparquet python implementation parquet columnar file format data files installation-install installed requirements required e snappy expected requires-numpy pip considerable introduction expect-performance output single code logical x algorithms plan performant

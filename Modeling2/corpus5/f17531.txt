@@ -1,0 +1,1 @@
+django-municipio aplicao plugvel django com modelo e widget para os municpio brasileiro municipio o para-django e-widget templat campo-municipio da html utilizar py em field campo utilizar-widget html-uf url uf dado

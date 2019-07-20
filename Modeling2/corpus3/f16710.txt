@@ -1,0 +1,1 @@
+pymorphy2-dicts-uk use method-development dictionary-data dictionary

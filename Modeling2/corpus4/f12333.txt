@@ -1,0 +1,1 @@
+django-djangui djangui scripts-script default file file set set set user user group group group way way url command command task ad true django storag project-ad boolean local local project login-registr argpars instanc registr option option exist configur argument

@@ -1,0 +1,1 @@
+django-robokassa django-robokassa url result-url py form-target param south resulturl ru

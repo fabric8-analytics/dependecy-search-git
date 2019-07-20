@@ -1,0 +1,1 @@
+pandasql sqldf panda pandasql-allow r-seek installation-bas cleaning-data queri queri sql sampl environ function helper tabl

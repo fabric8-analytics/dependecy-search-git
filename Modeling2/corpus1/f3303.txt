@@ -1,0 +1,1 @@
+coloredlogs logging log logger messages install installation installing installs enabling package-enables peter debugging-message class packages-e coloredlogs-colored-terminal-output levels cron level-debug image d color colors automatically python sequence sequences verboselogs block ansi capturer capture coloredcronmailer

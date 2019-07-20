@@ -1,0 +1,1 @@
+gipc gevent multiprocessing ipc child processes gipc code license licensed inter john based processes gevent directory googlemail python darwin child-process cooperative works working like test tests provides provided information-platform instructions

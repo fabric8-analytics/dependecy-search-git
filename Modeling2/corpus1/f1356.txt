@@ -1,0 +1,1 @@
+django-selectable auto-complete-selection django-selectable-tools translating widgets discovery

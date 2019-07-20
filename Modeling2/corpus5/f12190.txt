@@ -1,0 +1,1 @@
+recsql util numpi sqlite sql csv q sqlarray docs-recsql doc rec sqlarrays-r array document conveni problem instal simple-implement

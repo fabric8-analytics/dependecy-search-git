@@ -1,0 +1,1 @@
+django-layers-hr django-layers layer-lookup set set setting basic page template-sets request site site template example example fix com devices-smart path path based-lookups render render static collectstatic add device aware different test test authors-hedley barry-changelog initial

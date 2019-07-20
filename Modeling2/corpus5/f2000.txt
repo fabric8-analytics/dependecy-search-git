@@ -1,0 +1,1 @@
+sparkmag jupyt magic kernel work remot spark cluster livi sql queri panda datafram pyspark kerbero notebook run remote-spark-clust features-run automat option server kerberos-exampl authent exampl installation-instal instal data file ipython-kernel visual easy-visu support config-json request librari python-librari code featur text extens chang multipl execut

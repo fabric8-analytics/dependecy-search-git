@@ -1,0 +1,1 @@
+mtgsdk mtg sdk magic gathering gatherer api rest gathering

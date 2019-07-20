@@ -1,0 +1,1 @@
+python-barcode v add add python-barcode-alt barcodes writer writer-options svg-objects code code setuptools app ean-png optional attribute module dom new object include include version documentation

@@ -1,0 +1,1 @@
+vcrpy-unittest vcrpi vcr py unittest test mock http unittest-pypi class code python acknowledg manag inherit cassett default-cassett python-vers unittest-pypi-build support

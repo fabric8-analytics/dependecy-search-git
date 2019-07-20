@@ -1,0 +1,1 @@
+pysimplemodel code simple-model define-models type validate-types valid field-validation custom-validations fields python classes class defining conversion methods method value values shell

@@ -1,0 +1,1 @@
+mrjob run mapreduc job hadoop amazon web servic job job mrjob run-hadoop mapreduc setup key key set set emr-servic file step mrwordfreqcount environ instal instal basi support support json-api inform link api

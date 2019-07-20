@@ -1,0 +1,1 @@
+django-bootstrap-pagin django bootstrap pagin templatetag url url-view bootstrap-pagin usag pagin pagin pagin page addit addit extra class index argument argument make make stabl class-nam link link tag tag version version range-defin instal instal instal name previou defin defin

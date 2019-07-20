@@ -1,0 +1,1 @@
+ducktype b ducktypes objects isducktype object-class git arguments argument c assert e function functions com false d attr method-ducktypecheck returns return methods

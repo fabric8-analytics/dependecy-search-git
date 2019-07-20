@@ -1,0 +1,1 @@
+django-flatpages-i18n translatable version django contrib flatpages django flatpages translation in wysiwyg languages language redactor django-flatpages settings-file set menu translatable translation installation-install installed flatpage items item

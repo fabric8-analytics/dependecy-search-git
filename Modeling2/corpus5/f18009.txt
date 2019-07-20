@@ -1,0 +1,1 @@
+accessstatsapi biblioteca que implementa uso da api de estatstica acesso do documento scielo servic client lib como para em

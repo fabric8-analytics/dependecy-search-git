@@ -1,0 +1,1 @@
+ip-associations-python-novaclient-ext add rackspace ip association support python novaclient ext association association

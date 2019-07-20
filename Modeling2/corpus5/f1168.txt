@@ -1,0 +1,1 @@
+molecul aid develop test ansibl role python framework docker lxc lxd openstack vagrant testinfra lint ec yamllint gce azur inspec rubocop molecule-alt provid licens easili work lists-licens list instanc

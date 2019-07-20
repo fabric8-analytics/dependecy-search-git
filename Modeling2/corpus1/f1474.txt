@@ -1,0 +1,1 @@
+edc-device allocate simple device id role member multi device deployment django contenttype device model models python unique uniqueness permissions like code permission-objects change save limited limit servers server object

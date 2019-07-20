@@ -1,0 +1,1 @@
+hcsr04sensor reading readings distance distances sample samples pin-values gpio-pins value useful uses use ultrasonic-sensor pi-hcsrsensor cm measurements measuring measurement wait-time sound highly request-new hcsr supported support accuracy tracker pump deep usage board variance basic py version example handling handle manual

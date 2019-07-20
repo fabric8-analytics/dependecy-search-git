@@ -1,0 +1,1 @@
+fedmsg-meta-fedora-infrastructur fedmsg metadata provid fedora infrastructur deploy messag metadata-provid like develop build

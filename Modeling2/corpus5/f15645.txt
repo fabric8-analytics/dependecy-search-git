@@ -1,0 +1,1 @@
+azure-mgmt-schedul azur manag paramet code scheduler-management-cli packag argument enum-typ breaking-chang releas chang api type complet retri fix model version wheel compat

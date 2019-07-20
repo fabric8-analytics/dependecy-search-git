@@ -1,0 +1,1 @@
+inotify inotify event event directory directory create create recursive recurse recursively watch watch watch watch new path path delete delete inotify-functionality python example automatically block artificially version version project value experience status note note string kernel

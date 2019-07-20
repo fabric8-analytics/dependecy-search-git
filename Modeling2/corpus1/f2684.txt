@@ -1,0 +1,1 @@
+altgraph graph graph graphs edges edge release releases python-features feature file bugfix bugfixes issue-remove altgraph longer added methods method supported support supports metadata output setup-py readme renamed source-archive traversals shortest

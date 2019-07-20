@@ -1,0 +1,1 @@
+django-makemessages-xgettext django makemessages xgettext gettext additional xgettext-generate django py comment

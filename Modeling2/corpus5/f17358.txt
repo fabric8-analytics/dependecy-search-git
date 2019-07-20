@@ -1,0 +1,1 @@
+django-pylibmc cach backend django use pylibmc memcach django-imag pylibmc-cache-backend configure-lik variabl package-target number compress python test omit configur pylibmc-cach support like expir valu timeout

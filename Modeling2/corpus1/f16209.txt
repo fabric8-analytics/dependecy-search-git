@@ -1,0 +1,1 @@
+django-shop-paypal django-shop-paypal set settings backends-setting backend feel list accounts add

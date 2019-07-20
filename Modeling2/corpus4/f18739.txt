@@ -1,0 +1,1 @@
+django-form-utils-bootstrap3 bootstrap instal mit django

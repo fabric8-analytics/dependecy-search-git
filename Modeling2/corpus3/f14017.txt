@@ -1,0 +1,1 @@
+pynlpir pynlpir nlpir ictclas chinese segmentation nlp support support late get encode python chinese pynlpir-build text code fixes-error add nlpir license python support support code code version updater update function functionality encode encode test test use us word package package pynlpir-build chinese documentation include include segment-text segment pypi release

@@ -1,0 +1,1 @@
+python-yubico python code talk yubikeys yubikey print license licensed ppa example commands-sudo package packages device password static supported support supports-hmac directly directional-communication ubuntu installation install installable installed response pre-command apt

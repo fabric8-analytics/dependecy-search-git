@@ -1,0 +1,1 @@
+tldextract tld domain subdomain url pars extract urlpars urlsplit public suffix list like com-domain public-suffix-list-psl cach run tldextract-python-modul note set split live-http usage-split environ live latest version directori stanc price ve regex use file support icann treat default user exampl input accurately-separ

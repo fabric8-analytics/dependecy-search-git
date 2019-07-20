@@ -1,0 +1,1 @@
+auditwheel auditing relabeling cross distribution linux wheels wheel linux-wheels manylinux versioned version versioning statically like-static binaries requiring requires libraries binary-extensions io docker-run use uses extension compatible compatibility wide widely command-line runs running

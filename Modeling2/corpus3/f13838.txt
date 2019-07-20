@@ -1,0 +1,1 @@
+pyslet python-package packaging standard-odata support standard pyslet version version includes-support distribution distribute build build issue issue cambridge master fairly feedback pypi travisci code-project qti include aka

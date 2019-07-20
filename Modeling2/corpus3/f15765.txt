@@ -1,0 +1,1 @@
+jaraco-clipboard clipboard-library module supports-text support

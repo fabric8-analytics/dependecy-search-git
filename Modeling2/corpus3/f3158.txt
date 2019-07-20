@@ -1,0 +1,1 @@
+bottlecbv class base view bottle app bottle bottlepy class base view route route method method base register register register bottle-class-based-view bottleview add endpoint endpoint view traditional installation install

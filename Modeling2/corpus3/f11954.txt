@@ -1,0 +1,1 @@
+pyzmq-ctypes dot gmail-com pyzmq-ctypes-python-bindings thomas bit c e-granger org carlos compatible kelley ctypes

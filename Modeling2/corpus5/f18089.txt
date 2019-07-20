@@ -1,0 +1,1 @@
+jug version fix mar-add use file task function execut config-fil python subcommand command allow run depend map time recursive-depend support tue aug parallel larg result run-differ exit purpos forc document list short-exampl statu thu-nov valu code andrea decod ipython multipl debug correctli feb shell necessari

@@ -1,0 +1,1 @@
+zorg-network-camera module use network camera zorg zorg network ip camera driver driver camera text module network-camera light light ocr method image image convert adaptor adaptor recognition camera module driver driver network-camera text light light convert image image provide provide adaptor recognition device-adaptors device

@@ -1,0 +1,1 @@
+tc-redis thumbor redis

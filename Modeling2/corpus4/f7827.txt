@@ -1,0 +1,1 @@
+pyjob alt instal instal pyjob-python bash build

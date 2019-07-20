@@ -1,0 +1,1 @@
+django-publications pdf-upload-rss-feeds-support django-publications publication features-automatically-creates-lists individual-authors

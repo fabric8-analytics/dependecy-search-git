@@ -1,0 +1,1 @@
+flaskwart rout class method-nam route-handl http-method request form-featur flask-appl non multipl basic-timezone-manipul use modul doc number unit alpha applic csrf like handler

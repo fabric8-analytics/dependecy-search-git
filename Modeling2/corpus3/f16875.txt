@@ -1,0 +1,1 @@
+microdrop-plugin-template plugin details-run directory

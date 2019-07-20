@@ -1,0 +1,1 @@
+c2c-template template vars var file yaml-files template-supported code interpreted interpret today predefined-interpreter paths path support pi facter variables variable

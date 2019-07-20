@@ -1,0 +1,1 @@
+vlcp-docker-plugin sdn vlcp docker external-network sdn-network instal node creat install-openvswitch storag use storage-serv configur swarm o ip-address-access vlan specifi python plugin l bridg access bash connect

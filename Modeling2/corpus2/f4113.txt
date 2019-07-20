@@ -1,0 +1,1 @@
+pyamg algebraic multigrid solvers python amg solver sparse matrix conda krylov preconditioning grids multigrid-amg-solvers problem problems code linear olson operations levels-operator-complexity-grid stuben schroder geometric examples example poisson large support supporting multilevel level smoothed relaxation c critical sa

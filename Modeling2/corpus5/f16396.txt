@@ -1,0 +1,1 @@
+pysodium cryptographi api nacl libsodium simple-wrapp handl requir

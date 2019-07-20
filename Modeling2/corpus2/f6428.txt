@@ -1,0 +1,1 @@
+nurbs-python nurbs b spline curve surface cad modeling visualization splines image modules module customizable knot installation install degree block exporter evaluation provides reduction codecov doi data

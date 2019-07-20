@@ -1,0 +1,1 @@
+azure-mgmt-map microsoft-azur manag packag code-shel releas

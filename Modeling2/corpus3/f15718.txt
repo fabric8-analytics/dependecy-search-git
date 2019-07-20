@@ -1,0 +1,1 @@
+dockerflow cloud service dockerflow specification contains container container test test test build build automated-building-testing image application-images json able requirement log log request request md change change service service trigger trigger optional user python-dockerflow open-tickets

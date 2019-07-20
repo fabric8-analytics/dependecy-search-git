@@ -1,0 +1,1 @@
+taskotron-python-vers taskotron task regard python version fedora rpm python-vers test packag check mock uses-vers ansibl use cfg run build licens

@@ -1,0 +1,1 @@
+setuptools-svn metadata subvers hosted-project

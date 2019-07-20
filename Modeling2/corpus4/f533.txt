@@ -1,0 +1,1 @@
+django-south-admin django app allow south manag admin django-south-admin migrat migrat migrate-tool path allow allow user initi author

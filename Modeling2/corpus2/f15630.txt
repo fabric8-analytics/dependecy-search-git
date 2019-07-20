@@ -1,0 +1,1 @@
+webium page object pattern implementation library python http martinfowler com bliki pageobject html allows extend webelement class custom controls like link button group pages selenium webdriver usage stable controls-like-link

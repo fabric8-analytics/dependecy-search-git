@@ -1,0 +1,1 @@
+munch python dictionary provides attribute style access la javascript objects dict mapping container collection serialization-munches default serialize missing attributes string instances root-feedback package similar

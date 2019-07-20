@@ -1,0 +1,1 @@
+rtorrent-python rtorrent pp project aims supporting support requirements add xmlrpc rtorrent extremely-unintuitive credits supporting support installation install branches requirements xmlrpc-interface interfacing recommended todo

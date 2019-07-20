@@ -1,0 +1,1 @@
+django-pagination-py3 pagination django page pages paginate paginated setting settings set sets default installation install context-processor use-django-pagination tags processors autopaginate-tag useful

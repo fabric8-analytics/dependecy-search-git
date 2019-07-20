@@ -1,0 +1,1 @@
+sphinx-kr-theme alt krtheme block status-pypi readthedocs alt block readthedocs krtheme pypi repository

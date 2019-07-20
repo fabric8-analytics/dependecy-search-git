@@ -1,0 +1,1 @@
+flask-classful class based views flask python flask classful alt classes view flask-classful class-based-views route routes routing projects project supported supporting crud feel taking mr develop development-version latest base versions little-big file-license setup-readme

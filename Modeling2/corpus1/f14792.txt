@@ -1,0 +1,1 @@
+django-components app installed-apps-setting-like set components example

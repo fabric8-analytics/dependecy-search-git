@@ -1,0 +1,1 @@
+envisag python base framework build applic whose function extend ad plug in project envisage-extensible-application-framework extens extension-point plug-in consist

@@ -1,0 +1,1 @@
+mutagen python module handling audio metadata tagging music idv apev opus flac ogg mp id flac-mp standard xing align packet

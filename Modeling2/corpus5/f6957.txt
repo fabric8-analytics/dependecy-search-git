@@ -1,0 +1,1 @@
+django-rest-framework-social-oauth2 backend token facebook client python author curl secret url social-oauth authent password set type django request user py gener feel redirect probabl code add

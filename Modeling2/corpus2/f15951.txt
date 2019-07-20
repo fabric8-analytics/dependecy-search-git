@@ -1,0 +1,1 @@
+ipuz puzzles json supports puzzle-files file ipuz-alt supported-python puzzle

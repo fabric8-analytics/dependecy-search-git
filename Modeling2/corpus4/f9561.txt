@@ -1,0 +1,1 @@
+django-pagination-py3 pagin django page page pagin pagin set set set set default instal instal context-processor use-django-pagin tag processor autopaginate-tag use

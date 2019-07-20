@@ -1,0 +1,1 @@
+python-wowapi warcraft api wow auctionhouse community game wowapi example readthedocs-org-examples data-api

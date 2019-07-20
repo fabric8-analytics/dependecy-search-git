@@ -1,0 +1,1 @@
+igor igor files file packages package packaged packaging version-python tests test run py code-testing nose layman license-gnu module copyright w pip numpy matplotlib

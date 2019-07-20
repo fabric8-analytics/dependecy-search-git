@@ -1,0 +1,1 @@
+flask-click-migrate sqlalchemy database migration flask application use alembic click sqlalchemy alembic flask click click wrapper

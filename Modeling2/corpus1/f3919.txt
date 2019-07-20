@@ -1,0 +1,1 @@
+azure-storage-common azure-storage logging queue queues package packages services info-debug-log blobs pip-code blob-create developer files file service-apis contribute contributing debugging version delete-containers projects-contribution contains containing provided provide longer note project-provides api samples sample

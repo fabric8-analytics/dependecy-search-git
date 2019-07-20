@@ -1,0 +1,1 @@
+pocketsphinx sphinxbas instal default requir class pocketsphinx-python verbose-send licens librari speech-recognit cmu sourc window compat

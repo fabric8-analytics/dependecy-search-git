@@ -1,0 +1,1 @@
+django-encrypted-cookie-sess encrypt cooki session backend django-encrypted-session-cooki key like supported-instal instal encryption-key run-sess support-test size set includ ad limit test run modul data environ bright-interactive-ad option add copyright-c redistribut user releas view remov compress network directori strict properli pypi old provid chang log special indirect

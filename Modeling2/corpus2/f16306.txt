@@ -1,0 +1,1 @@
+django-ajax-selects customize custom jquery-ui license licensed licenses add django form api ajax views-assets ui foreignkey format

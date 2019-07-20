@@ -1,0 +1,1 @@
+cdecimal decimal floating point correctly rounded arithmetic arbitrary precision versions note-cdecimal python-version-import-decimal tar-gz shasum-dcbeedfadfbcdbebbeccfdebefadedb

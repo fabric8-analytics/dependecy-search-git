@@ -1,0 +1,1 @@
+xstatic-jquery jquery xstatic package package packaging easy-install

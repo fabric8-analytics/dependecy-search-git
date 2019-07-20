@@ -1,0 +1,1 @@
+timezonefinderl timezon coordin latitud longitud locat pytzwher tzwhere timezone-polygon data e-g polygon function version file new-funct ad bin-fil readm speed use small packag timezonefind shortcut

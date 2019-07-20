@@ -1,0 +1,1 @@
+tilejet-logs python utility library contain function log tile service usage python gi tilejet copyright service imagery geographic geospatial-services initially project project license license utility utilizes publish publishes-high highly initiative-cybergis copy copy log log tbd documentation base include include person person geogit geoserver state information

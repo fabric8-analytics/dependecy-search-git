@@ -1,0 +1,1 @@
+django-jux test django thing pull run unittest-outcomes-success-failur style

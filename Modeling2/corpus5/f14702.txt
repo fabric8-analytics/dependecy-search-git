@@ -1,0 +1,1 @@
+django-manager-util model manag util django type alt-latest

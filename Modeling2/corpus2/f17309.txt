@@ -1,0 +1,1 @@
+django-allow-cidr django middleware enalbe use cidr ip ranges allowed hosts allow code network python host allowed-hosts cookiecutter thanks accept

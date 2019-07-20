@@ -1,0 +1,1 @@
+sfc nsh nfq instal chains-instal sff python-instal sudo chain agent-rest odl ip-port set servic pip root user repositori

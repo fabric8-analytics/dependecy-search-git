@@ -1,0 +1,1 @@
+rtslib-fb python library configuring linux kernel based multiprotocol scsi target lio python-object targetcli kernel-target licensed license strictly

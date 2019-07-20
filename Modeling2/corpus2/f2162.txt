@@ -1,0 +1,1 @@
+pywebsite fixed fix pre bugs test tests operations added locals-testing rss resize resizing sqlitepickle rate todo timing help url urls websites local-website news-posting updating-changes basic-update changed pypi gmail

@@ -1,0 +1,1 @@
+scikits-audiolab audiolab avail excellent-libsndfile-licens licens python-packag wav

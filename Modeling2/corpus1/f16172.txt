@@ -1,0 +1,1 @@
+django-tables2-reports django project projects exclude report xls edge works django-tables-reports test table b supports support fixes fix test tests contents-django-tables-reports report-csv-xls details-thanks content exclude releases release vnd project new settings set sets works table views view edge-version

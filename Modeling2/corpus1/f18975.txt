@@ -1,0 +1,1 @@
+universal-analytics-python universal analytics python module analytics tracking feature features supporting support supported case naming names named use-cases arguments dictionaries example examples correct category-action-label timing time license licensed py spelling-variations overall-visit analytics measurement-protocol

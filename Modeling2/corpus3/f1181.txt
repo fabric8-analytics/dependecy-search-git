@@ -1,0 +1,1 @@
+mcp3208 python driver mcp python python python mcp adc raspberry pi spi adc mcp spi mcp spi lsb-max v copyright input input c pi install installation documentation person include person include differential python copy copy notice bit bit interface us use chip

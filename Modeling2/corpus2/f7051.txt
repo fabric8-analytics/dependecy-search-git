@@ -1,0 +1,1 @@
+django-staticfiles app apps file web python serving-static-files directory installation install projects project serve served setting-installed x py apache sets set admin media

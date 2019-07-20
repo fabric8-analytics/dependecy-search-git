@@ -1,0 +1,1 @@
+python-xbrl xbrl financial accounting file formats parsing parse parsed object objects data feel making make different license-python-xbrl features feature path contribute cffi xrbl issues issue quarter date extracting formats-like format version email remote

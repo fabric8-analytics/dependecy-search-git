@@ -1,0 +1,1 @@
+pa-ringbuffer sound audio portaudio ringbuffer lock free python module modules code portaudio documentation cffi function functionality functions blocking following declarations declaring currentmodule autodoc version html extension c buffer

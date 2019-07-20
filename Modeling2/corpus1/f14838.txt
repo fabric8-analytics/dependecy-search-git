@@ -1,0 +1,1 @@
+magiclog simple automatic logger configuration python loggers logging logs log logger-discovery-code-python executable format meta

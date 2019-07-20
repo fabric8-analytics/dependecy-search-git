@@ -1,0 +1,1 @@
+pykeepass entri entri attach attach group group kp databas string string password id id add add true save foo boolean pykeepass search search e contain fals code binari binari facebook-myusernam social delet delet filenam return return datetim key allow list

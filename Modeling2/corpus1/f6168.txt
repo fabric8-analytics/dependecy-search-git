@@ -1,0 +1,1 @@
+pyfrc python library designed make developing robotpy based code easier python wpilib robotpy frc installation install installed development-library robotics robot developing developed branch dustin fake real contributing-new-changes create contribute contributions based-ui

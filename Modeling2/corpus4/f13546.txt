@@ -1,0 +1,1 @@
+newrel config newrel licens licens new-relic-python-ag script ini performance-monitor code wsgi servic servic environ proprietari user file slow gener gener monitor

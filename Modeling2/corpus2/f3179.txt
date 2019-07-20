@@ -1,0 +1,1 @@
+pycolorterm allows getting-started python pythonic bash-usage

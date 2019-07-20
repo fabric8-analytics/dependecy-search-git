@@ -1,0 +1,1 @@
+rpc4django rpcdjango xmlrpc jsonrpc server django powered projects simply plug existing django project make methods available via xmlrpc jsonrpc project actively seeking maintainers rpcdjango imports importable import installation installed available information add rpcdjango installation installed imports importable import available os python

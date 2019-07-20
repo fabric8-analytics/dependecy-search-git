@@ -1,0 +1,1 @@
+smc python library pololu simple motor controllers controller serialization mit framework robotic robot copyright copy copies figure including included person persons documentation notice width-px-pololu distribute

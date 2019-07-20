@@ -1,0 +1,1 @@
+pysodium cryptography api nacl libsodium simple-wrapper handles requires

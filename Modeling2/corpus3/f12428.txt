@@ -1,0 +1,1 @@
+django-json-field default json-field new-active-maintainers override access access serialize serialize deserializing deserialized deserialization bsd custom-deserializer encoder json-field type-default type serialize serialize override use access access configuration-add optional-parameters

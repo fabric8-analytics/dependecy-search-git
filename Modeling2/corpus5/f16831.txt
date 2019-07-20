@@ -1,0 +1,1 @@
+django-dajax-ng dajax gen maintain js

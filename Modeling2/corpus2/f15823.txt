@@ -1,0 +1,1 @@
+classicmenu-indicator ubuntu unity indicator applet gnome classic menu gir application python wine-applications software packages package bugs bug appindicator general-public

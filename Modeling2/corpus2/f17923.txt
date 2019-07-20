@@ -1,0 +1,1 @@
+axelrod-fortran python wrapper library around tourexec fortran axelrod second tournament match usage originally original p v-tag add player-kr axl-p champion strategy strategies-originally players ranked ranking license

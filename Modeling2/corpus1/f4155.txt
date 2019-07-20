@@ -1,0 +1,1 @@
+environs environment variables parsing config configuration factor envvars environs environ parse environment-variable-parsing validation validate variables files file read type license licensed usage-supported-types-reading value values configuration libraries support useful use python-library app development develop defining define envvars goals recurse api

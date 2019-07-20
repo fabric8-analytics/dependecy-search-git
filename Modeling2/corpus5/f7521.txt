@@ -1,0 +1,1 @@
+django-common-help django scaffold model key-model app field set settings-installed-app add django-common field-typ test key templat exampl foreign installation-instal instal current-environ user creat crud automatically-decim type form

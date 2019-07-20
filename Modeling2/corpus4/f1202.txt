@@ -1,0 +1,1 @@
+moz-sql-pars let make sql parser provid familiar interfac non sql datastor sql object object object object data queri queri statement statement familiar run run new access usag example-not statu non provid

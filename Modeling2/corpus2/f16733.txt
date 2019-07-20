@@ -1,0 +1,1 @@
+django-mailgun emails email-backend api-key-value cool-message json-string values base messages-builtin contains-strings containing api data pass passed features-passing value events webhook-event variables example send sending

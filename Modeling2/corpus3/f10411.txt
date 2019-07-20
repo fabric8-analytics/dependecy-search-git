@@ -1,0 +1,1 @@
+pyramid-methodrewrite pyramid plugin rewrite http method base query string parameter web wsgi pyramid http method rewrite proxy work around method http pyramid-method block option installation install take main request request set setting compliant-proxies default default

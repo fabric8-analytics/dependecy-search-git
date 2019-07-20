@@ -1,0 +1,1 @@
+django-grunt django-grunt command views set sets file provides-settings-management-commands use useful view-mixin managing uses-class static-files production classes test tests testing add mixins configuration configures override overrides template-context web javascript directory platforms platform provided provide providing nix environment templates

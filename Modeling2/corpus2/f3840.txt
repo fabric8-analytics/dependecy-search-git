@@ -1,0 +1,1 @@
+django-tinymce django widget tinymce uses use licensed license-originally documentation-releases release install installed fixed fix jquery-setting support supported supporting document add added supports-python settings set static file files issues-license urls url issue improve improved

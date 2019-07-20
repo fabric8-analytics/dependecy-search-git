@@ -1,0 +1,1 @@
+django-sortedm2m-filter-horizontal-widget fix fix add django widget admin handle handle version static button button closing-added introduce filter j

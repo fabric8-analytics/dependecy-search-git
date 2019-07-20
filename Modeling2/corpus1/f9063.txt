@@ -1,0 +1,1 @@
+django-templatetag-handlebars easily embed handlebars js templates django templates templates template render rendered rendering handlebars block script usage makinacom add templates render rendered rendering template-tag handlebars script default django block compatibility rst

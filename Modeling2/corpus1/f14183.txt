@@ -1,0 +1,1 @@
+getconf simple python configuration utilities configuration environment setup getconf config configuration configurations configured sections section values value type-default namespace namespaces v python production-systems based typed getconf-alt variables-code-block types-concepts options variable use standard provides provide provided

@@ -1,0 +1,1 @@
+mdx-variabl markdown extens support display variabl templat variabl variabl licens license-requir mdxvariables-plugin-requir build-status-scal ci

@@ -1,0 +1,1 @@
+django-shorturl url model django code set settings-defin defin site make improv redirect ve templat block current kaplan use including-easy-support real differ model-rememb instance-altern class ids-default

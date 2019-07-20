@@ -1,0 +1,1 @@
+loggingtools alt log loggingtools code logging-travis-appveoyr-codecov gitter-readthedocs

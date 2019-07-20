@@ -1,0 +1,1 @@
+asyncpgsa wrapper around asyncpg use sqlalchemi sqlalchemi python asyncio postgr support-sa support sqlalchemy-backwards-incompat asyncpg librari orm chang chang chang version dot-not incompat object object exampl exampl instal doesnt remov remov

@@ -1,0 +1,1 @@
+idna-ssl patch ssl match hostnam unicod idna domain support asyncio aiohttp idna unicod ssl ssl unicod idna match hostnam python idna-ssl relat

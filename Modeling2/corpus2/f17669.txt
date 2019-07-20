@@ -1,0 +1,1 @@
+neo-boa python compiler neo virtual machine avm blockchain smartcontract development dapp neo-boa-python container containing installation install mit-license project-contains command docker tests-donations new virtual-machine directory directories contracts python-compiler contains neo-virtual following-command open compiling compiles compile installation-make stack-isolation

@@ -1,0 +1,1 @@
+xstatic-qunit qunit xstatic packaged package packaging easy-install

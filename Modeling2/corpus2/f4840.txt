@@ -1,0 +1,1 @@
+django-shortuuidfield uuid false overwritten-max charfield models enforcement

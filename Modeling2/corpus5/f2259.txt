@@ -1,0 +1,1 @@
+py-jack jack-implement audio port python numer input attach output-port client connect flag modul follows-pyjack-vers sourc realtim activ captur n-sr print licens buffer process thread server follow event second output manag slow synthesi dar f data playback py exampl time except return import use file alsa implement graph zero code function old w

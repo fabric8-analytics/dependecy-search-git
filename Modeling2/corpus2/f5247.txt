@@ -1,0 +1,1 @@
+yieldfrom yield from generators backport iterators generator iterate iterable iterator iteration passing subgenerator subgenerators level levels python pass-exceptions additional exception

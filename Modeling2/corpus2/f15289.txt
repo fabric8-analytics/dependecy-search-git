@@ -1,0 +1,1 @@
+pygccxml specialized xml reader reads output castxml gccxml provides simple framework navigate c declarations using python classes cpp declaration parser branches branch tests testing test code alt windows builds m-unittests

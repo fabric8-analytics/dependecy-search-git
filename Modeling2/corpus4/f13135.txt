@@ -1,0 +1,1 @@
+watdarepo watdarepo git hg mercuri svn bzr watdarepo-determines-typ sourceforge-usage-rel watdarepo-determines-typ added-coveralls-better-analysi repo repo

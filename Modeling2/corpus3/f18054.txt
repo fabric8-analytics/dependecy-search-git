@@ -1,0 +1,1 @@
+django-transactional-cleanup django deletes deletion delete django cleanup copyright file file copy copy espino license backend include include person person free notice hook instal installation distribute deletes instance-deletion

@@ -1,0 +1,1 @@
+pykinect kinect windows package-provides cameras camera

@@ -1,0 +1,1 @@
+glmnet-pi glm glmnet ridg lasso elasticnet model stanford tibshirani friedman j r python version gcc gaussian librari sep start core descent recommend jiang qian linux path regularization-path statist fang fortran matrices-additionally-cross vol

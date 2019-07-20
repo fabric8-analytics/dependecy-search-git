@@ -1,0 +1,1 @@
+wakatime command line interface used wakatime text editor plugins time tracker analytics metrics quantified self log logs test errors error file alt-tests use useful developer-console-view windows window ide ides version options python-versions-wakatime-command-line pre xcode tools make inline

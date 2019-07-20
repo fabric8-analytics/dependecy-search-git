@@ -1,0 +1,1 @@
+numdifftools computation derivative-compute derivatives variables img-tests numdifftools function functions functionality d x automatic-numerical-differentiation python luna m installation installed adaptive extrapolation error thrust like automatically numdiff method methods step official j-r coverage verheyleweghen true perktold derrico order test

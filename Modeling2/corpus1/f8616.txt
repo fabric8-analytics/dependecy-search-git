@@ -1,0 +1,1 @@
+callme amqp rpc callme server servers proxy client clients calling calls called use-uses permission permissions python-rpc license support supported licensed-designed supports-remote package exchange-design thread different bug exchanges multi-threading features easy amqp id chronological

@@ -1,0 +1,1 @@
+dbpi databas abstract layer for python orm code connect useful-sql-queri use connection-pool-supports-read execut default tabl api select zero key add like delet read instal bash insert updat

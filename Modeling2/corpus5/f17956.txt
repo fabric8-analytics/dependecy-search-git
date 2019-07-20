@@ -1,0 +1,1 @@
+spidev spi-devic fix devic buffer b python perform oper byte connect size block md changelog origin cpol pre-spimodul code kernel

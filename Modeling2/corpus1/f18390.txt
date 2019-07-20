@@ -1,0 +1,1 @@
+cinderdiags cinder cinderdiags command installed install installation cli example-commands conf-file software nodes

@@ -1,0 +1,1 @@
+cdeploy simpl python program manag cassandra schema migrat name version-migr multipl contain-cql configur contain line shell

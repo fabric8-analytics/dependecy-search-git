@@ -1,0 +1,1 @@
+django-pyfs django module extends pyfilesystem several methods make convenient web use specific web-use-specifically urls files pyfilesystems usable-url temporary static removed remove manual-removals

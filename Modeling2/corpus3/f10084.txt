@@ -1,0 +1,1 @@
+invenio-upgrader invenio upgrade alembic invenio license developer invenio remove remove release upgrader upgrade upgrade upgrade changes-version license config dependency dependency consider

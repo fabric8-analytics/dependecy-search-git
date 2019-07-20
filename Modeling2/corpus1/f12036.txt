@@ -1,0 +1,1 @@
+documenteer sphinx extensions configurations tooling lsst data management documentation projects lsst doc engineering sphinx documentation lsst documenteer documentation projects project installation install license-target identifiers alt uses use licensed

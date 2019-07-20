@@ -1,0 +1,1 @@
+django-laterpay laterpay django integration laterpay api client django version installation install release release release likely message commit

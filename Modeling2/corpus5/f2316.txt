@@ -1,0 +1,1 @@
+simple-loc common-location-packag geograph support type

@@ -1,0 +1,1 @@
+mariadb-dyncol mariadb column data python nested nesting dynamic-columns encoded supported support sql limitation limit supports-strings example-code-block types type-mapping clients string map examples fix fixed encoding use release function functions values versions version whilst-implementing implemented

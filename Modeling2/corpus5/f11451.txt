@@ -1,0 +1,1 @@
+django-commando command management-command manag option manage-pi file optional-overrid overrid writing-overrid write ll method simpl directori packag like defin app ve length simpli project use conveni projects-south sequenc templat provide-conveni underli orient provid api

@@ -1,0 +1,1 @@
+pyqt5-sip sip c gener bind licens bit module-gener python contain file librari implement modul header exist

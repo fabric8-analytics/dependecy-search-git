@@ -1,0 +1,1 @@
+azure-mgmt-hanaonazur featur microsoft-azur oper add enum management-cli enums-bugfix resource-manag model model paramet paramet new argument argument updat packag complet complet code releas breaking-chang http-session chang chang

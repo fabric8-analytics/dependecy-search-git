@@ -1,0 +1,1 @@
+setuptools-git distutil setuptool git directori packag python instal plugin setup-pi code file exclude-gitignor number data tar add zooko-o darcs-monoton chang bdist

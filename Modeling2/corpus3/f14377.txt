@@ -1,0 +1,1 @@
+inquirer color terminal inquirer alt examples-text example answer license license path path question question validating-answers base message travis-coveralls-downloads-pip checkbox editor validate validation python list user choice choice variable status-version version platform

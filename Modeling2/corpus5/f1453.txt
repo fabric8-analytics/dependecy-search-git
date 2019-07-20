@@ -1,0 +1,1 @@
+django-cursor-pagin cursor base pagin django order page use record offset large-offset determin field larg instead totally-determin rest-framework revers

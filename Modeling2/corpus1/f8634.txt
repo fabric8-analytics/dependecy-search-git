@@ -1,0 +1,1 @@
+sodapy soda socrata opendata api datasets file dataset-identifier-content downloaded-files json data-api creating create created creates metadata download downloads contents update keyword keywords requirements required token copy row requests requested client retrieve delete-rows use uses socrata run md examples example field fields

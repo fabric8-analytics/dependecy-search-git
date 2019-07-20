@@ -1,0 +1,1 @@
+django-coverage-plugin alt version version template-coverage-pi support supported-python templat product d use use test test template-coverage-pi templates-supported-python support d product use use

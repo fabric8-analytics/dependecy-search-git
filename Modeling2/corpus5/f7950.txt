@@ -1,0 +1,1 @@
+basitapi rest api django method bir bu baz-temel yant ile-http iin-bal kullanabilirsiniz view gre py format-hem ve kurulum restful-api kodu zerinden parametr

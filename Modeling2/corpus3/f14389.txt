@@ -1,0 +1,1 @@
+django-localized-names django app name localization ln localization localizes locale format format following-format model django-localized-names setting set set new english like properly make make app

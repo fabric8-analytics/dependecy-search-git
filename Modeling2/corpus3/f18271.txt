@@ -1,0 +1,1 @@
+mapbox-vector-tile python package encode decode mapbox vector tile coordinate tile protobuf python encoder encode values-coordinate-transformations library encoding-encode-method geometry geometry us use transformation right key pixel pixel valid geos epsg mercator custom minx-miny-maxx left

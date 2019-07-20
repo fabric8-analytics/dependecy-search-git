@@ -1,0 +1,1 @@
+timezonefinderl timezone coordinates latitude longitude location pytzwhere tzwhere timezonefinderl timezone-polygons data e-g polygon timezone-polygons timezones data functions functionality version versions file new-function added bin-files readme speed useful usefulness use small package timezonefinder shortcuts shortcut

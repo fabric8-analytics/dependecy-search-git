@@ -1,0 +1,1 @@
+pyswip-alt pyswip python-swi-prolog version version pythonic query query news-importing-automatically-initializes

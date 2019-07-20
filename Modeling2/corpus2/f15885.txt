@@ -1,0 +1,1 @@
+django-freeze django urls url follow following folder run static site generates generate generated values files add root license zip-file

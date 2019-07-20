@@ -1,0 +1,1 @@
+fhirclient smart fhir healthcare medical informatics clinical informatics biomedical informatics fhir-client data versioning version server server model note note build building build account file pypi page release requirement doxygen patient search resource resource file-flask-app html-page class class package like make team python pythonic documentation initialize

@@ -1,0 +1,1 @@
+dcase-util collection utility detection classification acoustic scene event dcase audio sound challenge-baseline-systems dcase-utilities implement event datasets code license instruction installation-instructions dcase status usage standardize install datasets

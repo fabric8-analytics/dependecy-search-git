@@ -1,0 +1,1 @@
+python-shogi shogi csa kif code support board like librari detect perform attack usi protocol nosetest execut instal tox rel relat

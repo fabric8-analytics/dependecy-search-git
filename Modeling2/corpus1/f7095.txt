@@ -1,0 +1,1 @@
+pyregion ds region parser python python astropy astronomy regions pyregion convert-regions based matplotlib conversion region package license python-parser

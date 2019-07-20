@@ -1,0 +1,1 @@
+cerberus lightweight extensible data validation library python schema dictionaries documents normalization versioning versions release cerberus-latest-version new-minor-releases target funding funded license maintained alt test tested testing tests make makes making pypy pypi black contributed contributing contribution code security

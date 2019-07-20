@@ -1,0 +1,1 @@
+django-pgviews fork django postgres focuses maintaining improving support sql views python pg view sql-views refreshed refresh model models example-materialized examples-note define defined updating update updated supports concurrently concurrent field fields db pgviews pgview provides dependencies depend dependency dependent synced syncing sync

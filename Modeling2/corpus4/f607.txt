@@ -1,0 +1,1 @@
+python-glancecli tags-alt api-project releas manag managed-follow follow follow openstack line python version take

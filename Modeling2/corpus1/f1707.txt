@@ -1,0 +1,1 @@
+pyeebls astronomy module kovacs-eebls transit frequencies frequency array arrays-parameters-ndarray int parameter period-float et python-bls level bit foreman setup-py installation install kovacs-eebls numpy-installed python-bls transit module venv frequencies frequency float pyeebls int arrays-parameters-ndarray parameter array level et workarr dnf gcc brew use foreman

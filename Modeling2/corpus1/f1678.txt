@@ -1,0 +1,1 @@
+guidata python modules module-pyqt dataset datasets application generation generating generate tools helpers plotting based hdf deployment integers ndarrays copyright dataset datasets python tools gui-generation generate-guis generating pyqt arrays array licensed license helpers based ndarrays integers-floats

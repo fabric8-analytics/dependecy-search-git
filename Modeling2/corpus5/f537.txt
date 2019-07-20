@@ -1,0 +1,1 @@
+piecash gnucash python bind interfac sqlalchemi format gnucash-fil new xml sql-sqlite price book mode file backend script object test

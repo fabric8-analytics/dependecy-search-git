@@ -1,0 +1,1 @@
+taggit-select taggit select tag js django support default taggit-selectize-auto features-support configur defaults-minimum instal use-jquery-instal featur add configurable-delimit x custom multipl plugin backward user delimit includ model use auto

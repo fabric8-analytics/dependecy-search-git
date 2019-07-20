@@ -1,0 +1,1 @@
+django-bidi-utils django bidi utils template template django-bidi install instal context-processors processor template templates-adding django-bidi remove context-processors add install instal add processor

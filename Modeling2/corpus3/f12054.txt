@@ -1,0 +1,1 @@
+djangorestframework-bulk django framework-bulk django update url url delete deletes view-mixins generic-views model mixin resource resource drf fix directly-maps class class credit code major requirement require require field field history map

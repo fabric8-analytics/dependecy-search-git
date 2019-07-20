@@ -1,0 +1,1 @@
+flask-marshmallow flask marshmallow beautiful apis python flask marshmallow rest api python python sqlalchemy flask marshmallow python alt code flask-marshmallow-pypi doc black integration integrates additional apis

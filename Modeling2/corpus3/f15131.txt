@@ -1,0 +1,1 @@
+django-ics-generator django ical ic generator django-ics-generator simple view generate file contribute

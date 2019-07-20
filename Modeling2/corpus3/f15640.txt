@@ -1,0 +1,1 @@
+sphinxcontrib-dotnetdomain sphinx domain net language documentation maxdepth toctree-caption net

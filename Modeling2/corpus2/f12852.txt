@@ -1,0 +1,1 @@
+pysolr python solr client search code updating update installation install basic index usage looks support status solrcloud results slash slashes set method-setting methods

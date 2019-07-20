@@ -1,0 +1,1 @@
+kwargs-obj attribut set code modified-setattr python kwargs-obj-class map examples-map

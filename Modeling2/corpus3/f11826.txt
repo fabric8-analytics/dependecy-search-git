@@ -1,0 +1,1 @@
+django-enumfield custom django field use enumeration name constant django code enums enum django-enumfield version transition transition python

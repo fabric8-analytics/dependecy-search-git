@@ -1,0 +1,1 @@
+django-atomic-celery transaction django-atomic-celery use uses signals

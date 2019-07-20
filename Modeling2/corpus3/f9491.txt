@@ -1,0 +1,1 @@
+django-icons-tango icon install installation django-icons installed-apps url app origin-license icojoy staticfiles license project project time

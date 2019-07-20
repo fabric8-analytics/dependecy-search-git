@@ -1,0 +1,1 @@
+scikit-sparse sparse matrix tool extend scipy sparse incompatible license license license license sparse code include cholmod library library gpl-ed actively sparse-matrix

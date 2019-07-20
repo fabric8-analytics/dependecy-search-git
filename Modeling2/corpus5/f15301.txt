@@ -1,0 +1,1 @@
+django-summernot simpli integr summernot editor django project wysiwyg set support-admin file exampl databas addit attribut setup option environment-add

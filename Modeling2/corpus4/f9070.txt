@@ -1,0 +1,1 @@
+zope-i18nmessageid zope in messag factori test test remov remov remov packag zope add automated-test messag messag make make make sourc python-program chang changes-fix string string translat translat support support doctest version document releas autom pypi pypi list alia program code deprec deprec extens extens inmessageid messageid depend depend unicod

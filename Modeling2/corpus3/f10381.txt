@@ -1,0 +1,1 @@
+pytest-lazy-fixture appveyor-pypi-use lazy-fixture fixture

@@ -1,0 +1,1 @@
+flask-fanstat resourc static-resourc app js-jqueri template-g need provid html jinja blueprint

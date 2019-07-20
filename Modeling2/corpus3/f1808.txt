@@ -1,0 +1,1 @@
+zodburi zodb zodbconn dependency python-add constructor-kw installs pin automate test documentation

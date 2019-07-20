@@ -1,0 +1,1 @@
+alchemyjsonschema sqlalchemi jsonschema schema gener user user-cod group code type json class import-sqlalchemi structuralwalk model pk-descript foreignkeywalk output noforeignkeywalk walker properti swagger

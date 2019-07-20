@@ -1,0 +1,1 @@
+nose-descriptionfix simple-nose-plugin

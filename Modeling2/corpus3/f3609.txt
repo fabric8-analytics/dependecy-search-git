@@ -1,0 +1,1 @@
+cmd3 cmd commandshell plugins command command cmd plugins plugin-directories directory

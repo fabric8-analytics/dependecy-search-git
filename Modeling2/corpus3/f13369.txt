@@ -1,0 +1,1 @@
+pycryptodome cipher cipher-mode simplify include random c contained-python library algorithm key-containers cleaner pycryptodomex support support mode level-cryptographic major-clean dsa share

@@ -1,0 +1,1 @@
+directory-const constant valu share among directori project live url set pypi test

@@ -1,0 +1,1 @@
+pyexcel-xl wrapper librari read manipul write data xl use xlrd xlwt python test pip-cod coding-document instal develop huge rst licens format requir known file instanc ci gener new clone git unix-system xlsx r updat ad tested-pass support supported-instal data-instead io pass passing-stream stream pattern flag limit setup import start

@@ -1,0 +1,1 @@
+pyvirtualdisplay xvfb xephyr x wrapper screenshot installed installation install xvnc pip python example import environment xvfb-xephyr documentation include-examples image img versions version-supported

@@ -1,0 +1,1 @@
+pyimpute gis geospatial geographic raster vector zonal statistics machinelearning prediction predict spatial-data rasters predictions-based load variables new-functionality learn learning installation installed install observations level python classifiers-loads provides provide metrics functions change saves matthew target basic-example examples classifier

@@ -1,0 +1,1 @@
+mailinglogger enhanced emailing handlers python logging package logging email logging takes docs package-contains subject logging log logged features filtering

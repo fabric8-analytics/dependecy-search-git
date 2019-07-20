@@ -1,0 +1,1 @@
+nwdiag diagram gener add-opt interface-fix-bug network support-blockdiag node node drop-support nwdiag text rack featur featur color option option rackdiag attribut attribut generate-network-diagram allow-multipl alt cf-rack default syntax chang licens simpl gener gener height direct directli like easi version packetdiag

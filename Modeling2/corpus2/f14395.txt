@@ -1,0 +1,1 @@
+mpfshell micropython shell file transfer development files shell-based-file command upload uploading e use directory directories note following support supports supported offers-commands repl-supporting connections connect wipy tab need needs names named remote local python esp sw environment environments enter base devices device general caching pyserial

@@ -1,0 +1,1 @@
+pytest-cython pytest py test cython doctest softwar licens pytest-cython specif descript

@@ -1,0 +1,1 @@
+flask-secure-headers flask security header policy pin default-policy-content-security csp value value includesubdomains-x secure-headers ex header-wrapper key-pins-hpkp prevent report update update option sha protection key hsts type max route note noopen contributor security-headers

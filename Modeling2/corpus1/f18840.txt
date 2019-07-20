@@ -1,0 +1,1 @@
+django-fabric generic fabric utility class django projects django-fabric projects project basic-stuff projects project quickstart-django basic setup

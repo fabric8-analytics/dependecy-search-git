@@ -1,0 +1,1 @@
+django-tinymce4-widget django wysiwyg widget tinymce django-tinymce-widget file file form form install instal python add editor

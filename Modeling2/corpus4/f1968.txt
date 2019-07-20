@@ -1,0 +1,1 @@
+sphinxcontrib-paverutil sphinx document default default file cog cog task task line py-fil includ includ includ includ html-output option option python command-lin interpret call fals templat templat releas builder use use virtualenvwrapp sphinx supports-cal extern doctre multiple-configur configur command modul support

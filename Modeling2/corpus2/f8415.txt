@@ -1,0 +1,1 @@
+blockdiagcontrib-square diagram generator

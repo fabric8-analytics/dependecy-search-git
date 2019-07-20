@@ -1,0 +1,1 @@
+virtualenv-clone paths path virtualenv link environment python copied copies packages present script scripts

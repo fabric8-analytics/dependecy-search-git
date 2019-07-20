@@ -1,0 +1,1 @@
+pythonqwt copyrights python base-copyright licensed licensing code package api-license examples modules-based plotting plot development developments pyqt qwt-c pythonqwt following classes class python qt-plotting package qwt-c new-modules readme-documentation

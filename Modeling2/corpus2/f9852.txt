@@ -1,0 +1,1 @@
+bsub cluster lsf jobs job commands command specify specified shell strand example like

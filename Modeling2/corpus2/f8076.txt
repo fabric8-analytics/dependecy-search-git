@@ -1,0 +1,1 @@
+pyramid-multiauth stacked authentication policies pyramid web pylons principals principal authentication-policy authenticates simply auth include deployment-settings set finder ip authenticated effective-principals provide callback finder-function update g event events compatibility compatability

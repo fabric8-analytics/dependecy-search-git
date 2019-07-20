@@ -1,0 +1,1 @@
+rcfile file exampl read-environment-vari

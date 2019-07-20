@@ -1,0 +1,1 @@
+django-sponsors django sponsors sponsor logos logo tests test setting settings-file manage change static versions management-command changes-license css platinum thumbnail urls url template models-tests custom customized version changes type model optional default basic styles

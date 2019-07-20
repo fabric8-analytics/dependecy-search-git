@@ -1,0 +1,1 @@
+flake8-builtins pep flake python following coding-utf-flake code-like test warnings gforcada-handle fix fixes coding code flake-builtins error-codes builtin variables variable update test tests tested handling int useful use python requirements import adds add following trace-example post release consider break breaking tmp

@@ -1,0 +1,1 @@
+thumbor open sourc photo thumbnail servic globo com imag face detect featur imagemagick pil opencv http-x imaging-servic

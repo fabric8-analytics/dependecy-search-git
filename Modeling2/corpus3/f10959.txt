@@ -1,0 +1,1 @@
+django-read-only-admin admin django source-code delete add author author action permission permission actions-list project licensing license python

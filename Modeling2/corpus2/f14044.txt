@@ -1,0 +1,1 @@
+python-sdcclient devel sdc-python-client api keystone developed development environment

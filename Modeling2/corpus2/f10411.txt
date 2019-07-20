@@ -1,0 +1,1 @@
+pyramid-methodrewrite pyramid plugin rewrites http method based query string parameter web wsgi rewrite proxy work around methods pyramid-method block options installation install takes main request requested set settings compliant-proxies default defaults

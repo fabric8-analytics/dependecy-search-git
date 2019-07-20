@@ -1,0 +1,1 @@
+flake8-import-order flake plugin checks import order various python style guides pylama imports imported ordering ordered styles flake-import-order-build code packages package grouped group groups groupings grouping list listed lists stdlib module modules application names extending-class extended relative related party e limitations limited pip

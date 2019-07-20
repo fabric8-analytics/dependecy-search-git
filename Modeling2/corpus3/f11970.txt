@@ -1,0 +1,1 @@
+django-debugtools toolbox small utility assist django development django module-offers preferably chrome-web-inspector firebug console view admin-user environment

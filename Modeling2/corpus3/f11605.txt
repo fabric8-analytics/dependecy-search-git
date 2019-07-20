@@ -1,0 +1,1 @@
+django-font-awesome django staticfiles awesome tag django

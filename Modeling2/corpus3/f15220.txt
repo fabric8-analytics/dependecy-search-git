@@ -1,0 +1,1 @@
+django-registration-defaults template template copy copy copying-copyright registration-defaults include include bug documentation person person notice default publish-distribute simply django user

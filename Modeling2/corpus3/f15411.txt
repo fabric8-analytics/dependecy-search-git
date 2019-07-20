@@ -1,0 +1,1 @@
+django-polls simple reusable poll application django poll poll development latest-stable

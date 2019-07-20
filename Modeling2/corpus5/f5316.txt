@@ -1,0 +1,1 @@
+pgdbconn object orient layer psycopg connect interact postgr databas python licens libr inform higher requir

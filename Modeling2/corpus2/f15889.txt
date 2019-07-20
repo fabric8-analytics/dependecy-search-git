@@ -1,0 +1,1 @@
+django-filemanager simple standalone file manager browser django projects settings templates base-template features feature upload-based uploader named define defined upload stable development

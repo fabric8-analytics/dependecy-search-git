@@ -1,0 +1,1 @@
+flask-webpack assets asset compiled webpack tagged tags tag javascript-compile file optionally optional work works templates css helper options-default template-languages working-example module pre production image development-mode version versions relative related need needed-installation-quick language free nick

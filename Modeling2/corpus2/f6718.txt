@@ -1,0 +1,1 @@
+translate translation command line translator add make-translations translated-mymemory refactor providers provider command-line-installation-code install remove removing python-pypi commands documentation bash lang changes change file use docs cli apply commit simple

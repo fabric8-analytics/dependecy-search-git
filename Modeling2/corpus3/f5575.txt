@@ -1,0 +1,1 @@
+django-jquery-lightbox django jquery lightbox staticfiles overlay image com license license attribution http proto browser javascript artemy-tregubenko fuchs-mir heleen

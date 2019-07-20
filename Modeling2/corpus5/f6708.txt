@@ -1,0 +1,1 @@
+django-adminplu admin view auto url instal custom possibl ll plate new support

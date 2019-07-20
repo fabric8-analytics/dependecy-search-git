@@ -1,0 +1,1 @@
+django-rest-assured test tests tested-installation alt class django-rest license extend extends extending sh restful code required requires based-api factory install assertions

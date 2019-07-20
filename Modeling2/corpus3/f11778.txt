@@ -1,0 +1,1 @@
+django-pybrowscap browser browscap detection user agent django django-pybrowscap middleware browscap python file tests-tested test request request py contrib http sitemaps-web default default r-sitemap agent reload reloads management manage download-latest download medium gorej automatic automatically

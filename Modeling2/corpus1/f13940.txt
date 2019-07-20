@@ -1,0 +1,1 @@
+django-mozilla-product-details data django json use updated updating update class classes uses-set file files database management manage library versions version fixes-thanks included pypi cache cached setting-include app-allowing fix settings product products allow configuration configure configured getting-started defaults default

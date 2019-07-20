@@ -1,0 +1,1 @@
+uwsgi-tasks asynchronous tasks uwsgi task execute execution executed spooler spoolers parameters parameter use following works working work decorated decorators supported supports asynchronously mules mule python timers django-project timer-like object examples example timeout makes make codes code cases case introspection e-g functional function functions value values related

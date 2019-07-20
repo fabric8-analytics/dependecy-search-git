@@ -1,0 +1,1 @@
+sparqlwrapper wrapper remote sparql endpoint sparql endpoint python pypi wrapper sparql sparql query rdf python sparql rdf rdflib select python endpoint source query query format usage endpoints-documentation service

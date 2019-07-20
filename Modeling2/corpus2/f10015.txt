@@ -1,0 +1,1 @@
+prettytable postgresql-shell allows tables

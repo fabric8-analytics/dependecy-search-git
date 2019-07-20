@@ -1,0 +1,1 @@
+django-static-precompiler sass alt code compile django-static script block scss template templates add compile compilation compilers compiler-fix-url fixes code bugfix bugfixes django-static-precompiler files-alt template templates file deprecate support sass-scss python deprecated-settings script enable setting set urls-containing prevent compatibility successfully-warning

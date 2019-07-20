@@ -1,0 +1,1 @@
+baiji-serialization read write common file formats amazon local files supports support license licensed serialization issue issues github csv hardened

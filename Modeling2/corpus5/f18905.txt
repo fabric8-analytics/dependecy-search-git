@@ -1,0 +1,1 @@
+exifread exif imag metadata photo tag process inform python ifd file line specif publish easili archiv dictionari pass ignor option

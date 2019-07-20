@@ -1,0 +1,1 @@
+awscli-cwlogs log log command command file file awscli-cwlogs installation install instal instal installer aws config pull pull pull push push push version latest-version plugin support properly

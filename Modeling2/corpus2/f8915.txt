@@ -1,0 +1,1 @@
+django-scribbler django scribbler application managing snippets text website projects project template editor editing contributing snippet-blocks instant-feedback image-alt-build

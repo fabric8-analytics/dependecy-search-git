@@ -1,0 +1,1 @@
+django-databrows django test translat following-lin requir set simpli templat model run line admin-dynam

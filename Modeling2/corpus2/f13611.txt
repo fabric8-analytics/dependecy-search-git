@@ -1,0 +1,1 @@
+pyinsane sane scanner python options examples example option-values image-scanners value wia-windows images flatbed visual-c winddk scanning scan scans adf platform-specific list installation platforms gnu x unix-pipes constraint constraints possible program test-usage tested tests programs-uninitialized-memory-bytes driver drivers implementation python-implementation

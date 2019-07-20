@@ -1,0 +1,1 @@
+compare python matcher to be equal assert test equality specification bdd tdd comparing expectation expected matchers pythonic unittest-python expect-construct release self-assert constructive added api documentation-project asserts assertions assertion cutting way utility simple testing-specification custom specifications core base easy

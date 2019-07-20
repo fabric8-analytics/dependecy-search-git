@@ -1,0 +1,1 @@
+django-j django javascript test url revers helper added-allow fix support fix-thank handl jqueri upgrad templat serial provides-tool template-tag tag serialization-custom context python custom initi translat namespac version compat improv blacklist document csrf sergejczyk api star declar make

@@ -1,0 +1,1 @@
+vobject full featur python packag pars creat icalendar vcard file ic vc hcalendar attribut requir use run like chang function sourc del server function-similarli list children timezones-pyicu similar compon class object timezon vevent method data later

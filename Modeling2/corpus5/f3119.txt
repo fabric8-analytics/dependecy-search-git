@@ -1,0 +1,1 @@
+kagiso-wagtail-slack notifi slack via web hook page publish wagtail-slack

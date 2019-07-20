@@ -1,0 +1,1 @@
+vcf-annotate-polyphen tool annot human vcf file polyphen effect measur vcf annot polyphen vcf-annotate-polyphen annot annot command-lin variant variant exampl

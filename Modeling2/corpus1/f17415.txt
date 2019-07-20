@@ -1,0 +1,1 @@
+langdetect language detection library languages version versions language-detection text zh codes code wiki results xml abstract-database-files usage detect file databases

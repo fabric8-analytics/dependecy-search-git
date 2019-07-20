@@ -1,0 +1,1 @@
+quokka-flask-admin views view flask-admin fixes fixed update updated new documentation documented bug-fix support supports added file files editable edit control examples columns column simple generated generation models model improve improved feature applications application local locally localize page feel action actions postgres need list csrf-validation jquery

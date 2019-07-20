@@ -1,0 +1,1 @@
+sfs audio sfs wfs ambisonics impulses version versions octave matlab settings like impulse-response-sets fields source-loudspeaker sound-field-synthesis-toolbox documentation convention time details detailed bug features feature license backward file run binaural responses field-synthesis quick numercial tracker-license source

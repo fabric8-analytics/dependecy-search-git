@@ -1,0 +1,1 @@
+bob-sp set-fileencoding-utf-thu-aug signal

@@ -1,0 +1,1 @@
+pycurl curl libcurl urllib wget download file transfer http www support supports license licensed licenses python library libcurl-including list installation windows requests multi files operations-permitting loop-e

@@ -1,0 +1,1 @@
+typesafety type safety checker python nose type typesafe static code typesafety function function type test test python annotate annotation documentation tests-enabling annotations-checks check check checked x int enable enable sphinx manual manually parameter add specify specify decorator decorate safety simply type level

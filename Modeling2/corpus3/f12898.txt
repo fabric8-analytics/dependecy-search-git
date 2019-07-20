@@ -1,0 +1,1 @@
+h5py hpy-package-provides hdf support level

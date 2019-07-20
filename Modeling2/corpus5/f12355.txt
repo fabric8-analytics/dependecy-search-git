@@ -1,0 +1,1 @@
+pyfluidsynth fluidsynth audio python note-us note version exampl gener code return work sound array object folder function sequenc sequence-actu time romberg-licens noteoff patch paramet synthes contains-python patches-set

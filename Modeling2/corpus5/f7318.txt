@@ -1,0 +1,1 @@
+multiprocessing-on-dil friendli fork python standard librari multiprocess packag use dill instead pickl parallel com version serial authors-robert-smallshir prevent friendly-fork addit

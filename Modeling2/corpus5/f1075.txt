@@ -1,0 +1,1 @@
+django-static-jqueri django jqueri staticfil django-jqueri document

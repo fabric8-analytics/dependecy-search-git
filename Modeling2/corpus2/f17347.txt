@@ -1,0 +1,1 @@
+clyent color errors error arguments argument command-line substitution version-print output printed contain contains-unescaped

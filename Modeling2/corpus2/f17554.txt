@@ -1,0 +1,1 @@
+django-teryt django teryt polish identifiers parse install parses-xml flag-aktywny division register added files filed parses common fixed-pep manage managers

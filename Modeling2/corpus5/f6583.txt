@@ -1,0 +1,1 @@
+django-templated-email django modul easili send templat email use transact mail provid mailchimp silverpop etc supports-templ django-templated-email-gitterbadg default code-block-python imag backend add method support set attribut follow sending-class file recipi kwargs-opt directori develop option finer form self ad esp-ad vinta esp party-appl applic data exampl inlineimag

@@ -1,0 +1,1 @@
+pythonqwt copyright python base-copyright licens code packag api-licens exampl modules-bas plot develop pyqt qwt-c follow class qt-plot new-modul readme-document

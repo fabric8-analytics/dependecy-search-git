@@ -1,0 +1,1 @@
+dcase-util collect util detect classif acoust scene event dcase audio sound challenge-baseline-system dcase-util implement event dataset code licens instruct installation-instruct dcase statu usag standard instal dataset

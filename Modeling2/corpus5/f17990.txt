@@ -1,0 +1,1 @@
+ldappool default connector-pool connector ldap connect max uri separ use configur timeout transpar

@@ -1,0 +1,1 @@
+setuptools-git distutils setuptools git setuptools git directory directory package package packaging python instal installation install plugin plugins setup-py code file file exclude-gitignore number data tar add zooko-o darcs-monotone change change bdist

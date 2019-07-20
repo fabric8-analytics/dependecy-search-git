@@ -1,0 +1,1 @@
+pyramid-zcml web wsgi pylon pyramid test test test pyramid-zcml directive directive dependency dependency depend depend configuration configurator configure drop add-support fix fix-compatibility compat python-drop action scaffold-compatible use us scaffold scaffold based-actions behaviour misconfigurations alias release release collect collect template dev deprecate deprecation

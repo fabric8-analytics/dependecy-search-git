@@ -1,0 +1,1 @@
+aioes add elasticsearch python test compatible compatibility allow aiohttp-tests-make thread enable enable accept initial us use support license

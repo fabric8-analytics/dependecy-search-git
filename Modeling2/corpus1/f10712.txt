@@ -1,0 +1,1 @@
+pycscope pycscope cscope indexing fix fixed-handling change release released changes-n assignment symbols-support pajp python pycscope-copyright issues issue symbol cscope comma commas following follows handle useful marking-add tree-uses installation-use software debugging github c line properly proper syntax portante install installed mark coverage remove removing

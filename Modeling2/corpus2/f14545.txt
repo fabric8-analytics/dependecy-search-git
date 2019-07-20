@@ -1,0 +1,1 @@
+django-s3direct py django cors widget scmd including instance ocean form-forms access-setup iam-policy credentials upload uploads

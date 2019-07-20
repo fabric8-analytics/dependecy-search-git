@@ -1,0 +1,1 @@
+latlon latitud longitud decim degre minut distanc objects-str formatted-str coordin project method object format geographic-coordinates-latitud altern head charact sphere function follow usag geograph g

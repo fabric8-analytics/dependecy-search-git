@@ -1,0 +1,1 @@
+ds18b20 sensor therm-sensor note pi kernel-modul precis modul ds-dsb python packag load load load config connect connect project set set tool support support follow furrer-http read read usag

@@ -1,0 +1,1 @@
+vdm version domain model python librari revis databas sqlobject sqlalchemi orm git-repositori main-packag object versioned-domain-model cases-sa code support licens chang changed-simultan updat simultan proxi locking-alic case user approv conflict commit undelet

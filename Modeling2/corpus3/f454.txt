@@ -1,0 +1,1 @@
+decoratortools decorator decorate decorator decorate decorated-function metaclass function creating-metaclasses change change class class add methods-decoratortools version version support-python support interface value pyprotocols method generated-code fix create struct

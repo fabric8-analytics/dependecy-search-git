@@ -1,0 +1,1 @@
+netjsonconfig network configuration management library based netjson deviceconfiguration openwrt lede netjson openwisp uci openvpn networking wireless openwrt openwisp netjson networking configuration configurations file files templates deviceconfiguration backends-based template-inheritance-reduce variables

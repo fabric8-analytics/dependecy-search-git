@@ -1,0 +1,1 @@
+func-timeout function timeout call terminate runtime max seconds after execution functions func-timeout-python stoppablethread arguments argument thread threading threads stopping stop stopped functiontimedout-exception-raised example raise raises cleanup cleanups method handlers running runs run code linux-unix-cygwin-mac like

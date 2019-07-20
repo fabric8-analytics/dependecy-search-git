@@ -1,0 +1,1 @@
+django-dynamicrespons django dynamicrespons lightweight framework easili provid rest api web app built django django code status-cod class api response-class form form provid provid provid return return use use returned-valu http respons default-valu confirm confirm custom custom includ includ auth chang addit applic applic incom json request

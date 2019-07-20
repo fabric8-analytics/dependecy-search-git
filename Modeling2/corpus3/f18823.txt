@@ -1,0 +1,1 @@
+kernel-tuner auto tune gpu compute pycuda cuda pyopencl opencl kernel kernel-tuner code code tune python parameter opencl search tune-cuda support support support algorithm algorithm defined-parameters example tuned-gpu-programs c default bfgs defines nugteren program compile compiler compile compiles script script output-verification badge process optimize optimization align

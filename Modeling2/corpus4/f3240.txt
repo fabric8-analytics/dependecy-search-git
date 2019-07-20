@@ -1,0 +1,1 @@
+autopep8 autom issu python-cod pypi autopep-alt-pypi-vers use use use pycodestyl file file line line fix fix fix fix comment comment comment aggress aggress aggress run run run version enabl enabl option option syntax releas configur requir requir declar testing-test

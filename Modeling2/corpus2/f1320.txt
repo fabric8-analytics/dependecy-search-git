@@ -1,0 +1,1 @@
+django-taggit-helpers tags tagging taggit django python tagged add helper-classes note app existing code helpers helper sh admin overcounting shell compatible compatibility

@@ -1,0 +1,1 @@
+awscli-cwlogs logs log commands command file files awscli-cwlogs installation install installing installed installer aws config pull pulls pulling push pushes pushing versions latest-version plugin supported properly

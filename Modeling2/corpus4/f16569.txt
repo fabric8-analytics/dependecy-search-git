@@ -1,0 +1,1 @@
+delegator-pi basic function runs-command deleg run-function support support pipe shall chain

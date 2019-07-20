@@ -1,0 +1,1 @@
+django-bulk-admin django-bulk-admin like-requires import field required-fields image set set customize custom

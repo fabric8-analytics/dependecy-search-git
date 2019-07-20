@@ -1,0 +1,1 @@
+django-static-sitemap set default sitemap-xml set-differ gzip python index file use run detail command-celeri url site new-compat templat directori app fals www

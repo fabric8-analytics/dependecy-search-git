@@ -1,0 +1,1 @@
+django-cas-cli django ca ca add settings-set set proxi proxi middlewar requir requir url url proxy-ticket callback callback current user user submit-pul creat creat ticket featur additional-featur

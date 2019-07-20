@@ -1,0 +1,1 @@
+mdfreader data file channel channel module-imports-mdf-fil need requir requir requir option option argument mdfreader list list compress compress x scipi command interface-requires-pyqt modul excel convers mdfconvert eta exist exist panda method method xlwt import import convert convert compil compil netcdf read read io hpi graphic

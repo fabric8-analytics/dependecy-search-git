@@ -1,0 +1,1 @@
+django-session-secur littl javascript middlewar work togeth ensur user activ past x minut tab open otherwis display warn leav coupl minut show kind activ like move mous otherwis logout user django session user user django sessionsecur activ secur tab session app javascript minut sensit inact inact list-ask contrib

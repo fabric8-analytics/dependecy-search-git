@@ -1,0 +1,1 @@
+django-dockit provide document base orm suite model django convention django backend django-dockit document document backendable-support support backends-help index index include setting set schema

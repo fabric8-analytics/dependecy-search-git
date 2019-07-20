@@ -1,0 +1,1 @@
+django-debug-toolbar configurable set panels display various debug information current request response alt status configurable configuration django-debug image-width rob

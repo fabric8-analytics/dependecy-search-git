@@ -1,0 +1,1 @@
+python-mnist ve-tri gz-true-library-tri python-mnist mndata load load load digit data byclass python-mnist load load load emnist-data files-imag mndata digit use use check-preview tri tri

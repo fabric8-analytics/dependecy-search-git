@@ -1,0 +1,1 @@
+sqlitedict sqlite persist dict multithread python mydict pythonic-dict code print key values-key valu object-print object support autocommit request serial need thread file source-softwar val pickl back

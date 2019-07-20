@@ -1,0 +1,1 @@
+pyobjc-framework-coredata pyobjc coredata include framework framework management-including general provides-generalized

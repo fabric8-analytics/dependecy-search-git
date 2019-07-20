@@ -1,0 +1,1 @@
+vext setuptools development install-vext package package work work work module import import block block block files-imports file module-uses allow-importing instal instal installation installs venv fairly pymotw disable disable allow allow standard-requirements development-community use useful virtualenv help-diagnose-problems-pths need need enable enables like c package support

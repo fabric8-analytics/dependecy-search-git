@@ -1,0 +1,1 @@
+aws-requests-auth aw elasticsearch credenti temporari dynamic-credenti cluster usag method librari dynam lambda lambda py-client sign iam class

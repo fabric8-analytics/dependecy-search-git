@@ -1,0 +1,1 @@
+django-typed-model type typed-model model class python subclass code field tabl queri object

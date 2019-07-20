@@ -1,0 +1,1 @@
+aldryn-faq deprec project longer maintain see readm inform version requir instal statu categor django alt

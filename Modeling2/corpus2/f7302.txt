@@ -1,0 +1,1 @@
+pyqt5-sip sip c generates generated bindings license licenses bit module-generator python containing contain files file libraries library implement modules header existing

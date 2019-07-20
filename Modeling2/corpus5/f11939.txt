@@ -1,0 +1,1 @@
+django-messages-extend messag django persist sticki message-storag use user storag templat credit klass link like method csrf need default current bootstrap line

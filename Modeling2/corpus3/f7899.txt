@@ -1,0 +1,1 @@
+django-compressor-autoprefixer autoprefixer copyright postcss python copy copy notice person person include include documentation variable-default setting distribute usage

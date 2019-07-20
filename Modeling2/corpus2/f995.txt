@@ -1,0 +1,1 @@
+django-ldapdb django ldapdb ldap database backend defining section-default-define server-legacy ldap-database-backend entries entry limit posixgroup supported supports support

@@ -1,0 +1,1 @@
+hashr target alt statu imag run travis-appveyor support

@@ -1,0 +1,1 @@
+djangocms-oembed set oembed plugins currently video django cm oembed oembeds embed embeds plugin

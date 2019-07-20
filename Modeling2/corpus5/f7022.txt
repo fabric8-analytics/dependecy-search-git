@@ -1,0 +1,1 @@
+pyuserinput modul cross platform control mous keyboard python simpl instal use user input event key pykeyboard make pymouseev intend todo help develop issues-exist-contribut path motion captur windows-mac platform-control linux-systems-scrol

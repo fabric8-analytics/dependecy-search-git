@@ -1,0 +1,1 @@
+pipdeptree dependency dependencies depend depending package installation-code version versions installed-python-packages install tests requires require requirements required flag file warning warns warnings bash json output outputs useful use line lines conflicting pull license list making make release github friendly

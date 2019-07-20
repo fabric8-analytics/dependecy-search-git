@@ -1,0 +1,1 @@
+django-aboutconfig django version compat cach like valu data

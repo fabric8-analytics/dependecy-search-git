@@ -1,0 +1,1 @@
+python-telegram-handler telegram logging handler bot code formatting format formatted chat circle simple logs log emoji stops-server fixed fixes fix escape escaping-closed py message messages added-optional htmlformatter refactored requires-option retrieve retrieval

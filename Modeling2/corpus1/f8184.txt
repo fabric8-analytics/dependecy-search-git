@@ -1,0 +1,1 @@
+mando argparse mando-cli target alt command commands sphinx supports console short complete python download-format downloads

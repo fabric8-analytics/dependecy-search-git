@@ -1,0 +1,1 @@
+bowerstatic wsgi bower fixes fixed fixing fix components component thanks instead extensions extension resource renderers render renderer new objects object resources-documentation framework frameworks use useful based webob relative error errors code behavior multiple standing seconds second added python internal-toposort

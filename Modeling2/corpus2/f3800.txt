@@ -1,0 +1,1 @@
+wiktionaryparser parser wiktionary wiktionary-parser python-project issues-feel features json word words

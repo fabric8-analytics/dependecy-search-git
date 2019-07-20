@@ -1,0 +1,1 @@
+cmsplugin-new instal cms-x integr installed-app menu-integr plugin

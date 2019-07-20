@@ -1,0 +1,1 @@
+simpletr64 tr protocol network upnp adding added action fixed devices device execute-actions fix-error tr-upnp supports support changed fritz-specific interface parsing definitions definition class classes wifi code-block executing

@@ -1,0 +1,1 @@
+schema-salad semant annot link avro data schema document print schema-salad structur structur structur structured-linked-data-docu describing-json documentation-gener languag languag dot python structural-valid rdf myschema-yml gener gener tool context object inherit ld support support standard simplic describ describ web avro strict valid valid uri uri

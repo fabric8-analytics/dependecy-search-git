@@ -1,0 +1,1 @@
+xstatic-mdi material design icon webfont mdi xstatic package package packaging easy-install

@@ -1,0 +1,1 @@
+swagger-parser give useful informations swagger files swagger parser api rest swagger parser test tests swagger-parser foo data definition definitions request example alt calls body support test tests swagger-parser foo definition definitions thanks path example request data generated generate code calls alt fix add

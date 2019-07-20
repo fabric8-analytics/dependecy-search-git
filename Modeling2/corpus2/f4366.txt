@@ -1,0 +1,1 @@
+frigg-settings python module parsing discovery frigg settings file installation

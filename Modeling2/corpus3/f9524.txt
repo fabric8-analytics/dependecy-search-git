@@ -1,0 +1,1 @@
+i3pystatus module module python require require install document documentation git-installation-supported ipystatus manager-license output module maintainer document python version-documentation module-make version oliver enkore

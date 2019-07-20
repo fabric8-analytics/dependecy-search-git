@@ -1,0 +1,1 @@
+django-brac reusabl gener mixin django python brace class base view cbv form support instal docs-installation-instal version requir easi

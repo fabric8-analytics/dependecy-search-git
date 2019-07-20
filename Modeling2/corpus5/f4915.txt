@@ -1,0 +1,1 @@
+django-frontend django application-easili instal

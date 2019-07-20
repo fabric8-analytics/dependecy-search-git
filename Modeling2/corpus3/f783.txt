@@ -1,0 +1,1 @@
+django-fortunecookie reusable django application store fortune cooky fixture test fortune cooky python django fortune cookie django fortune cookie status-pypi-version python-versions

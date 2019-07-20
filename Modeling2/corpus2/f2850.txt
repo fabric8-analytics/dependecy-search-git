@@ -1,0 +1,1 @@
+s2reader sreader-simple-python-module

@@ -1,0 +1,1 @@
+setuptools-version-command release-versions version-command tag tags make makes post dash block takes keyword instead warnings allows use

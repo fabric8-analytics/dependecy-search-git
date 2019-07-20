@@ -1,0 +1,1 @@
+traitsui traitsui traits capable windowing framework traitsui-traits environment environments installation install installed dependencies model pyqt gui important-links views view documentation api

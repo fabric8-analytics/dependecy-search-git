@@ -1,0 +1,1 @@
+django-memcache-admin memcach compat set memcache-admin licens default command inform permiss seconds-cach item updat refresh

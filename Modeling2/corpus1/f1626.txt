@@ -1,0 +1,1 @@
+ped-parser ped-format madeline files file pedigree pedigrees columns column values family families like tool formats affected genetic accesable alternative gender inheritance-models individual individuals pedigree

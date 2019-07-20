@@ -1,0 +1,1 @@
+django-ajax-util pagin xhr tab util django framework page pages-rend ajax link templat javascript py query-string-request queri render heavi content like use follow

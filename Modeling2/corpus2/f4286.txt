@@ -1,0 +1,1 @@
+hikvision camera python cgi interface requirements requires required username python-module licensed license-getting

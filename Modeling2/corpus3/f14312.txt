@@ -1,0 +1,1 @@
+django-angularjs django angular angularjs staticfiles

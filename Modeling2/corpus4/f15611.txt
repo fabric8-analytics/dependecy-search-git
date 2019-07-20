@@ -1,0 +1,1 @@
+sphinxcontrib-disqu sphinx disqu sphinxcontrib-disqus-embed-com project-adher

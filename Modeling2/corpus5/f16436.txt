@@ -1,0 +1,1 @@
+django-excel django middlewar read manipul write data differ excel format csv od xl xlsx xlsm api pyexcel file develop test file-formats-support web-develop code plugin ad instal inform coding-document rst support licens python pip version f pypi r common tsv requir librari tabl gener ci one setup updat databas program unix-system clone make x git process assist

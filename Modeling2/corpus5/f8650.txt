@@ -1,0 +1,1 @@
+dynamic-rest dynam extens django rest framework drest relationship field queri drf api group load featur filter restful-api data sideload requir valu id demo list related-object context respons support benchmark match crud defer set optim serial repositori root like use multipl way object istartswith-range-lt directori query-languag class kit-linked-relationship

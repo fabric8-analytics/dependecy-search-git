@@ -1,0 +1,1 @@
+clonedigg buildout buildbot clone sourc automatically-generated-sourc argument

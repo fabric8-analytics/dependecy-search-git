@@ -1,0 +1,1 @@
+djaodjin-extended-templ djaodjin templat wrapper html email pdf instal templates-instal mail python note render

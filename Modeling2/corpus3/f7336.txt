@@ -1,0 +1,1 @@
+pymanopt optimization manifold optimization automatic differentiation machine learn numpy scipy theano autograd tensorflow pymanopt github md general bsd

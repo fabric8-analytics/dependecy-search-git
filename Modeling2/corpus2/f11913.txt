@@ -1,0 +1,1 @@
+django-prices-vatlayer vatlayer api support django prices python price money tax taxes vat currency currencies cron new line following http plan

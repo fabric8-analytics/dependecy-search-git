@@ -1,0 +1,1 @@
+cdeploy simple python program manage cassandra schema migration cassandra migration migration name name version-migration multiple contain-cql configuration contain line line shell

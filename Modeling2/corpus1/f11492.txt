@@ -1,0 +1,1 @@
+tw2-pygmentize toscawidgets widgets pygments pygmentize-syntax

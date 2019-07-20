@@ -1,0 +1,1 @@
+slumber-fork fix fix fix slumber url support urls-serialization backwards-incompatible apis api request request default-serializer default slash optional option install public alt parameter kwarg kwargs python new-parameter object-oriented remove remove irc allow allow allowing-passing pass doc

@@ -1,0 +1,1 @@
+pinball pinball scalable workflow manager pinball workflow manager batch job hadoop emr qubole pinball configure configuration configure configures workflow parser scalable-workflow job job-emails email sudo user dir dirs component component contribute mysql installation instal install default config admin guide ui base dev format

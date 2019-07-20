@@ -1,0 +1,1 @@
+django-google-analytics-app add celery track html specify

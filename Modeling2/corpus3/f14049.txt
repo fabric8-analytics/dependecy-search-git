@@ -1,0 +1,1 @@
+invenio-admin invenio admin module invenio admin flask admin invenio admin administration provide admin invenio administration version version-released release site-scripting asset

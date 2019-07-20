@@ -1,0 +1,1 @@
+python-editor editor library vim emacs programmatically-interfacing editor editors closed-returns opens opened contents

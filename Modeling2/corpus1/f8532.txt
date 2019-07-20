@@ -1,0 +1,1 @@
+networking-l2gw neutron l-gateways physical openvswitch-vtep openstack ovs networks network gateway myphyswitch node plugin plugins networking-lgw-api db log ovsdb ens var interface involved sed add use remote

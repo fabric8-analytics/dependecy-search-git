@@ -1,0 +1,1 @@
+pynetconsole python package view console output frc robots netconsole first robotics wpilib networktables pynetconsole-netconsole robot x code requires

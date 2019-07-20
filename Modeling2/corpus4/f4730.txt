@@ -1,0 +1,1 @@
+feedgener standalon version django feedgener modul feed atom rss feedgener

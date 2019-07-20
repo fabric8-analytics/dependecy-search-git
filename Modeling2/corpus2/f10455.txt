@@ -1,0 +1,1 @@
+djangocms-panel plugin plugins panel

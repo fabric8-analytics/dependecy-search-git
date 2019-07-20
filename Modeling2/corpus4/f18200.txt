@@ -1,0 +1,1 @@
+sparqlkernel sparql rdf jupyt kernel module-instal fetch

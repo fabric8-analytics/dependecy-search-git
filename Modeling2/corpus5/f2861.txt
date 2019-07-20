@@ -1,0 +1,1 @@
+django-transmeta transmeta applic translat content django model languag store manag automat differ column databas level internation in field creat add-new translators-transl automatic-schema admin command set data make code integr db chang default bug fix tupl python ad local valu function com

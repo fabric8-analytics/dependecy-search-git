@@ -1,0 +1,1 @@
+requests-cache requests cache persistence code codes data cached caches example changing-parsing persistent library fix responses response request backend support-thanks compatibility compatible write-code history pypi add added changing changes handling parameters streaming instead headers option issue normalize r

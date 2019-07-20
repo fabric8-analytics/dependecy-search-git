@@ -1,0 +1,1 @@
+aldryn-styl style plugin run version set instal

@@ -1,0 +1,1 @@
+django-datatable-view server side datat represent django queryset automat render templat python django datat tabl datat demo demo column column licens licens support datatable-view field supports-st fields-easi object exampl small copyright option edit suite-document mode-instead rowdata-custom contents-html pars fault search

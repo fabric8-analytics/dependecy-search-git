@@ -1,0 +1,1 @@
+mediawiki-utilities installations-slave-databases xml-dumps-install mediawiki

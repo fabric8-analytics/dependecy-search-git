@@ -1,0 +1,1 @@
+emokit open source driver accessing raw data emotiv epoc eeg headset code x issue filing-issues hidapi-support install installed python bit sensors sensor file n supporting asking asked udev py libraries supported-epoc c-library functionality directly broken damn space m compiler function-required faq hidraw require linux

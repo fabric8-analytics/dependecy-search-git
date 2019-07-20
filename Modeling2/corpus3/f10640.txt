@@ -1,0 +1,1 @@
+deprecate deprecate deprecate deprecation warn warn decorator deprecated-decorator-python deprecate-old decorate class class deprecated-library class

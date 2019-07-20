@@ -1,0 +1,1 @@
+python-ts3 teamspeak ts voice serverquery python-ts abstraction-library headaches

@@ -1,0 +1,1 @@
+snakeoil python library implements optimized versions common functionality repo-tests pypi-test-coverage-docs github mock installing pypi-test virtualenv release latest setup-py tests

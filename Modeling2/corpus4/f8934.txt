@@ -1,0 +1,1 @@
+sqlalchemy-i18n translat mapper-translat sqlalchemi translation-table-structur model model code tabl statu python perform function structur

@@ -1,0 +1,1 @@
+django-parler django language languages code fields field translatable model-translations python objects object site sites creating-models access-translated-attributes admin classes accessing hacks manager contribute contributing contribution make duplicate special current currently settings setting sets

@@ -1,0 +1,1 @@
+django-template-repl pdb template template python context shell path command messages-user ipdb message management-command manage code

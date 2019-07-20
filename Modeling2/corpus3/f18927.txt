@@ -1,0 +1,1 @@
+percache cache method support support python dictionary dictionary version percache decorator decorator decorate optionally sync name

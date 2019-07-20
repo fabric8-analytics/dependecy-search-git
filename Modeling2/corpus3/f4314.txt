@@ -1,0 +1,1 @@
+django-easysettings setting set set app apps project project local add code legacy usage setting set set project project app apps april add prefix prefixed manager-added local django legacy code usage backwards

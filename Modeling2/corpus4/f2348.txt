@@ -1,0 +1,1 @@
+mailchimp3 mailchimp api v client wrapper report report log argument argument log-request request licens mailchimp license-stable-python start start batch folder basic-auth

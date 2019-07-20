@@ -1,0 +1,1 @@
+pylint-quotes pylint linting string quotes quoted pylint-quote developing develop development string-quotes-example strings configuration configured function license licensed avoid

@@ -1,0 +1,1 @@
+voodoo file file option option templat templat path path projects-templ project argument argument valu valu bool list list use output copy-us copi python data jinja skip line python code templat templat function function requir requir templates-exampl git render file make make project-skeleton commands-rend exampl skeleton command path path voodoo folder folder revis vc

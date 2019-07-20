@@ -1,0 +1,1 @@
+update-copyright file files-authors copyright-updating project line line license license licensing update update git-backend vcs separate-project-installation-packages year year author-names blurb blurb separate package package alias install instal test test layman like forward program program add-wtk path path rawconfigparser john-doe net py dependency name backends

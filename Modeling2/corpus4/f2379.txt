@@ -1,0 +1,1 @@
+myterm module-myterm add-color correct manag templat log project chang file program myterm del-pipadd conf

@@ -1,0 +1,1 @@
+django-imagekit-cropper library web development cm django django grappelli image image format crop crop file extends django-imagekit alpha dynamically dynamic custom model

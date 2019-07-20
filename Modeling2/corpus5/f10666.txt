@@ -1,0 +1,1 @@
+cyhunspel hunspel spell correct request hunspell-dictionari build python en cach dictionari librari bulk-request dll window use input built instal featur differ label win basic vscomntool readm continu simpl optim depend asynchron particular-word stem-word stem test

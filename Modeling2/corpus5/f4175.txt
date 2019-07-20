@@ -1,0 +1,1 @@
+adafruit-blinka add circuitpython hardwar api librari micropython cpython devic packag test like code run alt-document build depend block way spi microcontrol building-loc driven time layer exampl

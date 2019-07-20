@@ -1,0 +1,1 @@
+exrex regexp generators string generation regex simplification strings string exrex generates generators generation generate pattern patterns features-generating python-module documentation regex random command-line usage categories setup support supports

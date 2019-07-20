@@ -1,0 +1,1 @@
+django-rq-jobs admin interface-acknowledgements-impossible django simple plugin python scheduled schedule scheduler schedules scheduling admin job management manage tasks task django-rq-jobs making installation-make install installed py-code reaches-zero daily monthly limited

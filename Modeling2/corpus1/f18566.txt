@@ -1,0 +1,1 @@
+babbage light weight olap style analytical engine spendb openspending sql sqlalchemy olap cubes analytics model modelling modelled api apis cubes cube application-supports aggregates aggregated aggregate analytical database-query dimensions dimension queries flask given endpoints endpoint set returns return included include futher-includes functions usage measures e multiple

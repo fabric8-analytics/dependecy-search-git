@@ -1,0 +1,1 @@
+pysqlite3 sqlite-modul support build-link build specifi modul code

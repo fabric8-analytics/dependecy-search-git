@@ -1,0 +1,1 @@
+pytagcloud create beautiful tag cloud image html image image installation install instal regular package-index simple-tag-clouds

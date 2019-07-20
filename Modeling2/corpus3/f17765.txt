@@ -1,0 +1,1 @@
+dmr-utils dmr radio digital fec ecc mmdvm ham amateur radio encode encode encodes encode data file file id py encoder-decoder lc id-returns string byte byte hex-strings radio code value value decode decode bitarrays hamming-codes integer dmr-utils type-bitarray utility fec accepts download-path golay bit bit terminator download e link network lookup-subscriber dmr

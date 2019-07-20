@@ -1,0 +1,1 @@
+invenio-search invenio modul inform retriev search index search-elasticsearch index-templ version-releas releas add configur allow initi client

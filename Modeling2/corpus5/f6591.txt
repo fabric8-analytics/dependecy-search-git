@@ -1,0 +1,1 @@
+watchdog python filesystem monitor fsevent kqueue inotifi readdirectorychangesw poll directorysnapshot directori event file document code-block use way watchdog-python-api pyyaml shell-util utility-script os issu line program chang help packag vim licens yesudeep libyaml version shell script pyfilesystem os-x select method depend

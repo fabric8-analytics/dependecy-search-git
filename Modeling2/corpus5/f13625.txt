@@ -1,0 +1,1 @@
+csrmesh bluetooth qualcomm csr btle devic addressing-devic x network led protocol requir require-authent authent ofb packet data posit id homebrit address endian number implement object constant send hash bluepy-pycryptodomex byte reverse-engineered-implement

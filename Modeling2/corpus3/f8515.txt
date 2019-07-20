@@ -1,0 +1,1 @@
+click-completion add enhance bash fish zsh powershell completion click complete complete click-completion fish activation activate activate argument argument application application shell shell currently current automatic automatically command command monkey need way environment-variable reports-pull customize custom customize

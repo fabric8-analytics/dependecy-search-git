@@ -1,0 +1,1 @@
+django-gipsy admins admin dashboard gipsy-set add add code-block-shell setting set python theme theme version-indicator django developer development template template setup bug url widget widget constant constant app apps classes-urls menu google cache cached exist class credential credential gispy file default

@@ -1,0 +1,1 @@
+bqplot plot library ipython jupyter notebook ipython jupyter widget graphic plot d jupyter interactive interaction interaction interactively package api apis packages-version license license extension-install bqplot-d integrate provide provide provide integrate-visualizations x installation instal visualization code bqplot-plotting

@@ -1,0 +1,1 @@
+theano-lstm gradient descent theano lstm neural network sequenc dropout function usag layer matrix randomli random theano-lstm-recurrent-network differ hidden mask minibatch label optim comput input length follow output forward variabl loop multipli elementwis pad y n th

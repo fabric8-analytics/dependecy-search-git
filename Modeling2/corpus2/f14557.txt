@@ -1,0 +1,1 @@
+protorpc-standalone google protocol rpc

@@ -1,0 +1,1 @@
+requests-hawk hawk authentication strategy requests python library authentication token hawk requests hawk project projects auth use uses code instead parameter parameters server credentials session default hkdf need needs parameter parameters use uses project projects requests-hawk auth code credentials algorithm instead python server session request bash key properly encoding

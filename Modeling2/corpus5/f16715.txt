@@ -1,0 +1,1 @@
+peewee-db-evolv run exampl project destruct schema manag migrat code actual test db-evolv evolv

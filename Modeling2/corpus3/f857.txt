@@ -1,0 +1,1 @@
+feedstail feedstail format format feed feed new-entries example config general u-examples boolean license commits commit key key f-like title interval default use publish pull branch

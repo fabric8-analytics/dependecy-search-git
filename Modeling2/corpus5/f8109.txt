@@ -1,0 +1,1 @@
+aiohttp-apiset swagger-specif specif router serial ui apiset-alt packag exampl url-opt fix support ad fix-stat url error param paramet add schema-loader-default valid aiohttp docstr spec extract-specify-paramet option middlewar locat handler specifi rout method jinja load-schema load drop class operationid subloc oper x

@@ -1,0 +1,1 @@
+flake8-comprehensions flake comprehensions list comprehension set comprehension dict comprehension list comprehensions comprehension c rewrite literal list comprehensions comprehension release literals tuple-literal tuples rule-c-unnecessary rules rewrite python

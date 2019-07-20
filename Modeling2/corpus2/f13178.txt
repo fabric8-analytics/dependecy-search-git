@@ -1,0 +1,1 @@
+imposm support-new tables table fixed add postgis-databases supported fields os wms source files field-type versa-internal option options srs

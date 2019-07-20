@@ -1,0 +1,1 @@
+django-taxonomy django-taxonomy-base-class

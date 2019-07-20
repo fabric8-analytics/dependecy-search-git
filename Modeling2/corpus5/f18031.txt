@@ -1,0 +1,1 @@
+django-test-coverag django test coverag report options-report tested-app option app-zoo modul test-coverag py-usage-simpl app-foo

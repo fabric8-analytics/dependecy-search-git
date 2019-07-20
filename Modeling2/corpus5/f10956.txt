@@ -1,0 +1,1 @@
+django-moder django moder model queri user model-object object support data configurable-admin moderator-approv bug-fix approv chang ad fix object-auto-approv class admin method register-method regist improv types-support field custom modul correct-code-test function close visibl email add test relat ex jonwd contributor list drop migrat python initi

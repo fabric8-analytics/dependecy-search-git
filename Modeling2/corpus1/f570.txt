@@ -1,0 +1,1 @@
+sphinxcontrib-emacs emacs copy copies copyright including included person persons online sphinx document documentation code notice lisp installation install publish-distribute supported support texinfo

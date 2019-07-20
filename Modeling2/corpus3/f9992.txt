@@ -1,0 +1,1 @@
+pyqt-distutils hook hook ui-files fix pythonic python command command add pyuic-json-file instal install installation code-block pyrcc extension e skip thanks follow follow remove pyqt-distutils-alt function pypi improve license license handle handle instead

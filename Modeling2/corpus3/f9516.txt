@@ -1,0 +1,1 @@
+cloudstorage storage amazon aws s azure rackspace cloudfiles google cloudstorage gc minio cloud-storage python pythonic file file support support service service code-block add cloud-storage pythonic files-google driver test test local-file python-package fix fix fix travis support support code exception set rackspace api service service feature

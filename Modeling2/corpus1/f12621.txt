@@ -1,0 +1,1 @@
+pygame-camera pygame camera gamedev camera sidescrolling

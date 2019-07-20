@@ -1,0 +1,1 @@
+flask-uuid uuids flask-uuid urls route routes simply standard-library

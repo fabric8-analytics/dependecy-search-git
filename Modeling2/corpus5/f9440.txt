@@ -1,0 +1,1 @@
+djmako django mako templat template-load copyright mako-templ loader includ os cach redistribut use strict particular provid directori set project indirect special root

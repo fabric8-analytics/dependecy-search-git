@@ -1,0 +1,1 @@
+sparsesvd singular value decomposition svd sparse numpy sparsesvd-sparse package matrix mat scipy x semantic wrapper need csc kardos installation install installing

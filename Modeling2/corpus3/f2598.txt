@@ -1,0 +1,1 @@
+zbar-py simple python compatible interface zbar barcode reading library example example-code code gmail-com-contributions-rounak-singh-rounaksingh d-numpy-arrays array scan code example-code example library zbar-py iconv d python gmail-com require require lgpl

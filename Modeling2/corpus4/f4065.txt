@@ -1,0 +1,1 @@
+nagioscheck strive development-guidelin develop

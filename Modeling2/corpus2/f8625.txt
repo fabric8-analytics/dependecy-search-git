@@ -1,0 +1,1 @@
+whooshalchemy import imports title session class-blogpost indexed index based base text-indexing sqlalchemy-model column engine models whoosh self config create list

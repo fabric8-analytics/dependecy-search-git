@@ -1,0 +1,1 @@
+basicproperti descriptor properti coerc enumer core-data

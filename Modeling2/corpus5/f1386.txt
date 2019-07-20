@@ -1,0 +1,1 @@
+django-bulma django bulma templat sass base installation-instal instal packag static dir css work

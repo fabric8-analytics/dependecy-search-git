@@ -1,0 +1,1 @@
+pydaqmx daqmx national instrument data acquisition nidaq nidaqmx version drivers nidaqmx-driver bug add python object improvements improve supported supports support string strings pierre proper properly main functions function naming ni subclass package

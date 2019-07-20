@@ -1,0 +1,1 @@
+django-fabr gener fabric util class django project django-fabr project project basic-stuff project project quickstart-django basic setup

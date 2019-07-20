@@ -1,0 +1,1 @@
+django-autoslug-iplweb django field slug auto uniqu transliter in version use python exampl lesser note licens softwar free preserv

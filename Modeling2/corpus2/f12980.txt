@@ -1,0 +1,1 @@
+table-extractor table python extractor-extract-normalized

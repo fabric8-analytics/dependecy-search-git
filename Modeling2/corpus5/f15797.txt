@@ -1,0 +1,1 @@
+opencag geocod geocoder-usage-instal api statu pass

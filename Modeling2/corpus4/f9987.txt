@@ -1,0 +1,1 @@
+pydocstyl docstr style checker pydocstyl pydocstyle-docstr code analysi support support

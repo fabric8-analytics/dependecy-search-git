@@ -1,0 +1,1 @@
+scrapy-sentry support scrapy-sentry setup

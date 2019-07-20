@@ -1,0 +1,1 @@
+redis-sentinel-url redis sentinel python urls sentinel-url option supports schemes-supported scheme options-keyword client

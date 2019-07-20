@@ -1,0 +1,1 @@
+sbo-selenium selenium test framework django applic set setting-instal default browser run instal sauc connect method page like paramet environ version page-load class server typic screenshot loading-typ use gener ipad command lab good shell automat os primarili note common command-lin local machin download chromedriver-download docker ip rare address

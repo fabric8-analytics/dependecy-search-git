@@ -1,0 +1,1 @@
+django-bootstrap-crud-templ django templat bootstrap crud bsct css-html simpli base url make account cdn provid view project sourc develop model homepag

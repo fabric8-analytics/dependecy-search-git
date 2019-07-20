@@ -1,0 +1,1 @@
+durabledict dictionari style access differ type model dict dict object read read like-object dictionary-classes-back durabledict method method cach cach durable-data-stor store store valu valu use use like class implement implement provides-implement provid insert insert date django encod encod encod actual actual pickl sync sync requir requir

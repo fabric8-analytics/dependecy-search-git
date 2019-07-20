@@ -1,0 +1,1 @@
+xstatic low fat static file packaging python projects base package files javascript css html resource packages setuptools pypi require packaged minimal

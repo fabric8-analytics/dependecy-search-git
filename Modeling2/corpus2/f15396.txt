@@ -1,0 +1,1 @@
+flask-debugtoolbar fixes fix thanks displays display templates template enhancements-add-support config new-routes-panel-displaying enable enabled flask-debug-toolbar query requests request sql-queries data sqlalchemy contained contains values monospaced setting set routing html characters installation-installing installed python compatibility error use

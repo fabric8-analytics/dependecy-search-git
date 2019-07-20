@@ -1,0 +1,1 @@
+django-staticfiles-webpack django webpack assets build static files file django-staticfiles-webpack js-entry-point-bundle points pointing configuration term maybe

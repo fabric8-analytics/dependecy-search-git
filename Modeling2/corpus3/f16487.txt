@@ -1,0 +1,1 @@
+psycopg2cffi port cffi speed improvement fix fix fix messages-fixed bugfixes python django support support release release installation install compatible compatibility compat error issue issue psycopg test test add august silent parser lookup july run-tests faster port long-float-double van-tellingen

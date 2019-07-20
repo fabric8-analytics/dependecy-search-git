@@ -1,0 +1,1 @@
+django-follow django application follow anything following follows followed objects object django-follow unfollow unfollowing unfollowed note notes-v method template request requests vica returns returning issue issues urls url makes beware project follows following followed django-follow object objects method template note notes-v vica views unfollow unfollowed form beware post

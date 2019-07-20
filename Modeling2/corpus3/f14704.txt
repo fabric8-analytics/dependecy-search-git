@@ -1,0 +1,1 @@
+flask-oslolog flask extension allow log via oslo flask identity auth log log flask configure configuration configure extension extension code python factory like request app

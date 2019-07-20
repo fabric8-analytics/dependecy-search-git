@@ -1,0 +1,1 @@
+marketplac marketplace-client-library-mozilla

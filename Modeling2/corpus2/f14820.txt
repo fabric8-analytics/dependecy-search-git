@@ -1,0 +1,1 @@
+porter2stemmer porterstemmer shown-documents document-index english-stemming-algorithm-free-software-bsd-license-documentation stem stemmed stems stemmer stemmers

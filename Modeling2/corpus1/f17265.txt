@@ -1,0 +1,1 @@
+sanic-compress sanic compression compressing sanic-compress gzip gzipped gzipping files file settings set configuration simply gzip gzipping gzipped-code-python files file sanic-compress responses response compression compressing settings set

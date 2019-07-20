@@ -1,0 +1,1 @@
+entrypoint2 argparse decorator optparse signature command line modules module documentation flags function version versions entrypoint automatic-flag cli-generate autodoc generated install-pip installation automatically

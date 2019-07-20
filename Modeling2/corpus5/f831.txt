@@ -1,0 +1,1 @@
+django-admin-row-act add drop action menu row django model admin changelist defines-act row-act ve code defin individu dropdown object

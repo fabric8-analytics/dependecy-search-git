@@ -1,0 +1,1 @@
+bump v model fit fix improv support bug model-fil gui use data-fit allow paramet python par-file-add dream uncertainti x releas initi problem line tweak algorithm updat slight code distribut probabl interfac implement-simpl gaussian travisstatus-doi instal variabl dimension adjust

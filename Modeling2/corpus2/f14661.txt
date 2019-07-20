@@ -1,0 +1,1 @@
+executor command execute-commands executed executing subprocess subprocesses true import peter externalcommandfailed code codes echo remotecommand ssh logging installation install installing line python cmd package false packages-e foreach documented documentation checking check running run external sudo self hello

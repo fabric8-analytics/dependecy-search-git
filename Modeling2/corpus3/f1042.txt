@@ -1,0 +1,1 @@
+pyramid-sqlalchemy basic-glue environment-variable session-factory especially-bad known-sql-tables multiple-complex-hoops package package description existing-data integrate handle handle-integration model need longer location

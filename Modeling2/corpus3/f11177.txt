@@ -1,0 +1,1 @@
+pylabels label label pylabels object fonts-font image page background background draw draw license demo demo partial-pages reportlab software basically basic create creates txt-file label object image draw draw pylabels license fonts-font-size demo demo label-sizes create creates software basically basic partial-pages page txt-file

@@ -1,0 +1,1 @@
+flask-jqueryuibootstrap flask jquery ui bootstrap minimalistic fork bootsrap extension templates template forms form wtf including include included version based makes-base make making import imported important recommended recommend fontawesome blocks block use add-custom function-adds field

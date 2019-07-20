@@ -1,0 +1,1 @@
+pybluez bluetooth ble gatt python py examples visual simple windows ble-support version gnu-linux software bluez later standard use useful installation devices device rfcomm advanced build x resources

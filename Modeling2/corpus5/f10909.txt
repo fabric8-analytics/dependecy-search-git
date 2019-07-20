@@ -1,0 +1,1 @@
+flake8-docstr pep pydocstyl docstr flake fix use error bump bug releas upgrad extran input switch allerror handl version

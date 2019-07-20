@@ -1,0 +1,1 @@
+py3status istatus configuration-file easily modules commands command python options image-pystatus-travis refresh output click g dynamically

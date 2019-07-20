@@ -1,0 +1,1 @@
+django-test-without-migrations code tests-alt migration migration command django-test license functionality version version block

@@ -1,0 +1,1 @@
+django-pandora pandora object make make global instal option initi like store store thread-loc

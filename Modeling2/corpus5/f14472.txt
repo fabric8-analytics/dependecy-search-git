@@ -1,0 +1,1 @@
+typedinterpol configpars interpol type liter provid string

@@ -1,0 +1,1 @@
+django-froala-editor package integrate froala wysiwyg html rich text editor django froala editor django-froala option optionally default plugins plugin use image image set set setting usage-uses integrate integration upload uploads uploaded license licensing follow web font insert py available storage editor

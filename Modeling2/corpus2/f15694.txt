@@ -1,0 +1,1 @@
+pymitter event emitter eventemitter wildcard node nodejs listen listener listeners namespaces-wildcards events functions-listening ttl-features marcel python copyright function copy copies examples example issues feature returns documentation person persons including included usage pypi-module notice pymitter-python-port

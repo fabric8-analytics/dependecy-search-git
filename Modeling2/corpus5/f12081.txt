@@ -1,0 +1,1 @@
+django-datetime-widget date default add local picker view option true format year-view valu button support fix integ v-fix feel start hour digit year updat day widgets-datetimewidget boolean disabl use set dd string datetimepick develop featur implement datefield hh form month

@@ -1,0 +1,1 @@
+pytabix tabix bgzip bioinformatics genomics module-allows-fast-random-access python pythonic tabix pysam c module-allows-fast-random-access gzip-index indexed c

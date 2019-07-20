@@ -1,0 +1,1 @@
+juju-deployer deployment deployment deploy stack juju-deployer stacks-blog charm charm-wordpress-branch db development installation install test precise-services service option content

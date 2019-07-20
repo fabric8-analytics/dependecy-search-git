@@ -1,0 +1,1 @@
+asyncpg fast postgresql database client library python asyncio postgresql python python asyncio async python async program high performance database driver asyncpg postgresql type use python x library protocol automatic result installation install feature db facade

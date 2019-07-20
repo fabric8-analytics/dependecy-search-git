@@ -1,0 +1,1 @@
+django-swapfield django field integer swap fields value values swapped config currently method-current error team swapintegerfield status-django-swapfield number model models current

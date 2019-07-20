@@ -1,0 +1,1 @@
+asyncamqp code consume consuming manager extension stuff

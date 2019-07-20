@@ -1,0 +1,1 @@
+chainable-validators validation framework method chaining validators validator validation valid validate validates validated value values keys rejects functions function key-attribute dict-reject pass passed passes list string package spec return returned returns chains chain default attributes basic-concepts

@@ -1,0 +1,1 @@
+drf-track method data django-model drf request textfield remot target request-respons origin view test simpler e-g-charfield http tox

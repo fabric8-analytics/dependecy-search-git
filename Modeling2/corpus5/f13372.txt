@@ -1,0 +1,1 @@
+hive-thrift-pi hive hadoop thrift

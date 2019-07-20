@@ -1,0 +1,1 @@
+logzio-python-handl python log handler send logz io use http bulk input thank token-log logging-chang test default drain io-python-handl configur release-notes-add-support drain-timeout-paramet new-thread logziosend method paramet extra-field backup metadata raw debug set chang version note

@@ -1,0 +1,1 @@
+ribosome plugins plugin setting declaratively neovim-python ribosome host manually

@@ -1,0 +1,1 @@
+python-irodscli python api irod queri data-manag manag collect print id python-irods-cli result obj file rod session dataobject metadata valu genquery-result column import env-fil object tempzon coll creat genqueri ssl size pyc filter resourc filtering-support user r direct directli support code replica collectionmeta instal chain criterion like py implement path string

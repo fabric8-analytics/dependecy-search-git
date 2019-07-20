@@ -1,0 +1,1 @@
+bottlechest fast numpi array function written cython licens project-licens scipi bottlechest bsd moving-window-funct

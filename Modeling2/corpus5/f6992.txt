@@ -1,0 +1,1 @@
+macauthlib low level librari implement mac access authent http request sign mac-access auth like scheme function program signed-request request-signing-schem method object macauthlib-librari header user condit avail compat nonc api

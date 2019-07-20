@@ -1,0 +1,1 @@
+multiprocessing-on-dill friendly fork python standard library multiprocessing package us dill instead pickle multiprocessing parallel python com version serializer standard authors-robert-smallshire multiprocessing prevent fork friendly-fork additional

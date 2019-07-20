@@ -1,0 +1,1 @@
+devpi-findlinks plugin devpi server provides findlinks view index devpi-findlinks server installed install pypi-installation-needs needed default installation installed install view anymore index named mechanism entry absolute

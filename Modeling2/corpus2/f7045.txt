@@ -1,0 +1,1 @@
+python-qt-binding classifier-development license-bsd developers provides-python dirk maintainer providers general

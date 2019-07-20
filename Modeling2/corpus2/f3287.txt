@@ -1,0 +1,1 @@
+data-importer django data importer xls xlsx csv xml importers import imported model models file files django-data-importer default set accept-custom excel settings-customize text use customer example integration integrated auto object objects fields declarative declare declaration teste test accept-custom-clean status

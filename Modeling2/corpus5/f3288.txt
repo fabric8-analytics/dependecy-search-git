@@ -1,0 +1,1 @@
+qimage2ndarray qimag numpi ndarray imag convert pyqt pysid support data e array test mask row python conveni handl recarray gmx mein source-bsd scientif refer alpha-channel arbitrari mask-modifications-masked-array creat appropri

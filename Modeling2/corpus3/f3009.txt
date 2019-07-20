@@ -1,0 +1,1 @@
+django-pagination-bootstrap django bootstrap pagination paginate paginate paginator django-pagination setting set set page page default context object installation install instal tag variable autopaginate-tag add orphan middleware version version

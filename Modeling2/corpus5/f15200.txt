@@ -1,0 +1,1 @@
+datri trie benchmark word use benchmark-result key python-x case result valu use-custom tri implement m idea fast unicod feel issu tar slow warn librari string test run find sourc prefix given-prefix request ops-sec davar cython fix use-custom-iter method support libdatri method-thank chang c improv iter memori limit item new license-licens given

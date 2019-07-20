@@ -1,0 +1,1 @@
+jupyterlab-git jupyterlab-git install jupyter engineering cal-poly-ui maintainer maintainer design-strategy-management team provide provide

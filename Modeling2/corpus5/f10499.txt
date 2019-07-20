@@ -1,0 +1,1 @@
+flask-ptran flask extens support script localis text html templat translat string-transl translatable-str containing-transl file json-fil contain directori local dictionari provid format comment object pootl key function placehold depend directli direct test flask-extens id git conflict exampl valu insid escap

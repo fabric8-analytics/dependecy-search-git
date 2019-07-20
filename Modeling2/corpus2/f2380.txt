@@ -1,0 +1,1 @@
+zope-dublincore metadata dublincore add permissions permission test tests alt testing-doctest zcml objects object remove removed zope-based interface supported-python includes including include doctests core-support release dependency dependencies deprecated browser regression conditional project regex decorator compatibility compatible

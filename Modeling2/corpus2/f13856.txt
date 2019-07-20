@@ -1,0 +1,1 @@
+mediawiki-parser mediawiki parser syntax parsers wikitext html templates template python pijnu text output install installation py files-preprocessor called calls bugs bug file build building simplest list links allowed parsing parse e-g interwiki restructure-performance

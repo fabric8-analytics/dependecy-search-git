@@ -1,0 +1,1 @@
+django-logging-json django logging json logged python-code django-logging log-messages logs-request-response exception exceptions add adds elasticsearch settings set added console fixing bug-fixes support rotation rotate rotated queries query managements performance file files middleware middlewares maximum sample debug

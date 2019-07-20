@@ -1,0 +1,1 @@
+orcid api wrapper code codes python-orcid records record research search searching authors authorization authorizing institution researcher-identifiers read-author value id work works types type faster library external-ids update updating reading json journal url request-exception identifier non based need needed needs

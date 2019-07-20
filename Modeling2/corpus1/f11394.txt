@@ -1,0 +1,1 @@
+djangocms-bootstrap-columns django djangocms django cms plugin bootstrap columns plugin plugins bootstrap-columns column mobile large classes-allows style styles class options provide provides value values

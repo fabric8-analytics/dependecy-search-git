@@ -1,0 +1,1 @@
+justirc irc justirc functions functionality handles code instead uses write automatically event

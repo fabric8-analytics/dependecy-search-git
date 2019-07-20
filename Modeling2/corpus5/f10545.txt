@@ -1,0 +1,1 @@
+sensor raspberri pi raspi rpi temperature-sensor pi-sensor reading-temperatur simpl need wire- devic address number bus-numb spi mcp read lcd use

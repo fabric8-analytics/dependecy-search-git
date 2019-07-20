@@ -1,0 +1,1 @@
+pyqrcod qrcode qr encod encoding-data code modul possibl render charact qr-code termin version based-render vector error-parameter-set creat numeric-alphanumer correct mode tables-mod set manual png file displayed-directli come optional-note-pypng pyqrcode-cont

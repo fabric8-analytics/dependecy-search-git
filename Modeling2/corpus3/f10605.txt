@@ -1,0 +1,1 @@
+django-kombu django-kombu database-version-deprecated transport single late

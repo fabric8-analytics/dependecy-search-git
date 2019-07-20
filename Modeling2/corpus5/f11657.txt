@@ -1,0 +1,1 @@
+django-herokuapp django use-heroku file set project run command server app host app-server-instead log like base serve-static-fil follow log-error configur based-servic simpli error site serv python provid account ad variabl guid idea thread worker-thread approach worker remot develop normal secur local packag

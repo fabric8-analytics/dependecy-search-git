@@ -1,0 +1,1 @@
+mssql-cli command line client sql server auto completion syntax highlight sqlserver cli python database code guide install installation microsoft license license line-query-tool query cli feature feature issue issue help-content usage source platform direct

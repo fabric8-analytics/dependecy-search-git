@@ -1,0 +1,1 @@
+spade xmpp agents python-agent based status alt platform documentation supports-fipa docs-added improved improvements fixed fixes fixings method message messaging-xmpp methods-change doc spade-alt web container loop start started sends send fsm changed supports support raw minor template templates

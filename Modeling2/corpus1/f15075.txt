@@ -1,0 +1,1 @@
+django-jquery-ui django jquery jqueryui staticfiles jquery-ui version versions files tag

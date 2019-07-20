@@ -1,0 +1,1 @@
+cmsplugin-image-gallery django filer gallery django filer image simply select selection-parameters-default gallery galleries selected-value create cmsplugin type-choices insert

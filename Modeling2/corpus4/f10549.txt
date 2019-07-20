@@ -1,0 +1,1 @@
+active-alchemi sqlalchemi flask activ sqlalchemi orm activ record mysql postgresql pymysql pg sqlite delet model model creat creat sqlalchemi create-update-delet soft-delet queri queri queri record record type-db page page updat type active-alchemi method method pagin pagin pagin util result result web use use tabl arrow exampl exampl postgresql column key activ record-lik

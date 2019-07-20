@@ -1,0 +1,1 @@
+textract textract-extract release-bumpvers minor

@@ -1,0 +1,1 @@
+allure-pytest deprecated please use https github com allure framework allure python instead allure reporting pytest allure reporting pytest test tests allure-pytest def code alt steps step severity severities environment class report country host assert stories story case cases status bar automatically target target code

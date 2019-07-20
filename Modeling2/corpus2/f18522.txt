@@ -1,0 +1,1 @@
+xstatic-angular-bootstrap angular bootstrap xstatic packaged package packaging easy-install

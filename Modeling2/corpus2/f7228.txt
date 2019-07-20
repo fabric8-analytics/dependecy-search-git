@@ -1,0 +1,1 @@
+python-crfsuite python binding crfsuite data science crf python-crfsuite-alt api contributors license licensed c gmail scipy version contributing-source wrapper cython contributed pull ideas

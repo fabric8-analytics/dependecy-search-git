@@ -1,0 +1,1 @@
+django-ttag templat tag constructor librari django write syntax

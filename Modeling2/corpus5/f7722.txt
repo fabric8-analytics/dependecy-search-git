@@ -1,0 +1,1 @@
+pygtkspellcheck spellcheck python-gtk-spellcheck editor ignor versions-vers version support line pygobject-pygtk local application-zim rednotebook markdown code journal-report python files-pygobject-enchant-pygtk licens distribut automat gnu

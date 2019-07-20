@@ -1,0 +1,1 @@
+django-hero-slid django galleri slider bootstrap frontpag gener django-hero-slid like admin applic templat block step

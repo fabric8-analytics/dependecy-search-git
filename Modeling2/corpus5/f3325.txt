@@ -1,0 +1,1 @@
+zope-sqlalchemi zope sqlalchemi session transact test use-scoped-sess chang error support errors-requir commit state requir class databas add version function supported-initi new python-run mapper-class manual use fix orm pysqlit bugs-fix run web py-bin initi updat integr scope bug dsn mapper compat object setup oper sql

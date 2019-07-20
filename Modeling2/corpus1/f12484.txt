@@ -1,0 +1,1 @@
+cvxcanon cvxcanon linop linops languages language code level-problem py trees tree problems-installation cvxpy c data implementation implemented implements matrix-representation containing function functions functionality python src-contains tests test cases perform performance accessable access process binding bindings steps install installing line modeling

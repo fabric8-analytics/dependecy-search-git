@@ -1,0 +1,1 @@
+pygelf log udp tcp ssl tl graylog gelf field python-logging-handl code field-contain default server debug chunk include-debug messag true handler simpli length udp-tl file paramet input host compress number http valid

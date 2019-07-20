@@ -1,0 +1,1 @@
+pathspec fixed fix patterns pattern-matching add pathspec-path files file-paths support documentation handling-improved changes change source class handle matches-license test-python directory things uses use tests testing packages package added licensed recursive recursion

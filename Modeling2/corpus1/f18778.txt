@@ -1,0 +1,1 @@
+django-invitations django invitation invite user-invites url-default django-invitations-generic users allauth emails email app apps post posting gone object signup link expires expired error errors accepted accepting customisable

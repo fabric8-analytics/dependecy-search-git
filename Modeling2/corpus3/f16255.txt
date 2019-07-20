@@ -1,0 +1,1 @@
+ses-mailer email flask aws s amazon s mailer jinja template email template template s file file aws send-email flask key default c jinja s

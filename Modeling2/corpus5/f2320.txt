@@ -1,0 +1,1 @@
+posix-ipc ipc inter process commun semaphor share memori shm messag queue licens bsd-licens modul version sampl warn

@@ -1,0 +1,1 @@
+wmi python-wmi makepy extensions extension licensed install installed license-c select management setup winx taster list stopped specifically-builds information-model plumbing-needed need

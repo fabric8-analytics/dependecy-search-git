@@ -1,0 +1,1 @@
+jupyter-git sampl setuptool develop py project twine python updat version

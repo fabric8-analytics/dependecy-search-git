@@ -1,0 +1,1 @@
+setuptools-scm-git-archive scm vcs version tags git archive adds-support usage-add commits commit

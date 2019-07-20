@@ -1,0 +1,1 @@
+flatson tool flatten stream json like objects configured via schema flatten-json flattens serialization order

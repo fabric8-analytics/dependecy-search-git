@@ -1,0 +1,1 @@
+hspellpy python kenigsberg-install hspellpy setup-py make

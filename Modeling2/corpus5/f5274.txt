@@ -1,0 +1,1 @@
+pydal pure python databas abstract layer sql python-databas differ join webpi licens nest dialect little-tast

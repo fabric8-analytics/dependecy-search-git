@@ -1,0 +1,1 @@
+baas32 alternative python implementation douglas crockford base encoding scheme strings string version encode encoded baas symbol normalize normalization normalized case error errors readable readability optional characters-hyphens add renamed-allow python-module-implementing base-encoding

@@ -1,0 +1,1 @@
+django-tracking-fields django app allowing tracking objects field admin site track tracked migration migrations versions version apps class changes change yann-fouillat test tests initial add

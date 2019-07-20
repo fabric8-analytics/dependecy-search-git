@@ -1,0 +1,1 @@
+flask-breadcrumbs flask breadcrumb flask extension add support generate site breadcrumb navigation invenio metadata test test flask-breadcrumbs breadcrumb breadcrumb breadcrumb test test release release improve improvement support list allows coverage deprecate

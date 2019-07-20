@@ -1,0 +1,1 @@
+pybreaker design pattern circuit breaker integration optional optionally breaker breakers python operations operation configurable tornado timeout timeouts version integration exceptions-e-g syntax failure failures databases database immediately command calls event-listeners listening backing

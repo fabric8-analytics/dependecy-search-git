@@ -1,0 +1,1 @@
+django-memcached-hashr memcach backend-bas

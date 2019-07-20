@@ -1,0 +1,1 @@
+django-usersettings2 django usersettings site-settings django-usersettings-alt sites-framework python model editing edit editable code set sets setting admin apps-models add examples-example additional things views view use project templates template app e toolbar missing

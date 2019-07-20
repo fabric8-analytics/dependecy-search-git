@@ -1,0 +1,1 @@
+django-recaptcha2 django recaptcha recaptcha django-recaptcha form render callback explicit-rend widget widget usage-form element javascript paramet paramet tag tag key templat templat multipl api testing-test public-key add sampl init extra support support app app field field id app-impl

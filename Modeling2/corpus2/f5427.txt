@@ -1,0 +1,1 @@
+azure-mgmt-managementpartner management manager microsoft-azure parameter package release library libraries operation

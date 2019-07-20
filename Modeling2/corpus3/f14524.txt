@@ -1,0 +1,1 @@
+djrest resource like py http-functions django restfull djrest function method api

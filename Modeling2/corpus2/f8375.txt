@@ -1,0 +1,1 @@
+python-scrapyd-api python scrapyd api scrapy wrapper project projects version versions python-scrapyd jobs-registered spiders spider request schedule usage contribute contributing scheduled-job license current-released-version history signal boolean release cancel cancelled testing test hiding requests settings setting set currently

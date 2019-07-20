@@ -1,0 +1,1 @@
+findspark spark-pyspark install installed installation ipython environment findspark configuration detected findspark

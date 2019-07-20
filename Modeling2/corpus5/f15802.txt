@@ -1,0 +1,1 @@
+azure-mgmt-servicefabr manag microsoft-azur releas packag preview code-shel

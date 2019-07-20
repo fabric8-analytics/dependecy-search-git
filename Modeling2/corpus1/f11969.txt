@@ -1,0 +1,1 @@
+azure-mgmt-servicebus add operations features-added-operation model models microsoft-azure management-client migrate resource-manager new-parameter-migration parameters enum package change changed argument arguments bugfix bugfixes config configs breaking-changes rule rules apis api code http-session list set property properties release dead format formatting

@@ -1,0 +1,1 @@
+crate cratedb distributed sql database makes simple store analyze massive amounts machine data real time db shared nothing java cluster iot api sqlalchemy alt-cratedb docs auto help support distributed-sql ingest typically commodity rst image admin query queried region-hybrid read available python alt version versions run running pip contributing contributions contribution

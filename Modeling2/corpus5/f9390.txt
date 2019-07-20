@@ -1,0 +1,1 @@
+django-shotgun test instal field default command call fixtur http-statu

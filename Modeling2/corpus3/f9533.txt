@@ -1,0 +1,1 @@
+khayyam khayyam persian jalali date time datetime conversion doc doc format test test test b fixing-tests fix method method format-directive parsing-formatting c bug py added-alpha code include beta remove remove python new jalalidatetime instead algorithm algorithm directive pypy pypi comparison type type add readme io rename document documentation init

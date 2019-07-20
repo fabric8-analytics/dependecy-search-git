@@ -1,0 +1,1 @@
+twine pypi code uploads upload upload twine packaging package security securely console keyring-support build building support python-packages password password execute option option variable variable allows allow certificate certificate repository repository developer development connection verified-connection verify command correctly sign sign

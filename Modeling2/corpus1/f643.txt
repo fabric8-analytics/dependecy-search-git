@@ -1,0 +1,1 @@
+clize cli options arguments getopts getopt argparse introspection flags decorator subcommands parameters parameter clize-alt commands create-command functionality creating-functions created code

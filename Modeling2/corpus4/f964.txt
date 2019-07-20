@@ -1,0 +1,1 @@
+grenouilleapicli consume-grenouilleapi

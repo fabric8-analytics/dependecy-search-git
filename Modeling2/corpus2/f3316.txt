@@ -1,0 +1,1 @@
+iptcinfo rc file files information charsets images image iptc inp-charset new version programs-including-adobe use uses python-module server systems install bugs bug includes mis press

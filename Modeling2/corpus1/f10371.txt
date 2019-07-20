@@ -1,0 +1,1 @@
+django-copyright django-copyright set settings

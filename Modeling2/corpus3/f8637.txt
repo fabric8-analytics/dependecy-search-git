@@ -1,0 +1,1 @@
+binstar quickstart-create anaconda-client

@@ -1,0 +1,1 @@
+bottle-redis default configuration argument-configurable plugin class database database set strings-hashes

@@ -1,0 +1,1 @@
+flask-seasurf extension flask-seasurf attempts like installation-install installed

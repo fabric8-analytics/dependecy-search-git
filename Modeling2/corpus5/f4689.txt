@@ -1,0 +1,1 @@
+django-requir run build code standalon storag file gener test r-js-optim optim cach instead base staticfiles-post checkout coverag

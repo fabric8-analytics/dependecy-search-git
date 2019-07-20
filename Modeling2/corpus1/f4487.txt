@@ -1,0 +1,1 @@
+mo-threads threads threading threaded thread logs signal signalled asynch uses-signals waiting wait timeouts-logging use useful resources resource locks states state monitors monitor-lock-iterator immediately logical speed class methods method processes process demand-shutdown properly-aggregates strict-conventions bugs python primitives primitive semaphore easily scope

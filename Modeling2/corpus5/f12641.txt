@@ -1,0 +1,1 @@
+pseudo compil languag target-languag support gener like command supported-except translat differ code use-cases-gener test express express-standard-library-methods-api use basic compiler-dsl list compilers-target fix data logic paramet case input-fil similar file ast codebas core-log popular goal project gotcha node handl python c exampl ecmascript except manual

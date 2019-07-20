@@ -1,0 +1,1 @@
+pystemmer python information retrieval language processing morphological analysis stemming algorithms stemmers base stemmed-form common-morphological-endings-removed enabled representing

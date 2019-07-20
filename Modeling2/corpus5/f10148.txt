@@ -1,0 +1,1 @@
+django-atomic-sign read core-developer-aymeric-augustin usecas django

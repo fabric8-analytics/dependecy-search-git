@@ -1,0 +1,1 @@
+dry-rest-permiss permiss action project list defining-glob defin user object-level base read-writ globally-return exampl like dri statu display request type creat allow add return requir vs data

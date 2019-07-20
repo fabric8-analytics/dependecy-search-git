@@ -1,0 +1,1 @@
+django-include django postgres sql optimization performance model models includemanager-class relations related user users email emails install extension-installation json extensions includequeryset license licensed

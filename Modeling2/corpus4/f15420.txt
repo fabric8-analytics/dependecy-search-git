@@ -1,0 +1,1 @@
+jq json python jq code-block-sh text line output requir requir hat-fedora

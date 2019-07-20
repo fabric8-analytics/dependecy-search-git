@@ -1,0 +1,1 @@
+ribosome plugins plugin settings declaratively neovim-python host manually

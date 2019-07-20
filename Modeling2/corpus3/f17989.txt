@@ -1,0 +1,1 @@
+mdx-variables markdown extension support display variable template variable variable license license-requirements mdxvariables-plugin-requires build-status-scale ci

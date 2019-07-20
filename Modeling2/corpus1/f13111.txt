@@ -1,0 +1,1 @@
+libpebble2 library portion successor libpebble installation install provided setup-py python-library hardware-provides pebble

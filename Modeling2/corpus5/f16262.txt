@@ -1,0 +1,1 @@
+django-categori app attempt provid gener categori system multipl could use mptt tree storag custom admin better visual copi modifi feincm pages-new set work easi hierarch settings-compat data import model field base import-previ upgrad page previou improv templat upgrade-path url databas ascii initi manag name version cach drop creat path

@@ -1,0 +1,1 @@
+flash-services service require flash-services-alt coverage travis-build ci-builds template templating state-defaults default default parameter parameter custom-templates set set configuration half threshold api root specific data provider provide

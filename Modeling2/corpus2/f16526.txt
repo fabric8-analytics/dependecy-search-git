@@ -1,0 +1,1 @@
+pyramid-macauth mac access auth plugin pyramid authentication token use uses id credentials mac-access macauth tokens add secret header callback accessing plugins

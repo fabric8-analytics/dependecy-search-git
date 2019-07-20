@@ -1,0 +1,1 @@
+zhon chinese mandarin segmentation tokenization punctuation hanzi unicode radical han cjk cedict cc cedict traditional simplify character pinyin zhuyin pinyin-syllables character chinese code sentence sentence l syllable constant started-read pattern pattern

@@ -1,0 +1,1 @@
+jaconv japanese converter half width kana hiragana katakana hankaku zenkaku u jaconv-travis-coveralls-pyversion-version alt normalize katakana installation install u jaconv-travis-coveralls character character kanaalphabet support python fix version normalize kana alt hankakuzenkaku alphabetkana katakana

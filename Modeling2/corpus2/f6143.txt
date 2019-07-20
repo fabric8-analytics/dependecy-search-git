@@ -1,0 +1,1 @@
+requests-mauth mauth signing excellent requests client library technology management study conduct python server app-id private install authentication version status updated-versions key tox make update

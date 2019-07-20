@@ -1,0 +1,1 @@
+ptest run-debug configuration standard ptest test module classes class c-folder-mytest decorators decorator environment classifier python software test-testing

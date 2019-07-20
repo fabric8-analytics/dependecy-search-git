@@ -1,0 +1,1 @@
+xbmcswift2 example documentation tutorial installation install instal xbmcswift xbmc-plugins-features api apis bug bug new helper development develop get add version url url-parsing plugin micro-framework backwards-compatible

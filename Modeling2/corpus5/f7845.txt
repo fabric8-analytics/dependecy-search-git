@@ -1,0 +1,1 @@
+nilm-metadata schema model meter measur applianc build etc smartmet power electr energi analyt redd disaggreg nilm nialm describing-appliances-meters-measurements-build time direct directli meter-properti e data describ tag python inherit valid yaml haystack process powerful-inherit paper file sourc new multipl properti json system dataset exampl yamllint ieee-intern

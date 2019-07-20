@@ -1,0 +1,1 @@
+django-paypal large django-paypal-alt supports bugs bug development developers payments payment supported-project paid-support data currently-issue new-versions version base pluggable-django

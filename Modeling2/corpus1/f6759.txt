@@ -1,0 +1,1 @@
+django-favicon favicon installation-install installed url urls py add path pypi

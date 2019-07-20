@@ -1,0 +1,1 @@
+winkerberos native kerberos client implementation python windows sspi authentication gssapi source installation install installing installed code bernie following building support supports cryptography mongodb

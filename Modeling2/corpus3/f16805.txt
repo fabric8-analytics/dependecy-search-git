@@ -1,0 +1,1 @@
+django-extensions repository collect global custom management extension django framework document alt django-extensions translations-documentation get source project project list support support model translation requirement require run minutes-eric install instal

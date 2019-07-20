@@ -1,0 +1,1 @@
+django-speedinfo django profiler views performance cache caching caches profiling profiler views view django-speedinfo-image set setting example conditions condition admin classes class middleware middlewares list run sql configuration-automatically requests requested counts

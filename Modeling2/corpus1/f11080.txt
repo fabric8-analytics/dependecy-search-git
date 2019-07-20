@@ -1,0 +1,1 @@
+duniterpy tests installation install duniter-python-api documents-test support examples-folder make requirements docstrings format decrypt socket document documentation signing sign pip request requests

@@ -1,0 +1,1 @@
+django-badgifi reusabl applic creat badg engin use django class code-block-bash exampl model user custom-model list python properti display gener imag

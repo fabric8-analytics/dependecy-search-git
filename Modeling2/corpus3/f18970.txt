@@ -1,0 +1,1 @@
+django-settings-context-processor set django-settings specify template

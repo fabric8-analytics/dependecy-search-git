@@ -1,0 +1,1 @@
+codacy-coverage development coverage project project commit commits sbt-codacy-coverage report report scala-code file file git java owner integration-token integration build build support support fail extra debt source source ci request request-sha authentication-make bitbucket-stash simply replace replace codacy-coverage project project alt owner run run token version

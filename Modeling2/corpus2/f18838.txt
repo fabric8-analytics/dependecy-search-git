@@ -1,0 +1,1 @@
+sphinxcontrib-bibtex extension travis-coveralls-version alt extension-allows-citations relies

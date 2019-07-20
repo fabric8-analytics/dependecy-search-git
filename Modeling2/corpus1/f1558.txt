@@ -1,0 +1,1 @@
+impacket releases release support python protocols install installing py licensing license msrpc protocol-implementation tcp level need secureauth teo plain information impacket implementations smb testing test run running version versions setup oriented-api r-domain html-report cfg

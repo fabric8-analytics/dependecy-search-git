@@ -1,0 +1,1 @@
+assetgen asset javascript css coffeescript sass typescript less lessj rool scss stylu sourc map in file generate-j javascript-css-fil static-handl specifi e gener handler paramet fals output support embed content-embed profile-dev hoc flip simpli repositori parameter-get sourcemaps-tru creat requests-cr url path request

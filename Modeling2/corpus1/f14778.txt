@@ -1,0 +1,1 @@
+django-databrowse django django-databrowse tests tested translations translation following-line requiring required setting simply templates template models model running run lines admin-dynamically

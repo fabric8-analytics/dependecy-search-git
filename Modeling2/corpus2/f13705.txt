@@ -1,0 +1,1 @@
+flask-migrate applications application flask need needs example folder change database documentation migrate migrations

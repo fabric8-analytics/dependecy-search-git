@@ -1,0 +1,1 @@
+kibana config import export map index mapping-cach refresh name install-us v search py entri period current instal pattern

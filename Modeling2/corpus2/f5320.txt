@@ -1,0 +1,1 @@
+rstcheck restructuredtext lint check pypi readme rst analyze supported support files configuration-file python code-blocks sphinx testing tests test checking directory directories level options-ignore optionally block line-option add checks-syntax allow-ignoring make examples example title bad info errors error checks

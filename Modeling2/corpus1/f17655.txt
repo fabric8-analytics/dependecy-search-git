@@ -1,0 +1,1 @@
+django-nested-admin django admin classes allow nested inlines python django django admin django testing test tests admin run runs running grappelli python directory webdriver way inlinemodeladmin installed installation install installs building optional options-available build-badge

@@ -1,0 +1,1 @@
+python-logstash test-logg ad version messag handler logger logging-handl default type pass field info host json import codec valu class tcp true

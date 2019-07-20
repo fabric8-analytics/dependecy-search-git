@@ -1,0 +1,1 @@
+django-ajax-upload-widget file files uploaded ajax-upload-widget app browser browsers-including included include license licensed hash-string plugin model-fields field installation plugin-acts working-example works form forms transport

@@ -1,0 +1,1 @@
+restfuli crud http good step forward use resourc becom rest anoth make hypermedia base servic gem allow quickli step-forward

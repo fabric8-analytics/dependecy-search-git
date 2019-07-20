@@ -1,0 +1,1 @@
+jupyter-contrib-nbextens collect variou notebook extens jupyt ipython instal jupyter-notebook-extens nbextens file version directori javascript configurator-server-extens packag option pip nbconvert develop copi master ipython-contrib provid server edit config tree expect window document markdown md configur chang contribut simply-type-altern io vari

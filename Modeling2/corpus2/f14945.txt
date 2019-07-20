@@ -1,0 +1,1 @@
+yelp-bytes utilities dealing byte strings invented maintained yelp encoding encoded bytes unicode bytestrings bytestring common message functions function rare arbitrary-values edge

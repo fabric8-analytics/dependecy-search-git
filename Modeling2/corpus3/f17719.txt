@@ -1,0 +1,1 @@
+djangocms-table django cm plugin create table plugin djangocms-table require contains

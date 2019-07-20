@@ -1,0 +1,1 @@
+ndg-httpsclient http client implement httplib urllib base pyopenssl file fix ad ssl support python certif url version releas utils-funct ndg issued-cert matching-upd max function cert add package-warning-issu use use-byt provid data warn thank van option

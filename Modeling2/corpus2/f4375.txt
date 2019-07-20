@@ -1,0 +1,1 @@
+flask-webpackext webpack integration flask flask-webpackext-webpack assets released release configuration dynamic dynamically points-collect

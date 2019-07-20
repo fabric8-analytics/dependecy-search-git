@@ -1,0 +1,1 @@
+ploy-fabric plugin integrate fabric ploy instances instance fabric-ploy-installation arguments argument installed install managed user options option manager-accessible recipe access task tasks fschulze-require commands command connection connections b-allow manager allowing simplified simplify version requirements requires use useful adds add added

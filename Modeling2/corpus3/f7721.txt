@@ -1,0 +1,1 @@
+pyramid-urireferencer pyramid plugin handle reference external uri web wsgi pyramid uri rest reference pyramid add add function fixed-applicationresponse fix request url pyramid well error decorator reference parameter parameter support uri

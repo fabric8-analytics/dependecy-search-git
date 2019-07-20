@@ -1,0 +1,1 @@
+satispy sat-boolean solver solver program cnf class class object object library note write directory arbitrary-solution solution solver solver sat-boolean program class class cnf variable variable write note library solution arbitrary-solution temporary

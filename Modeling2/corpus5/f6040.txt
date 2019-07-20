@@ -1,0 +1,1 @@
+django-infinite-pagin pagin templat page tag queri object bootstrap django link view applic

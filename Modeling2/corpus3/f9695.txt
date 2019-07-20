@@ -1,0 +1,1 @@
+scrapy alt version web supported-python-versions release release release scrapinghub-com structured-data blog list support window

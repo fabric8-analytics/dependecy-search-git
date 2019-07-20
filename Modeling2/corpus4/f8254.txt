@@ -1,0 +1,1 @@
+winpython pyqt pysid portable-distribut

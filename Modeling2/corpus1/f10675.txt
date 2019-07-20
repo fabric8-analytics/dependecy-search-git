@@ -1,0 +1,1 @@
+photutils affiliated package image photometry utilities maintainers larrybradley bsipocz astronomy astropy astropy affiliated photometry python source detection astronomy astrophysics photometry aperture psf source detection background segmentation centroids isophote morphology photutils-alt status-documentation license licensed code-docs-photutils

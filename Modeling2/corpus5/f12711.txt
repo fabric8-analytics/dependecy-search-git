@@ -1,0 +1,1 @@
+django-jqueri django jqueri staticfil instal py

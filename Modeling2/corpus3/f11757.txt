@@ -1,0 +1,1 @@
+dj-scaffold project py env dj-scaffold app apps boilerplate-variables requirement

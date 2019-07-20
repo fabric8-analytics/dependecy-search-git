@@ -1,0 +1,1 @@
+xstatic-spin spin xstatic packaged package packaging easy-install

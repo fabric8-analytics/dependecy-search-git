@@ -1,0 +1,1 @@
+outputcheck tool checking output inspired llvm filecheck checked check-directives directive line lines file ways way python succesful-example whitespace literal programs program package packages expression git

@@ -1,0 +1,1 @@
+smbus-cffi smbus-cffi-alt ic-dev python instal instal instal instal test test test test py base base requir requir board pip host host linux-host exampl write write bu author author read-block develop licens driver pi git read

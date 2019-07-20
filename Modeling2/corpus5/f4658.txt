@@ -1,0 +1,1 @@
+django-admin-bootstrapped-plu admin theme depend django-admin-bootstrap interface-experience-quick root

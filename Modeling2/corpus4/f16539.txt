@@ -1,0 +1,1 @@
+django-osgeo-import extens django app allow user upload geospati data support support set set set geospatial-data epsg possibl api custom custom extens file file import-process flavored-api import import import python locat format format ad ad test test gdal running-test csv run django option applic applic base open open driver

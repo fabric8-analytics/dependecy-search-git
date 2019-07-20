@@ -1,0 +1,1 @@
+mplayerctrl mplayer wxpython video audio document

@@ -1,0 +1,1 @@
+os-package-registry manage registry packages elasticsearch instance fdp fiscal data package openspending elasticsearch package-registry packages

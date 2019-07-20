@@ -1,0 +1,1 @@
+pager key getch-function return return return stable-fix linux reads-keys window window returned-result fix pages-output issue api python reading console page-callbacks input library prompt-callback external correct public pager line blank-line manual echo hex danny char char-new default string

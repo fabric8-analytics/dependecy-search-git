@@ -1,0 +1,1 @@
+python-evtx python-evtx xml file windows-event-log-files licensed license template work works working parsing parses logs record-templates format implementation-parse vista-microsoft provides provided installed installation install document separate description tracker use uses chunk chunks ascii schuster versions version parser python parsing perl-implementation-parse use pure

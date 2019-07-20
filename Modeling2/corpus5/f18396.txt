@@ -1,0 +1,1 @@
+django-widget-tweak tweak form field render templat python level definit css class html attribut alter filter exampl form-field html-attribut add error-class css-class code data widget-tweaks-alt sourc error bug multiwidgets-splitdatetimewidget support test fixed-support template-tag fix django-widget-tweaks-alt ad make widget copi improv label reusabl

@@ -1,0 +1,1 @@
+sqlalchemy-postgres-autocommit library use sqlalchemy postgresql autocommit mode transaction transactions tests testing test tested fixtures fixture transactional-connection session example examples configures configured configure database usage-configuration statements run runs running code sql-statement function like dirty

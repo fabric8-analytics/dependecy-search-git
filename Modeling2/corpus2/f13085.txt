@@ -1,0 +1,1 @@
+pyclipper polygon clipping intersection union offsetting boolean clipper vatti library functions function cython source sources b clippers-preprocessor scale scaled scaling version enabled enables enable point package packages added bug-fix numerical properties property modes mode different conversions example x jamiebull-travis-ci written

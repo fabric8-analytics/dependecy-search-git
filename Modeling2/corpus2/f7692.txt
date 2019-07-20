@@ -1,0 +1,1 @@
+awsclpy awscli aws amazon web services command line interface elastic chain-awscli-commands create ec manually

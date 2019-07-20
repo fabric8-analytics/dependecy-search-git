@@ -1,0 +1,1 @@
+gmpy gmp mpir multiple precision python-gmpy multiprecision-arithmetic release releases x numbers version decimal

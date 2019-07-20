@@ -1,0 +1,1 @@
+django-chosen django formfield use chosen javascript plugin jqueri licens field select select-field-librari avail filler media form-media form friendli support

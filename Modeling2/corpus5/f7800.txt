@@ -1,0 +1,1 @@
+django-inlinecss django app use inlin css primarili e mail html style email inlining-css file core selector email-gener acknowledg

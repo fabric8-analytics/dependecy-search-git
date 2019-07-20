@@ -1,0 +1,1 @@
+solrcloudpy python library interacting solrcloud solr python solr client solrcloud solr solrcloud python indexing index code documents documentation collections collection api searching search

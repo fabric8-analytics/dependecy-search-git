@@ -1,0 +1,1 @@
+logstash-formatt log formatter-json-log test-pi sourc output-log source-host n host unknown extra-field iso-timestamp following-named-paramet output messag

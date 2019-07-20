@@ -1,0 +1,1 @@
+mecab-python python installation install py prefix

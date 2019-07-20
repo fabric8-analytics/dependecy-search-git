@@ -1,0 +1,1 @@
+pyeasyga pypi algorithm statu ga note genetic-algorithm-implement pypi-build version v-ad select new-vers fix document exampl major-minor-micro

@@ -1,0 +1,1 @@
+simpleapi server py client formats-e django license python instance capabilities-examples jquery simpleapi-version version use-consistent caching-throttling support support json

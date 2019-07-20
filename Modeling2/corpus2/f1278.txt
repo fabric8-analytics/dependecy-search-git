@@ -1,0 +1,1 @@
+hvac lock python x client hashicorp vault api usage major-versions python-x parsed-hcl

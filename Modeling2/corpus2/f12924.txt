@@ -1,0 +1,1 @@
+pikepdf python library reading writing pdf powered qpdf generation manipulation pdf-files pdfs license licensing test tests editing supported supports commercial-support python-library code pull rc low creates features feature ocr-text versions public like file

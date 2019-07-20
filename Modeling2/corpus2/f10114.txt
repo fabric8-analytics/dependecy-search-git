@@ -1,0 +1,1 @@
+djangocaptcha django value validate

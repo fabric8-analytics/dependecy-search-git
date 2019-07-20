@@ -1,0 +1,1 @@
+pelican-extended-sitemap page sitemap plugin set github content use test xml follow python daily-weekly-monthli code default

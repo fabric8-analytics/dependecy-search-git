@@ -1,0 +1,1 @@
+redisco redis model container models set settings model-attributes-attribute-stores default sets-lists setting-indexed-true containers containing indexing index indexes store-objects field fields validator validating valid validate validated object-saved floats saving save selecting float-datefield list queries value false datetimefield

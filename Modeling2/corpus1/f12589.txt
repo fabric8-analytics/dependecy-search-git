@@ -1,0 +1,1 @@
+django-phrase phraseapp django applications django-phrase translation translators translating translations file mo-files template templates signup key keys lets let editor applications application javascript liberaries work works

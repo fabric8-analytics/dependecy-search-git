@@ -1,0 +1,1 @@
+quack build submodul modul depend copy-fil profil task repositori git-repositories-cod configuration-yaml-provid branch version-new note-depend option specific-commit tag commit dependencies-execut complex setup configur execut disadvantages-pypi project

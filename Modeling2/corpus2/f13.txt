@@ -1,0 +1,1 @@
+librabbitmq python bindings c amqp client library python-amqp downloading consuming library-version-download rabbitmq shiftwidth

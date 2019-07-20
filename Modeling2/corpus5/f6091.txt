@@ -1,0 +1,1 @@
+swaggapi swagger method respons class method-django file field description-respons str usag object classes-badrequest rest type model better exception-detail

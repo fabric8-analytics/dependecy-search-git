@@ -1,0 +1,1 @@
+hpfeeds-logger small app reading mhn hpfeeds broker writing splunk logs logger normalizer formatter honeypots user py configured installation-configuration

@@ -1,0 +1,1 @@
+django-messages ar-thanks messaging messages message django install installed version versions-x python maintained docs es app apps archive usage templates template easy-url-based dependencies morstabilini send

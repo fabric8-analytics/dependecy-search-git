@@ -1,0 +1,1 @@
+django-modeldict example actively things-like

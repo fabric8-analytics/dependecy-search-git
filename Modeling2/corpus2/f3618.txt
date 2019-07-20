@@ -1,0 +1,1 @@
+celery-redis-sentinel redis sentinel broker results backend celery tasks task non url makes make use uses new-master clustering cluster pretty mit-license-github abstract dealertrack configure configuration support

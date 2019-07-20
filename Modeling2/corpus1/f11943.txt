@@ -1,0 +1,1 @@
+dictns dict object object namespace-objects fix dicts dict-subclasses simple-python allow-initialization initial code readme referenced

@@ -1,0 +1,1 @@
+wurlitzer capture pipe pipe capture-c-level-stdout post manager

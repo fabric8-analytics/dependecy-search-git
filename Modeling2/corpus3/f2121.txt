@@ -1,0 +1,1 @@
+jpegtran-cffi jpeg-transformations image c transformation transform include include copyright library purpose-image-processing-libraries jpegtran-cffi copy copy refer reference work includes-rudimentary person person documentation armv earlier benchmark notice process process distribute wand

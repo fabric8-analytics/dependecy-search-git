@@ -1,0 +1,1 @@
+pydoc-markdown markdown pydoc gener doc document fix line refer line-support modul pydocmd cross-refer include-documented-memb changes-v support includ render type member add code exampl pr option command transform http global addit handl name chang symbol use configur

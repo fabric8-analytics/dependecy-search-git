@@ -1,0 +1,1 @@
+publicsuffixlist domain domains punycoded punycode public-suffix-list support supported python-x-compliant users script suffixes psl encoded encoding license licensed icann unicode available

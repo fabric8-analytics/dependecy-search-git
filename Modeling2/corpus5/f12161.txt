@@ -1,0 +1,1 @@
+pg4nosql postgr no sql wrapper databas json version tabl relat queri nosql-like-databas method add data-typ update-method saving-object save normal way argument fix result exampl new field access python cansik copyright python-versions-licens build-status-cod execut call row

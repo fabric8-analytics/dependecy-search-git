@@ -1,0 +1,1 @@
+dj-obj-upd object outputs-debug-instal output

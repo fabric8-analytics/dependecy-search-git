@@ -1,0 +1,1 @@
+django-templated-mail send email use django templat system django email email templat email code templated-mail templat develop develop file-develop

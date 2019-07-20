@@ -1,0 +1,1 @@
+httplib2 small fast http client librari python featur persist connect cach googl app engin support origin written joe gregorio commun network compress redirects-automat socket request updat checkout-unit

@@ -1,0 +1,1 @@
+isogeo-pysdk gi metadata inspire isogeo api rest geographical data iso package contribution-guidelines-usage api project requirement requires-oauth

@@ -1,0 +1,1 @@
+pytest-runner test testing-requirements tests-require require require requirement require pytest-runner setup usage standalone consider avoid index-url option optionally like dependency debug example example

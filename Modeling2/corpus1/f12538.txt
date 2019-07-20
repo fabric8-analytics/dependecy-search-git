@@ -1,0 +1,1 @@
+django-saml-service-provider provider provided provide django-saml mixin simple conveniently

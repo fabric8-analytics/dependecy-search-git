@@ -1,0 +1,1 @@
+django-prettyjson django prettyjson json jquery configure enables enable line-configuration standardjson object objects-dicts tag dependencies fixed fix widget-fixes configuration added objects widgets initially initial parsed css string allows

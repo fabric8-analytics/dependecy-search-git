@@ -1,0 +1,1 @@
+sphinx-sitemap version html-version sitemaps sphinx-sitemap-generator language license license pypi language-locale search locally urlset contribute contribute value late generate generate py set set build md add

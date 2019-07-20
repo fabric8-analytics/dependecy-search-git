@@ -1,0 +1,1 @@
+diff-highlight mercurial git diff highlight diff-highlighter add-highlights highlight-adds-word-highlighting fix home text python words extension extensions pager support

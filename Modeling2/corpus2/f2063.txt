@@ -1,0 +1,1 @@
+django-generate django slightly smarter fixtures content generation app generating generated content-generation create-objects created-json contents file list management-command inheritance manage users resources path manager managed correctly corrected use file-fields support direct project test testing

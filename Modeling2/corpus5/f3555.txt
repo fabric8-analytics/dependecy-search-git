@@ -1,0 +1,1 @@
+fuselag configur oftc simple-python

@@ -1,0 +1,1 @@
+swutils swutils contributing swutils rst-license right-usage-scripts python

@@ -1,0 +1,1 @@
+rax-scheduled-images-python-novaclient-ext nova images

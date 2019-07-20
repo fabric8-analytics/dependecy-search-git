@@ -1,0 +1,1 @@
+pygeobase base class definition interfaces poets test tests miniconda package packages adds add code git researchers research version versioning conda path accept-pull fixes-development installation installable install installed o branch environment documentation script

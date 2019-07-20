@@ -1,0 +1,1 @@
+django-admin-jqueryui simpli add jqueri ui admin panel app-adds-jqueri app

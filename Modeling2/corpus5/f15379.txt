@@ -1,0 +1,1 @@
+pywinrm winrm ws man devop manag run authent host windows-remot messag ntlm-auth http powershel endpoint certif request encrypt account transport-opt enable-encrypt requests-kerbero use server allow format enabl remot option matt encod wmi work credssp usag api support version includ command unencrypt default

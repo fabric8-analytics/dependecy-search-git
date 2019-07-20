@@ -1,0 +1,1 @@
+django-memcached memcached django use-easy-install running run installing

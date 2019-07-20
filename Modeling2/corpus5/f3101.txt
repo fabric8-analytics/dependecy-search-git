@@ -1,0 +1,1 @@
+django-simple-histori history-alt django updat request request-contribut gh-ad fix model changes-fix historical-model allow add-support custom admin custom-us key manag packag app-support delet foreign-key user test issu local instanc call view relat specifi object field chang deprec creat file python style project autofield van-schelven initi oct

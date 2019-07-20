@@ -1,0 +1,1 @@
+apr ham radio aprs-python interfac interfac frame frame interface-class licens usage-examples-example-librari connect connect digi base supports-connect net-copyright callsign tcp wgmd phillips-freeman kiss fcs-pi class support receiv receiv current send send send target

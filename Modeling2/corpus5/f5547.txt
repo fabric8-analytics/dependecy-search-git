@@ -1,0 +1,1 @@
+django-happen calendar event-calendar use templat set happen event includ default version settings-cod format python views-includ like coverage-vers option included-south-migr differ instal urls-pi url languag start list replac name make view support request namespac local upgrad html specif exampl

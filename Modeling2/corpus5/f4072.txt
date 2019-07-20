@@ -1,0 +1,1 @@
+pymc3 probabilist program python bayesian model machin learn theano statist analysi infer mcmc variat pymc numpi numfocu data build c binder algorithm building-interfac inform veloc comput special develop batch e commun extens exampl code-exampl updat list updated-list approximate-posterior value-imputation-get featur licens carlo fit

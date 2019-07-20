@@ -1,0 +1,1 @@
+funcparserlib parsing parser lexer library functional combinator fp functor monad parsers parsed libraries descent-parsing-library json performance performs python times values code domain size tests testing projects project position comments k kloc lexer-generator generate generators brackets-mini similar hoc combinators ll python-ll order method position-tracking

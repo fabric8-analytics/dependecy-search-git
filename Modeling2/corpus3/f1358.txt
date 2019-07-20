@@ -1,0 +1,1 @@
+pysparklines series representation encode

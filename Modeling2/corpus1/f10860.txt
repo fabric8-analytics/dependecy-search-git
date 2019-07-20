@@ -1,0 +1,1 @@
+flask-static-compress compressed compression default static-compress-alt mode santos performance css trailing page files file assets asset path

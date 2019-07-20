@@ -1,0 +1,1 @@
+adafruit-ampy adafruit ampy hardware micropython circuitpython command commands run ampy like directory python files file board boards-installation port note install installed micropython-tool tools untested variable variables osx mode

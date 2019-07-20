@@ -1,0 +1,1 @@
+sphinx-hwt sphinx document hwt fpga hardwar vhdl system verilog schemat wave librari gener document-generator-add live current doc unit zoom-pan-dynamic-colapsing-net-select-search vhdl-verilog

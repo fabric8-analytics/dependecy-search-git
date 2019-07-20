@@ -1,0 +1,1 @@
+django-filters filter django-filters installation installed install-git baskoopmans

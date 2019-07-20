@@ -1,0 +1,1 @@
+scikit-criteria classifier-development license criteria author unknown develop bsd audience python

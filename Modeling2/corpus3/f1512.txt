@@ -1,0 +1,1 @@
+django-zappa django-zappa deploy deploy deployed deployment server server-configuration web deployment-environments aws-lambda-api-gateway management set setting set dev command command file file configure configure configure packaging package package new enable enabling-cors compatible work work quickly balance environment route python installation instal response make make make

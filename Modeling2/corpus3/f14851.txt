@@ -1,0 +1,1 @@
+pip-upgrader cli pip pypi requirement upgrade requirement require installation installs instal install instal version version code virtualenv file print-coverage pipfile tool contribute pip-upgrader upgrade upgrade upgraded ask

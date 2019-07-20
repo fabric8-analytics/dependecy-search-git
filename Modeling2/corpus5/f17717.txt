@@ -1,0 +1,1 @@
+django-field-histori django field histori code model python mysql manag chang run n app object ye default like ad command management-command mysql-support compat store fix track key

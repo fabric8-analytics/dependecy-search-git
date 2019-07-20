@@ -1,0 +1,1 @@
+django-appcor alt version method use download run

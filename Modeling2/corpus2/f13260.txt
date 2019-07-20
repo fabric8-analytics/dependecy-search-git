@@ -1,0 +1,1 @@
+jstools collection python scripts packaging efficiently serving javascript files js install installing installed installs bin configuration-file script exclude tested tests test path git jsbuild depending dependencies dependency org schaub wget dir output py environment license project-whit noted-buildout rd

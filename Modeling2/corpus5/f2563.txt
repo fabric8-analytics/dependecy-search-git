@@ -1,0 +1,1 @@
+gphoto2 python python-gphoto version file function error libgphoto object interfac camera use code log gp c includ github paramet swig sourc note instal return command direct directli jim directori e messag softwar way document automatically-gener api exampl requir cffi func buffer multipl name event gener sever user particular pip

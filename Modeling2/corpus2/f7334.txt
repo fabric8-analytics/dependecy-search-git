@@ -1,0 +1,1 @@
+cell-tree2d cell tree data structure fast searching unstructured grid polygon containing specified point lookup cells increasingly increases increased p bounded bounding bounds building build d vertices duplicates nodes node numpy-array-containing polygons arrays contains contain immediate-answer answering answers

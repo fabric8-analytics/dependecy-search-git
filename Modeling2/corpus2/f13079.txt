@@ -1,0 +1,1 @@
+nipy neuroimaging python fmri analysis package development develop developers current installable install installation testing-package nose tests code eeg documentation create programming program downloads download environment brain-imaging

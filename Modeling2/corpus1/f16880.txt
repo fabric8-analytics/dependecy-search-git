@@ -1,0 +1,1 @@
+django-raster django raster allows create tiled map services tms raster map algebra end points web maps python based requires geodjango postgis backend django framework webmap slippy map postgis python tms raster geodjango django raster gis gdal celery geo spatial rasters raster

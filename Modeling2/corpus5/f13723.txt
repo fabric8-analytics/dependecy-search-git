@@ -1,0 +1,1 @@
+pygmo contain sphinx document see actual code pleas use pagmo repositori http github com esa python bind c scienc math physic optim ai evolutionari comput parallel metaheurist provid scientific-library-provid multiobject parallel-comput

@@ -1,0 +1,1 @@
+django-wsgiserv cherrypi server instal code files-support product python pip-instal use serv support run test version project-settings-fil ad host hosted-sit site peter http-http piel serves-admin-media includ uwsgi add note ssl small respons bind featur wsgi interfaces-set demonstr request acknowledg like licens command runwsgiserv memori interfac static

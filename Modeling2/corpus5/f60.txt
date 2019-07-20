@@ -1,0 +1,1 @@
+iw-pars instal shell qualiti network network-interfaces-exampl

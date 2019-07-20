@@ -1,0 +1,1 @@
+django-permanent django delete undelete safedelete remove restore softdelete logicaldelete trash python queryset querysets case-provides-check-existence code provide-soft-logical method

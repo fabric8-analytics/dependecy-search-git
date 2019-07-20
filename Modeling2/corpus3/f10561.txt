@@ -1,0 +1,1 @@
+transliterate translit language code language-packs python-transliterates-unicode text text detection detect transliterate transliterator transliteration slugify generator generation generate reversed-transliterations armenian pack character character lorem script georgian-greek russian example example alpha require c write additional stable-version

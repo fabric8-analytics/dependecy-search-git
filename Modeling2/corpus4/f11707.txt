@@ -1,0 +1,1 @@
+geonode-avatar fork django avatar compat django avatar user-avatar avatar storag avatar avatar size default-s default render render storag resiz resiz resiz templat set set set view view like gravatar user option option gener scheme

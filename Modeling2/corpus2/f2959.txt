@@ -1,0 +1,1 @@
+django-simplemde django simplemde install installed supports support like configurations

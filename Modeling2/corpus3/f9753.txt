@@ -1,0 +1,1 @@
+chemcoord chemcoord transformation cartesian internal chemistry zmatrix xyz zmat coordinate coordinate system installation installer coordinate coordinate zmatrix package-status distinct express expression g oskar base thesis version python packaged-versions c-like implement function analytical dummy redundant

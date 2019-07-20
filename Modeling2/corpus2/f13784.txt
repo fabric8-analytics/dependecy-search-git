@@ -1,0 +1,1 @@
+mne python required require code image installing install installation source bash latest analysis learning learn pip visualizing visualization eeg-seeg travis documentation pyvista

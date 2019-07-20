@@ -1,0 +1,1 @@
+superdesk-cor common server modul superdesk superdesk python flask celeri mongodb elasticsearch superdesk-core-librari applic

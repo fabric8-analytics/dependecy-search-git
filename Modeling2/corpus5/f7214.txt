@@ -1,0 +1,1 @@
+pipfil version python requir file python-depend e exist recurs group note exampl specifying-group code-block-toml-not use instal hash design org directori gener specifi default depend reitz-lesson default-develop get command-lin eventu integration-eventu lesson

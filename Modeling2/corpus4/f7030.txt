@@ -1,0 +1,1 @@
+una-django-cassandra-engin django cassandra engin backend driver wrapper databas nonrel cqlengin cassandra model model-stor databas databas licens licens instal store connect change-set destroy rafa

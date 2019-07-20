@@ -1,0 +1,1 @@
+django-openid-provider applicable django-openid-provider-application-acts

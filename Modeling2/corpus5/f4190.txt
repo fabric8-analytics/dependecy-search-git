@@ -1,0 +1,1 @@
+aioe add elasticsearch python test compat allow aiohttp-tests-mak thread enabl accept initi use support licens

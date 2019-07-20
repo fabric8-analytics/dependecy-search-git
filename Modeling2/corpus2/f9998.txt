@@ -1,0 +1,1 @@
+django-utensils reusable django components viewing views settings set form view-mixins setting-forms-generic-search mixin server fields field class object objects context use useful uses subsequent fragment store page template templates query version check-whilst installation install case site request view setting-forms-mixin code-python add

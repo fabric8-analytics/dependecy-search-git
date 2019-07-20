@@ -1,0 +1,1 @@
+mamonsu monitoring code bash zabbix postgresql-build tool template configuration-templates v configure installation install installer metrics information host server nginx version plugin plugins

@@ -1,0 +1,1 @@
+pyeebl astronomi modul kovacs-eebl transit frequenc array arrays-parameters-ndarray int paramet period-float et python-bl level bit foreman setup-pi instal numpy-instal venv float workarr dnf gcc brew use

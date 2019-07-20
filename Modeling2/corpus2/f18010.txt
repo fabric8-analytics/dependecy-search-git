@@ -1,0 +1,1 @@
+boxed python functions function user sandboxing sandbox super port ports capability capabilities suid linux drops drop grained osx strings possible possibility processes process pickle executable execution executables execute executed interpreter interpreted serialized serializer

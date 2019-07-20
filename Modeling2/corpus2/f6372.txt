@@ -1,0 +1,1 @@
+hmac python hg-revision

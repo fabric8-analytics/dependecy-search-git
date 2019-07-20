@@ -1,0 +1,1 @@
+birdhousebuilder-recipe-nginx buildout recipe birdhouse nginx conda options optional buildout-option fixed added update updated recipe-nginx default user certificate certificates folder myapp client ssl enabled install installed installation installs installing prefix fail fails generation generates anaconda example value values travis server started start disabled create proxy

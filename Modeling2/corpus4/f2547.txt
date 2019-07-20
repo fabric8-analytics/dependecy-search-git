@@ -1,0 +1,1 @@
+pybreak design pattern circuit breaker integr option option breaker breaker python oper oper configur tornado timeout timeout version integr exceptions-e-g syntax failur failur databas databas immedi command call event-listen listen back

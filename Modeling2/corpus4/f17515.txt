@@ -1,0 +1,1 @@
+flask-hal flask extens easili add support rest hateoa via hal specif http tool ietf org html draft kelli json hal flask hal rest view sourcecod dave easi flask sourcecod easi featur dave doc releas

@@ -1,0 +1,1 @@
+apns-client apns push notification apple messaging ios support implementation implementations certificates certificate push python apns makes making compatibility-library-openssl clean-pythonic standard-networking help long outstanding worker io different differs enhanced v cleanly compatible simplifies-deployment

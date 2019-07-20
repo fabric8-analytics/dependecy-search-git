@@ -1,0 +1,1 @@
+pynetinfo network ifconfig rout network list

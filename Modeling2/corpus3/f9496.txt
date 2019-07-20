@@ -1,0 +1,1 @@
+djmail sends-emails django-email send task task license barragn antukh

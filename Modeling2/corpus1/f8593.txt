@@ -1,0 +1,1 @@
+geopatterns generate generator generators svg string library port

@@ -1,0 +1,1 @@
+piexif exif jpeg piexif-build-statu remov filenam zip licens python pillow

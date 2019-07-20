@@ -1,0 +1,1 @@
+pynance finance investment stock equity market option derivative documentation version version python data dependency directory pynance change change branch branch create current-public sphinx actually section pypi-reorganize

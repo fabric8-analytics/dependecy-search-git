@@ -1,0 +1,1 @@
+docstamp svg template renderer table data based inkscape jinja templates template docstamp license file inkscape release badge-creator header ljsalvatierra-haseeb installation install installed version versions fixed fixes templates template file docstamp license inkscape support cli release-requirements majid badge-creator header python pypi

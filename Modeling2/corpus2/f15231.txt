@@ -1,0 +1,1 @@
+django-report-utils common functions used reporting needs django report builder scaffold

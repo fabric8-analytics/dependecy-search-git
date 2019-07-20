@@ -1,0 +1,1 @@
+azure-graphrbac model chang paramet add user required-application-paramet urls-breaking-chang applic applicable-bugfix group featur client new break id type microsoft-azur requir packag oauth-allow-url object list enum-typ bugfix-identifi fix argument oper use delet complet rc app code sign class http-session properti enabl attribut attributes-mail-en releas str owner

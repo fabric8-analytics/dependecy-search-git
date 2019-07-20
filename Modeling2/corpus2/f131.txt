@@ -1,0 +1,1 @@
+mhctools python interface running command line web based mhc binding predictors requires sequence predictor-installed mhc-binding-predictors prediction predictions peptide-sequences-automatically use uses rank peptides api

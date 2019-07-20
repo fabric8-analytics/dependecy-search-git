@@ -1,0 +1,1 @@
+cmsplugin-embedded-menu django cm plugin templat menu item interfac attributes-item set html extens list look base follow layout contribute-simpli contribut text li provid projectnam virtualenv-dev allow select allow-select

@@ -1,0 +1,1 @@
+powerline-status powerline mode alt code coding support supported vim python rich image shells shell applications files file com-source statusline statuslines unit bailey lines instructions bash performance extensible better-extensibility

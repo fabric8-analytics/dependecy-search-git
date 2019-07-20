@@ -1,0 +1,1 @@
+sqlalchemi databas python-sql queri orm performing-database-access python relat object schema develop object-relational-mapp allow key includ application-develop statement core transact set map issu base dbapi type provid applic languag persistence-pattern model layer natur perform

@@ -1,0 +1,1 @@
+django-ckeditor-fc ckeditor setting settings sets uploading uploads optionally-set included added image-upload uploaded-images thanks url-include media admin testing tests path user add authors views file files defined field py

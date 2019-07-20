@@ -1,0 +1,1 @@
+mcp3208 python driver mcp adc raspberri pi spi lsb-max v copyright input c instal document person includ differenti copi notic bit interfac use chip

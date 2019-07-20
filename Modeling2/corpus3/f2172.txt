@@ -1,0 +1,1 @@
+squmfit fit global-fitting squmfit non curve objects-naturally

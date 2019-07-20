@@ -1,0 +1,1 @@
+yara version bugs bug rules yara-ctypes-python fix fixed fixes issues issue thread improved improvements improvement project-cpython pool pooled interface libyara class easy tested testing test com added bit py high-order run

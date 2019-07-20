@@ -1,0 +1,1 @@
+django-partial-index index django-partial-index add-uniqu support support support add multipl row fix databas modelform modelform model class-bas sqlite-databas job job tabl tabl usag postgr kept class queri deprec deprec condit condit condit requir requir ad ad gener definit definit make runsql

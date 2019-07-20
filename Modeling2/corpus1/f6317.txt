@@ -1,0 +1,1 @@
+flask-restpoints flask-restpoints install

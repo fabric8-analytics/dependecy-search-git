@@ -1,0 +1,1 @@
+django-dbtemplates template template django admin alt target

@@ -1,0 +1,1 @@
+django-genericadmin django inlin inline-admin model-admin generic-model type rel relat content-typ foreign-rel code-python make use field lookup interfac exampl dandy-javascript

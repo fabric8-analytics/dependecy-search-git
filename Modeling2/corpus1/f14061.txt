@@ -1,0 +1,1 @@
+django-genshi django genshi shortcut-functions-usage function-implements templates filters filter django-template notes detailed prior implemention

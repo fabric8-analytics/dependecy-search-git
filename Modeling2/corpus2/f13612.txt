@@ -1,0 +1,1 @@
+dj django extra contrib module management namespace

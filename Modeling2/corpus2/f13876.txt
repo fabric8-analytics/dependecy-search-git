@@ -1,0 +1,1 @@
+py-ubjson universal binary json draft serializer python ubjson encoder decoder c extension pure ubj decode encoder-decoder encoded encoding extensions type typed types level releases release speed array arrays notes e-g-note specification specifically strings limitations plain code-shell g supported support supports

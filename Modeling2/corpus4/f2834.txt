@@ -1,0 +1,1 @@
+openstack-nose-plugin nose test test-output

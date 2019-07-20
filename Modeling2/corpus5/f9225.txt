@@ -1,0 +1,1 @@
+mamonsu monitor code bash zabbix postgresql-build tool templat configuration-templ v configur instal metric inform host server nginx version plugin

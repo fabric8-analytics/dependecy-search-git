@@ -1,0 +1,1 @@
+django-suit-ckeditor master ckeditor django-admin

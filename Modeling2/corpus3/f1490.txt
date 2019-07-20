@@ -1,0 +1,1 @@
+pynetgear netgear-router device router devices-returns allows allow port python mac model meter remote tuples block pynetgear wndr return support support default ssl

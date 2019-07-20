@@ -1,0 +1,1 @@
+django-transl translat tranz default use-fil django-app file-format default-domain messag plural domains-messag use support local templat different-local command strings-simple-plur exampl type format class document settings-pi set follow loader dev yml extractor sound placehold instanc directori reload string app

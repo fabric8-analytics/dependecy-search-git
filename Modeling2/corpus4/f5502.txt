@@ -1,0 +1,1 @@
+flask-genshi version stable-releas

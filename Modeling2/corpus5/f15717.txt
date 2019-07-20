@@ -1,0 +1,1 @@
+popit-django deprec pleas consid use django popolo instead data databas environ futur anonym stand local note api popit warning-alpha feel incompat bash reuse-warning-alpha-cod http setup build-statu locally-stor default

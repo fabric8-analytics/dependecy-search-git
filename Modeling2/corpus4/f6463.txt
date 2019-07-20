@@ -1,0 +1,1 @@
+python-vxi11 provid vxi driver control instrument ethernet vxi lxi measur instrument python-vxi agil connect connect gpib resource-str package-support

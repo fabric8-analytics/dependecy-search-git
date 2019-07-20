@@ -1,0 +1,1 @@
+android-asset-resizer android asset resource res drawable resizer assets imaging images generate easily bug source-image-like license library

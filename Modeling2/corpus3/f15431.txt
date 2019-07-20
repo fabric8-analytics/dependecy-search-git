@@ -1,0 +1,1 @@
+magickwand imagemagick magickwand cdll binding copyright include redistribution redistribution oliver provide strict product prior-written indirect-incidental-special follow

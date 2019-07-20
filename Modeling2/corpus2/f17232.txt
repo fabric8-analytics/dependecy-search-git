@@ -1,0 +1,1 @@
+django-admin-tools-stats django-admin module modules add graphs py following graph-append alt dashboard based base license licensed stats list file python starbilling installation-install installed

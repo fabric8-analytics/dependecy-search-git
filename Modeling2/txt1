@@ -1,0 +1,68 @@
+Synchronous means that the caller waits for the response or completion, asynchronous that the caller continues and a response comes later (if applicable).
+
+As an example:
+
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Before call");
+        doSomething();
+        Console.WriteLine("After call");
+    }
+
+    private static void doSomething()
+    {
+        Console.WriteLine("In call");
+    }
+This will always ouput:
+
+Before call
+In call
+After call
+But if we were to make doSomething asynchronous (multiple ways to do it), then the output could become:
+
+Before call
+After call
+In call
+Because the method making the asynchronous call would immediately continue with the next line of code. I say "could", because order of execution can't be guaranteed with asynch operations. It could also execute as the original, depending on thread timings, etc.
+
+shareedit
+edited May 26 '15 at 16:40
+
+Nick Orlando
+43211 gold badge55 silver badges1616 bronze badges
+answered Apr 14 '09 at 15:47
+
+Ragoczy
+2,4341515 silver badges1717 bronze badges
+This is the most practical explanation I see here. – Steve Rowe Apr 14 '09 at 16:39
+add a comment
+
+52
+
+In a nutshell, synchronization refers to two or more processes' start and end points, NOT their executions. In this example, Process A's endpoint is synchronized with Process B's start point:
+
+SYNCHRONOUS
+   |--------A--------|
+                     |--------B--------|
+
+Asynchronous processes, on the other hand, do not have their start and endpoints synchronized:
+
+ASYNCHRONOUS
+   |--------A--------|
+         |--------B--------|
+Where Process A overlaps Process B, they're running concurrently or synchronously (dictionary definition), hence the confusion.
+
+UPDATE: Charles Bretana improved his answer, so this answer is now just a simple (potentially oversimplified) mnemonic.
+
+shareedit
+edited Jul 16 '18 at 22:18
+answered Aug 17 '15 at 14:11
+
+entr0p3te
+52144 silver badges44 bronze badges
+2
+copy of Charles Bretana answer – Dinesh Saini Aug 18 '15 at 4:37
+2
+@DineshSaini - My diagram is slightly different . For clarity, I placed A on top of B in both cases, emphasizing whether their start & endpoints are synchronized. Charles Bretana's diagram places the synchronous processes in sequence without "syncing" anything. (I was going to comment below his answer to "improve" it, but realized it would be easier just to show the new diagram.) – entr0p3te Aug 19 '15 at 14:00 
+Ok then upvote to u – Dinesh Saini Aug 21 '15 at 5:55
+Great diagrams. I think the way to call the top one SYNC, is that the start and end of A in the top diagram are effectively at the same time, in the sense that no other events have intervened, or could have interfered with A's completion. Sync can refer to a single task in isolation, like adding to CPU registers, whose start and end are so close, as to effectively be actually dictionary-synchronous. – Dean Radcliffe Dec 28 '16 at 15:32

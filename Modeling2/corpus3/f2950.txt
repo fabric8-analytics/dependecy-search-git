@@ -1,0 +1,1 @@
+quickswitch-i3 dmenu quickswitch workspace workspace window welcome useful use case request-license work work work usage-finding command option option dependency

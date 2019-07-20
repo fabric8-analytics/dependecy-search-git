@@ -1,0 +1,1 @@
+sphinxjp-themes-dotted sphinx restructuredtext theme requirement html-document convert-usage-setup-conf functionalities shoji

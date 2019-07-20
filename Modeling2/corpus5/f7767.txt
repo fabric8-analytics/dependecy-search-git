@@ -1,0 +1,1 @@
+django-jsoneditor file initi repositori copi change-initi code collect admin onlin e exampl like jsonfield implementations-replac implement json view

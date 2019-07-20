@@ -1,0 +1,1 @@
+gevent-psycopg2 copyright license licensed software code person persons documentation including included installation notice publish-use-compile purpose-commercial compiled package copy copies

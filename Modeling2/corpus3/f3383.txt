@@ -1,0 +1,1 @@
+django-angular-scaffold django angular scaffold creates create add add log log angular-scaffold folder file file controller controller view view example folder-structure directory viewname apps app sc style style config

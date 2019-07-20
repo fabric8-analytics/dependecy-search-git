@@ -1,0 +1,1 @@
+flask-statics-helper flask bootstrap resource static-resources template templates updated js x enable enables enabled bootstrapvalidator font flask-statics typeahead setting set config-settings resource updated static-resources bootstrap template templates code js python enable enables enabled flask-statics build-status windows versions version added

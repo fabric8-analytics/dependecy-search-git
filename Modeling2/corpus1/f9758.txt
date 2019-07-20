@@ -1,0 +1,1 @@
+sandboxlib python sandbox sandboxing sandboxes builds building container containers contained linux running run app build-tools-morph os platform-tool library backends backend project projects platforms languages language root isolated isolating isolation schroot files contributor contributors term useful use sandboxlib

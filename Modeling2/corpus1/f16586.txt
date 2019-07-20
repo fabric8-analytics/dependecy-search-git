@@ -1,0 +1,1 @@
+django-datatap django fixtures datatap file datataps data-source django-datatap command objects dumping documentation-requirements

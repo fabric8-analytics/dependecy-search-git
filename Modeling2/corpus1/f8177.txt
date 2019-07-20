@@ -1,0 +1,1 @@
+pytest-metadata plugin accessing test session metadata pytest metadata plugin py test pytest metadata pytest-metadata python installation install installed alt code plugin plugins run running-tests add adds test integration integrations key bar report environment provides provide providers def platform config

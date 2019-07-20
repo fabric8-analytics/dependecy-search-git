@@ -1,0 +1,1 @@
+appium-python-cli appium selenium python client mobil autom method applic test run-test use run action element test-librari add touch-act context follow io multi id set chain key specif devic new code-automat x allow multipl uiautom finger android-uiautom current usag environ remov activ session-cap server librari file function

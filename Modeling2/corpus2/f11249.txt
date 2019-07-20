@@ -1,0 +1,1 @@
+flask-featureflags feature features handler handlers supports support customization custom config templates template views view flask integration contrib project turn turning multiple returns-true return questions feel source usage adding added feature-flagging thank june code changes-april contributing contributed contributions contribution version firmansyah flag flags

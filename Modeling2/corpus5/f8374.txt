@@ -1,0 +1,1 @@
+celeri task job queue distribut messag actor support target version develop redis-python-distribut imag broker backer sponsor alt rabbitmq worker licens bug-track like distribute-work regular client set friendli multipl oc contribut packag need featur millisecond-round-trip high highli implement issu irc come get connect

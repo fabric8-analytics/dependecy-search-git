@@ -1,0 +1,1 @@
+ploy-virtualbox plugin ploy provis virtual machin use virtualbox vm vb instanc exampl virtualbox-ploy-instal vboxnet-ip ssh instal disk ad iso local medium url recip path automat acpi master section storag plugin-provid provid option fschulz vboxnet-ip-dhcp b tomster use-acpi boot releas add default

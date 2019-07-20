@@ -1,0 +1,1 @@
+navig create-simple-interactive-command-line-tools-exampl exampl navig

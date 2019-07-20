@@ -1,0 +1,1 @@
+aliyun-python-sdk-cor aliyun sdk core aliyun-python thing

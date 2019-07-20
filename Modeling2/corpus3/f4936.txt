@@ -1,0 +1,1 @@
+gearbox command line toolkit born paster command replacement turbogears web framework web framework command line setup commands-like paster-command gearbox template template file file option option new project project py package turbogears automatically make make inside main include related method method python scaffold scaffold scaffold entry custom available server

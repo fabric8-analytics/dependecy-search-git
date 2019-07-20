@@ -1,0 +1,1 @@
+drf-nested-routers nest nest nested-routers url example resource resource licence license license apache open-source router apiregistro-com ip-stack framework copyright kept project nest build rest

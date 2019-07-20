@@ -1,0 +1,1 @@
+fc-thumbnail support-pluggable position totally-rewritten generation generates margin thumbnail-thumbnails

@@ -1,0 +1,1 @@
+django-classbasedsettings settings classbased class based setting classes code-block python file files django ll properties extra declaring declarative modification modifications called calling meta normally normal py callable simple

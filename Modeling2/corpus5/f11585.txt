@@ -1,0 +1,1 @@
+vertica-python vertica python nativ adapt http www com databas driver connect host row paramet statement execut string sourc support-execut rowcount streamed-rowcount client stream-query-results-stream instal request test port log valu support load-balanc updat insert set multipl server utf

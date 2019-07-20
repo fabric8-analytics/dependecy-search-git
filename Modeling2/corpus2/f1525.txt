@@ -1,0 +1,1 @@
+pysha3 sha keccak hash add fixed pysha-sha release c bits bit fix-github endian endianness module support hexdigest tested tests supported-updates types type size python import hashlib update-b-data test-hashing compatible compatibility k functions wipe sponge-function shake remove implementation implements nist-changed py change-directory builds build version hashes

@@ -1,0 +1,1 @@
+django-apptemplates django django templates supported supports original origins originally thanks template-loader version versions versioning python-support-license fix-origin loaders add block somerville setup alt target tested test tests code

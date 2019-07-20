@@ -1,0 +1,1 @@
+django-bootstrap-typeahead django bootstrap typeahead form widget input instal install-usag inputs-built

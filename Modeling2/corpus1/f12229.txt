@@ -1,0 +1,1 @@
+django-mptt utilities implementing modified pre order traversal tree django tree trees models model-instances django-mptt automatically updated updates required requirements retrieval retrieving provide provides hierarchical modified modifying instance fields field discussion simple

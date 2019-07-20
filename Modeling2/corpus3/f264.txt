@@ -1,0 +1,1 @@
+django-easyconfig py install installs django-easyconfig config example file python copyright change environment form form class com use comment

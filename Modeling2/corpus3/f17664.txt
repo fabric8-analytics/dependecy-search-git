@@ -1,0 +1,1 @@
+tolerance function decorator decorator fail silently function alt code code ignore ignore python-versions exception exception version django switch feature usage status specify specify pep

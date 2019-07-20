@@ -1,0 +1,1 @@
+dj-static static serve serve use application simple-django file file actually frontend wsgi static django serve serve wsgi-server

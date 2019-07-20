@@ -1,0 +1,1 @@
+redisco redi model contain set model-attributes-attribute-stor default sets-list setting-indexed-tru index store-object field valid object-sav float save select float-datefield list queri valu fals datetimefield

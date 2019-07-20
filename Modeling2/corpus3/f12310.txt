@@ -1,0 +1,1 @@
+flask-static-bundle flask-static require route example example development

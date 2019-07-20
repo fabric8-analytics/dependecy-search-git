@@ -1,0 +1,1 @@
+beacontools beacons ibeacon eddystone bluetooth low energy ble beacon le-beacons dependencies-added thanks supported support fixes fixed status usage code installation install installed os moved pypi packet packets examples example python

@@ -1,0 +1,1 @@
+django-secure-input let users input html freely without worrying escaping allowed-p css secure-input django js allows allowable code-pip form forms h-requirements-installing install installer installed text class fields miniwysiwygfield gt build-status requires font href

@@ -1,0 +1,1 @@
+krakenex kraken exchange-api-python-package pypi installation install krakenex virtual uses use documentation documented target alt-latest virtualenv locally local development developers blockchain concurrent linux bsd code repo currencyviewer telegram clikraken pykrakenapi

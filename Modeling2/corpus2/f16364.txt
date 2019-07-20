@@ -1,0 +1,1 @@
+pycha chart cairo charts fixes-lorenzo fixed john improvements improve improved axis new support changes change changing title-color-option-fix tick nicolas values options bars bar ticks-add ones-nicely simple-python adam carvajal labels label web str edge documentation repository-hg tests test-suite simon use-nice titles hernandez

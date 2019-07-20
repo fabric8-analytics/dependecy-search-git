@@ -1,0 +1,1 @@
+django-media-fixtures django collectmedia mediafiles mediafixtures fixtures media fixture files file installation-code install installed folder folders command example

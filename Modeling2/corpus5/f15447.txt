@@ -1,0 +1,1 @@
+django-user-manag user manag model mixin api view django rest framework python email password updat

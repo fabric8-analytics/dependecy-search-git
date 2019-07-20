@@ -1,0 +1,1 @@
+l293d raspberry pi gpio ld chip motor driver ld-driver-python

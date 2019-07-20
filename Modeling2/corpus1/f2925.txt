@@ -1,0 +1,1 @@
+dulwich pure python git implementation python pypy version control git python cpython dulwich git vcs dulwich level git license pure-python c make lists list alt-build e-g-like

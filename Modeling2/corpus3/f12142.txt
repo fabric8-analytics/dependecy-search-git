@@ -1,0 +1,1 @@
+robotframework-excellibrary robotframework test testautomation excel test test test installs installation instal instal robotframework-excellibrary pip-install keywords keyword version useful use open-command opening-reading framework excel-files newer-versions python-libraries-xlutils file read read information library manual manually page excelrobottest test-library-provides

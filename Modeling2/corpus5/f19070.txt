@@ -1,0 +1,1 @@
+cfn-environment-bas stack templat pattern-cod deploy network avail environmentbas environ gener class aws-account log python cloudformation-environment-generator-build subnet build infrastructure-pattern account access bucket bucket-configur provid configur script vpc configurable-bas follow servic allow set method requir simpli config develop time core-envbas detail

@@ -1,0 +1,1 @@
+incf-countryutils python iso country code country transformation transformation continent continent china country-codes api cn italy france object reference refer refers case subdivision compliant republic code wikipedia ipcc countryutils pycountry lxml alpha

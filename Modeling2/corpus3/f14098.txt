@@ -1,0 +1,1 @@
+django-compositekey foreignkeys foreignkey django-composite-key stable syntax x intermediate-model pk key suite link

@@ -1,0 +1,1 @@
+nicfit-py python application cookiecutter utils alt building build-status-license including version common python-versions command error-handling-boiler utitiles

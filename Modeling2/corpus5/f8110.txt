@@ -1,0 +1,1 @@
+phpserial serial modul user object data load function object-array like dump serialized-lik usernam d php attribut hook import-obj-dumps-hello python stream dict array transparently-handl xfrld ordereddict admin true

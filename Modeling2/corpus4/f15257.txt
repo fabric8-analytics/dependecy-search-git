@@ -1,0 +1,1 @@
+hipachectl hipach manag docker list-configured-virtual-host host hipachectl imag updat new dotcloud

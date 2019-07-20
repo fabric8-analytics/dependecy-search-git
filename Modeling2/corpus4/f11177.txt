@@ -1,0 +1,1 @@
+pylabel label label pylabel object fonts-font imag page background background draw draw licens demo demo partial-pag reportlab softwar basic basic creat creat txt-file label object imag draw draw pylabel licens fonts-font-s demo demo label-s creat creat softwar basic basic partial-pag page txt-file

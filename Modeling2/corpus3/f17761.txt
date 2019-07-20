@@ -1,0 +1,1 @@
+django-ical feed feed pypi-docs django icalendar thanks feed feed supported-added support-icalendar django-ical-docs-build add add fix fix documentation remove remove

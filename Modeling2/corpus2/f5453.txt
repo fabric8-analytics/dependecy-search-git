@@ -1,0 +1,1 @@
+pymysql pure python mysql client apis api python-mysql-client pymysql-contents-table code installation install sha use level utf license null-auto

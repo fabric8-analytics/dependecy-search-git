@@ -1,0 +1,1 @@
+django-chosen django formfields use chosen javascript plugin jquery django-chosen license license field select javascript select-field-library available filler medium form-medias form friendly support

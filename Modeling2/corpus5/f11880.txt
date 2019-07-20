@@ -1,0 +1,1 @@
+setuptools-version-command release-vers version-command tag make post dash block take keyword instead warn allow use

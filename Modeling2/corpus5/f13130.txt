@@ -1,0 +1,1 @@
+pyobjc-framework-coredata pyobjc coredata includ framework management-includ gener provides-gener

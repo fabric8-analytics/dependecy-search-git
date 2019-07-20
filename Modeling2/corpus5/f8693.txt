@@ -1,0 +1,1 @@
+jujuresourc manag binari resourc charm juju-resourc mirror network config http-server line

@@ -1,0 +1,1 @@
+flask-htmlmin minifi flask x pipenv inlin instal render

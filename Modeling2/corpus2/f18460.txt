@@ -1,0 +1,1 @@
+django-all-access django default views application sane-defaults python oauth easy based

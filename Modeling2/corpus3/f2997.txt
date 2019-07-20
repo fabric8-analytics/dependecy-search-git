@@ -1,0 +1,1 @@
+pysignals run pysignals-info

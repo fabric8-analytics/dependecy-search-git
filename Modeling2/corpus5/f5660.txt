@@ -1,0 +1,1 @@
+numexpr fast numer array express evalu python numpi pytabl panda bcolz arrays-like-cod code comput perform speed expression-evalu result better memori benchmark math-librari cpu import author documentation-travi complex cach np alloc ne e

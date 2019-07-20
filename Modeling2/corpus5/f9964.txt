@@ -1,0 +1,1 @@
+django-appdata-mam app django build use extend addit origin form function work code contain model source-commun

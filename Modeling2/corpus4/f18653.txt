@@ -1,0 +1,1 @@
+dlxsudoku sudoku sudoku solver danc link sudoku-solv link euler entri class pure induct follow dlxsudoko python sudoku-solv build-status-pypi class code brute follow

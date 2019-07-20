@@ -1,0 +1,1 @@
+depend inject human python design pattern ioc architectur dri command-cod discuss dependency-inject alt subclasses-add statu subclass code allow injector attribut view defin deprecate-attribut argument allow-multiple-inherit licens import class contrib requir support error releas

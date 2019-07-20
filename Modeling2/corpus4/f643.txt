@@ -1,0 +1,1 @@
+clize cli option argument getopt getopt argpars introspect flag decor subcommand paramet paramet clize-alt command create-command function creating-funct creat code

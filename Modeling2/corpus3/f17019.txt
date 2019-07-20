@@ -1,0 +1,1 @@
+django-membersuite-auth django authentication use membersuite backend installation instal instal django-membersuite-authentication authenticate

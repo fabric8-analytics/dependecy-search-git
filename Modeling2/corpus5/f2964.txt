@@ -1,0 +1,1 @@
+django-hstor postgresql hstore support django schemaless insert need-dynamic-column serialized-column ll nice addit includ data sqls-insert

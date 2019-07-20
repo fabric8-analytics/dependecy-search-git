@@ -1,0 +1,1 @@
+xtermcolor python library terminal color support include color support xterm ansi xterm terminal color color colorize color-code python string usage value argument argument

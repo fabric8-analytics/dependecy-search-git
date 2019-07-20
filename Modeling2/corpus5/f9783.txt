@@ -1,0 +1,1 @@
+django-simplesearch search-term term-instal instal simple-searching-bas given model

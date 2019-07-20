@@ -1,0 +1,1 @@
+liquimigr liquibas django fix ad command updat versions-fixed-driv version update-readme-rst-removed-vers add support support-emit emit chang signal project addit document

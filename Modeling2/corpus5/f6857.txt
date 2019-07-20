@@ -1,0 +1,1 @@
+protoc-java-resource-names-plugin gener version librari gapic-proto-compiler-plugin

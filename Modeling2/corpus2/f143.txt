@@ -1,0 +1,1 @@
+isbntools isbn metadata google books open library bibtex endnote refworks msword bibjson a doi isbns isbnlib line-code-block-console alt useful use uses enter-e issues issue issued book option options books-service pypi fuzzy blocks conf package packages encode fun validates valid api status solution validate-clean cleaning-validation services file files directory docs linux

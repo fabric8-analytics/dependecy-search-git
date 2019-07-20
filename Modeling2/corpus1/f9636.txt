@@ -1,0 +1,1 @@
+fauxquests fauxquests mock tests tested urls url uses-mocking-json method-request-methods use langa special query requests license licensed

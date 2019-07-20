@@ -1,0 +1,1 @@
+django-shop-categories category py shop-categories model model run run version make

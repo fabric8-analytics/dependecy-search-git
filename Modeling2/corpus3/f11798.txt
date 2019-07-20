@@ -1,0 +1,1 @@
+policyuniverse parse process aws iam policy statement arns wildcards security iam policy policy statement statement permission class arn-class arns expand expand

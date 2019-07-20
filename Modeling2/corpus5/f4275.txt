@@ -1,0 +1,1 @@
+gdal python gdal-ogr geospatial-data instal refer configur window build explicitli py setuptool file librari swig

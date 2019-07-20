@@ -1,0 +1,1 @@
+aiopg connect support add sa fix execut pool close executed-sql transact sqlalchemi create-engin async releas asynchron asyncio python loop tbl type postgresql-databas cursor ad implement use-mak paramet psycopg enumer types-column tabl import remov oper iter column cancel

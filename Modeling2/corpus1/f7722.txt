@@ -1,0 +1,1 @@
+pygtkspellcheck spellchecking python-gtk-spellcheck editor ignore versions-version versioning supports support line pygobject-pygtk localized application-zim rednotebook markdown codes journal-reports supports support python ignore files-pygobject-enchant-pygtk version license distribution spellchecker spellchecking line automatic gnu

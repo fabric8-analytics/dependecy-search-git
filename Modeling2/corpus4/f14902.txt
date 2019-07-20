@@ -1,0 +1,1 @@
+logilab-common function function modul modul manipul tools-manipul file file python project project shell command-lin tool graph support-bas util compat graph-tre implement logilab visitor-gener decor decor gener gener base use public

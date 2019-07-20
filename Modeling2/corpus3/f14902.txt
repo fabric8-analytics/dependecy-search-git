@@ -1,0 +1,1 @@
+logilab-common function function module module manipulation tools-manipulation file file python project project shell command-line tool graph support-base utility compatibility graph-tree implementation logilab visitor-generating decorator decorator generation generate base use public

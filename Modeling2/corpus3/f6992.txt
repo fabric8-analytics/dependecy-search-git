@@ -1,0 +1,1 @@
+macauthlib low level library implement mac access authentication authentication mac access http request signing mac-access library auth request request access like scheme function function program signed-requests request-signing-scheme function function level method method mac sign object object macauthlib-library header user condition available compatible compatibility nonce api

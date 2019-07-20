@@ -1,0 +1,1 @@
+applicationinsights analytics applicationinsights telemetry appinsights development code python telemetry property property log logging-configuration django insight event event configuring-context use key documentation api request exception exception current-request support support currently client

@@ -1,0 +1,1 @@
+github-tools sphinx github paster paver page page git-repository start github development python-package simply-start started-requirements environment environment branch html submodule create create require require static basic sphinx

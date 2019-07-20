@@ -1,0 +1,1 @@
+djangocms-attributes-field opinionated implementation jsonfield arbitrary html element attributes addon cms django python django cms keys django key-value running string sensible attribute install-run attributes-field-pypi html related variable installation python project source nicely allow package-allows nice-widget contribute contributing contributions

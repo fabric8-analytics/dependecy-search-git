@@ -1,0 +1,1 @@
+konfoo binary data deserialize serialize parse decode encode unpack pack easy declarative dependencies-documentation nesting nested views viewing view package metadata binary-data simply manually memory source file byte bytes types type header module self status id class-identifier-structure length size classes code

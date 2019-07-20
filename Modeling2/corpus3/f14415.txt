@@ -1,0 +1,1 @@
+django-staticbuilder add build step static asset flow javascript build-step building-static command command code django response response staticbuilder development develop collect collect step simple-way way want ll probably

@@ -1,0 +1,1 @@
+django-agenda schedule fix book booking book-times time-slots add make-booking slot schedule schedule rewrite django-agenda model available availability availability badge busy-uses change save saving space making-overlapping alt use pypi key foreign-keys overlap

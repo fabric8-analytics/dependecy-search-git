@@ -1,0 +1,1 @@
+cmsplugin-filer deprecate project longer maintain see readme information deprecate plugins plugin migration migration migrate django install instal location follow follow-upgrading upgrade field-installation filer use-file-fields template template configure configure add version version set set setting model model image image

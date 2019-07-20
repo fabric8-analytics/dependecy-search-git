@@ -1,0 +1,1 @@
+pyembed changes-v fixes-add fix enhancement enhancements pyembed-consumer package mustache embedding embeddings oembed-consumers license discovery provide provider providers make handle youtube allows allow soup pypi embed support

@@ -1,0 +1,1 @@
+pymanopt optim manifold optim automat differenti machin learn numpi scipi theano autograd tensorflow pymanopt github md gener bsd

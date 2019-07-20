@@ -1,0 +1,1 @@
+django-bulk-admin like-requir import field required-field imag set custom

@@ -1,0 +1,1 @@
+django-transaction-signals django transaction signals commit commits signal transactional committed-django functions defer-function kwargs handlers handler non gist py digital called calling func post rollback example following

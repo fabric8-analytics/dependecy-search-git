@@ -1,0 +1,1 @@
+sphinxcontrib-swaggerdoc code direct swagger swaggerdoc extens extens contain contain

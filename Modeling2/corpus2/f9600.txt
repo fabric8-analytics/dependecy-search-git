@@ -1,0 +1,1 @@
+qcrash github pyqt pyside issue report crash tool reporting image alt backends github-backend license licensed api feature features usage exception pypi

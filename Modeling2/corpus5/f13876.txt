@@ -1,0 +1,1 @@
+py-ubjson univers binari json draft serial python ubjson encod decod c extens pure ubj encoder-decod type level releas speed array note e-g-not specif string limit plain code-shel g support

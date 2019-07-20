@@ -1,0 +1,1 @@
+python-mpd2 mpd command command python-mpd document document build support support latest-sourc instal instal build-statu distribut packag packag protocol joerg simpli enhanced-featur porting-txt

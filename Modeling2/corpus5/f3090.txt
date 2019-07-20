@@ -1,0 +1,1 @@
+distutils-pytest python instal packag packaging-sourc py licens copyright sourc build language-govern

@@ -1,0 +1,1 @@
+dictorm psycopg dictionary python dict tables table dictorm transaction sqlite update-delete key keys create creates backend comparisons dictionaries dictionary query queries insert

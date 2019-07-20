@@ -1,0 +1,1 @@
+hsaudiotag3k version-fixed read reading file file-metadata library library python invalid ogg license test attribute attribute rate genre

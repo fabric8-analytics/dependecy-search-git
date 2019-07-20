@@ -1,0 +1,1 @@
+apertium-streamparser apertium parse linguistics input apertium-streamparser us use e

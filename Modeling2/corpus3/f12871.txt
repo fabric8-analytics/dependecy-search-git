@@ -1,0 +1,1 @@
+flake8-pep3101 pep pycodestyle flake string format format format flake plugin-python new gforcada flake string-formatting format plugin-python fix-text new release alefteris handle case work work expressive expression quotes-inside quote add travis

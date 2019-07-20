@@ -1,0 +1,1 @@
+pymorphy2 language ukrainian-languages science-editor-khachay-mikhail morphological-analyzer-pos-tagger-inflection valeri-g-doi analyzer-pos-tagger-inflection

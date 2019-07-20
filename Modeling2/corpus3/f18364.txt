@@ -1,0 +1,1 @@
+django-floppyforms floppyforms development requirement test test test installation install authors-gregor creator-bruno-reni widget add add django-floppyforms widget-renders template template requirement development thanks gregor installation install context fix fix fix custom support support creator-bruno-reni form-rendering render status default

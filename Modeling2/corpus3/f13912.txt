@@ -1,0 +1,1 @@
+sidecar jupyter widget ipython

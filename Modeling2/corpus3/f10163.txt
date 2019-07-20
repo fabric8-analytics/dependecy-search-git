@@ -1,0 +1,1 @@
+ratchetapi scieloapi-py scielo-ratchet-restful-api-use-license key license longer-maintained slumber-dependency support

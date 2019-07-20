@@ -1,0 +1,1 @@
+skosprovider-getty skosprovider implementation getty vocabulary getty skos skosprovider vocabulary aat tgni ulan getty language-tags getty handle handle collect collection allow request improvement interface add-support stop provider provider support

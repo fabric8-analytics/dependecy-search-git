@@ -1,0 +1,1 @@
+aiclib python urllib based nvp client aiclib nvp object objects querying query entity command use wrapper verb typical return params

@@ -1,0 +1,1 @@
+py-email-validation email-validation valid addr noel tested tests test address addresses lgpl components pieces piece python regular module-provides addr parse function

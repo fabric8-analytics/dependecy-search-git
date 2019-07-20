@@ -1,0 +1,1 @@
+unittest-data-provid use tri pytest parameter instead see url unittest dataprovid snippet-install-import unittest-modul featur exampl

@@ -1,0 +1,1 @@
+django-mantis-cor wrapper around django dingo app manti cyber threat intellig mgmt framework django manti core django-mantis-cor build document dingo misp-platform model model dingo django-manti build document management-framework bump

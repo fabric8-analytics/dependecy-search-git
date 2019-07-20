@@ -1,0 +1,1 @@
+gtfs-realtime-bindings languages gtfs-realtime-bindings-language generated generate generating data binary time project projects protoc use mobilitydata contributing model older-versions version provide

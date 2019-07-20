@@ -1,0 +1,1 @@
+memcachier-django-ascii variables memcached issues python connections-issue memcache-server connecting connection memcachier-django-ascii like requires requiring requirements bug bugs

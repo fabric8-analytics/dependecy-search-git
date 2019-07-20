@@ -1,0 +1,1 @@
+quickswitch-i3 dmenu quickswitch workspac window welcom use case request-licens work usage-find command option depend

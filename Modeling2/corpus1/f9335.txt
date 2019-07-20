@@ -1,0 +1,1 @@
+pygeoip deprecated pure python api maxmind binary geoip databases deprecated obsolete archived geoip longer-supported installation install bug python code bug

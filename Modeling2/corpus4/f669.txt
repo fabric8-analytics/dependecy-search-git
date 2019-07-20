@@ -1,0 +1,1 @@
+sqlpars sqlparse-parse-sql-statements-buildstatu statement pars pars select licens licens project true wildcard block sql stmt split-select re statement statement sqlpars whitespac identifi split keyword

@@ -1,0 +1,1 @@
+django-pymssql django-pymssql windows license uses python use-sql-server actual database test tests testing pyodbc like code django-pymssql windows license python test tests testing actual database pyodbc uses use sql-server code

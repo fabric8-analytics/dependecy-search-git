@@ -1,0 +1,1 @@
+pysynthet code synthet writing-python-classes-short class block getter

@@ -1,0 +1,1 @@
+pybarcode v added adding barcodes barcode installed options option code installation-make writer writers ean file makes new-generate svg-objects removed b python rendered rendering render object fixed moved generation generated provides provided arguments-fix methods method

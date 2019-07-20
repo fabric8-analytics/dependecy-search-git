@@ -1,0 +1,1 @@
+django-asset-server-url code set e url

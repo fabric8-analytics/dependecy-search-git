@@ -1,0 +1,1 @@
+svg2rlg python-tool wxpython console-application svg graphic

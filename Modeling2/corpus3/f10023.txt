@@ -1,0 +1,1 @@
+gwpy package analyse characterise gravitational wave data python python gravitational wave gwpy gpl license status data domain provide provide gwpy friendly

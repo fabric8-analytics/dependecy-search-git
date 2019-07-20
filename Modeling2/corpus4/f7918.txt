@@ -1,0 +1,1 @@
+hgsubvers mercuri automated-test conventional-test-runner-not c-matt-mackall-mpm-selenic-com pass nose right

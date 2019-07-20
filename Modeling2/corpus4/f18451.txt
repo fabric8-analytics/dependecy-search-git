@@ -1,0 +1,1 @@
+lmfit curv fit least squar minim method method-bfgs-sequenti addit includ optim scipy-optim mead provid provid

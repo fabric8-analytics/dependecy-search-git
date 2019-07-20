@@ -1,0 +1,1 @@
+scrapy-djangoitem scrapy extension write scraped items using django models django-model fields field scrapy p models install installed tested test v alt set settings item items installation-starting tests-work project projects start provides provide class way ways crawler version wheel-fix works mysite like

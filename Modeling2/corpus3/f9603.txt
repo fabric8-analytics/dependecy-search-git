@@ -1,0 +1,1 @@
+os-refresh-config restart service coordinate data migration heat config change configuration configure refresh configure-d script pre exit zero tags-change

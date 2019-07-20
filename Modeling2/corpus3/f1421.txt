@@ -1,0 +1,1 @@
+django-internationalflavor django-internationalflavor code app

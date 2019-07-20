@@ -1,0 +1,1 @@
+melopy scales c-major-scale melopy m e minor install contains key

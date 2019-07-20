@@ -1,0 +1,1 @@
+kotti-sitemap sitemap plugin kotti kotti cm pyramid sitemap sqlalchemy kotti-sitemap file template-files deploy change change render rst-readme sitemap

@@ -1,0 +1,1 @@
+open-tamil open sourc tamil nlp tool natur languag process encod phonet unicode-cod text-encod python packag letter-unigram letter support language-model tab convert follow base layouts-convert gnu effort number txtunicod word utf layout licens model like exampl transliter c mei

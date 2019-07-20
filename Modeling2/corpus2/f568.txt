@@ -1,0 +1,1 @@
+azure-mgmt-devspaces microsoft-azure manager management operation model signature package controllersoperations release library libraries provide

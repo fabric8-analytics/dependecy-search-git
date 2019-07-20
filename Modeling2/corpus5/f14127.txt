@@ -1,0 +1,1 @@
+gordon aw lambda apigateway kinesi dynamodb s cloudwatch cloudformation-document deploy-aws-lambda simpl deploy makes-deploy stage stream support file isol streaming-api make docker support-dynam friend api events-cron helloworld stream-consumer-consum contain complet nice bot resourc approach creat integrations-apigateway exampl use integr best json

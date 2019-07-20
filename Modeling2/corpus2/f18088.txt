@@ -1,0 +1,1 @@
+flask-htmlmin minify flask x pipenv inline installation install rendered

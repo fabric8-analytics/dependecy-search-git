@@ -1,0 +1,1 @@
+pyramid-mako mako templating system bindings pyramid web framework web wsgi pylons pyramid templates testing tests pyramid fix-mako add template-render configured configurator returns return-values latest new-configuration renderer issue search searched version

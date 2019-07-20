@@ -1,0 +1,1 @@
+pifacecommon common function interact pifac product pifac raspberrypi openlx pifacecommon-common-funct v-ad fix instal instal interrupt interrupt spi version version fixed-bug function function updated-instal class bug changing-gpio-interrupt level modul modul iodir automat remov valu chang doc byte pifacecommon uninstal replac replac support support script script move

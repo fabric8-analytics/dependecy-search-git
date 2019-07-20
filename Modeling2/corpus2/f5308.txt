@@ -1,0 +1,1 @@
+pickleshare file system based database uses python pickles persistence pickle ipc shelve object installation install shelve-like code-size load

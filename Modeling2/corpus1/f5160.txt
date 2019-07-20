@@ -1,0 +1,1 @@
+pydblite python database engine sqlite add python pythonic database databases versions version db code filter tests tested test sqlite fixed status table-creation data types line renamed case field fields adapter adapt existing exists names

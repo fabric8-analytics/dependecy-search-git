@@ -1,0 +1,1 @@
+pyheaderfile python module enable handler csv xls xlsx files getting column header excel spreadsheet workbook txt helps mandatorily-working work path import retrieve-stringio-contents content disk specifying

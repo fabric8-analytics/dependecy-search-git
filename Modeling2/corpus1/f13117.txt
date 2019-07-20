@@ -1,0 +1,1 @@
+sphinx-scruffy sphinx scruffy diagrams documentation scruffy diagrams diagram orders-order installation install international patron package packaging code-block-python graphviz dependencies-installed node example examples deliverymethod bug-reports sequence dependency

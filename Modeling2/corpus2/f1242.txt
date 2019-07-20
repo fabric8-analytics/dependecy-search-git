@@ -1,0 +1,1 @@
+pycbc core package analyze gravitational wave data find signals study parameters used first direct detection waves gw ongoing analysis ligo virgo astronomy physics gravity python black hole neutron star gwastro signal processing open science installation release jupyter built bibtex binary-coalescences software-package environment easiest-ways scientists examples

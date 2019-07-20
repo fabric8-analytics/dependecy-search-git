@@ -1,0 +1,1 @@
+meteocalc meteorology meteo dew heat heatindex humiture humidex feel like temp temperature wind chill temperature wind dew implement calculation calculation code-block python air available heat

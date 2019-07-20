@@ -1,0 +1,1 @@
+smartdc http web joyent admin operations machines machine ssh keys telefnica key-management creation documentation fixed fix-posts post http-signature issues python-smartdatacenter readme installing installation api requests issue-datacenter path tutorial stupidly wrong payment requires-py pythonic cloudapi datacenters metadata dicts dict requirements required thanks

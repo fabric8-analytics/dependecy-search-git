@@ -1,0 +1,1 @@
+surf python sparql rdf resource mapper orm query semantic web rdfs rdflib object orient surf rdf code-sh mapper mapper object object test test python documentation-install installable

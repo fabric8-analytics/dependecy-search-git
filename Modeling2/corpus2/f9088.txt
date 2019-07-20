@@ -1,0 +1,1 @@
+pytest-qt pytest plugin qt pyqt pyside application testing test unittest tests variable change-version versions-black code-block-python benjamin waitsignal waitsignals methods requirements pydev requests request installed installable install locally docs-appveyor features feature user like-key yurchak john

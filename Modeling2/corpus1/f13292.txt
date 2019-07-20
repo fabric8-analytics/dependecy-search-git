@@ -1,0 +1,1 @@
+autonomie-celery celery components autonomie web wsgi bfg pylons pyramid celery celery tasks task celery-pyramid code daemon console autonomie stuff ini

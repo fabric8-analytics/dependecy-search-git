@@ -1,0 +1,1 @@
+nb2plots code nbplots nbplot sphinx version version rest-files text extensible extension extension extensive documentation document page page notebook notebook test test test format format directive directive file make make jupyter replace homebrew-configuration configure configuration different sized-teaching run run

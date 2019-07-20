@@ -1,0 +1,1 @@
+kinto-wizard save load kinto server content yaml file web sync json storage services kinto schema code objects object collection records server pypi kinto add records schema change changed changes new objects object support supports breaking load loading fix code error errors yaml fixes-handle server com-mathieu xx dump dumping collection

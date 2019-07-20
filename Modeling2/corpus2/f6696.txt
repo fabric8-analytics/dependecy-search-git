@@ -1,0 +1,1 @@
+navmazing simple navigation framework supporting complex designs setup distutils navigate navigator navigates class prerequisites provider providers prerequisite-method steps navigatestep-object step-objects details methods python code parameters parameter self def image status usage usages alt

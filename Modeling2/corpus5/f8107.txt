@@ -1,0 +1,1 @@
+meza a python toolkit for process tabular data file code process-file-typ object bash-cod pypi read usag versions-pypi instal function doc panda exampl version functional-programming-style-api reader make detail notabl new licens releas librari la test lazili setup equival geojson mdb type

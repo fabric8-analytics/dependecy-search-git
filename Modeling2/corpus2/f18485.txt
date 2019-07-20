@@ -1,0 +1,1 @@
+pysigset python blocking suspending signals linux osx using ctypes sigprocmask access library pythonic thanks stable software add signal update x-provides public requirement requires b developers similar python-application-developers

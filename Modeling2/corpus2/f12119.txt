@@ -1,0 +1,1 @@
+sigauth installation check checks directory-signature-auth-library-implementing checker require publish published implemented client-implements username

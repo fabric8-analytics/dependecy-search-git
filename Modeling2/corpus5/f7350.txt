@@ -1,0 +1,1 @@
+pandas-profil creat html profil report panda datafram object statist jupyt notebook explor data scienc python machin learn artifici intellig deep analysi ipython correl correlated-vari valu variabl demo pandas-profiling-generates-profile-report packag download deviat gener run kurtosi rang default type developer-feel file want

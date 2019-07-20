@@ -1,0 +1,1 @@
+requests-kerbero authent handler use kerbero python request authentication-librari log credenti princip librari code supports-mutu deleg support server respons winrm strip name winkerbero addit debug fix responses-fix window test-fix add cve adds-opt non-error ad initial-request prevent allow initi auth attempt hostnam error

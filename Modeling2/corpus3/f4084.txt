@@ -1,0 +1,1 @@
+pyglobalshortcut shortcut hotkey qxtglobalshortcut libqxt qt pygs-alt license test test test pyqt environment environment package binary-package future py python installation install instal pypi-version c shortcut shortcut platform-global ctrl

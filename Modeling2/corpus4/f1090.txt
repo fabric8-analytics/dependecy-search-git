@@ -1,0 +1,1 @@
+cmake-convert cmake vcxproj visual project project instal instal converter-alt txt-note simpli issu issu convert v

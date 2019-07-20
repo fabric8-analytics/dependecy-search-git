@@ -1,0 +1,1 @@
+django-render-parti django view based-view call variable-cal variabl fulli write

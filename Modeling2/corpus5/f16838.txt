@@ -1,0 +1,1 @@
+npluson orm django-orm load perform request lazy-load notif log nplusone-alt configure-log relat eagerli eager sqlalchemi configur use queri relationship support unnecessari specif manag licens permiss copyright-notic event holder shall modify-merg classifi keyword sublicens free

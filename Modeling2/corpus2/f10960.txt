@@ -1,0 +1,1 @@
+swiglpk simple swig bindings gnu linear programming kit python scientific computing optimization symbolic modeling language glpk dependencies api glpk-pypi

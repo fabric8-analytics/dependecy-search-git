@@ -1,0 +1,1 @@
+django-related-admin instal chang add

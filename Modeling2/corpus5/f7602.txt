@@ -1,0 +1,1 @@
+zope-compon interfac compon coupl loos util adapt test packag fix changes-add-support python support test-cod registri deprec chang relat rel remov document depend regist alt build function global build-statu coverag import lp avoid list neg attribut zcml-direct api provid directli site use bug

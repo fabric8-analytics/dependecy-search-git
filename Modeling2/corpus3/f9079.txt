@@ -1,0 +1,1 @@
+sphinxcontrib-django improvement output sphinx autodoc django class django sphinx extension api documentation django python code model model celery class class configure configuration link link autodoc sphinx annotation annotation

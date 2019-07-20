@@ -1,0 +1,1 @@
+rstcheck restructuredtext lint check pypi readm rst analyz support file configuration-fil python code-block sphinx test directori level options-ignor option block line-opt add checks-syntax allow-ignor make exampl titl bad info error

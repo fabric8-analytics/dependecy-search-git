@@ -1,0 +1,1 @@
+msgpack-numpy msgpack-package source numpy-data provide provide patch fast late routine package source-tarball-unpack alt-latest-version directory-usage msgpack code

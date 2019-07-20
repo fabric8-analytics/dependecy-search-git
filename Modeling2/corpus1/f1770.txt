@@ -1,0 +1,1 @@
+pyzotero zotero pyzotero versioning versioned version api citation libraries group-library license licensed tested compatible branch-example-testing test-directory like-stephan examples v

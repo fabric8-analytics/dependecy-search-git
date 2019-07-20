@@ -1,0 +1,1 @@
+simplesqlite sqlite csv google sheet json alt dependency data-insertion sqlite python table insert sample relational related simplesqlite block json csv simple-orm

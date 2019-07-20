@@ -1,0 +1,1 @@
+autograd efficiently computes derivatives numpy code automatic differentiation examples example valued values neural-net python mode-differentiation differentiate advanced based barak group jasper intended ryan-p simulation-variational features feature ifs jamie maclaurin

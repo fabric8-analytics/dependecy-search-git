@@ -1,0 +1,1 @@
+flask-classy route routes routing view classes class-based-views taking takes projects project decorator decorators feel methods method ll school porcine mr crud create base flaskview explicitly explicit set little-big subdomain based

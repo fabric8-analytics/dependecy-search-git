@@ -1,0 +1,1 @@
+socketio-client-nexus socket io node j add fix fix thanks define define polling support connect connection connection wait suggest suggestion environment version payload information x socket-io namespace namespaces channel channel exception params library license python socketio

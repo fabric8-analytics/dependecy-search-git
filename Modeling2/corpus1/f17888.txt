@@ -1,0 +1,1 @@
+seqdiag diagram file seqdiag text alt simple optional features feature examples example easy node-label define-nodes pypi

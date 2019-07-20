@@ -1,0 +1,1 @@
+textacy nlp spacy natural language processing python text linguistics version versions alt-build library including-flesch builds pypi documents documentation entry topic comments howdy included burton basic-linguistic chartbeat terms tokenization tokenize dependency strings

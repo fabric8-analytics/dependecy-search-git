@@ -1,0 +1,1 @@
+pywin32-ctyp limit subset pywin implement use ctype cffi python cffi ctype instal instal note develop develop addit document winapi pywin python usag

@@ -1,0 +1,1 @@
+hachoir-core hachoir use useful field core-add create fields-endian file file fix-initlocale string new python genericstring support support support unicode method method type type charset-iso change change set code-instead replace replace charsets error error option optional humandatetime-strip parser size size timedeltawin

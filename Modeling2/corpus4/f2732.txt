@@ -1,0 +1,1 @@
+dirsync directori option option dirsync file file dirsync-copyright updat updat default creat creat sync pattern directori default-forc e futur diff defin defin exclud exclud verbos action excludes-configur time exist exist

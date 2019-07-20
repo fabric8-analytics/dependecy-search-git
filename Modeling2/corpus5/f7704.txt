@@ -1,0 +1,1 @@
+monasca-ag agent monasca openstack check tag process plugin statsd metric detail details-licens memori prometheu code http-endpoint endpoint http

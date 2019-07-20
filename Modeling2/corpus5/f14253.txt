@@ -1,0 +1,1 @@
+pymemcach comprehens fast pure python memcach client implement python-memcached-cli librari flexibl support protocol bash code call cache-miss socket timeout software-engin norepli fix version new improvements-fix key server clients-thank add unicode-key default set document improv implements-consist test error pickl ad e introduc instal recv-cal approach stat

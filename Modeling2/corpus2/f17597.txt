@@ -1,0 +1,1 @@
+xxhash bit gb speed version-xxh license licensed default smhasher-test endian-branch uses use c directly direct algorithms systems hash-algorithm collision portable score ghz hashes allocation-removes offers offering qualities quality thanks matsuoka line v python-xxhash-alt installation install xxh hash-function update build fixed fix copyright license-hmac functions

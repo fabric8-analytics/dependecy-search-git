@@ -1,0 +1,1 @@
+flask-hal flask extension easily add support rest hateoas via hal specification http tool ietf org html draft kelly json hal flask hal rest view sourcecode dave easy flask sourcecode easy feature dave doc release

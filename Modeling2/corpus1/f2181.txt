@@ -1,0 +1,1 @@
+wq-db wq-db rest django enhancement enhanced apps app patterns includes including serializers serializer configuration like processors models entity modules module robust

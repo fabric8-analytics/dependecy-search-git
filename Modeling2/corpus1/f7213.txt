@@ -1,0 +1,1 @@
+python-esl freeswitch esl swig wrapper python packaged setuptools alternative wrapper-pulled checkout

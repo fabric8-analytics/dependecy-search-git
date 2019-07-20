@@ -1,0 +1,1 @@
+spidev spi-devices fix fix fix device buffer b python performance performs operation byte byte connects connect size block md changelog originally cpol pre-spimodule code kernel

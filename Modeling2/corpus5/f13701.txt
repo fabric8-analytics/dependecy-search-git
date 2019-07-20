@@ -1,0 +1,1 @@
+odin data structur definit valid travers map serialis toolkit python serial de json csv msgpack xml yaml resourc alt codec api base contrib document documentation-coverag use protocol pass support cov supported-integr contributor-malcolm sup declar field python-structur special

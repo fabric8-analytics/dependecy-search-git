@@ -1,0 +1,1 @@
+python-casacore python bindings casacore library used radio astronomy pyrap utilities installation installed install installing ubuntu c tracker std issue build compile pip include local py

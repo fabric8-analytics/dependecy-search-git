@@ -1,0 +1,1 @@
+django-bootstrap-form-horizontal field class class fields-installation form bootstrap-form-horizontal wrap wrap errors-wrapped install instal error template template file

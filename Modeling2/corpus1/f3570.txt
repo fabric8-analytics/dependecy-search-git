@@ -1,0 +1,1 @@
+skia-pathops python bindings skia library path ops python-bindings skia source-directory editable-mode python-bindings skia recommend-installing

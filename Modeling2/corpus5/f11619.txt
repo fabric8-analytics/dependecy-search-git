@@ -1,0 +1,1 @@
+setuptools-pep8 pep setuptool command setuptools-pep-command-origin releas fix pep-command configurations-news-releas minor dec changes-bugfix integr return-cod configur check guid project bugfix expos option non-backward cfg

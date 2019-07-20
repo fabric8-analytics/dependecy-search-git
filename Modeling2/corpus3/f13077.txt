@@ -1,0 +1,1 @@
+pyzmq pyzmq-python supports-libzmq-including-x version version versioning support cython release release install installation instal instal build building apt mq require require download recommend recommend

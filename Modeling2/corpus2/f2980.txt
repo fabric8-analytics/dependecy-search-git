@@ -1,0 +1,1 @@
+pydatawrap tables file files data objects object add style subsets list-subset wrappers lists loading-saving tests save dependencies seal py memory

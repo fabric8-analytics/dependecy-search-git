@@ -1,0 +1,1 @@
+django-discover-runner test app-tests unittest-test package django-discover-runner apps setting set simply-set project project working-directory-e python command import-paths fix fix path drop discover module work work multiple-modules x dot add installation-install installer instal level code

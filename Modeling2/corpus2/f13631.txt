@@ -1,0 +1,1 @@
+pynn computational neuroscience simulation neuron nest brian neuromorphic neuronal neurons simulations models model supported-simulators support-modelling simulator-independent supports test alt hardware license high-level e

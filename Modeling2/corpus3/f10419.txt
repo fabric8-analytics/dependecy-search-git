@@ -1,0 +1,1 @@
+python-pcre python-pcre string unicode-character template-string difference different difference utf-mode encode encode character subject use us useful internally internal matched-subjects match template buffer buffer regex mode distutils stackless base

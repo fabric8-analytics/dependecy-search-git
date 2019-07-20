@@ -1,0 +1,1 @@
+python-gerritcli command command python option dependencies-opt specifies-http specifi e repositori creat

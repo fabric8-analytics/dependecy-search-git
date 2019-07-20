@@ -1,0 +1,1 @@
+ethtool network ethernet tool commit fix redhat-com wed tue david added-set fix-import python-ethtool-modul interfac support code set file improv fedora licens inform url instal improved-error address improving-test packag new-upstream error aug libnl-netlink balhar-miro e utf sanqui free arnaldo issu exampl test charalampo import andy-grov current dec gener

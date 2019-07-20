@@ -1,0 +1,1 @@
+nose-exclude test test test exclude exclude directory nose-exclude directory-paths file file multiple path actively bitbucket

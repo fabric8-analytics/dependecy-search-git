@@ -1,0 +1,1 @@
+django-xe-curr django currenc xe sync xe-curr currency-exchang add datafe currency-exchang xe-currencies-alt add datafe

@@ -1,0 +1,1 @@
+django-staticmedia django util templatetag static media gener gener gener gener fix fix applic static-media django-staticmedia direct direct directli templat templat path path like url url option server site-level tab-delin absolut

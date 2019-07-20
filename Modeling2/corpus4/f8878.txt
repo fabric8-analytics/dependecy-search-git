@@ -1,0 +1,1 @@
+django-bidi-util django bidi util templat templat django-bidi instal instal context-processor processor templat templates-ad django-bidi remov context-processor add instal instal ad processor

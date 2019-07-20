@@ -1,0 +1,1 @@
+qrcodegen comment version library library qr-code documentation-comments javascript correction segment manual manually version-numbers absolute-correctness comparisons-features text encode encodes number specify user source example

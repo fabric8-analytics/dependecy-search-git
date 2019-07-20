@@ -1,0 +1,1 @@
+django-js-vinta django javascript test url revers helper added-allow support fix django-j fix-thank handl jqueri upgrad templat serial provides-tool template-tag tag serialization-custom context python custom initi translat namespac changelog version compat improv blacklist document csrf api sergejczyk star declar make

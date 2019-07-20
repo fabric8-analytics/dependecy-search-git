@@ -1,0 +1,1 @@
+pyramid-transactional-celery pyramid transactional celery transactional-celery transaction based commit committed previous easy need needed process processing-limitations difference different block memory

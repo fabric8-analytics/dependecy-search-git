@@ -1,0 +1,1 @@
+django-argonaut lightweight collect json helper django rest view code class escap tag method safe var log statu test releas support fix python type http

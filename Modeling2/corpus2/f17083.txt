@@ -1,0 +1,1 @@
+azure-mgmt-batch azure version batch-management-client breaking manager managed url storage created-updated new-property properties package packages operation operations apis api pools pool creating supported support models model code specify

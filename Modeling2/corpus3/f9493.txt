@@ -1,0 +1,1 @@
+django-bulletin simple newsletter app run contact instal install newsletter installation-add token py requirement require django migrate migration bulletin urls-py url-r run

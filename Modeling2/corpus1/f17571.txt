@@ -1,0 +1,1 @@
+celery-haystack celery-haystack python search-index indexable queues import-indexes installed-apps django-app install installation e transaction hooks signal signals status

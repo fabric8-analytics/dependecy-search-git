@@ -1,0 +1,1 @@
+django-pymssql window licens use python use-sql-serv actual databas test pyodbc like code sql-server

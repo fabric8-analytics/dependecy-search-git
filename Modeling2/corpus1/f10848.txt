@@ -1,0 +1,1 @@
+pmxbot irc slack bot python full featured yet extensible customizable pmxbot testing test tests commands command karma tear log logging slack irc bot plugin stores-logs message messages server restart setuptools web-store process avoids setup mongodb based base contains viewer rest following use uses e-g run running def decorator decorate

@@ -1,0 +1,1 @@
+django-adminthem css skin django admin app submit includ updat patch request content

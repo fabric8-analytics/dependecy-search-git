@@ -1,0 +1,1 @@
+bitvector bit array bits gf including int version-includes bitvectors module assignment file-object shift faster efficient-packed methods operators write distance jaccard circular vectors

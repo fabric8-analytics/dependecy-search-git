@@ -1,0 +1,1 @@
+django-tempus-dominus fixes add option-fix initial widgets default defaults widget-options input-field-toggles cdn dom browser settings set setting toggle include size javascript-library string ux dismiss release localized locales icon

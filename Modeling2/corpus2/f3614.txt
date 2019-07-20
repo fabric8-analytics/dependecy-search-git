@@ -1,0 +1,1 @@
+django-rest-auth app makes extremely easy build django powered spa single page mobile apps exposing registration authentication related functionality cbv class base view rest json social login framework auth api rest-auth

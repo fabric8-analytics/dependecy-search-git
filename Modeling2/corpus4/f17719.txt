@@ -1,0 +1,1 @@
+djangocms-t django cm plugin creat tabl plugin djangocms-t requir contain

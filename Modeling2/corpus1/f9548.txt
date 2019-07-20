@@ -1,0 +1,1 @@
+django-uwsgi uwsgi django mail cache template

@@ -1,0 +1,1 @@
+online-monitor generic online monitor show real time plot independent data acquisition system online monitor real time plot configuraion-yaml-file example-folder-receiver complex-chains define defines converters-receivers configuration convert converter convert convert data main

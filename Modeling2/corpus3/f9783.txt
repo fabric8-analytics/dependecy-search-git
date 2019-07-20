@@ -1,0 +1,1 @@
+django-simplesearch search-terms term-installation instal install simple-searching-based give model

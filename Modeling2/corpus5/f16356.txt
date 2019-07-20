@@ -1,0 +1,1 @@
+bitcoin tx privkey pubkey json commands-privkey key list address electrum sig bip-support seed command-lin transact option python blockchain input pushtx script supports-binary-hex ecdsa argument object-prop

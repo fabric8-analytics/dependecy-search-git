@@ -1,0 +1,1 @@
+django-shop servic page ship base model programm e-commerc attribut user properti client state interfac template-build templat database-model building-web cart demo product releas furthermor start arround react pure cms-version office-awesto stripe-b

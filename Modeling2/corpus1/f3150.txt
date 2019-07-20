@@ -1,0 +1,1 @@
+taskwarrior-capsules plugin new

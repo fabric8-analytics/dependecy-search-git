@@ -1,0 +1,1 @@
+high-entropy-string library classifying strings potential secrets strings secrets secret high-entropy-string confidence functions function hints hint calculation calculations calculate cla matches match captures capturing capture flags flag flagged categorization-feel noise license

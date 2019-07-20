@@ -1,0 +1,1 @@
+kore plugin compon existing-plugins-instal applic code creat hook instal test class bash python-contain flask insid requir configur baseplugincompon factori

@@ -1,0 +1,1 @@
+dciclient python-dciclient bindings module project-provides provided offers file hat

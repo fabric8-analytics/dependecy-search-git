@@ -1,0 +1,1 @@
+django-survey-and-report x survey surveys add questions question file language languages url urls version thanks launching-tests test-coverage example-sankey generating generation generated generate results result pdf separated simply admin use python getting-started based credit credited credits diagram

@@ -1,0 +1,1 @@
+drone drone contain nativ continu deliveri platform continu deliveri continu integr go build pipelin build autom docker ci ci cd drone ci test plugin api drone goings-zero

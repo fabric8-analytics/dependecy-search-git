@@ -1,0 +1,1 @@
+tox-bitbucket-statu ci repo url-bb mercuri url

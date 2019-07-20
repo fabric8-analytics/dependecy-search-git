@@ -1,0 +1,1 @@
+awsrequests aws api gateway signing api gateway signing aws api gateway request api gateway request sha-signed-http

@@ -1,0 +1,1 @@
+stringcase bd-travis-shield-url cases case com shields license svg codeclimate convert-string-cases

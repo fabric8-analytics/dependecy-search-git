@@ -1,0 +1,1 @@
+adafruit-python-dht python library read dht series humidity temperature sensors raspberry pi beaglebone black adafruit-python-dht-sensor sensors source black version raspberry ubuntu releases-page make

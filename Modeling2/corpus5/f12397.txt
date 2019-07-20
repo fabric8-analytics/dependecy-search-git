@@ -1,0 +1,1 @@
+errbot xmpp irc slack hipchat gitter tox chatbot bot plugin chatop v py command python alt version managing-plugin new output presenc improv test chang final featur api year nativ github sourc code-bash fix extern script unicode-hack instal manag chat start-script support licenc start startup configur avil trigger

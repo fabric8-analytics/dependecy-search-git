@@ -1,0 +1,1 @@
+pyxb python pythonic type directional directive type-extensions easy write structure include include content support sequence

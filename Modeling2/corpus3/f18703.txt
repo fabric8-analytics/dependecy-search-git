@@ -1,0 +1,1 @@
+fontconfig fontconfig cffi fontconfig fc font font config lib code package package python dejavu ellipsis-usr c installation install cffi abstraction h dev sl file ttf

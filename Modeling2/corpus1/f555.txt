@@ -1,0 +1,1 @@
+cryptacular bcrypt password security pbkdf crypt hash password-hashing hashes cryptacular-hash users-passwords pbkdf use-bcrypt uses python crypt way fix fixes computational import module modules true idea-computers base based algorithms algorithm support preferred key delegator core encode encoding add cryptpasswordmanager choices-like-plain package interface interfaces

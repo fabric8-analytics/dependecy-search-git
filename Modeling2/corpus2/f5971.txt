@@ -1,0 +1,1 @@
+pinax-theme-foundation project apps account django-projects foundation-theme useful-app use pinax templates template version versions css license licenses model-requirements-files grid buttons includes include initial based

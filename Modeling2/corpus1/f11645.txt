@@ -1,0 +1,1 @@
+bottle-memcache default configuration class plugin argument-configurable purpose-distributed-memory

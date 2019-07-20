@@ -1,0 +1,1 @@
+moretools overly reusable essential python tool itertools functools operator collection iterator iteration functional filter map repeat query tuple list set dict simpledict frozen struct dictset dictzip simpledictset simpledictzip camelize decamelize isidentifier identifier python setup

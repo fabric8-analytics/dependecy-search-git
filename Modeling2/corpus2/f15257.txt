@@ -1,0 +1,1 @@
+hipachectl hipache manage docker list-configured-virtual-hosts host image updated new dotcloud

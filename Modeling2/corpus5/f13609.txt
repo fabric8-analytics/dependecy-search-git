@@ -1,0 +1,1 @@
+pymonad function monad type state valu monad-oper monoid implementing-monad define-curried-funct functor oper new argument method functors-appl use number class argument-lik creat unit v-ad mayb packag log allow haskel return data straight calcul simpli fanci law list partial composit defin partial-appl x applic implement updat ident

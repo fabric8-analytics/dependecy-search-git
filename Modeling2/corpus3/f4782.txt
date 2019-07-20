@@ -1,0 +1,1 @@
+pytest-mccabe pytest plugin mccabe complexity ignoring-certain-functions ini-rerunning function exclude block python code file file flake flake run run pytest complexity complex pytest-mccabe-py-test test certain run run flake flake usage file file check check check pattern line

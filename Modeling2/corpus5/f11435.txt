@@ -1,0 +1,1 @@
+perfmetr graphit valu statsd function time metric send-tim grained-valu send gaug use stat uri false-count statsdclient resolut rate app sampl good way multiple-app second-resolut method second hit packet count thread graph cpu includ configur python option client true add-softwar appli add global make perfmetrics-packag gauge-suffix context like wsgi metricmod pyramid softwar

@@ -1,0 +1,1 @@
+django-markup-deprec x-seri deprec

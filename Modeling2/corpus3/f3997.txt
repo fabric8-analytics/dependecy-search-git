@@ -1,0 +1,1 @@
+pyramid-sacrud admin crud interface pyramid work backends crud pyramid framework admin python provide pyramid-sacrud bug bug crud-interface-provides status backend backends code-block allows resource provide-resources test test crud-interface-provides pypi-pyramid-sacrud bug bug add sqlalchemy status code-block backend backends allows

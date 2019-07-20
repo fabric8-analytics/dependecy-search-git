@@ -1,0 +1,1 @@
+oerplib openerp odoo server client xml rpc xmlrpc net netrpc communication lib library python service web webservice version versions supported support alt bugs license

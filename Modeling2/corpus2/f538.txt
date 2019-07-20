@@ -1,0 +1,1 @@
+gogo-utils library generates application details python utilities naming conventions foremast gogo code contributions classes class utils utility csv variables repo header-variable-description generator formats format

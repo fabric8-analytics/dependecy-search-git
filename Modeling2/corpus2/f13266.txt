@@ -1,0 +1,1 @@
+django-tqdm progressbar progressmeter progress bar meter rate eta console terminal time commands command demos-demo code requirements-downloads simple requirements

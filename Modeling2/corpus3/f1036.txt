@@ -1,0 +1,1 @@
+yolk pypi setuptools cheeseshop distutils egg package management add installation install instal package package option option yolk python pypi fix use portage new requirement require think version entry rpc r

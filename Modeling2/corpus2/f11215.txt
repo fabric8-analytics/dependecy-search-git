@@ -1,0 +1,1 @@
+ciocheck files goodies-like-single-file redundancy-auto python committed commit modified containing example-config linter linters

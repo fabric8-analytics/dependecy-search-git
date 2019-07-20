@@ -1,0 +1,1 @@
+pytest-postgresql pytest plugin enabl test code reli run postgresql databas allow specifi fixtur process client python py pytest-postgresql-alt option packag block use statu command-line-opt ini log configur tmpdir scope list bugfix creat enhanc note drop pypi pypi-vers python-vers path featur usag remov command start

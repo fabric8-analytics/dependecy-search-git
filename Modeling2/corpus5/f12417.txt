@@ -1,0 +1,1 @@
+easyimap return header attach ssl connect uid chang alt id raw version imap limit latest-vers mailobj-chang unseen read email separ type encod

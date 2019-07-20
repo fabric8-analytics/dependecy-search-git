@@ -1,0 +1,1 @@
+webdavclient webdav client python module library packet yandex disk dropbox google box shared server methods webdav-servers-yandex-drive-dropbox speed local locally cloud verbose provides keys key directories-authentication unix pocket data upload set settings resource resources repositories code bash password requirements required-keys login github token

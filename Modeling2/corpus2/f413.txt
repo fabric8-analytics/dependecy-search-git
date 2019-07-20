@@ -1,0 +1,1 @@
+yandex-translater yandex translater translate translation translated set example-code tr languages source-language lang langs string filetype ui key text bugs install array python ru

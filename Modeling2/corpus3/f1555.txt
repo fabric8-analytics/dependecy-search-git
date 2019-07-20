@@ -1,0 +1,1 @@
+pocketsphinx sphinxbase pocketsphinx installation install default requirement class class pocketsphinx-python verbose-send license library library speech-recognition cmu source window compatibility

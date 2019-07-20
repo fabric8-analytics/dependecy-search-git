@@ -1,0 +1,1 @@
+psycopg2-binary packages package psycopg python postgresql thread threads source sources multi-threaded features wrapper asynchronous build installation-building adapter adapted adaptation types install installing mailing

@@ -1,0 +1,1 @@
+jira-python jira wrapper written python jira api wrapper python library subscription notifications webhook git new feature issue issues bug wrapper webhooks webhook installing jira

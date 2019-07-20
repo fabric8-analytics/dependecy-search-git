@@ -1,0 +1,1 @@
+pytest-capturelog py test pytest log log capture-log captur captur test test test format format module-line-numb instal instal instal insid

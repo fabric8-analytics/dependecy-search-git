@@ -1,0 +1,1 @@
+feedgenerator standalone version django module feed atom rss

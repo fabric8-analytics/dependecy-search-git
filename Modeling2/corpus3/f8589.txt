@@ -1,0 +1,1 @@
+django-light-enums simple implementation enums django django-light approach

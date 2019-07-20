@@ -1,0 +1,1 @@
+wagtail-simple-gallery wagtail cm model page templatetags image image url url wagtail template template setting set set wagtail-simple-gallery collection collection default example admin use tag-uses tag content filter

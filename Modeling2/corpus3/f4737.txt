@@ -1,0 +1,1 @@
+rabbitpy python pythonic rabbitpy-rabbitmq license license-installation version-downloads instal install

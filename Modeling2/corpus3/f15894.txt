@@ -1,0 +1,1 @@
+pytablewriter table csv excel javascript json ltsv markdown mediawiki html panda restructuredtext sqlite tsv toml alt dependency dependency format format python tabular-data-formatting-alignment align table table code support support excel block output write configure elasticsearch-html pytablewriter text json-latex sample sqlite separated-values separator

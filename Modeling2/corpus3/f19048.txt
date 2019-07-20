@@ -1,0 +1,1 @@
+django-gitrevision git django bug-tracker use django-git-revision-image setting append issue suggestion

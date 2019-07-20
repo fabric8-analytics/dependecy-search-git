@@ -1,0 +1,1 @@
+celstash celery log logstash log celery-logging

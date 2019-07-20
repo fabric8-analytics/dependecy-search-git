@@ -1,0 +1,1 @@
+architect django pony peewee sqlalchemy sqlobject partition partitioning database table supported supports support supporting orms orm thanks width-px target license licensed added fixed-django partitioned databases new changes changed model models features postgresql error feature-e package documented documentation raw-sql command modified mysql block-bash py

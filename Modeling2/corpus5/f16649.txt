@@ -1,0 +1,1 @@
+django-push-notif devic notif set send send-messag messag device-model topic bulk apns-fcm-gcm badg default use support cloud-messag user key code-block api multipl file model python develop server app development-certif differ option router base mobil permiss hexadecim byte id note certif token

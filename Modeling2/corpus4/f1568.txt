@@ -1,0 +1,1 @@
+odoorpc python modul pilot odoo server json rpc openerp odoo server rpc client xml rpc xmlrpc jsonrpc json rpc odoorpc oerplib commun lib librari python servic web webservic alt contributor version supported-python-vers odoo support alix bug bug feedback osiel licens

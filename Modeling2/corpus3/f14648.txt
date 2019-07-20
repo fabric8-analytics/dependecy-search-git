@@ -1,0 +1,1 @@
+pyscreeze screenshot screen screencap capture scrot screencapture image functionality function function screenshots screenshot-module screen x image match tuple tuples left locate-images matching-optionally return return video special optional pillow coordinate coordinate pixel locate

@@ -1,0 +1,1 @@
+django-fsm-admin mixin template tag integrate django fsm transition django admin django django admin add setting state-transitions method event transition px example processor

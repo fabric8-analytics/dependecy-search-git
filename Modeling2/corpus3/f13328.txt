@@ -1,0 +1,1 @@
+dry-rest-permissions permission permission action action project project list list defining-global define define user user object-level base read-write globally-returns example like dry status display request request type type create create creates allows allow add return return return require requirement v data

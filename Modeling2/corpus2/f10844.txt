@@ -1,0 +1,1 @@
+typogrify wraps wrapped filters quotes templates django-template python particular smartypants works jinja installation install installing typographically-improved

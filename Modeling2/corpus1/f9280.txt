@@ -1,0 +1,1 @@
+verboselogs verboselogs-verbose-logging-level verbosity logger log-levels-notice-spam-success debug debugging options option packages-e python package installation install installing import info instance-pylint help running information usage peter demo descriptions description sys verboselogger error errors elif predefined-warning command pypy pypi instances space

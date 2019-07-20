@@ -1,0 +1,1 @@
+map allow key bracket-access

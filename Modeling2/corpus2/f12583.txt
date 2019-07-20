@@ -1,0 +1,1 @@
+pytest-mpl pytest plugin faciliate image comparison matplotlib figures images test testing tests directory code baseline differences different coords coord files file expected-actual-difference specified-tolerance python figure functions function integration specify pytest-matplotlib style defined-rc real separated
