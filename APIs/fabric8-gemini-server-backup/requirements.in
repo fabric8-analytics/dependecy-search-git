@@ -1,0 +1,16 @@
+pytest
+flask
+gunicorn
+flask-cors
+requests
+pytest-cov
+coverage
+gevent
+sqlalchemy
+pytest-mock
+codecov
+radon
+boto3
+sentry-sdk
+nltk
+fuzzywuzzy

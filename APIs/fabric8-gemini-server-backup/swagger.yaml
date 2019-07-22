@@ -1,0 +1,457 @@
+swagger: '2.0'
+info:
+  title: Analytics API for OSIO Gemini
+  version: '0.1'
+basePath: /api/v1/
+consumes:
+  - application/json
+produces:
+  - application/json
+paths:
+  /liveness:
+    get:
+      tags:
+        - Service settings
+      operationId: f8a_admin.api_v1.get_liveness
+      summary: Get job service liveness
+      responses:
+        '200':
+          description: Service is alive
+  /readiness:
+    get:
+      tags:
+        - Service settings
+      operationId: f8a_admin.api_v1.get_readiness
+      summary: Get job service readiness
+      responses:
+        '200':
+          description: Service is ready
+  /register:
+    post:
+      tags:
+        - Scan Services
+      operationId: f8a_scanner.api_v1.register_repo
+      summary: Register a repository for scanning
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - in: body
+          name: repo
+          description: repository details and email id
+          required: true
+          schema:
+            $ref: '#/definitions/Repo'
+      responses:
+        '200':
+          schema:
+            $ref: "#/definitions/RegisterResponse"
+          description: Repository registered
+        '400':
+          description: Bad request from the client
+        '401':
+          description: Request unauthorized
+        '404':
+          description: Data not found
+        '500':
+          description: Internal server error
+  /report:
+    get:
+      tags:
+        - Scan Services
+      operationId: f8a_scanner.api_v1.get_repo_report
+      summary: Get scan report for a registered repository
+      parameters:
+        - in: query
+          name: git-url
+          type: string
+          required: true
+          description: git repository name
+        - in: query
+          name: git-sha
+          type: string
+          required: true
+          description: git commit hash
+      responses:
+        '200':
+          schema:
+            $ref: "#/definitions/Report"
+          description: Scan report for given registered repository
+        '400':
+          description: Bad request from the client
+        '401':
+          description: Request unauthorized
+        '404':
+          description: Data not found
+        '500':
+          description: Internal server error
+  '/user-repo/scan':
+    post:
+      tags:
+        - Scan Services
+      operationId: f8a_scanner.api_v1.scan
+      summary: Scan an OSIO user repository. This will be called by the OSIO platform whenever a new repository is added to a space. The client request requires OSIO user token in the authorization header.
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - in: body
+          name: repo
+          description: repository url
+          required: true
+          schema:
+            $ref: '#/definitions/UserRepoInput'
+      responses:
+        '200':
+          description: Repository scan initiated
+        '400':
+          description: Bad request from the client
+        '401':
+          description: Request unauthorized
+        '404':
+          description: Data not found
+        '500':
+          description: Internal server error
+  '/user-repo/notify':
+    post:
+      tags:
+        - Scan Services
+      operationId: f8a_scanner.api_v1.notify
+      summary: Call the notification service with the scan report.
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - in: body
+          name: repo
+          description: List of ecosystem-package-version
+          required: true
+          schema:
+            $ref: '#/definitions/EPVList'
+      responses:
+        '200':
+          description: Notification service called
+        '400':
+          description: Bad request from the client
+        '401':
+          description: Request unauthorized
+        '404':
+          description: Data not found
+        '500':
+          description: Internal server error
+  '/user-repo/drop':
+    post:
+      tags:
+        - Scan Services
+      operationId: f8a_scanner.api_v1.drop
+      summary: Stop monitoring an OSIO user repository. This will be triggered by the platform whenever a codebase is removed from a space. The client request requires OSIO user token in the authorization header.
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - in: body
+          name: repo
+          description: repository url and email id
+          required: true
+          schema:
+            $ref: '#/definitions/UserRepoInput'
+      responses:
+        '200':
+          description: Repository scan unsubscribed
+        '400':
+          description: Bad request from the client
+        '401':
+          description: Request unauthorized
+        '404':
+          description: Data not found
+        '500':
+          description: Internal server error
+  /stacks-report/list/{frequency}:
+    get:
+      tags:
+        - Stack Analyses Aggregated Reports
+      summary: Lists the available reports.
+      description: >
+        Lists the available stack analyses reports that have been generated offline. The frequency of these generated reports are weekly and monthly.
+        
+        For listing monthly reports call `stacks-report/list/monthly` and for getting the list of weekly reports call `stacks-report/list/weekly`
+      operationId: f8a_scanner.api_v1.list_reports
+      produces:
+        - application/json
+      parameters:
+        - name: frequency
+          in: path
+          description: frequency of the report
+          required: true
+          type: string
+      responses:
+        '200':
+          description: Listing successful
+          schema:
+            $ref: '#/definitions/ReportsList'
+        '404':
+          description: No listing available
+  /stacks-report/report/{report-name}:
+    get:
+      tags:
+        - Stack Analyses Aggregated Reports
+      summary: The stack analyses aggregation report.
+      description: >
+        Returns the aggregated data of the stack analyses request performed during a time period along with the descriptive statistics around each individual stack analyses performed.
+      operationId: f8a_scanner.api_v1.report
+      produces:
+        - application/json
+      parameters:
+        - name: report-name
+          in: path
+          description: A report name retrieved by the `/stacks-report/list/`
+          required: true
+          type: string
+      responses:
+        '200':
+          description: Report available for viewing
+          schema:
+            $ref: '#/definitions/StacksReport'
+        '404':
+          description: No repo
+  /stacks-report/compare:
+    get:
+      tags:
+        - Stack Analyses Aggregated Reports
+      summary: Compare stack analyses aggregation report.
+      description: Compare stack analyses aggregation report for a configurable period of days
+      operationId: f8a_scanner.api_v1.compare
+      produces:
+        - application/json
+      parameters:
+        - name: days
+          in: query
+          description: No of days of stack aggregation reports to be compared. Maximum no of days is 7.
+          required: true
+          type: string
+      responses:
+        '200':
+          description: Comparison report for stacks reports
+          schema:
+            $ref: '#/definitions/ComparisonReport'
+        '404':
+          description: No comparison data could be found
+definitions:
+  ComparisonReport:
+    title: Comparison Report
+    description: Comparison Report structure
+    properties:
+      average_response_time:
+        type: array
+        items:
+          type: object
+  RegisterResponse:
+    title: Response Data for Register Endpoint
+    description: Response Data for Register Endpoint
+    properties:
+      last_scanned_at:
+        type: string
+      success:
+        type: boolean
+      summary:
+        type: string
+      last_scan_report:
+        $ref: '#/definitions/Dependency'
+  Dependency:
+    title: Application dependencies
+    description: Application dependencies
+    properties:
+      name:
+        type: string
+      version:
+        type: string
+      cves:
+        type: array
+        items:
+          type: string
+      cve_count:
+        type: integer
+      highest_cvss_score:
+        type: number
+        format: float
+      cve_id_for_highest_cvss_score:
+        type: string
+      licenses:
+        type: array
+        items:
+          type: string
+  Report:
+    title: Scan Report
+    description: Analytics Scan Report
+    type: object
+    properties:
+      git_url:
+        type: string
+      git_sha:
+        type: string
+      scanned_at:
+        type: string
+      dependencies:
+        type: array
+        items:
+          $ref: '#/definitions/Dependency'
+      lock_file_absent:
+        type: boolean
+      message:
+        type: string
+  Repo:
+    title: Github Details
+    description: Github Details
+    properties:
+      git-url:
+        type: string
+      git-sha:
+        type: string
+  UserRepoInput:
+    title: User Repository Scan Inputs
+    description: Parameters to call user repository scan
+    properties:
+      git-url:
+        type: string
+      email-ids:
+        type: array
+        items:
+          type: string
+  EPV:
+    title: EPV
+    description: Describes EPV
+    properties:
+      ecosystem:
+        type: string
+      name:
+        type: string
+      version:
+        type: string
+  EPVList:
+    title: User Repository notify inputs
+    description: Parameters to call user repository notify
+    properties:
+      epv_list:
+        type: array
+        items:
+          $ref: '#/definitions/EPV'
+  ReportsList:
+    title: Stack Anlyses Reports List
+    description: List of all stack analyses aggregation reports
+    properties:
+      report_list:
+        type: array
+        items:
+          type: string
+  StacksReport:
+    title: Stack analyses report
+    description: Staack analyses detailed report for a particular frequency, that is, either weekly or monthly
+    properties:
+      stack_aggregator_v2:
+        $ref: '#/definitions/StackData'
+  StackData:
+    title: Basic stack analyses report structure
+    properties:
+      report:
+        $ref: '#/definitions/ReportMetadata'
+      stacks_summary:
+        $ref: '#/definitions/ReportStacksSummary'
+      stacks_details:
+        type: array
+        items:
+          $ref: '#/definitions/ReportStacksDetails'
+  ReportMetadata:
+    title: Metadata about the generated report
+    properties:
+      from:
+        type: string
+      to:
+        type: string
+      generated_on:
+        type: string
+  ReportStacksSummary:
+    title: Aggregated summary of the stack analyses performed
+    properties:
+      total_stack_requests_count:
+        type: integer
+      npm:
+        $ref: '#/definitions/ReportSummaryEcosystemwise'
+      maven:
+        $ref: '#/definitions/ReportSummaryEcosystemwise'
+      unique_unknown_licenses_with_frequency:
+        type: object
+      unique_cves:
+        type: object
+      total_average_response_time:
+        type: string
+  ReportSummaryEcosystemwise:
+    title: Ecosystem specific stacks summary
+    properties:
+      stack_requests_count:
+        type: integer
+      total_stack_requests_count:
+        type: integer
+      unique_dependencies_with_frequency:
+        type: object
+        description: Application dependencies encountered during the stack analyses runs and their frequency of appearence provided in `key:value` pair
+      unique_unknown_dependencies_with_frequency:
+        type: object
+        description: Application dependencies encountered during the stack analyses runs which are unknown to the system and their frequency of appearence provided in `key:value` pair
+      unique_stacks_with_frequency:
+        type: object
+        description: Unique application stacks encountered during the stack analyses runs along with the occurrence count as a `key:value` pair
+      unique_stacks_with_deps_count:
+        type: object
+        description: Unique application stacks encountered during the stack analyses runs along with their respective dependencies count as a `key:value` pair
+      average_response_time:
+        type: string
+        description: average response time of all the stack analyses performed.
+  ReportStacksDetails:
+    title: Stack analyses detail report
+    properties:
+      ecosystem:
+        type: string
+      stack:
+        type: array
+        items:
+          type: string
+        description: Example, `["express 4.0.0", "npm 6.2.0", "serve-static 1.7.1"]`
+      unknown_dependencies:
+        type: array
+        items:
+          type: string
+          description: Example, `["npm 6.2.0"]`
+      license:
+        $ref: '#/definitions/LicenseInfo'
+      security:
+        $ref: '#/definitions/Security'
+      response_time:
+        type: string
+  LicenseInfo:
+    title: License details for a stack
+    properties:
+      conflict:
+        type: boolean
+      unknown:
+        type: array
+        description: The unknown licenses encountered during stack analyses
+        items:
+          type: string
+  Security:
+    title: Security information for a stack analyses
+    properties:
+      cve_list:
+        type: array
+        items:
+          $ref: '#/definitions/CVEInfo'
+  CVEInfo:
+    title: CVE details along with the CVSS score encountered during stack analyses
+    properties:
+      CVE:
+        type: string
+      CVSS:
+        type: string
